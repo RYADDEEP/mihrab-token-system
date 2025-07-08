@@ -1,0 +1,722 @@
+[
+  {
+    "id": "women_1",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ وَأَصْلِحْ لِي شَأْنِي كُلَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ",
+    "transliteration": "Allāhumma raḥmataka arjū falā takilnī ilā nafsī ṭarfata ʿayn, wa aṣliḥ lī shaʾnī kullah, lā ilāha illā Ant",
+    "source": "Abu Dawud 5090 (Seeking Allah's mercy and not to be left to oneself, for vulnerability)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I hope for Your mercy, so do not leave me to my soul even for the blink of an eye, and correct for me all my affairs. There is no god but You."
+      },
+      "ar": {
+        "meaning": "اللهم رحمتك أرجو فلا تكلني إلى نفسي طرفة عين وأصلح لي شأني كله لا إله إلا أنت"
+      },
+      "id": {
+        "meaning": "Ya Allah, rahmat-Mu aku harapkan, maka janganlah Engkau serahkan diriku kepadaku walau sekejap mata, dan perbaikilah semua urusanku, tiada tuhan selain Engkau."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری رحمت کا امید وار ہوں، پس مجھے پلک جھپکنے کے برابر بھی میرے نفس کے حوالے نہ کر، اور میرے تمام معاملات کو درست کر دے، تیرے سوا کوئی معبود نہیں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Rahmetini umuyorum, beni göz açıp kapayıncaya kadar bile nefsime bırakma ve bütün işlerimi ıslah et. Senden başka ilah yoktur."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je recherche Ta miséricorde, ne me laisse donc pas à moi-même, ne serait-ce que le temps d'un clin d'œil, et arrange toutes mes affaires. Il n'y a de dieu que Toi."
+      },
+      "ru": {
+        "meaning": "О Аллах, я надеюсь на Твою милость, так не оставляй меня наедине с моей душой даже на мгновение ока, и исправь для меня все мои дела. Нет божества, кроме Тебя."
+      },
+      "fa": {
+        "meaning": "بارالها، رحمتت را امید دارم، پس مرا به اندازه یک چشم برهم زدن به خودم وامگذار و تمام کارهایم را اصلاح کن. معبودی جز تو نیست."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी रहमत का उम्मीदवार हूँ, पस मुझे पलक झपकने के बराबर भी मेरे नफ़्स के हवाले न कर, और मेरे तमाम मामलात को दुरुस्त कर दे, तेरे सिवा कोई माबूद नहीं।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, rahmat-Mu aku harapkan, maka janganlah Engkau serahkan diriku kepadaku walau sekejap mata, dan perbaikilah semua urusanku, tiada tuhan selain Engkau."
+      },
+      "sw": {
+        "meaning": "Ee Allah, naitumainia rehema Yako, basi usiniachie nafsi yangu hata kwa kufumba na kufumbua jicho, na unitengenezee mambo yangu yote. Hakuna Mola ila Wewe."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার রহমতের আশা করি, তাই এক মুহূর্তের জন্যও আমাকে আমার নফসের উপর ছেড়ে দেবেন না এবং আমার সমস্ত কাজকে সংশোধন করে দিন। আপনি ছাড়া কোন ইলাহ নেই।"
+      }
+    }
+  },
+  {
+    "id": "women_2",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+    "transliteration": "Allāhumma innī asʾalukal-ʿafwa wal-ʿāfiyah fid-dunyā wal-ākhirah",
+    "source": "Tirmidhi 3514 (General well-being, relevant for physical/emotional distress)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for forgiveness and well-being in this world and the Hereafter."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ampunan dan keselamatan di dunia dan akhirat."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے دنیا اور آخرت میں معافی اور عافیت کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden dünyada ve ahirette af ve afiyet dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le pardon et le bien-être dans ce monde et dans l'au-delà."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя прощения и благополучия в этом мире и в Последней жизни."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو عفو و عافیت در دنیا و آخرت را مسئلت دارم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे दुनिया और आखिरत में माफ़ी और आफ़ियत का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu keampunan dan keselamatan di dunia dan akhirat."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nakuomba msamaha na afya njema katika dunia na Akhera."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে দুনিয়া ও আখিরাতে ক্ষমা ও নিরাপত্তা চাই।"
+      }
+    }
+  },
+  {
+    "id": "women_3",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ اجْعَلْ لِي فِي قَلْبِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ شِمَالِي نُورًا، وَأَمَامِي نُورًا، وَخَلْفِي نُورًا، وَفَوْقِي نُورًا، وَتَحْتِي نُورًا، وَاجْعَلْ لِي نُورًا",
+    "transliteration": "Allāhummajʿal lī fī qalbī nūrā, wa fī samʿī nūrā, wa fī baṣarī nūrā, wa ʿan yamīnī nūrā, wa ʿan shimālī nūrā, wa amāmī nūrā, wa khalfī nūrā, wa fawqī nūrā, wa taḥtī nūrā, wajʿal lī nūrā",
+    "source": "Bukhari 6316, Muslim 763 (Seeking spiritual light in all aspects, for inner strength)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, place light in my heart, and light in my hearing, and light in my sight, and light on my right, and light on my left, and light in front of me, and light behind me, and light above me, and light below me, and make for me light."
+      },
+      "ar": {
+        "meaning": "اللهم اجعل لي في قلبي نورا، وفي سمعي نورا، وفي بصري نورا، وعن يميني نورا، وعن شمالي نورا، وأمامي نورا، وخلفي نورا، وفوقي نورا، وتحتي نورا، واجعل لي نورا"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah di hatiku cahaya, dan di pendengaranku cahaya, dan di penglihatanku cahaya, dan di kananku cahaya, dan di kiriku cahaya, dan di depanku cahaya, dan di belakangku cahaya, dan di atasku cahaya, dan di bawahku cahaya, dan jadikanlah untukku cahaya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میرے دل میں نور کر دے، اور میری سماعت میں نور، اور میری بصارت میں نور، اور میرے دائیں نور، اور میرے بائیں نور، اور میرے سامنے نور، اور میرے پیچھے نور، اور میرے اوپر نور، اور میرے نیچے نور، اور میرے لیے نور پیدا کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Kalbime nur ver, kulağıma nur ver, gözüme nur ver, sağıma nur ver, soluma nur ver, önüme nur ver, arkama nur ver, üstüme nur ver, altıma nur ver ve bana nur kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, place de la lumière dans mon cœur, et de la lumière dans mon ouïe, et de la lumière dans ma vue, et de la lumière à ma droite, et de la lumière à ma gauche, et de la lumière devant moi, et de la lumière derrière moi, et de la lumière au-dessus de moi, et de la lumière au-dessous de moi, et accorde-moi de la lumière."
+      },
+      "ru": {
+        "meaning": "О Аллах, помести свет в мое сердце, и свет в мой слух, и свет в мое зрение, и свет справа от меня, и свет слева от меня, и свет передо мной, и свет позади меня, и свет надо мной, и свет подо мной, и сделай для меня свет."
+      },
+      "fa": {
+        "meaning": "بارالها، در قلبم نوری قرار ده، و در شنوایی‌ام نوری، و در بینایی‌ام نوری، و از سمت راستم نوری، و از سمت چپم نوری، و در مقابلم نوری، و در پشتم نوری، و از بالایم نوری، و از پایینم نوری، و برایم نوری قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मेरे दिल में नूर कर दे, और मेरी समाअत में नूर, और मेरी बसारत में नूर, और मेरे दाएं नूर, और मेरे बाएं नूर, और मेरे सामने नूर, और मेरे पीछे नूर, और मेरे ऊपर नूर, और मेरे नीचे नूर, और मेरे लिए नूर पैदा कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah di hatiku cahaya, dan di pendengaranku cahaya, dan di penglihatanku cahaya, dan di kananku cahaya, dan di kiriku cahaya, dan di hadapanku cahaya, dan di belakangku cahaya, dan di atasku cahaya, dan di bawahku cahaya, dan jadikanlah untukku cahaya."
+      },
+      "sw": {
+        "meaning": "Ee Allah, tia nuru moyoni mwangu, na katika usikivu wangu nuru, na katika macho yangu nuru, na upande wangu wa kulia nuru, na upande wangu wa kushoto nuru, na mbele yangu nuru, na nyuma yangu nuru, na juu yangu nuru, na chini yangu nuru, na unifanyie nuru."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার অন্তরে নূর দিন, এবং আমার শ্রবণে নূর দিন, এবং আমার দৃষ্টিতে নূর দিন, এবং আমার ডানদিকে নূর দিন, এবং আমার বামদিকে নূর দিন, এবং আমার সামনে নূর দিন, এবং আমার পিছনে নূর দিন, এবং আমার উপরে নূর দিন, এবং আমার নিচে নূর দিন, এবং আমার জন্য নূর তৈরি করুন।"
+      }
+    }
+  },
+  {
+    "id": "women_4",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+    "transliteration": "Lā ilāha illallāhul-ʿaẓīmul-ḥalīm. Lā ilāha illallāhu Rabbul-ʿarshil-ʿaẓīm. Lā ilāha illallāhu Rabbus-samāwāti wa Rabbul-arḍi wa Rabbul-ʿarshil-karīm",
+    "source": "Bukhari 6345, Muslim 2730 (Du'a for distress, applicable for emotional/physical pain)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "There is no god but Allah, the All-Mighty, the Forbearing. There is no god but Allah, the Lord of the Mighty Throne. There is no god but Allah, the Lord of the heavens and the Lord of the earth and the Lord of the Noble Throne."
+      },
+      "ar": {
+        "meaning": "لا إله إلا الله العظيم الحليم، لا إله إلا الله رب العرش العظيم، لا إله إلا الله رب السماوات ورب الأرض ورب العرش الكريم"
+      },
+      "id": {
+        "meaning": "Tiada tuhan selain Allah Yang Maha Agung, Yang Maha Penyantun. Tiada tuhan selain Allah, Tuhan Arasy yang Agung. Tiada tuhan selain Allah, Tuhan langit dan Tuhan bumi dan Tuhan Arasy yang Mulia."
+      },
+      "ur": {
+        "meaning": "کوئی معبود نہیں سوائے اللہ کے، جو بہت عظیم، بردبار ہے۔ کوئی معبود نہیں سوائے اللہ کے، جو عرش عظیم کا رب ہے۔ کوئی معبود نہیں سوائے اللہ کے، جو آسمانوں کا رب اور زمین کا رب اور عرش کریم کا رب ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'tan başka ilah yoktur, O Azim ve Halim'dir. Allah'tan başka ilah yoktur, O büyük Arş'ın Rabbidir. Allah'tan başka ilah yoktur, O göklerin Rabbi, yerin Rabbi ve Kerim Arş'ın Rabbidir."
+      },
+      "fr": {
+        "meaning": "Il n'y a de dieu qu'Allah, le Tout-Puissant, le Clément. Il n'y a de dieu qu'Allah, le Seigneur du Trône Immense. Il n'y a de dieu qu'Allah, le Seigneur des cieux, le Seigneur de la terre et le Seigneur du Trône Généreux."
+      },
+      "ru": {
+        "meaning": "Нет божества, кроме Аллаха, Всемогущего, Терпеливого. Нет божества, кроме Аллаха, Господа Великого Трона. Нет божества, кроме Аллаха, Господа небес и Господа земли и Господа Благородного Трона."
+      },
+      "fa": {
+        "meaning": "هیچ معبودی جز خدای بزرگوار و بردبار نیست. هیچ معبودی جز خدای صاحب عرش بزرگ نیست. هیچ معبودی جز خدای پروردگار آسمان‌ها و پروردگار زمین و پروردگار عرش گرامی نیست."
+      },
+      "hi": {
+        "meaning": "कोई माबूद नहीं सिवाय अल्लाह के, जो बहुत अज़ीम, हलीम है। कोई माबूद नहीं सिवाय अल्लाह के, जो अर्श अज़ीम का रब है। कोई माबूद नहीं सिवाय अल्लाह के, जो आसमानों का रब और ज़मीन का रब और अर्श करीम का रब है।"
+      },
+      "ms": {
+        "meaning": "Tiada tuhan melainkan Allah Yang Maha Agung, Yang Maha Penyantun. Tiada tuhan melainkan Allah, Tuhan Arasy yang Agung. Tiada tuhan melainkan Allah, Tuhan langit dan Tuhan bumi dan Tuhan Arasy yang Mulia."
+      },
+      "sw": {
+        "meaning": "Hapana Mola ila Allah, Mwenyezi Mkuu, Mpole. Hapana Mola ila Allah, Mola wa Arshi Kubwa. Hapana Mola ila Allah, Mola wa mbingu na Mola wa ardhi na Mola wa Arshi Tukufu."
+      },
+      "bn": {
+        "meaning": "আল্লাহ ব্যতীত কোন ইলাহ নেই, যিনি মহান, পরম সহনশীল। আল্লাহ ব্যতীত কোন ইলাহ নেই, যিনি মহান আরশের মালিক। আল্লাহ ব্যতীত কোন ইলাহ নেই, যিনি আকাশমণ্ডলী ও পৃথিবীর রব এবং সম্মানিত আরশের রব।"
+      }
+    }
+  },
+  {
+    "id": "women_5",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-hammi wal-ḥazan, wal-ʿajzi wal-kasal, wal-bukhli wal-jubn, wa ḍalaʿid-dayni wa ghalabatir-rijāl",
+    "source": "Bukhari 6369 (Seeking refuge from worry, grief, weakness, laziness, stinginess, cowardice, burden of debt, and domination by others; covers emotional/physical challenges)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from anxiety and sorrow, from weakness and laziness, from miserliness and cowardice, and from the burden of debt and from being overcome by men (people)."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الهم والحزن، والعجز والكسل، والبخل والجبن، وضلع الدين وغلبة الرجال"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegundahan dan kesedihan, dari kelemahan dan kemalasan, dari kekikiran dan penakut, dan dari lilitan hutang serta dominasi orang lain."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں فکر و غم سے، اور کمزوری و سستی سے، اور بخل و بزدلی سے، اور قرض کے بوجھ سے اور مردوں (لوگوں) کے غلبہ سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Keder ve hüzünden, acizlik ve tembellikten, cimrilik ve korkaklıktan, borcun ağırlığından ve insanların tasallutundan sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, contre l'incapacité et la paresse, contre l'avarice et la lâcheté, et contre le fardeau de la dette et la domination des hommes."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от беспокойства и печали, от бессилия и лени, от скупости и трусости, и от бремени долгов, и от преобладания мужчин (людей)."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از غم و اندوه، و از ناتوانی و تنبلی، و از بخل و بزدلی، و از سنگینی قرض و چیرگی مردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ फिक्र व ग़म से, और कमज़ोरी व सुस्ती से, और बुख़्ल व बुज़दिली से, और क़र्ज़ के बोझ से और मर्दों (लोगों) के गलबा से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegundahan dan kesedihan, dari kelemahan dan kemalasan, dari kekikiran dan penakut, dan dari lilitan hutang serta dominasi orang lain."
+      },
+      "sw": {
+        "meaning": "Ee Allah, najikinga Kwako kutokana na wasiwasi na huzuni, na kutokana na udhaifu na uvivu, na kutokana na ubahili na woga, na kutokana na mzigo wa deni na kutokana na kutawaliwa na watu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই উদ্বেগ ও দুঃখ থেকে, অক্ষমতা ও অলসতা থেকে, কৃপণতা ও কাপুরুষতা থেকে, এবং ঋণের বোঝা ও মানুষের দ্বারা পরাভূত হওয়া থেকে।"
+      }
+    }
+  },
+  {
+    "id": "women_6",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+    "transliteration": "Rabbi hab lī mil-ladunka dhurriyyatan ṭayyibatan innaka Samīʿud-duʿāʾ",
+    "source": "Al-Imran 3:38 (Du'a for righteous offspring, relevant for childbirth/motherhood)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication."
+      },
+      "ar": {
+        "meaning": "رب هب لي من لدنك ذرية طيبة إنك سميع الدعاء"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, berilah aku dari sisi-Mu keturunan yang baik. Sesungguhnya Engkau Maha Mendengar doa."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، مجھے اپنی طرف سے پاکیزہ اولاد عطا فرما۔ بے شک تو دعاؤں کا سننے والا ہے۔"
+      },
+      "tr": {
+        "meaning": "Rabbim! Bana katından temiz bir nesil bağışla. Şüphesiz Sen, duaları işitensin."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, accorde-moi, venant de Toi, une excellente descendance. Car Tu es Celui qui entend les invocations."
+      },
+      "ru": {
+        "meaning": "Господи, даруй мне от Себя благочестивое потомство. Поистине, Ты – Слышащий мольбу."
+      },
+      "fa": {
+        "meaning": "پروردگارا، از نزد خود فرزندی پاکیزه به من عطا کن. همانا تو شنونده دعایی."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मुझे अपनी तरफ़ से एक पाक औलाद अता फ़रमा। बेशक तू दुआओं का सुनने वाला है।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, kurniakanlah kepadaku dari sisi-Mu zuriat keturunan yang baik. Sesungguhnya Engkau Maha Mendengar doa."
+      },
+      "sw": {
+        "meaning": "Mola wangu, nipa kutoka Kwako kizazi chema. Hakika Wewe ni Mwenye kusikia dua."
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আপনার পক্ষ থেকে আমাকে একটি পবিত্র সন্তান দান করুন। নিশ্চয় আপনি প্রার্থনা শ্রবণকারী।"
+      }
+    }
+  },
+  {
+    "id": "women_7",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbanā ātina fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ʿadhāban-nār",
+    "source": "Bukhari 4522, Muslim 2688 (Comprehensive good in this life and Hereafter, for overall well-being and dignity)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Our Lord, grant us good in this world and good in the Hereafter and protect us from the punishment of the Fire."
+      },
+      "ar": {
+        "meaning": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار"
+      },
+      "id": {
+        "meaning": "Ya Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+      },
+      "ur": {
+        "meaning": "اے ہمارے رب، ہمیں دنیا میں بھی بھلائی عطا فرما اور آخرت میں بھی بھلائی، اور ہمیں آگ کے عذاب سے بچا۔"
+      },
+      "tr": {
+        "meaning": "Rabbimiz! Bize dünyada iyilik, ahirette de iyilik ver ve bizi cehennem azabından koru."
+      },
+      "fr": {
+        "meaning": "Ô notre Seigneur, accorde-nous une belle part ici-bas et une belle part dans l'au-delà, et préserve-nous du châtiment du Feu."
+      },
+      "ru": {
+        "meaning": "Господь наш, даруй нам в этом мире добро и в Последней жизни добро, и защити нас от мучений Огня."
+      },
+      "fa": {
+        "meaning": "پروردگارا، در دنیا به ما نیکی ده و در آخرت نیز نیکی، و ما را از عذاب آتش نگاه دار."
+      },
+      "hi": {
+        "meaning": "ऐ हमारे रब, हमें दुनिया में भी भलाई अता फरमा और आखिरत में भी भलाई, और हमें आग के अज़ाब से बचा।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+      },
+      "sw": {
+        "meaning": "Mola wetu, tupe wema duniani na wema Akhera, na utulinde na adhabu ya Moto."
+      },
+      "bn": {
+        "meaning": "হে আমাদের রব, আমাদেরকে দুনিয়াতে কল্যাণ দিন এবং আখিরাতেও কল্যাণ দিন, আর আমাদেরকে জাহান্নামের আযাব থেকে রক্ষা করুন।"
+      }
+    }
+  },
+  {
+    "id": "women_8",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
+    "transliteration": "Allāhumma innī aʿūdhu bika min zawāli niʿmatik, wa taḥawwuli ʿāfiyatik, wa fujāʾati niqmatik, wa jamīʿi sakhaṭik",
+    "source": "Muslim 2739 (Seeking protection from loss of blessings and sudden wrath, for security and emotional stability)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from the cessation of Your blessings, and the change of Your well-being, and the suddenness of Your punishment, and all Your displeasure."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من زوال نعمتك، وتحول عافيتك، وفجاءة نقمتك، وجميع سخطك"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari hilangnya nikmat-Mu, dan berubahnya kesehatan-Mu, dan datangnya siksa-Mu secara tiba-tiba, serta seluruh kemurkaan-Mu."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں تیری نعمت کے زوال سے، اور تیری عافیت کے بدل جانے سے، اور تیری ناگہانی پکڑ سے، اور تیری تمام ناراضگی سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Nimetinin zeval bulmasından, afiyetinin değişmesinden, ani cezanın gelmesinden ve bütün gazabından Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la cessation de Tes bienfaits, le changement de Ta bonne santé, l'arrivée soudaine de Ton châtiment et toute Ta colère."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от исчезновения Твоих милостей, и от изменения Твоего благополучия, и от внезапности Твоего наказания, и от всего, что вызывает Твое недовольство."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از زوال نعمتت، و تغییر عافیتت، و خشم ناگهانی‌ات، و تمام خشم‌هایت."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ तेरी नेमत के ज़वाल से, और तेरी आफ़ियत के बदल जाने से, और तेरी नागहानी पकड़ से, और तेरी तमाम नाराज़गी से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari hilangnya nikmat-Mu, dan berubahnya kesihatan-Mu, dan datangnya siksa-Mu secara tiba-tiba, serta seluruh kemurkaan-Mu."
+      },
+      "sw": {
+        "meaning": "Ee Allah, najikinga Kwako kutokana na kuondoka kwa neema Zako, na kubadilika kwa afya Yako, na adhabu Yako ya ghafla, na ghadhabu Zako zote."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই আপনার নেয়ামতের অবসান থেকে, আপনার সুস্থতার পরিবর্তন থেকে, আপনার আকস্মিক শাস্তি থেকে এবং আপনার সমস্ত অসন্তুষ্টি থেকে।"
+      }
+    }
+  },
+  {
+    "id": "women_9",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ أَصْلِحْ لِي دِينِي الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي، وَأَصْلِحْ لِي آخِرَتِي الَّتِي فِيهَا مَعَادِي، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِي فِي كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِي مِنْ كُلِّ شَرٍّ",
+    "transliteration": "Allāhumma aṣliḥ lī dīnī alladhī huwa ʿiṣmatu amrī, wa aṣliḥ lī dunyāya allatī fīhā maʿāshī, wa aṣliḥ lī ākhiratī allatī fīhā maʿādī, wajʿalil-ḥayāta ziyādatan lī fī kulli khayr, wajʿalil-mawta rāḥatan lī min kulli sharr",
+    "source": "Muslim 2720 (Comprehensive well-being and strength in faith and life, for overall resilience)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, set right for me my religion, which is the safeguard of my affairs, and set right for me my worldly life which is the source of my livelihood, and set right for me my Hereafter to which is my return, and make life for me an increase in every good, and make death a comfort for me from every evil."
+      },
+      "ar": {
+        "meaning": "اللهم أصلح لي ديني الذي هو عصمة أمري، وأصلح لي دنياي التي فيها معاشي، وأصلح لي آخرتي التي فيها معادي، واجعل الحياة زيادة لي في كل خير، واجعل الموت راحة لي من كل شر"
+      },
+      "id": {
+        "meaning": "Ya Allah, perbaikilah bagiku agamaku yang merupakan penjaga urusanku, perbaikilah bagiku duniaku yang di dalamnya tempat kehidupanku, dan perbaikilah bagiku akhiratku yang kepadanya aku kembali, dan jadikanlah hidup sebagai tambahan bagiku dalam setiap kebaikan, dan jadikanlah kematian sebagai ketenangan bagiku dari setiap kejahatan."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میرے لیے میرے دین کو درست کر دے جو میرے تمام معاملات کی حفاظت ہے، اور میرے لیے میری دنیا کو درست کر دے جس میں میری روزی ہے، اور میرے لیے میری آخرت کو درست کر دے جہاں میری واپسی ہے، اور زندگی کو میرے لیے ہر خیر میں اضافہ بنا دے، اور موت کو میرے لیے ہر شر سے راحت بنا دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! İşimin koruyucusu olan dinimi bana ıslah et. Geçim kaynağım olan dünyamı bana ıslah et. Dönüş yerim olan ahiretimi bana ıslah et. Hayatı bana her hayırda artış kıl ve ölümü bana her şerden rahatlık kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, arrange pour moi ma religion qui est la protection de mes affaires, et arrange pour moi ma vie d'ici-bas qui est ma subsistance, et arrange pour moi ma vie de l'au-delà où est mon retour, et fais de ma vie un accroissement de tout bien, et fais de la mort un repos pour moi de tout mal."
+      },
+      "ru": {
+        "meaning": "О Аллах, приведи в порядок для меня мою религию, которая является защитой моих дел, и приведи в порядок для меня мой мир, в котором мое пропитание, и приведи в порядок для меня мою Последнюю жизнь, в которую мое возвращение, и сделай жизнь для меня приумножением всякого блага, и сделай смерть для меня покоем от всякого зла."
+      },
+      "fa": {
+        "meaning": "بارالها، دینم را برایم اصلاح کن که نگهدارنده کارم است، و دنیایم را برایم اصلاح کن که محل زندگی‌ام است، و آخرتم را برایم اصلاح کن که بازگشتم به آنجاست، و زندگی را برایم افزایشی در هر خیری قرار ده، و مرگ را برایم راحتی از هر شری قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मेरे लिए मेरे दीन को दुरुस्त कर दे जो मेरे तमाम मामलात की हिफाज़त है, और मेरे लिए मेरी दुनिया को दुरुस्त कर दे जिसमें मेरी रोज़ी है, और मेरे लिए मेरी आख़िरत को दुरुस्त कर दे जहाँ मेरी वापसी है, और ज़िंदगी को मेरे लिए हर ख़ैर में इज़ाफ़ा बना दे, और मौत को मेरे लिए हर शर से राहत बना दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, perbaikilah bagiku agamaku yang merupakan penjaga urusanku, perbaikilah bagiku duniaku yang di dalamnya tempat kehidupanku, dan perbaikilah bagiku akhiratku yang kepadanya aku kembali, dan jadikanlah hidup sebagai tambahan bagiku dalam setiap kebaikan, dan jadikanlah kematian sebagai ketenangan bagiku dari setiap kejahatan."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nitengenezee dini yangu ambayo ni kinga ya mambo yangu, na unitengenezee dunia yangu ambayo humo ndimo ninapoishi, na unitengenezee Akhera yangu ambayo kwake ndiko ninakorejea, na ujaalie maisha kuwa nyongeza kwangu katika kila kheri, na ujaalie mauti kuwa raha kwangu kutokana na kila shari."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার দ্বীনকে আমার জন্য সংশোধন করে দিন, যা আমার সকল কাজের নিরাপত্তা। আমার দুনিয়াকে আমার জন্য সংশোধন করে দিন, যা আমার জীবিকার উৎস। আমার আখিরাতকে আমার জন্য সংশোধন করে দিন, যেখানে আমার প্রত্যাবর্তন। আর জীবনকে আমার জন্য সকল কল্যাণের বৃদ্ধি বানান, আর মৃত্যুকে আমার জন্য সকল অনিষ্ট থেকে শান্তি বানান।"
+      }
+    }
+  },
+  {
+    "id": "women_10",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "transliteration": "Ḥasbunallāhu wa niʿmal-Wakīl",
+    "source": "Al-Imran 3:173 (Reliance on Allah, for strength in difficult times)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Sufficient for us is Allah, and He is the best Disposer of affairs."
+      },
+      "ar": {
+        "meaning": "حسبنا الله ونعم الوكيل"
+      },
+      "id": {
+        "meaning": "Cukuplah Allah bagi kami, dan Dia sebaik-baik Pelindung."
+      },
+      "ur": {
+        "meaning": "ہمارے لیے اللہ کافی ہے، اور وہ بہترین کارساز ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah bize yeter, O ne güzel Vekil'dir."
+      },
+      "fr": {
+        "meaning": "Allah nous suffit, et Il est le meilleur Garant."
+      },
+      "ru": {
+        "meaning": "Достаточно нам Аллаха, и Он – наилучший Покровитель."
+      },
+      "fa": {
+        "meaning": "خداوند برای ما کافی است و او بهترین وکیل (کارساز) است."
+      },
+      "hi": {
+        "meaning": "हमारे लिए अल्लाह काफ़ी है, और वह बेहतरीन कारसाज़ है।"
+      },
+      "ms": {
+        "meaning": "Cukuplah Allah bagi kami, dan Dia sebaik-baik Pelindung."
+      },
+      "sw": {
+        "meaning": "Allah anatutosha, na Yeye ni Mbora wa kutegemewa."
+      },
+      "bn": {
+        "meaning": "আমাদের জন্য আল্লাহই যথেষ্ট, আর তিনি উত্তম কার্যনির্বাহক।"
+      }
+    }
+  },
+  {
+    "id": "women_11",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "transliteration": "Allāhumma innī asʾalukal-jannah, wa aʿūdhu bika minan-nār",
+    "source": "Abu Dawud 793, Ibn Majah 928 (Seeking Paradise and protection from Hellfire, for ultimate hope and dignity)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for Paradise and I seek refuge in You from the Fire."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك الجنة وأعوذ بك من النار"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu surga dan aku berlindung kepada-Mu dari neraka."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے جنت کا سوال کرتا ہوں اور جہنم کی آگ سے تیری پناہ چاہتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden Cenneti isterim ve Cehennemden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le Paradis et je cherche refuge auprès de Toi contre l'Enfer."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя Рая и прибегаю к Тебе от Огня."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو بهشت را می‌خواهم و از آتش به تو پناه می‌برم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे जन्नत का सवाल करता हूँ और जहन्नम की आग से तेरी पनाह चाहता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu syurga dan aku berlindung kepada-Mu dari neraka."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nakuomba Pepo na najikinga Kwako kutokana na Moto."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে জান্নাত চাই এবং জাহান্নামের আগুন থেকে আপনার আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "women_12",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبْ الْبَاسَ اشْفِهِ أَنْتَ الشَّافِي لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ شِفَاءً لاَ يُغَادِرُ سَقَمًا",
+    "transliteration": "Allāhumma Rabbin-nās, adzhibil-baʾsa ashfihi Antash-Shāfī, lā shifāʾa illā shifāʾuka shifāʾan lā yughādiru saqamā",
+    "source": "Bukhari 5742, Muslim 2191 (Du'a for healing, applicable for physical health and recovery)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Lord of mankind, remove the affliction and grant healing. You are the Healer, there is no healing except Your healing, a healing that leaves no illness behind."
+      },
+      "ar": {
+        "meaning": "اللهم رب الناس أذهب البأس اشفه أنت الشافي لا شفاء إلا شفاؤك شفاء لا يغادر سقما"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan seluruh manusia, hilangkanlah penyakit, sembuhkanlah dia, Engkaulah Maha Penyembuh, tiada kesembuhan kecuali kesembuhan-Mu, kesembuhan yang tidak meninggalkan penyakit sedikitpun."
+      },
+      "ur": {
+        "meaning": "اے اللہ، لوگوں کے رب، تکلیف دور کر دے، اسے شفا دے، تو ہی شفا دینے والا ہے، تیری شفا کے سوا کوئی شفا نہیں، ایسی شفا جو کوئی بیماری نہ چھوڑے۔"
+      },
+      "tr": {
+        "meaning": "Ey insanların Rabbi olan Allah'ım! Hastalığı gider, şifa ver. Sen şifa verensin, senin şifandan başka şifa yoktur. Hiçbir hastalık bırakmayan bir şifa ver."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur des hommes, éloigne le mal et guéris-le. Tu es le Guérisseur, il n'y a de guérison que la Tienne, une guérison qui ne laisse aucune maladie."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь людей, удали бедствие и исцели его. Ты – Целитель, нет исцеления, кроме Твоего исцеления, исцеления, которое не оставляет болезни."
+      },
+      "fa": {
+        "meaning": "بارالها، ای پروردگار مردم، بیماری را برطرف کن، شفا ده که تو شفادهنده‌ای، هیچ شفایی جز شفای تو نیست، شفایی که هیچ بیماری را باقی نگذارد."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, लोगों के रब, तकलीफ़ दूर कर दे, उसे शिफ़ा दे, तू ही शिफ़ा देने वाला है, तेरी शिफ़ा के सिवा कोई शिफ़ा नहीं, ऐसी शिफ़ा जो कोई बीमारी न छोड़े।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan seluruh manusia, hilangkanlah penyakit, sembuhkanlah dia, Engkaulah Maha Penyembuh, tiada kesembuhan kecuali kesembuhan-Mu, kesembuhan yang tidak meninggalkan penyakit sedikitpun."
+      },
+      "sw": {
+        "meaning": "Ee Allah, Mola wa watu, ondoa shida, mponye. Wewe ndiye Mponyaji, hapana shifaa ila shifaa Yako, shifaa isiyoacha maradhi yoyote."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, হে মানবজাতির রব, কষ্ট দূর করুন এবং আরোগ্য দিন। আপনিই আরোগ্যদানকারী, আপনার আরোগ্য ব্যতীত কোনো আরোগ্য নেই, এমন আরোগ্য যা কোনো রোগ রাখে না।"
+      }
+    }
+  },
+  {
+    "id": "women_13",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ النِّسَاءِ وَمِنْ عَذَابِ الْقَبْرِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika min fitnatin-nisāʾi wa min ʿadhābil-qabr",
+    "source": "Bukhari 6376, Muslim 588 (Seeking refuge from trials of women and grave, general protection relevant to modesty and challenges)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from the trials of women and from the torment of the grave."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من فتنة النساء ومن عذاب القبر"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari fitnah wanita dan dari azab kubur."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں عورتوں کے فتنے سے اور قبر کے عذاب سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Kadınların fitnesinden ve kabir azabından Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la tentation des femmes et contre le châtiment de la tombe."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от искушения женщин и от мучений могилы."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از فتنه زنان و از عذاب قبر."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ औरतों के फ़ितने से और क़ब्र के अज़ाब से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari fitnah wanita dan dari azab kubur."
+      },
+      "sw": {
+        "meaning": "Ee Allah, najikinga Kwako kutokana na fitna ya wanawake na kutokana na adhabu ya kaburi."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই নারীদের ফিতনা থেকে এবং কবরের আযাব থেকে।"
+      }
+    }
+  },
+  {
+    "id": "women_14",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+    "transliteration": "Allāhumma innī asʾalukal-hudā wat-tuqā wal-ʿafāfa wal-ghinā",
+    "source": "Muslim 2721 (Asking for guidance, piety, abstinence, and self-sufficiency, for inner strength and dignity)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for guidance, piety, abstinence (from unlawful things), and self-sufficiency."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك الهدى والتقى والعفاف والغنى"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, sifat iffah (menjaga diri dari yang haram), dan kekayaan jiwa (kecukupan)."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے ہدایت، تقویٰ، عفت اور غنا (خود کفالت) کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden hidayet, takva, iffet ve gönül zenginliği (ihtiyaçsızlık) dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande la guidée, la piété, la chasteté et la suffisance."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя руководства, богобоязненности, целомудрия и достаточности."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو هدایت و پرهیزگاری و عفت و بی‌نیازی مسئلت دارم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे हिदायत, तक़वा, इफ्फ़त (नाजायज़ चीज़ों से बचना) और गु़ना (आत्म-निर्भरता) का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, sifat iffah (menjaga diri dari yang haram), dan kekayaan jiwa (kecukupan)."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nakuomba uongofu, na uchamungu, na kujizuia (kutoka haramu), na utoshelevu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে হেদায়েত, তাকওয়া, পবিত্রতা এবং সচ্ছলতা চাই।"
+      }
+    }
+  },
+  {
+    "id": "women_15",
+    "category_id": "special_pathways",
+    "subcategory_id": "women_specific",
+    "tag": "women_health_emotions",
+    "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "transliteration": "Allāhummakfinī biḥalālika ʿan ḥarāmik, wa aghninī bi faḍlika ʿamman siwāk",
+    "source": "Tirmidhi 3563 (Seeking sufficiency with lawful things and independence from others, for dignity and contentment)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, suffice me with Your lawful against Your unlawful, and make me independent of all besides You by Your grace."
+      },
+      "ar": {
+        "meaning": "اللهم اكفني بحلالك عن حرامك وأغنني بفضلك عمن سواك"
+      },
+      "id": {
+        "meaning": "Ya Allah, cukupkanlah aku dengan rezeki-Mu yang halal dari yang haram, dan kayakanlah aku dengan karunia-Mu dari selain-Mu."
+      },
+      "ur": {
+        "meaning": "اے اللہ، مجھے اپنے حلال کے ذریعے اپنے حرام سے بے نیاز کر دے، اور اپنے فضل سے مجھے اپنے سوا ہر ایک سے مستغنی کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Helalinle beni haramından müstağni kıl ve fazlınla beni senden başkasına muhtaç etme."
+      },
+      "fr": {
+        "meaning": "Ô Allah, rends-moi suffisant par Ton licite contre Ton illicite, et enrichis-moi par Ta grâce de tout autre que Toi."
+      },
+      "ru": {
+        "meaning": "О Аллах, сделай меня достаточным посредством Твоего дозволенного от Твоего запретного, и сделай меня независимым по Твоей милости от всех, кроме Тебя."
+      },
+      "fa": {
+        "meaning": "بارالها، مرا با حلالت از حرامت بی‌نیاز کن، و با فضل خودت مرا از هرکه غیر توست بی‌نیاز گردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुझे अपने हलाल के ज़रिए अपने हराम से बेनियाज़ कर दे, और अपने फ़ज़ल से मुझे अपने सिवा हर एक से मुस्तग़नी कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, cukupkanlah aku dengan rezeki-Mu yang halal dari yang haram, dan kayakanlah aku dengan kurnia-Mu dari selain-Mu."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nikinge na haramu Yako kwa halali Yako, na unitajirishe kwa fadhila Zako kutokana na yeyote asiyekuwa Wewe."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনার হালাল দ্বারা আমাকে আপনার হারাম থেকে যথেষ্ট করুন এবং আপনার অনুগ্রহে আমাকে আপনার ব্যতীত অন্য সবার থেকে অমুখাপেক্ষী করুন।"
+      }
+    }
+  }
+]

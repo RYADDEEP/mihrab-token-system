@@ -1,0 +1,722 @@
+[
+  {
+    "id": "fasting_1",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ",
+    "transliteration": "Dhahabaz-zama'u wabtallatil-'urūqu wa thabatal-ajru in shā'allāh",
+    "source": "Abu Dawud 2357",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills."
+      },
+      "ar": {
+        "meaning": "ذهب الظمأ وابتلت العروق وثبت الأجر إن شاء الله"
+      },
+      "id": {
+        "meaning": "Dahaga telah hilang, urat-urat telah basah, dan pahala telah ditetapkan, insya Allah."
+      },
+      "ur": {
+        "meaning": "پیاس بجھ گئی، رگیں تر ہو گئیں، اور اجر ثابت ہو گیا اگر اللہ نے چاہا۔"
+      },
+      "tr": {
+        "meaning": "Susuzluk gitti, damarlar ıslandı ve ecir sabit oldu, inşallah."
+      },
+      "fr": {
+        "meaning": "La soif est partie, les veines sont humidifiées, et la récompense est confirmée, si Allah le veut."
+      },
+      "ru": {
+        "meaning": "Жажда ушла, жилы увлажнились, и награда утвердилась, если пожелает Аллах."
+      },
+      "fa": {
+        "meaning": "تشنگی برطرف شد، رگ‌ها سیراب گشتند، و اجر ثابت شد، ان‌شاءالله."
+      },
+      "hi": {
+        "meaning": "प्यास बुझ गई, नसें तर हो गईं, और इनाम पक्का हो गया, अगर अल्लाह ने चाहा।"
+      },
+      "ms": {
+        "meaning": "Dahaga telah hilang, urat-urat telah basah, dan pahala telah ditetapkan, insya Allah."
+      },
+      "sw": {
+        "meaning": "Kiu kimeondoka, mishipa imelowa, na ujira umethibitishwa, In Shaa Allah."
+      },
+      "bn": {
+        "meaning": "তৃষ্ণা দূর হয়েছে, শিরাগুলো সিক্ত হয়েছে, এবং পুরস্কার নিশ্চিত হয়েছে, ইনশাআল্লাহ।"
+      }
+    }
+  },
+  {
+    "id": "fasting_2",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ أَنْ تَغْفِرَ لِي",
+    "transliteration": "Allāhumma innī asʾaluka bi-raḥmatika allatī wasiʿat kulla shayʾin an taghfira lī",
+    "source": "Ibn Majah 1750",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You by Your mercy which encompasses all things, that You forgive me."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك برحمتك التي وسعت كل شيء أن تغفر لي"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu dengan rahmat-Mu yang meliputi segala sesuatu, agar Engkau mengampuni aku."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تجھ سے تیری اس رحمت کے ذریعے سوال کرتا ہوں جو ہر چیز کو گھیرے ہوئے ہے کہ تو مجھے بخش دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, her şeyi kuşatan rahmetinle Senden beni bağışlamanı dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande par Ta miséricorde qui englobe toute chose, de me pardonner."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя Твоей милостью, которая охватывает все, чтобы Ты простил меня."
+      },
+      "fa": {
+        "meaning": "ای الله، از تو با رحمتت که همه چیز را فرا گرفته است، می‌خواهم که مرا ببخشی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तुझसे तेरी उस रहमत के ज़रिए सवाल करता हूँ जो हर चीज़ को घेरे हुए है कि तू मुझे माफ़ कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu dengan rahmat-Mu yang meliputi segala sesuatu, agar Engkau mengampuni aku."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba kwa rehema zako ambazo zimeenea kila kitu, unighufurie mimi."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আপনার সেই রহমতের মাধ্যমে প্রার্থনা করি যা সমস্ত কিছুকে পরিবেষ্টন করে আছে, যেন আপনি আমাকে ক্ষমা করে দেন।"
+      }
+    }
+  },
+  {
+    "id": "fasting_3",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ",
+    "transliteration": "Allāhumma laka ṣumtu wa ʿalā rizqika afṭartu",
+    "source": "Abu Dawud 2358",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, for You I have fasted, and with Your provision I have broken my fast."
+      },
+      "ar": {
+        "meaning": "اللهم لك صمت وعلى رزقك أفطرت"
+      },
+      "id": {
+        "meaning": "Ya Allah, untuk-Mu aku berpuasa, dan dengan rezeki-Mu aku berbuka."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں نے تیرے لیے روزہ رکھا اور تیرے رزق پر افطار کیا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senin için oruç tuttum ve Senin rızkınla iftar ettim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, pour Toi j'ai jeûné, et avec Ta subsistance j'ai rompu mon jeûne."
+      },
+      "ru": {
+        "meaning": "О Аллах, ради Тебя я постился, и Твоим пропитанием я разговелся."
+      },
+      "fa": {
+        "meaning": "ای الله، برای تو روزه گرفتم و با روزی تو افطار کردم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैंने तेरे लिए रोज़ा रखा और तेरे रिज़्क़ पर इफ़्तार किया।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, untuk-Mu aku berpuasa, dan dengan rezeki-Mu aku berbuka."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, kwa ajili Yako nimefunga, na kwa riziki Yako nimefungua."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনার জন্য আমি রোজা রেখেছি, এবং আপনার রিজিক দিয়ে ইফতার করেছি।"
+      }
+    }
+  },
+  {
+    "id": "fasting_4",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+    "transliteration": "Subḥānakallāhumma wa biḥamdika, ashhadu an lā ilāha illā Anta, astaghfiruka wa atūbu ilayk",
+    "source": "Tirmidhi 3433",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Glory be to You, O Allah, and with Your praise, I bear witness that there is none worthy of worship except You. I seek Your forgiveness and repent to You."
+      },
+      "ar": {
+        "meaning": "سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك"
+      },
+      "id": {
+        "meaning": "Maha Suci Engkau ya Allah, dan dengan pujian-Mu, aku bersaksi bahwa tiada ilah yang berhak disembah kecuali Engkau. Aku memohon ampun kepada-Mu dan bertaubat kepada-Mu."
+      },
+      "ur": {
+        "meaning": "تو پاک ہے اے اللہ اور تیری ہی حمد ہے۔ میں گواہی دیتا ہوں کہ تیرے سوا کوئی معبود نہیں۔ میں تجھ سے مغفرت طلب کرتا ہوں اور تیری طرف توبہ کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Seni hamdinle tesbih ederim. Senden başka ilah olmadığına şehadet ederim. Senden bağışlanma diler ve Sana tevbe ederim."
+      },
+      "fr": {
+        "meaning": "Gloire à Toi, ô Allah, et par Ta louange, j'atteste qu'il n'y a de divinité digne d'adoration que Toi. Je Te demande pardon et je me repens à Toi."
+      },
+      "ru": {
+        "meaning": "Пречист Ты, о Аллах, и хвала Тебе, я свидетельствую, что нет божества, кроме Тебя. Я прошу Твоего прощения и каюсь Тебе."
+      },
+      "fa": {
+        "meaning": "پاک و منزهی تو ای الله، و با ستایش تو، شهادت می‌دهم که هیچ معبودی جز تو نیست. از تو طلب آمرزش می‌کنم و به سوی تو توبه می‌کنم."
+      },
+      "hi": {
+        "meaning": "पवित्र है तू, ऐ अल्लाह, और तेरी ही प्रशंसा है, मैं गवाही देता हूँ कि तेरे सिवा कोई इबादत के लायक नहीं। मैं तुझसे माफ़ी मांगता हूँ और तेरी तरफ़ तौबा करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Maha Suci Engkau ya Allah, dan dengan pujian-Mu, aku bersaksi bahawa tiada ilah yang berhak disembah melainkan Engkau. Aku memohon ampun kepada-Mu dan bertaubat kepada-Mu."
+      },
+      "sw": {
+        "meaning": "Umetakasika Ewe Allah, na sifa njema zote ni zako, ninashuhudia kwamba hapana mungu anayestahiki kuabudiwa isipokuwa Wewe. Nakuomba msamaha na ninatubu Kwako."
+      },
+      "bn": {
+        "meaning": "আপনি পবিত্র, হে আল্লাহ, এবং আপনার প্রশংসার সাথে, আমি সাক্ষ্য দিচ্ছি যে আপনি ব্যতীত কোন উপাস্য নেই। আমি আপনার কাছে ক্ষমা চাই এবং আপনার দিকে ফিরে যাই।"
+      }
+    }
+  },
+  {
+    "id": "fasting_5",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَمِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika min ʿadhābi Jahannam wa min ʿadhābil-qabr wa min fitnatil-maḥyā wal-mamāt wa min sharri fitnatil-masīḥid-dajjāl",
+    "source": "Muslim 588",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from the punishment of Hell, and from the punishment of the grave, and from the trials of life and death, and from the evil of the trial of the False Messiah (Dajjal)."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من عذاب جهنم ومن عذاب القبر ومن فتنة المحيا والممات ومن شر فتنة المسيح الدجال"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari azab Jahannam, dan dari azab kubur, dan dari fitnah kehidupan dan kematian, serta dari kejahatan fitnah Al-Masih Ad-Dajjal."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں جہنم کے عذاب سے، اور قبر کے عذاب سے، اور زندگی و موت کے فتنے سے، اور مسیح الدجال کے فتنے کے شر سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Cehennem azabından, kabir azabından, hayatın ve ölümün fitnesinden ve Mesih Deccal'in fitnesinin şerrinden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre le châtiment de l'Enfer, et contre le châtiment de la tombe, et contre l'épreuve de la vie et de la mort, et contre le mal de l'épreuve du Faux Messie (Dajjal)."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от наказания Ада, и от наказания могилы, и от искушений жизни и смерти, и от зла искушения Антихриста (Даджаля)."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از عذاب جهنم و از عذاب قبر و از فتنه زندگی و مرگ و از شر فتنه مسیح دجال."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ जहन्नम के अज़ाब से, और क़ब्र के अज़ाब से, और ज़िंदगी और मौत के फ़ित्नों से, और मसीह दज्जाल के फ़ित्ने के शर से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari azab Jahannam, dan dari azab kubur, dan dari fitnah kehidupan dan kematian, serta dari kejahatan fitnah Al-Masih Ad-Dajjal."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na adhabu ya Jahannam, na kutokana na adhabu ya kaburi, na kutokana na fitina ya uhai na mauti, na kutokana na shari ya fitina ya Masihi Dajjal."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে জাহান্নামের আযাব থেকে, কবরের আযাব থেকে, জীবন ও মৃত্যুর ফেতনা থেকে এবং দাজ্জালের ফেতনার অনিষ্ট থেকে আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "fasting_6",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ",
+    "transliteration": "Allāhumma innī aʿūdhu bika min sharri mā ʿamiltu wa min sharri mā lam aʿmal",
+    "source": "Muslim 2716",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from the evil of what I have done and from the evil of what I have not done."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من شر ما عملت ومن شر ما لم أعمل"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kejahatan apa yang telah aku lakukan dan dari kejahatan apa yang belum aku lakukan."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں اس چیز کے شر سے جو میں نے کیا اور اس چیز کے شر سے جو میں نے نہیں کیا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, yaptığım şeyin şerrinden ve yapmadığım şeyin şerrinden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre le mal de ce que j'ai fait et contre le mal de ce que je n'ai pas fait."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от зла того, что я совершил, и от зла того, чего я не совершил."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از شر آنچه انجام داده‌ام و از شر آنچه انجام نداده‌ام."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ उस चीज़ के शर से जो मैंने किया और उस चीज़ के शर से जो मैंने नहीं किया।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kejahatan apa yang telah aku lakukan dan dari kejahatan apa yang belum aku lakukan."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na shari ya yale niliyoyafanya na kutokana na shari ya yale ambayo sikuyatenda."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আমার কৃতকর্মের অনিষ্ট থেকে এবং আমার অকৃতকর্মের অনিষ্ট থেকে আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "fasting_7",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+    "transliteration": "Allāhumma innī asʾalukal-ʿāfiyah fid-dunyā wal-ākhirah",
+    "source": "Tirmidhi 3514",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for well-being in this world and the Hereafter."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك العافية في الدنيا والآخرة"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu keselamatan di dunia dan di akhirat."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تجھ سے دنیا اور آخرت میں عافیت کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senden dünya ve ahirette afiyet dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le bien-être dans ce monde et dans l'au-delà."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя благополучия в этом мире и в мире вечном."
+      },
+      "fa": {
+        "meaning": "ای الله، من از تو عافیت در دنیا و آخرت را مسئلت می‌نمایم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तुझसे दुनिया और आखिरत में आफ़ियत का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu kesejahteraan di dunia dan di akhirat."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba Afya njema duniani na Akhera."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে দুনিয়া ও আখিরাতে নিরাপত্তা ও সুস্থতা চাই।"
+      }
+    }
+  },
+  {
+    "id": "fasting_8",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+    "transliteration": "Allāhumma aʿinnī ʿalā dhikrika, wa shukrika, wa ḥusni ʿibādatik",
+    "source": "Abu Dawud 1522",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, help me to remember You, to thank You, and to worship You in the best manner."
+      },
+      "ar": {
+        "meaning": "اللهم أعني على ذكرك، وشكرك، وحسن عبادتك"
+      },
+      "id": {
+        "meaning": "Ya Allah, bantulah aku untuk selalu mengingat-Mu, bersyukur kepada-Mu, dan beribadah kepada-Mu dengan sebaik-baiknya."
+      },
+      "ur": {
+        "meaning": "اے اللہ! مجھے اپنے ذکر، شکر اور بہترین عبادت پر مدد فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Seni anmak, Sana şükretmek ve Sana güzelce ibadet etmek konusunda bana yardım et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, aide-moi à Te ذكر, à Te remercier, et à T'adorer de la meilleure des manières."
+      },
+      "ru": {
+        "meaning": "О Аллах, помоги мне поминать Тебя, благодарить Тебя и поклоняться Тебе наилучшим образом."
+      },
+      "fa": {
+        "meaning": "ای الله، مرا بر ذکرت، و شکرت، و نیکو عبادت کردنت یاری فرما."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मुझे तेरे ज़िक्र, तेरे शुक्र और तेरी अच्छी इबादत पर मदद फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, bantulah aku untuk sentiasa mengingati-Mu, bersyukur kepada-Mu, dan beribadah kepada-Mu dengan sebaik-baiknya."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, nisaidie kukudhukuru, na kukushukuru, na kukuabudu vizuri."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাকে আপনার স্মরণ, আপনার শুকরিয়া এবং আপনার উত্তম ইবাদতে সাহায্য করুন।"
+      }
+    }
+  },
+  {
+    "id": "fasting_9",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "transliteration": "Rabbī zidnī ʿilmā",
+    "source": "Quran 20:114",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, increase me in knowledge."
+      },
+      "ar": {
+        "meaning": "رب زدني علما"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, tambahkanlah kepadaku ilmu."
+      },
+      "ur": {
+        "meaning": "اے میرے رب! مجھے علم میں بڑھا دے۔"
+      },
+      "tr": {
+        "meaning": "Rabbim, ilmimi artır."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, augmente-moi en connaissance."
+      },
+      "ru": {
+        "meaning": "Господи, приумножь мои знания."
+      },
+      "fa": {
+        "meaning": "پروردگارا، علم مرا زیاد کن."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब! मुझे इल्म में ज़्यादा कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, tambahkanlah kepadaku ilmu."
+      },
+      "sw": {
+        "meaning": "Mola wangu, niongezee elimu."
+      },
+      "bn": {
+        "meaning": "হে আমার প্রতিপালক, আমার জ্ঞান বৃদ্ধি করুন।"
+      }
+    }
+  },
+  {
+    "id": "fasting_10",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+    "transliteration": "Allāhumma innī asʾalukal-hudā wat-tuqā wal-ʿafāfa wal-ghinā",
+    "source": "Muslim 2721",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for guidance, piety, abstinence (from unlawful things), and self-sufficiency."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك الهدى والتقى والعفاف والغنى"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, sifat iffah (menjaga diri dari yang haram), dan kekayaan."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تجھ سے ہدایت، تقویٰ، پاکدامنی اور غنا (خود کفائی) کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senden hidayet, takva, iffet ve zenginlik dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande la guidée, la piété, la chasteté et la suffisance."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя о руководстве, богобоязненности, целомудрии и самодостаточности."
+      },
+      "fa": {
+        "meaning": "ای الله، من از تو هدایت، تقوا، عفت و بی‌نیازی را مسئلت می‌نمایم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तुझसे हिदायत, तक़वा, अफ़ाफ़ (पाकदामनी) और गिना (आत्मनिर्भरता) का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, sifat iffah (menjaga diri dari yang haram), dan kekayaan."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba uongofu, uchamungu, kujitakasa (kutoka haramu), na utoshelevu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে হেদায়েত, তাকওয়া, পবিত্রতা এবং সচ্ছলতা চাই।"
+      }
+    }
+  },
+  {
+    "id": "fasting_11",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ʿadhāban-nār",
+    "source": "Quran 2:201",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Our Lord, grant us good in this world and good in the Hereafter and protect us from the punishment of the Fire."
+      },
+      "ar": {
+        "meaning": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار"
+      },
+      "id": {
+        "meaning": "Ya Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, serta lindungilah kami dari siksa neraka."
+      },
+      "ur": {
+        "meaning": "اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔"
+      },
+      "tr": {
+        "meaning": "Ey Rabbimiz! Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi cehennem azabından koru."
+      },
+      "fr": {
+        "meaning": "Ô notre Seigneur, accorde-nous le bien dans ce monde et le bien dans l'au-delà et protège-nous du châtiment du Feu."
+      },
+      "ru": {
+        "meaning": "Господь наш! Даруй нам в этом мире добро и в Последней жизни добро и защити нас от мучений Огня."
+      },
+      "fa": {
+        "meaning": "پروردگارا، در دنیا به ما نیکی عطا کن و در آخرت نیز نیکی، و ما را از عذاب آتش حفظ کن."
+      },
+      "hi": {
+        "meaning": "ऐ हमारे रब! हमें दुनिया में भलाई अता फरमा और आख़िरत में भी भलाई अता फरमा और हमें आग के अज़ाब से बचा।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, serta lindungilah kami dari seksaan api neraka."
+      },
+      "sw": {
+        "meaning": "Mola wetu, tupe wema duniani na wema Akhera na utulinde na adhabu ya Moto."
+      },
+      "bn": {
+        "meaning": "হে আমাদের প্রতিপালক, আমাদেরকে দুনিয়াতে কল্যাণ দিন এবং আখিরাতেও কল্যাণ দিন এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন।"
+      }
+    }
+  },
+  {
+    "id": "fasting_12",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-hammi wal-ḥazan, wa aʿūdhu bika minal-ʿajzi wal-kasal, wa aʿūdhu bika minal-jubni wal-bukhl, wa aʿūdhu bika min ghalabatid-dayni wa qahrir-rijāl",
+    "source": "Bukhari 6369",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from anxiety and sorrow, and I seek refuge in You from inability and laziness, and I seek refuge in You from cowardice and stinginess, and I seek refuge in You from the burden of debt and from being overpowered by men."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegelisahan dan kesedihan, dan aku berlindung kepada-Mu dari kelemahan dan kemalasan, dan aku berlindung kepada-Mu dari sifat pengecut dan kikir, dan aku berlindung kepada-Mu dari beban hutang dan penindasan orang lain."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں غم اور پریشانی سے، اور میں تیری پناہ چاہتا ہوں عاجزی اور سستی سے، اور میں تیری پناہ چاہتا ہوں بزدلی اور بخل سے، اور میں تیری پناہ چاہتا ہوں قرض کے غلبے سے اور لوگوں کے دباؤ سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kederden ve hüzünden Sana sığınırım. Acizlikten ve tembellikten Sana sığınırım. Korkaklıktan ve cimrilikten Sana sığınırım. Borcun ağırlığından ve insanların kahrından Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, et je cherche refuge auprès de Toi contre l'incapacité et la paresse, et je cherche refuge auprès de Toi contre la lâcheté et l'avarice, et je cherche refuge auprès de Toi contre le poids de la dette et l'oppression des hommes."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от беспокойства и печали, и я прибегаю к Тебе от бессилия и лени, и я прибегаю к Тебе от трусости и скупости, и я прибегаю к Тебе от бремени долга и от притеснения людей."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از غم و اندوه، و به تو پناه می‌برم از ناتوانی و کسالت، و به تو پناه می‌برم از بزدلی و بخل، و به تو پناه می‌برم از غلبه بدهی و ستم مردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ चिंता और दुःख से, और मैं तेरी पनाह चाहता हूँ अक्षमता और आलस्य से, और मैं तेरी पनाह चाहता हूँ कायरता और कंजूसी से, और मैं तेरी पनाह चाहता हूँ क़र्ज़ के बोझ से और लोगों के अत्याचार से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegelisahan dan kesedihan, dan aku berlindung kepada-Mu dari kelemahan dan kemalasan, dan aku berlindung kepada-Mu dari sifat penakut dan kedekut, dan aku berlindung kepada-Mu dari beban hutang dan penindasan orang lain."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na wasiwasi na huzuni, na najikinga Kwako kutokana na udhaifu na uvivu, na najikinga Kwako kutokana na woga na ubakhili, na najikinga Kwako kutokana na kuzidiwa na deni na dhulma ya watu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই দুশ্চিন্তা ও মন খারাপ থেকে, এবং আপনার কাছে আশ্রয় চাই অক্ষমতা ও অলসতা থেকে, এবং আপনার কাছে আশ্রয় চাই ভীরুতা ও কৃপণতা থেকে, এবং আপনার কাছে আশ্রয় চাই ঋণের বোঝা এবং মানুষের জুলুম থেকে।"
+      }
+    }
+  },
+  {
+    "id": "fasting_13",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Allāhumma bārik lanā fīmā razaqtanā wa qinā ʿadhāban-nār",
+    "source": "Hisnul Muslim #98",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless us in what You have provided us and protect us from the punishment of the Fire."
+      },
+      "ar": {
+        "meaning": "اللهم بارك لنا فيما رزقتنا وقنا عذاب النار"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah kami dalam rezeki yang Engkau berikan kepada kami dan lindungilah kami dari azab neraka."
+      },
+      "ur": {
+        "meaning": "اے اللہ! ہمیں اس میں برکت عطا فرما جو تو نے ہمیں رزق دیا اور ہمیں آگ کے عذاب سے بچا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, bize rızık olarak verdiklerinde bize bereket ver ve bizi cehennem azabından koru."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-nous dans ce que Tu nous as pourvu et protège-nous du châtiment du Feu."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови нас в том, что Ты нам даровал, и защити нас от наказания Огня."
+      },
+      "fa": {
+        "meaning": "ای الله، آنچه را که به ما روزی داده‌ای برای ما مبارک گردان و ما را از عذاب آتش حفظ کن."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! हमें उसमें बरकत अता फ़रमा जो तूने हमें रिज़्क़ दिया और हमें आग के अज़ाब से बचा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah kami dalam rezeki yang Engkau berikan kepada kami dan lindungilah kami dari azab neraka."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, tubariki katika uliyoturuzuku na utulinde na adhabu ya Moto."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি আমাদেরকে যে রিজিক দিয়েছেন তাতে বরকত দিন এবং জাহান্নামের আগুন থেকে আমাদেরকে রক্ষা করুন।"
+      }
+    }
+  },
+  {
+    "id": "fasting_14",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+    "transliteration": "Yā Ḥayyu yā Qayyūmu bi-raḥmatika astaghīthu aṣliḥ lī shaʾnī kullahū wa lā takilnī ilā nafsī ṭarfata ʿayn",
+    "source": "Hisnul Muslim #68",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Ever-Living, O Sustainer, by Your mercy I seek assistance; correct for me all my affairs and do not entrust me to my soul for the blink of an eye."
+      },
+      "ar": {
+        "meaning": "يا حي يا قيوم برحمتك أستغيث أصلح لي شأني كله ولا تكلني إلى نفسي طرفة عين"
+      },
+      "id": {
+        "meaning": "Wahai Yang Maha Hidup, wahai Yang Maha Berdiri Sendiri (mengurus segala sesuatu), dengan rahmat-Mu aku memohon pertolongan; perbaikilah untukku segala urusanku dan janganlah Engkau serahkan diriku kepada diriku sendiri sekejap mata pun."
+      },
+      "ur": {
+        "meaning": "اے زندہ، اے قائم رکھنے والے! تیری رحمت کے ذریعے میں مدد طلب کرتا ہوں، میرے تمام معاملات درست کر دے اور مجھے ایک لمحہ کے لیے بھی میرے نفس کے حوالے نہ کر۔"
+      },
+      "tr": {
+        "meaning": "Ey Hayy (diri olan), Ey Kayyum (kâinatı ayakta tutan)! Rahmetinle yardım dilerim; bütün işlerimi benim için düzelt ve beni bir göz açıp kapayıncaya kadar bile nefsime bırakma."
+      },
+      "fr": {
+        "meaning": "Ô le Vivant, ô Celui qui subsiste par Lui-même, par Ta miséricorde je demande Ton secours; arrange pour moi toutes mes affaires et ne me laisse pas à moi-même ne serait-ce qu'un clin d'œil."
+      },
+      "ru": {
+        "meaning": "О Живой, о Поддерживающий (существование всего)! Твоей милостью я обращаюсь за помощью; исправь для меня все мои дела и не вверяй меня моей душе ни на мгновение ока."
+      },
+      "fa": {
+        "meaning": "ای زنده، ای پاینده، با رحمت تو یاری می‌طلبم؛ تمام امورم را برایم اصلاح فرما و مرا حتی به اندازه یک چشم بر هم زدن به خودم وامگذار."
+      },
+      "hi": {
+        "meaning": "ऐ ज़िंदा, ऐ क़ायम रखने वाले! तेरी रहमत के ज़रिए मैं मदद चाहता हूँ, मेरे सारे काम दुरुस्त कर दे और मुझे पलक झपकने की भी देर के लिए मेरे नफ़्स के हवाले न कर।"
+      },
+      "ms": {
+        "meaning": "Wahai Yang Maha Hidup, wahai Yang Maha Berdiri Sendiri (mengurus segala sesuatu), dengan rahmat-Mu aku memohon pertolongan; perbaikilah untukku segala urusanku dan janganlah Engkau serahkan diriku kepada diriku sendiri walau sekelip mata pun."
+      },
+      "sw": {
+        "meaning": "Ewe Mwenye Hai, Ewe Msimamizi wa viumbe! Kwa rehema zako ninaomba msaada; nirekebishie mambo yangu yote na usiniachie nafsi yangu hata kwa kufumba na kufumbua jicho."
+      },
+      "bn": {
+        "meaning": "হে চিরঞ্জীব, হে সর্বসত্তার ধারক, আপনার রহমতের মাধ্যমে আমি সাহায্য প্রার্থনা করি; আমার সমস্ত কাজ আমার জন্য সংশোধন করে দিন এবং এক মুহূর্তের জন্যও আমাকে আমার নিজের উপর ছেড়ে দেবেন না।"
+      }
+    }
+  },
+  {
+    "id": "fasting_15",
+    "category_id": "daily_essentials",
+    "subcategory_id": "fasting_reflections",
+    "tag": "suhoor_iftar_fajr_isha",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammadin wa ʿalā āli Muḥammadin kamā ṣallayta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīma innaka ḥamīdun majīd, Allāhumma bārik ʿalā Muḥammadin wa ʿalā āli Muḥammadin kamā bārakta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīma innaka ḥamīdun majīd",
+    "source": "Bukhari 3370",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad and upon the family of Muhammad, as You sent prayers upon Abraham and upon the family of Abraham. Verily, You are the Most Praiseworthy, the Most Glorious. O Allah, send blessings upon Muhammad and upon the family of Muhammad, as You sent blessings upon Abraham and upon the family of Abraham. Verily, You are the Most Praiseworthy, the Most Glorious."
+      },
+      "ar": {
+        "meaning": "اللهم صل على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد، اللهم بارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد"
+      },
+      "id": {
+        "meaning": "Ya Allah, curahkanlah rahmat kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau telah mencurahkan rahmat kepada Ibrahim dan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia. Ya Allah, curahkanlah keberkahan kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau telah mencurahkan keberkahan kepada Ibrahim dan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia."
+      },
+      "ur": {
+        "meaning": "اے اللہ! محمد اور آل محمد پر رحمت نازل فرما جیسا کہ تو نے ابراہیم اور آل ابراہیم پر رحمت نازل فرمائی، بے شک تو قابل تعریف، بزرگی والا ہے۔ اے اللہ! محمد اور آل محمد پر برکت نازل فرما جیسا کہ تو نے ابراہیم اور آل ابراہیم پر برکت نازل فرمائی، بے شک تو قابل تعریف، بزرگی والا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, İbrahim'e ve İbrahim'in âline salât ettiğin gibi Muhammed'e ve Muhammed'in âline salât et. Şüphesiz Sen Hamîd ve Mecîd'sin. Allah'ım, İbrahim'e ve İbrahim'in âline bereket verdiğin gibi Muhammed'e ve Muhammed'in âline bereket ver. Şüphesiz Sen Hamîd ve Mecîd'sin."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad, comme Tu as prié sur Abraham et sur la famille d'Abraham. En vérité, Tu es Digne de louange, Glorieux. Ô Allah, bénis Muhammad et la famille de Muhammad, comme Tu as béni Abraham et la famille d'Abraham. En vérité, Tu es Digne de louange, Glorieux."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли милость Мухаммаду и семейству Мухаммада, как Ты ниспослал милость Ибрахиму и семейству Ибрахима. Поистине, Ты Достохвальный, Славный. О Аллах, ниспошли благословение Мухаммаду и семейству Мухаммада, как Ты ниспослал благословение Ибрахиму и семейству Ибрахима. Поистине, Ты Достохвальный, Славный."
+      },
+      "fa": {
+        "meaning": "ای الله، بر محمد و خاندان محمد درود فرست، همان‌گونه که بر ابراهیم و خاندان ابراهیم درود فرستادی. همانا تو ستوده و بزرگوار هستی. ای الله، بر محمد و خاندان محمد برکت فرست، همان‌گونه که بر ابراهیم و خاندان ابراهیم برکت فرستادی. همانا تو ستوده و بزرگوار هستی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मुहम्मद और मुहम्मद के परिवार पर रहमत भेज, जैसा कि तूने इब्राहीम और इब्राहीम के परिवार पर रहमत भेजी। बेशक तू तारीफ़ के क़ाबिल, बुज़ुर्गी वाला है। ऐ अल्लाह! मुहम्मद और मुहम्मद के परिवार पर बरकत भेज, जैसा कि तूने इब्राहीम और इब्राहीम के परिवार पर बरकत भेजी। बेशक तू तारीफ़ के क़ाबिल, बुज़ुर्गी वाला है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, curahkanlah rahmat kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau telah mencurahkan rahmat kepada Ibrahim dan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia. Ya Allah, curahkanlah keberkahan kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau telah mencurahkan keberkahan kepada Ibrahim dan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, mrehemu Muhammad na familia ya Muhammad, kama ulivyomrehemu Ibrahim na familia ya Ibrahim. Hakika Wewe ni Mwenye kusifiwa, Mtukufu. Ewe Allah, mbariki Muhammad na familia ya Muhammad, kama ulivyombariki Ibrahim na familia ya Ibrahim. Hakika Wewe ni Mwenye kusifiwa, Mtukufu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, মুহাম্মদ ও মুহাম্মাদের পরিবারের উপর রহমত বর্ষণ করুন, যেমন আপনি ইব্রাহিম ও ইব্রাহিমের পরিবারের উপর রহমত বর্ষণ করেছেন। নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত। হে আল্লাহ, মুহাম্মদ ও মুহাম্মাদের পরিবারের উপর বরকত বর্ষণ করুন, যেমন আপনি ইব্রাহিম ও ইব্রাহিমের পরিবারের উপর বরকত বর্ষণ করেছেন। নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত।"
+      }
+    }
+  }
+]

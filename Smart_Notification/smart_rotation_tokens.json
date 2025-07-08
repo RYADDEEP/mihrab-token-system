@@ -1,0 +1,146 @@
+{
+  "smart_rotation_tokens": {
+    "smartRotationNotificationEngine": {
+      "rotationConfigs": [
+        {
+          "prayerId": "fajr",
+          "rotationType": "sequential",
+          "language": "en",
+          "lastSentId": 0,
+          "frequency": "daily",
+          "fallbackMessage": {
+            "en": "Time for Fajr prayer. May Allah accept your worship.",
+            "ar": "حَانَ وَقْتُ صَلَاةِ الْفَجْرِ. تَقَبَّلَ اللَّهُ عِبَادَتَكُمْ.",
+            "id": "Waktu shalat Subuh telah tiba. Semoga Allah menerima ibadah Anda.",
+            "ur": "فجر کی نماز کا وقت ہو گیا ہے۔ اللہ آپ کی عبادت قبول فرمائے۔",
+            "tr": "Sabah namazı vakti geldi. Allah ibadetinizi kabul etsin.",
+            "fr": "L'heure de la prière de Fajr est arrivée. Qu'Allah accepte votre adoration.",
+            "ru": "Наступило время молитвы Фаджр. Да примет Аллах ваше поклонение.",
+            "fa": "وقت نماز صبح فرا رسیده است. خداوند عبادت شما را بپذیرد.",
+            "hi": "फज्र की नमाज़ का समय हो गया है। अल्लाह आपकी इबादत क़ुबूल करे।",
+            "ms": "Masa solat Subuh telah tiba. Semoga Allah menerima ibadah anda.",
+            "sw": "Umefika wakati wa sala ya Alfajiri. Mwenyezi Mungu akubali ibada yako.",
+            "bn": "ফজরের নামাজের সময় হয়েছে। আল্লাহ আপনার ইবাদত কবুল করুন।"
+          }
+        },
+        {
+          "prayerId": "dhuhr",
+          "rotationType": "random",
+          "language": "en",
+          "lastSentId": 0,
+          "frequency": "daily",
+          "fallbackMessage": {
+            "en": "Dhuhr prayer time has arrived. Take a moment to connect with Allah.",
+            "ar": "حَانَ وَقْتُ صَلَاةِ الظُّهْرِ. خُذُوا لَحْظَةً لِلتَّوَاصُلِ مَعَ اللَّهِ.",
+            "id": "Waktu shalat Dzuhur telah tiba. Luangkan waktu untuk terhubung dengan Allah.",
+            "ur": "ظہر کی نماز کا وقت آ گیا ہے۔ اللہ سے رابطہ کے لیے وقت نکالیں۔",
+            "tr": "Öğle namazı vakti geldi. Allah ile bağlantı için bir an ayırın.",
+            "fr": "L'heure de la prière de Dhuhr est arrivée. Prenez un moment pour vous connecter avec Allah.",
+            "ru": "Наступило время молитвы Зухр. Найдите время для связи с Аллахом.",
+            "fa": "وقت نماز ظهر فرا رسیده است. لحظه‌ای برای ارتباط با خدا وقت بگذارید.",
+            "hi": "ज़ुहर की नमाज़ का समय आ गया है। अल्लाह से जुड़ने के लिए एक पल निकालें।",
+            "ms": "Masa solat Zohor telah tiba. Luangkan masa untuk berhubung dengan Allah.",
+            "sw": "Umefika wakati wa sala ya Dhuhr. Chukua dakika moja kuungana na Mwenyezi Mungu.",
+            "bn": "যোহরের নামাজের সময় এসেছে। আল্লাহর সাথে সংযোগের জন্য একটু সময় নিন।"
+          }
+        },
+        {
+          "prayerId": "asr",
+          "rotationType": "weighted",
+          "language": "en",
+          "lastSentId": 0,
+          "frequency": "daily",
+          "fallbackMessage": {
+            "en": "Asr prayer time is here. Seek Allah's guidance and blessings.",
+            "ar": "حَانَ وَقْتُ صَلَاةِ الْعَصْرِ. اطْلُبُوا هُدَى اللَّهِ وَبَرَكَاتِهِ.",
+            "id": "Waktu shalat Ashar telah tiba. Mohonlah petunjuk dan berkah Allah.",
+            "ur": "عصر کی نماز کا وقت ہے۔ اللہ سے ہدایت اور برکت کی دعا کریں۔",
+            "tr": "İkindi namazı vakti geldi. Allah'ın hidayetini ve bereketini dileyin.",
+            "fr": "L'heure de la prière d'Asr est arrivée. Cherchez la guidance et les bénédictions d'Allah.",
+            "ru": "Наступило время молитвы Аср. Ищите руководство и благословения Аллаха.",
+            "fa": "وقت نماز عصر فرا رسیده است. هدایت و برکات خداوند را بجویید.",
+            "hi": "अस्र की नमाज़ का समय है। अल्लाह की हिदायत और बरकत मांगें।",
+            "ms": "Masa solat Asar telah tiba. Pohonlah petunjuk dan berkat Allah.",
+            "sw": "Umefika wakati wa sala ya Asr. Omba uwongozi na baraka za Mwenyezi Mungu.",
+            "bn": "আসরের নামাজের সময় এসেছে। আল্লাহর হেদায়েত ও বরকত কামনা করুন।"
+          }
+        },
+        {
+          "prayerId": "maghrib",
+          "rotationType": "sequential",
+          "language": "en",
+          "lastSentId": 0,
+          "frequency": "daily",
+          "fallbackMessage": {
+            "en": "Maghrib prayer time has begun. Thank Allah for this blessed day.",
+            "ar": "بَدَأَ وَقْتُ صَلَاةِ الْمَغْرِبِ. اشْكُرُوا اللَّهَ عَلَى هَذَا الْيَوْمِ الْمُبَارَكِ.",
+            "id": "Waktu shalat Maghrib telah dimulai. Bersyukurlah kepada Allah atas hari yang diberkahi ini.",
+            "ur": "مغرب کی نماز کا وقت شروع ہو گیا ہے۔ اس مبارک دن کے لیے اللہ کا شکر ادا کریں۔",
+            "tr": "Akşam namazı vakti başladı. Bu mübarek gün için Allah'a şükredin.",
+            "fr": "L'heure de la prière de Maghrib a commencé. Remerciez Allah pour cette journée bénie.",
+            "ru": "Началось время молитвы Магриб. Благодарите Аллаха за этот благословенный день.",
+            "fa": "وقت نماز مغرب آغاز شده است. از خداوند برای این روز پربرکت سپاسگزاری کنید.",
+            "hi": "मग़रिब की नमाज़ का समय शुरू हो गया है। इस बरकत वाले दिन के लिए अल्लाह का शुक्र अदा करें।",
+            "ms": "Masa solat Maghrib telah bermula. Bersyukurlah kepada Allah atas hari yang diberkati ini.",
+            "sw": "Umefika wakati wa sala ya Maghrib. Mshukuru Mwenyezi Mungu kwa siku hii ya baraka.",
+            "bn": "মাগরিবের নামাজের সময় শুরু হয়েছে। এই বরকতময় দিনের জন্য আল্লাহর শুকরিয়া আদায় করুন।"
+          }
+        },
+        {
+          "prayerId": "isha",
+          "rotationType": "random",
+          "language": "en",
+          "lastSentId": 0,
+          "frequency": "daily",
+          "fallbackMessage": {
+            "en": "Isha prayer time is upon us. End your day in remembrance of Allah.",
+            "ar": "حَانَ وَقْتُ صَلَاةِ الْعِشَاءِ. اخْتِتِمُوا يَوْمَكُمْ بِذِكْرِ اللَّهِ.",
+            "id": "Waktu shalat Isya telah tiba. Akhiri hari Anda dengan mengingat Allah.",
+            "ur": "عشاء کی نماز کا وقت آ گیا ہے۔ اپنا دن اللہ کی یاد میں ختم کریں۔",
+            "tr": "Yatsı namazı vakti geldi. Gününüzü Allah'ı zikrederek bitirin.",
+            "fr": "L'heure de la prière d'Isha est arrivée. Terminez votre journée en vous souvenant d'Allah.",
+            "ru": "Наступило время молитвы Иша. Завершите свой день в поминании Аллаха.",
+            "fa": "وقت نماز عشا فرا رسیده است. روز خود را با یاد خدا به پایان برسانید.",
+            "hi": "इशा की नमाज़ का समय आ गया है। अपना दिन अल्लाह की याद में समाप्त करें।",
+            "ms": "Masa solat Isyak telah tiba. Akhiri hari anda dengan mengingati Allah.",
+            "sw": "Umefika wakati wa sala ya Isha. Maliza siku yako kwa kumkumbuka Mwenyezi Mungu.",
+            "bn": "এশার নামাজের সময় এসেছে। আল্লাহর স্মরণে আপনার দিন শেষ করুন।"
+          }
+        }
+      ],
+      "rotationTypes": {
+        "sequential": {
+          "description": "Messages are sent in order, cycling back to the first after the last",
+          "algorithm": "index = (lastSentId + 1) % totalMessages"
+        },
+        "random": {
+          "description": "Messages are selected randomly from available pool",
+          "algorithm": "index = Math.floor(Math.random() * totalMessages)"
+        },
+        "weighted": {
+          "description": "Messages have different probability weights for selection",
+          "algorithm": "weightedRandomSelection based on message priority"
+        }
+      },
+      "frequencies": {
+        "daily": {
+          "description": "One notification per prayer time per day",
+          "resetInterval": "24h"
+        },
+        "hourly": {
+          "description": "Notifications can repeat hourly during prayer window",
+          "resetInterval": "1h"
+        },
+        "custom": {
+          "description": "User-defined frequency settings",
+          "resetInterval": "configurable"
+        }
+      },
+      "fallbackRules": {
+        "noMessagesAvailable": "Use fallbackMessage from rotationConfigs",
+        "networkError": "Use cached last successful message",
+        "languageNotSupported": "Default to English fallback message"
+      }
+    }
+  }
+}

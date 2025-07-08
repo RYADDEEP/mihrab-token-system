@@ -1,0 +1,1098 @@
+{
+  "collections": {
+    "smart_notifications_tokens": {
+      "smartNotificationPacks": {
+        "fajr": [
+          {
+            "id": "fajr_001",
+            "category": "Hope",
+            "translations": {
+              "en": "Rise with the dawn, your new beginning awaits",
+              "ar": "قُمْ مَعَ الْفَجْرِ، بِدَايَتُكَ الْجَدِيدَةُ تَنْتَظِرُ",
+              "id": "Bangkit bersama fajar, awal baru menanti",
+              "ur": "فجر کے ساتھ اٹھیں، آپ کی نئی شروعات منتظر ہے",
+              "tr": "Şafakla birlikte kalk, yeni başlangıcın bekliyor",
+              "fr": "Lève-toi avec l'aube, ton nouveau départ t'attend",
+              "ru": "Встань с рассветом, твое новое начало ждет",
+              "fa": "با سپیده برخیز، آغاز تازه‌ات در انتظار است",
+              "hi": "भोर के साथ उठें, आपकी नई शुरुआत इंतज़ार कर रही है",
+              "ms": "Bangun bersama subuh, permulaan baru menanti",
+              "sw": "Amka na alfajiri, mwanzo wako mpya unangoja",
+              "bn": "ভোরের সাথে জাগুন, আপনার নতুন শুরু অপেক্ষা করছে"
+            }
+          },
+          {
+            "id": "fajr_002",
+            "category": "Discipline",
+            "translations": {
+              "en": "Winners wake up for Fajr, be among them",
+              "ar": "الْفَائِزُونَ يَسْتَيْقِظُونَ لِلْفَجْرِ، كُنْ مِنْهُمْ",
+              "id": "Para pemenang bangun untuk Subuh, jadilah salah satunya",
+              "ur": "جیتنے والے فجر کے لیے اٹھتے ہیں، ان میں شامل ہوں",
+              "tr": "Kazananlar sabah namazına kalkar, onlardan ol",
+              "fr": "Les gagnants se lèvent pour Fajr, sois parmi eux",
+              "ru": "Победители встают на Фаджр, будь среди них",
+              "fa": "برندگان برای نماز صبح بیدار می‌شوند، از آنها باش",
+              "hi": "विजेता फज्र के लिए जागते हैं, उनमें से एक बनें",
+              "ms": "Pemenang bangun untuk Subuh, jadilah antara mereka",
+              "sw": "Washindi wanaamka kwa Alfajiri, kuwa miongoni mwao",
+              "bn": "বিজয়ীরা ফজরের জন্য জাগে, তাদের মধ্যে একজন হন"
+            }
+          },
+          {
+            "id": "fajr_003",
+            "category": "Peace",
+            "translations": {
+              "en": "Fajr brings peace before the world awakens",
+              "ar": "الْفَجْرُ يَجْلِبُ السَّلَامَ قَبْلَ أَنْ يَسْتَيْقِظَ الْعَالَمُ",
+              "id": "Subuh membawa kedamaian sebelum dunia terbangun",
+              "ur": "فجر دنیا کے جاگنے سے پہلے سکون لاتی ہے",
+              "tr": "Sabah namazı dünya uyanmadan huzur getirir",
+              "fr": "Fajr apporte la paix avant que le monde ne s'éveille",
+              "ru": "Фаджр приносит покой до пробуждения мира",
+              "fa": "نماز صبح پیش از بیداری جهان، آرامش می‌آورد",
+              "hi": "फज्र दुनिया के जागने से पहले शांति लाती है",
+              "ms": "Subuh membawa ketenangan sebelum dunia bangkit",
+              "sw": "Alfajiri inaleta amani kabla dunia haijaamka",
+              "bn": "ফজর পৃথিবী জাগার আগে শান্তি নিয়ে আসে"
+            }
+          },
+          {
+            "id": "fajr_004",
+            "category": "Gratitude",
+            "translations": {
+              "en": "Another dawn, another chance to thank Allah",
+              "ar": "فَجْرٌ آخَرُ، فُرْصَةٌ أُخْرَى لِشُكْرِ اللهِ",
+              "id": "Fajar lain, kesempatan lain untuk bersyukur kepada Allah",
+              "ur": "ایک اور صبح، اللہ کا شکر ادا کرنے کا ایک اور موقع",
+              "tr": "Bir şafak daha, Allah'a şükretmek için bir fırsat daha",
+              "fr": "Une autre aube, une autre chance de remercier Allah",
+              "ru": "Еще один рассвет, еще один шанс поблагодарить Аллаха",
+              "fa": "سپیده‌ای دیگر، فرصتی دیگر برای شکر خدا",
+              "hi": "एक और सुबह, अल्लाह का शुक्र अदा करने का एक और मौका",
+              "ms": "Subuh lain, peluang lain untuk bersyukur kepada Allah",
+              "sw": "Alfajiri lingine, nafasi nyingine ya kumshukuru Allah",
+              "bn": "আরেকটি ভোর, আল্লাহর শুকরিয়া আদায়ের আরেকটি সুযোগ"
+            }
+          },
+          {
+            "id": "fajr_005",
+            "category": "Focus",
+            "translations": {
+              "en": "Start with Fajr, conquer your day",
+              "ar": "ابْدَأْ بِالْفَجْرِ، وَانْتَصِرْ فِي يَوْمِكَ",
+              "id": "Mulai dengan Subuh, taklukkan harimu",
+              "ur": "فجر سے شروع کریں، اپنے دن پر فتح حاصل کریں",
+              "tr": "Sabah namazıyla başla, gününü fethet",
+              "fr": "Commence par Fajr, conquiers ta journée",
+              "ru": "Начни с Фаджра, покори свой день",
+              "fa": "با نماز صبح آغاز کن، بر روزت پیروز شو",
+              "hi": "फज्र से शुरू करें, अपने दिन पर विजय पाएं",
+              "ms": "Mulakan dengan Subuh, takluki hari anda",
+              "sw": "Anza na Alfajiri, shinda siku yako",
+              "bn": "ফজর দিয়ে শুরু করুন, আপনার দিন জয় করুন"
+            }
+          },
+          {
+            "id": "fajr_006",
+            "category": "Blessing",
+            "translations": {
+              "en": "Fajr prayer: Where blessings begin",
+              "ar": "صَلَاةُ الْفَجْرِ: حَيْثُ تَبْدَأُ الْبَرَكَاتُ",
+              "id": "Salat Subuh: Tempat berkah bermula",
+              "ur": "نماز فجر: جہاں برکتیں شروع ہوتی ہیں",
+              "tr": "Sabah namazı: Bereketin başladığı yer",
+              "fr": "Prière de Fajr : Là où commencent les bénédictions",
+              "ru": "Намаз Фаджр: Где начинаются благословения",
+              "fa": "نماز صبح: جایی که برکات آغاز می‌شود",
+              "hi": "फज्र की नमाज़: जहाँ बरकतें शुरू होती हैं",
+              "ms": "Solat Subuh: Di mana keberkatan bermula",
+              "sw": "Sala ya Alfajiri: Mahali baraka zinapoanza",
+              "bn": "ফজরের নামাজ: যেখানে বরকত শুরু হয়"
+            }
+          },
+          {
+            "id": "fajr_007",
+            "category": "Strength",
+            "translations": {
+              "en": "Rise for Fajr, rise above your struggles",
+              "ar": "قُمْ لِلْفَجْرِ، وَارْتَفِعْ فَوْقَ صِرَاعَاتِكَ",
+              "id": "Bangkit untuk Subuh, bangkit dari kesulitanmu",
+              "ur": "فجر کے لیے اٹھیں، اپنی مشکلات سے اوپر اٹھیں",
+              "tr": "Sabah namazına kalk, zorluklarının üstesinden gel",
+              "fr": "Lève-toi pour Fajr, élève-toi au-dessus de tes luttes",
+              "ru": "Встань на Фаджр, поднимись над своими трудностями",
+              "fa": "برای نماز صبح برخیز، بر مشکلاتت غلبه کن",
+              "hi": "फज्र के लिए उठें, अपनी कठिनाइयों से ऊपर उठें",
+              "ms": "Bangun untuk Subuh, bangkit dari kesukaran anda",
+              "sw": "Amka kwa Alfajiri, inuka juu ya changamoto zako",
+              "bn": "ফজরের জন্য উঠুন, আপনার সংগ্রামের ঊর্ধ্বে উঠুন"
+            }
+          },
+          {
+            "id": "fajr_008",
+            "category": "Protection",
+            "translations": {
+              "en": "Pray Fajr, stay under Allah's protection",
+              "ar": "صَلِّ الْفَجْرَ، وَابْقَ تَحْتَ حِمَايَةِ اللهِ",
+              "id": "Salatlah Subuh, tetap dalam perlindungan Allah",
+              "ur": "فجر پڑھیں، اللہ کی حفاظت میں رہیں",
+              "tr": "Sabah namazını kıl, Allah'ın koruması altında kal",
+              "fr": "Prie Fajr, reste sous la protection d'Allah",
+              "ru": "Молись Фаджр, оставайся под защитой Аллаха",
+              "fa": "نماز صبح بخوان، در پناه خدا بمان",
+              "hi": "फज्र पढ़ें, अल्लाह की सुरक्षा में रहें",
+              "ms": "Solat Subuh, kekal dalam perlindungan Allah",
+              "sw": "Swali Alfajiri, kaa chini ya ulinzi wa Allah",
+              "bn": "ফজর পড়ুন, আল্লাহর সুরক্ষায় থাকুন"
+            }
+          },
+          {
+            "id": "fajr_009",
+            "category": "Success",
+            "translations": {
+              "en": "Success starts with conquering your bed for Fajr",
+              "ar": "النَّجَاحُ يَبْدَأُ بِالتَّغَلُّبِ عَلَى فِرَاشِكَ لِلْفَجْرِ",
+              "id": "Kesuksesan dimulai dengan mengalahkan tempat tidur untuk Subuh",
+              "ur": "کامیابی فجر کے لیے اپنے بستر پر فتح سے شروع ہوتی ہے",
+              "tr": "Başarı, sabah namazı için yatağını yenmekle başlar",
+              "fr": "Le succès commence par vaincre ton lit pour Fajr",
+              "ru": "Успех начинается с победы над кроватью ради Фаджра",
+              "fa": "موفقیت با غلبه بر رختخواب برای نماز صبح آغاز می‌شود",
+              "hi": "सफलता फज्र के लिए अपने बिस्तर पर जीत से शुरू होती है",
+              "ms": "Kejayaan bermula dengan mengalahkan katil untuk Subuh",
+              "sw": "Mafanikio yanaanza kwa kushinda kitanda chako kwa Alfajiri",
+              "bn": "সাফল্য শুরু হয় ফজরের জন্য বিছানা জয় করা দিয়ে"
+            }
+          },
+          {
+            "id": "fajr_010",
+            "category": "Renewal",
+            "translations": {
+              "en": "Every Fajr is a chance to start fresh",
+              "ar": "كُلُّ فَجْرٍ فُرْصَةٌ لِبِدَايَةٍ جَدِيدَةٍ",
+              "id": "Setiap Subuh adalah kesempatan untuk memulai yang baru",
+              "ur": "ہر فجر ایک نئی شروعات کا موقع ہے",
+              "tr": "Her sabah namazı yeni bir başlangıç fırsatıdır",
+              "fr": "Chaque Fajr est une chance de recommencer",
+              "ru": "Каждый Фаджр - это шанс начать заново",
+              "fa": "هر نماز صبح فرصتی برای آغازی تازه است",
+              "hi": "हर फज्र एक नई शुरुआत का मौका है",
+              "ms": "Setiap Subuh adalah peluang untuk mula semula",
+              "sw": "Kila Alfajiri ni fursa ya kuanza upya",
+              "bn": "প্রতিটি ফজর নতুন শুরুর একটি সুযোগ"
+            }
+          },
+          {
+            "id": "fajr_011",
+            "category": "Light",
+            "translations": {
+              "en": "Let Fajr light guide your entire day",
+              "ar": "دَعْ نُورَ الْفَجْرِ يُرْشِدُ يَوْمَكَ كُلَّهُ",
+              "id": "Biarkan cahaya Subuh membimbing seluruh harimu",
+              "ur": "فجر کی روشنی کو اپنے پورے دن کی رہنمائی کرنے دیں",
+              "tr": "Sabah namazının ışığı tüm gününe rehberlik etsin",
+              "fr": "Laisse la lumière de Fajr guider toute ta journée",
+              "ru": "Пусть свет Фаджра направляет весь твой день",
+              "fa": "بگذار نور صبح راهنمای تمام روزت باشد",
+              "hi": "फज्र की रोशनी को अपने पूरे दिन का मार्गदर्शन करने दें",
+              "ms": "Biar cahaya Subuh membimbing sepanjang hari anda",
+              "sw": "Acha nuru ya Alfajiri iongeze siku yako yote",
+              "bn": "ফজরের আলো আপনার সারা দিনকে পথ দেখাক"
+            }
+          },
+          {
+            "id": "fajr_012",
+            "category": "Commitment",
+            "translations": {
+              "en": "Fajr: Your daily appointment with success",
+              "ar": "الْفَجْرُ: مَوْعِدُكَ الْيَوْمِيُّ مَعَ النَّجَاحِ",
+              "id": "Subuh: Janji harianmu dengan kesuksesan",
+              "ur": "فجر: کامیابی کے ساتھ آپ کی روزانہ ملاقات",
+              "tr": "Sabah namazı: Başarıyla günlük randevun",
+              "fr": "Fajr : Ton rendez-vous quotidien avec le succès",
+              "ru": "Фаджр: Твоя ежедневная встреча с успехом",
+              "fa": "نماز صبح: قرار روزانه‌ات با موفقیت",
+              "hi": "फज्र: सफलता के साथ आपकी दैनिक मुलाकात",
+              "ms": "Subuh: Temu janji harian anda dengan kejayaan",
+              "sw": "Alfajiri: Miadi yako ya kila siku na mafanikio",
+              "bn": "ফজর: সাফল্যের সাথে আপনার দৈনিক সাক্ষাৎ"
+            }
+          }
+        ],
+        "dhuhr": [
+          {
+            "id": "dhuhr_001",
+            "category": "Pause",
+            "translations": {
+              "en": "Pause your day, reconnect with your Creator",
+              "ar": "أَوْقِفْ يَوْمَكَ، وَأَعِدِ الِاتِّصَالَ بِخَالِقِكَ",
+              "id": "Jeda harimu, sambung kembali dengan Penciptamu",
+              "ur": "اپنے دن کو روکیں، اپنے خالق سے دوبارہ رابطہ قائم کریں",
+              "tr": "Gününe ara ver, Yaratıcınla yeniden bağlan",
+              "fr": "Fais une pause dans ta journée, reconnecte-toi avec ton Créateur",
+              "ru": "Приостанови свой день, восстанови связь с Творцом",
+              "fa": "روزت را مکث کن، با خالقت دوباره ارتباط برقرار کن",
+              "hi": "अपने दिन को रोकें, अपने रचयिता से फिर जुड़ें",
+              "ms": "Jeda hari anda, sambung semula dengan Pencipta",
+              "sw": "Simamisha siku yako, ungana tena na Muumba wako",
+              "bn": "আপনার দিন থামান, আপনার স্রষ্টার সাথে পুনঃসংযোগ করুন"
+            }
+          },
+          {
+            "id": "dhuhr_002",
+            "category": "Balance",
+            "translations": {
+              "en": "Dhuhr: Balance your worldly and spiritual life",
+              "ar": "الظُّهْرُ: وَازِنْ بَيْنَ حَيَاتِكَ الدُّنْيَوِيَّةِ وَالرُّوحِيَّةِ",
+              "id": "Zuhur: Seimbangkan kehidupan duniawi dan spiritualmu",
+              "ur": "ظہر: اپنی دنیاوی اور روحانی زندگی میں توازن رکھیں",
+              "tr": "Öğle namazı: Dünyevi ve manevi hayatını dengele",
+              "fr": "Dhuhr : Équilibre ta vie mondaine et spirituelle",
+              "ru": "Зухр: Уравновесь мирскую и духовную жизнь",
+              "fa": "نماز ظهر: زندگی دنیوی و معنوی‌ات را متعادل کن",
+              "hi": "ज़ुहर: अपने सांसारिक और आध्यात्मिक जीवन को संतुलित करें",
+              "ms": "Zohor: Seimbangkan kehidupan duniawi dan rohani anda",
+              "sw": "Dhuhr: Sawazisha maisha yako ya kidunia na kiroho",
+              "bn": "যোহর: আপনার পার্থিব ও আধ্যাত্মিক জীবনের ভারসাম্য রাখুন"
+            }
+          },
+          {
+            "id": "dhuhr_003",
+            "category": "Energy",
+            "translations": {
+              "en": "Recharge with Dhuhr, finish strong",
+              "ar": "أَعِدْ شَحْنَ طَاقَتِكَ بِالظُّهْرِ، وَأَنْهِ بِقُوَّةٍ",
+              "id": "Isi ulang energi dengan Zuhur, selesaikan dengan kuat",
+              "ur": "ظہر کے ساتھ دوبارہ توانائی حاصل کریں، مضبوطی سے ختم کریں",
+              "tr": "Öğle namazıyla enerjini yenile, güçlü bitir",
+              "fr": "Recharge-toi avec Dhuhr, termine en force",
+              "ru": "Зарядись энергией с Зухром, заверши сильно",
+              "fa": "با نماز ظهر انرژی بگیر، قوی به پایان برسان",
+              "hi": "ज़ुहर से रिचार्ज करें, मज़बूती से समाप्त करें",
+              "ms": "Cas semula dengan Zohor, selesai dengan kuat",
+              "sw": "Jipatie nguvu na Dhuhr, malizia kwa nguvu",
+              "bn": "যোহর দিয়ে রিচার্জ করুন, শক্তিশালীভাবে শেষ করুন"
+            }
+          },
+          {
+            "id": "dhuhr_004",
+            "category": "Gratitude",
+            "translations": {
+              "en": "Midday blessings deserve midday gratitude",
+              "ar": "بَرَكَاتُ مُنْتَصَفِ النَّهَارِ تَسْتَحِقُّ شُكْرَ مُنْتَصَفِ النَّهَارِ",
+              "id": "Berkah tengah hari layak mendapat syukur tengah hari",
+              "ur": "دوپہر کی نعمتیں دوپہر کے شکر کی مستحق ہیں",
+              "tr": "Gün ortası nimetleri, gün ortası şükrünü hak eder",
+              "fr": "Les bénédictions de midi méritent la gratitude de midi",
+              "ru": "Полуденные благословения заслуживают полуденной благодарности",
+              "fa": "برکات نیمروز شایسته شکر نیمروز است",
+              "hi": "दोपहर की नेमतें दोपहर के शुक्र की हकदार हैं",
+              "ms": "Berkat tengah hari layak mendapat kesyukuran tengah hari",
+              "sw": "Baraka za mchana zinastahili shukrani za mchana",
+              "bn": "দুপুরের নিয়ামত দুপুরের কৃতজ্ঞতার যোগ্য"
+            }
+          },
+          {
+            "id": "dhuhr_005",
+            "category": "Focus",
+            "translations": {
+              "en": "Take a spiritual break, return focused",
+              "ar": "خُذْ اسْتِرَاحَةً رُوحِيَّةً، وَعُدْ مُرَكَّزًا",
+              "id": "Ambil istirahat spiritual, kembali dengan fokus",
+              "ur": "روحانی وقفہ لیں، توجہ کے ساتھ واپس آئیں",
+              "tr": "Manevi bir mola ver, odaklanmış olarak dön",
+              "fr": "Prends une pause spirituelle, reviens concentré",
+              "ru": "Сделай духовный перерыв, вернись сосредоточенным",
+              "fa": "استراحتی معنوی داشته باش، متمرکز بازگرد",
+              "hi": "आध्यात्मिक विराम लें, केंद्रित होकर लौटें",
+              "ms": "Ambil rehat rohani, kembali dengan fokus",
+              "sw": "Chukua mapumziko ya kiroho, rudi ukiwa makini",
+              "bn": "আধ্যাত্মিক বিরতি নিন, মনোযোগী হয়ে ফিরুন"
+            }
+          },
+          {
+            "id": "dhuhr_006",
+            "category": "Peace",
+            "translations": {
+              "en": "Find peace in the midst of your busy day",
+              "ar": "جِدِ السَّلَامَ فِي وَسَطِ يَوْمِكَ الْمَشْغُولِ",
+              "id": "Temukan kedamaian di tengah hari sibukmu",
+              "ur": "اپنے مصروف دن کے درمیان سکون تلاش کریں",
+              "tr": "Yoğun gününün ortasında huzur bul",
+              "fr": "Trouve la paix au milieu de ta journée chargée",
+              "ru": "Найди покой посреди своего занятого дня",
+              "fa": "در میان روز پرمشغله‌ات آرامش بیاب",
+              "hi": "अपने व्यस्त दिन के बीच शांति पाएं",
+              "ms": "Cari ketenangan di tengah hari sibuk anda",
+              "sw": "Pata amani katikati ya siku yako ya shughuli",
+              "bn": "আপনার ব্যস্ত দিনের মাঝে শান্তি খুঁজুন"
+            }
+          },
+          {
+            "id": "dhuhr_007",
+            "category": "Reminder",
+            "translations": {
+              "en": "Dhuhr reminds: This world is temporary",
+              "ar": "الظُّهْرُ يُذَكِّرُ: هَذِهِ الدُّنْيَا مُؤَقَّتَةٌ",
+              "id": "Zuhur mengingatkan: Dunia ini sementara",
+              "ur": "ظہر یاد دلاتی ہے: یہ دنیا عارضی ہے",
+              "tr": "Öğle namazı hatırlatır: Bu dünya geçicidir",
+              "fr": "Dhuhr rappelle : Ce monde est temporaire",
+              "ru": "Зухр напоминает: Этот мир временный",
+              "fa": "نماز ظهر یادآوری می‌کند: این دنیا موقت است",
+              "hi": "ज़ुहर याद दिलाती है: यह दुनिया अस्थायी है",
+              "ms": "Zohor mengingatkan: Dunia ini sementara",
+              "sw": "Dhuhr inakumbusha: Dunia hii ni ya muda",
+              "bn": "যোহর মনে করিয়ে দেয়: এই দুনিয়া সাময়িক"
+            }
+          },
+          {
+            "id": "dhuhr_008",
+            "category": "Productivity",
+            "translations": {
+              "en": "Prayer break = Productivity boost",
+              "ar": "اسْتِرَاحَةُ الصَّلَاةِ = زِيَادَةُ الْإِنْتَاجِيَّةِ",
+              "id": "Istirahat salat = Peningkatan produktivitas",
+              "ur": "نماز کا وقفہ = پیداواری صلاحیت میں اضافہ",
+              "tr": "Namaz molası = Verimlilik artışı",
+              "fr": "Pause prière = Boost de productivité",
+              "ru": "Молитвенный перерыв = Повышение продуктивности",
+              "fa": "استراحت نماز = افزایش بهره‌وری",
+              "hi": "नमाज़ का विराम = उत्पादकता में वृद्धि",
+              "ms": "Rehat solat = Peningkatan produktiviti",
+              "sw": "Mapumziko ya sala = Kuongeza tija",
+              "bn": "নামাজের বিরতি = উৎপাদনশীলতা বৃদ্ধি"
+            }
+          },
+          {
+            "id": "dhuhr_009",
+            "category": "Strength",
+            "translations": {
+              "en": "Halfway through, seek strength in prayer",
+              "ar": "فِي مُنْتَصَفِ الطَّرِيقِ، اطْلُبِ الْقُوَّةَ فِي الصَّلَاةِ",
+              "id": "Di tengah jalan, cari kekuatan dalam salat",
+              "ur": "آدھے راستے میں، نماز میں طاقت تلاش کریں",
+              "tr": "Yarı yolda, namazda güç ara",
+              "fr": "À mi-chemin, cherche la force dans la prière",
+              "ru": "На полпути ищи силу в молитве",
+              "fa": "در نیمه راه، قدرت را در نماز بجوی",
+              "hi": "आधे रास्ते में, नमाज़ में शक्ति खोजें",
+              "ms": "Separuh jalan, cari kekuatan dalam solat",
+              "sw": "Katikati ya njia, tafuta nguvu katika sala",
+              "bn": "অর্ধেক পথে, নামাজে শক্তি খুঁজুন"
+            }
+          },
+          {
+            "id": "dhuhr_010",
+            "category": "Success",
+            "translations": {
+              "en": "Successful people never skip Dhuhr",
+              "ar": "النَّاجِحُونَ لَا يَتْرُكُونَ صَلَاةَ الظُّهْرِ أَبَدًا",
+              "id": "Orang sukses tidak pernah melewatkan Zuhur",
+              "ur": "کامیاب لوگ کبھی ظہر نہیں چھوڑتے",
+              "tr": "Başarılı insanlar öğle namazını asla kaçırmaz",
+              "fr": "Les gens qui réussissent ne manquent jamais Dhuhr",
+              "ru": "Успешные люди никогда не пропускают Зухр",
+              "fa": "افراد موفق هرگز نماز ظهر را ترک نمی‌کنند",
+              "hi": "सफल लोग कभी ज़ुहर नहीं छोड़ते",
+              "ms": "Orang berjaya tidak pernah tinggal Zohor",
+              "sw": "Watu waliofanikiwa hawaachi Dhuhr kamwe",
+              "bn": "সফল মানুষ কখনো যোহর ছাড়ে না"
+            }
+          },
+          {
+            "id": "dhuhr_011",
+            "category": "Connection",
+            "translations": {
+              "en": "Disconnect from work, connect with Allah",
+              "ar": "انْقَطِعْ عَنِ الْعَمَلِ، وَاتَّصِلْ بِاللهِ",
+              "id": "Putuskan dari pekerjaan, sambungkan dengan Allah",
+              "ur": "کام سے منقطع ہوں، اللہ سے جڑیں",
+              "tr": "İşten kopun, Allah'a bağlanın",
+              "fr": "Déconnecte-toi du travail, connecte-toi à Allah",
+              "ru": "Отключись от работы, подключись к Аллаху",
+              "fa": "از کار جدا شو، به خدا متصل شو",
+              "hi": "काम से अलग हों, अल्लाह से जुड़ें",
+              "ms": "Putuskan dari kerja, sambung dengan Allah",
+              "sw": "Jitenga na kazi, ungana na Allah",
+              "bn": "কাজ থেকে বিচ্ছিন্ন হন, আল্লাহর সাথে সংযুক্ত হন"
+            }
+          },
+          {
+            "id": "dhuhr_012",
+            "category": "Renewal",
+            "translations": {
+              "en": "Refresh your faith in the middle of chaos",
+              "ar": "جَدِّدْ إِيمَانَكَ فِي وَسَطِ الْفَوْضَى",
+              "id": "Segarkan imanmu di tengah kekacauan",
+              "ur": "افراتفری کے درمیان اپنے ایمان کو تازہ کریں",
+              "tr": "Kaosun ortasında imanını tazele",
+              "fr": "Rafraîchis ta foi au milieu du chaos",
+              "ru": "Обнови свою веру посреди хаоса",
+              "fa": "ایمانت را در میان آشوب تازه کن",
+              "hi": "अराजकता के बीच अपने ईमान को ताज़ा करें",
+              "ms": "Segarkan iman anda di tengah huru-hara",
+              "sw": "Burudisha imani yako katikati ya machafuko",
+              "bn": "বিশৃঙ্খলার মাঝে আপনার ঈমান তাজা করুন"
+            }
+          }
+        ],
+        "asr": [
+          {
+            "id": "asr_001",
+            "category": "Reflection",
+            "translations": {
+              "en": "Asr time: Reflect on your day's deeds",
+              "ar": "وَقْتُ الْعَصْرِ: تَأَمَّلْ فِي أَعْمَالِ يَوْمِكَ",
+              "id": "Waktu Asar: Renungkan amal harimu",
+              "ur": "عصر کا وقت: اپنے دن کے اعمال پر غور کریں",
+              "tr": "İkindi vakti: Günün amellerini düşün",
+              "fr": "L'heure d'Asr : Réfléchis aux actes de ta journée",
+              "ru": "Время Аср: Поразмышляй о делах своего дня",
+              "fa": "وقت عصر: در اعمال روزت تأمل کن",
+              "hi": "अस्र का समय: अपने दिन के कर्मों पर विचार करें",
+              "ms": "Waktu Asar: Renungkan amalan hari anda",
+              "sw": "Wakati wa Asr: Tafakari matendo ya siku yako",
+              "bn": "আসরের সময়: আপনার দিনের কাজের প্রতিফলন করুন"
+            }
+          },
+          {
+            "id": "asr_002",
+            "category": "Warning",
+            "translations": {
+              "en": "Don't let success make you miss Asr",
+              "ar": "لَا تَدَعِ النَّجَاحَ يُفَوِّتُكَ صَلَاةَ الْعَصْرِ",
+              "id": "Jangan biarkan kesuksesan membuatmu lewatkan Asar",
+              "ur": "کامیابی کو عصر کی نماز چھوڑنے کا سبب نہ بنائیں",
+              "tr": "Başarı seni ikindi namazını kaçırtmasın",
+              "fr": "Ne laisse pas le succès te faire manquer Asr",
+              "ru": "Не позволяй успеху заставить тебя пропустить Аср",
+              "fa": "نگذار موفقیت باعث شود نماز عصرت را از دست بدهی",
+              "hi": "सफलता को अस्र छोड़ने का कारण न बनने दें",
+              "ms": "Jangan biar kejayaan buatkan anda terlepas Asar",
+              "sw": "Usiruhusu mafanikio yakufanye ukose Asr",
+              "bn": "সাফল্য যেন আসর মিস করার কারণ না হয়"
+            }
+          },
+          {
+            "id": "asr_003",
+            "category": "Time",
+            "translations": {
+              "en": "Time flies, but Asr keeps you grounded",
+              "ar": "الْوَقْتُ يَمُرُّ سَرِيعًا، لَكِنَّ الْعَصْرَ يُبْقِيكَ ثَابِتًا",
+              "id": "Waktu berlalu cepat, tapi Asar membuatmu tetap membumi",
+              "ur": "وقت تیزی سے گزرتا ہے، لیکن عصر آپ کو قائم رکھتی ہے",
+              "tr": "Zaman uçar, ama ikindi seni toprakta tutar",
+              "fr": "Le temps file, mais Asr te garde ancré",
+              "ru": "Время летит, но Аср держит тебя на земле",
+              "fa": "زمان می‌گذرد، اما عصر تو را استوار نگه می‌دارد",
+              "hi": "समय उड़ता है, लेकिन अस्र आपको स्थिर रखती है",
+              "ms": "Masa berlalu pantas, tetapi Asar kekalkan anda teguh",
+              "sw": "Wakati unapita, lakini Asr inakuweka imara",
+              "bn": "সময় উড়ে যায়, কিন্তু আসর আপনাকে স্থির রাখে"
+            }
+          },
+          {
+            "id": "asr_004",
+            "category": "Priority",
+            "translations": {
+              "en": "Busy schedule? Asr is non-negotiable",
+              "ar": "جَدْوَلٌ مَزْدَحِمٌ؟ الْعَصْرُ غَيْرُ قَابِلٍ لِلتَّفَاوُضِ",
+              "id": "Jadwal padat? Asar tidak bisa ditawar",
+              "ur": "مصروف شیڈول؟ عصر غیر مذاکراتی ہے",
+              "tr": "Yoğun program? İkindi pazarlık konusu değildir",
+              "fr": "Emploi du temps chargé ? Asr est non négociable",
+              "ru": "Плотный график? Аср не обсуждается",
+              "fa": "برنامه شلوغ؟ عصر غیرقابل مذاکره است",
+              "hi": "व्यस्त कार्यक्रम? अस्र अपरिहार्य है",
+              "ms": "Jadual padat? Asar tidak boleh ditolak",
+              "sw": "Ratiba ya shughuli? Asr haijadilianwi",
+              "bn": "ব্যস্ত সময়সূচী? আসর আলোচনার বিষয় নয়"
+            }
+          },
+          {
+            "id": "asr_005",
+            "category": "Protection",
+            "translations": {
+              "en": "Guard your Asr, guard your faith",
+              "ar": "احْفَظْ عَصْرَكَ، احْفَظْ إِيمَانَكَ",
+              "id": "Jaga Asarmu, jaga imanmu",
+              "ur": "اپنی عصر کی حفاظت کریں، اپنے ایمان کی حفاظت کریں",
+              "tr": "İkindini koru, imanını koru",
+              "fr": "Protège ton Asr, protège ta foi",
+              "ru": "Храни свой Аср, храни свою веру",
+              "fa": "عصرت را حفظ کن، ایمانت را حفظ کن",
+              "hi": "अपनी अस्र की रक्षा करें, अपने ईमान की रक्षा करें",
+              "ms": "Jaga Asar anda, jaga iman anda",
+              "sw": "Linda Asr yako, linda imani yako",
+              "bn": "আপনার আসর রক্ষা করুন, আপনার ঈমান রক্ষা করুন"
+            }
+          },
+          {
+            "id": "asr_006",
+            "category": "Mindfulness",
+            "translations": {
+              "en": "Afternoon rush? Slow down for Asr",
+              "ar": "زَحْمَةُ بَعْدَ الظُّهْرِ؟ تَمَهَّلْ لِلْعَصْرِ",
+              "id": "Kesibukan sore? Pelan-pelan untuk Asar",
+              "ur": "دوپہر کی رش؟ عصر کے لیے آہستہ ہوں",
+              "tr": "Öğleden sonra telaşı? İkindi için yavaşla",
+              "fr": "Rush de l'après-midi ? Ralentis pour Asr",
+              "ru": "Дневная спешка? Притормози для Аср",
+              "fa": "شلوغی عصر؟ برای نماز عصر آرام بگیر",
+              "hi": "दोपहर की भागदौड़? अस्र के लिए धीमे हों",
+              "ms": "Kesibukan petang? Perlahan untuk Asar",
+              "sw": "Haraka za alasiri? Punguza kasi kwa Asr",
+              "bn": "বিকেলের তাড়াহুড়ো? আসরের জন্য ধীর হন"
+            }
+          },
+          {
+            "id": "asr_007",
+            "category": "Wisdom",
+            "translations": {
+              "en": "Asr wisdom: Life is short, make it count",
+              "ar": "حِكْمَةُ الْعَصْرِ: الْحَيَاةُ قَصِيرَةٌ، اجْعَلْهَا ذَاتَ قِيمَةٍ",
+              "id": "Hikmah Asar: Hidup itu singkat, jadikan bermakna",
+              "ur": "عصر کی حکمت: زندگی مختصر ہے، اسے قیمتی بنائیں",
+              "tr": "İkindi hikmeti: Hayat kısa, değerli kıl",
+              "fr": "Sagesse d'Asr : La vie est courte, fais qu'elle compte",
+              "ru": "Мудрость Аср: Жизнь коротка, сделай её значимой",
+              "fa": "حکمت عصر: زندگی کوتاه است، آن را ارزشمند کن",
+              "hi": "अस्र की हिकमत: जीवन छोटा है, इसे महत्वपूर्ण बनाएं",
+              "ms": "Hikmah Asar: Hidup itu singkat, jadikan bermakna",
+              "sw": "Hekima ya Asr: Maisha ni mafupi, yafanye yawe na thamani",
+              "bn": "আসরের হিকমত: জীবন সংক্ষিপ্ত, একে মূল্যবান করুন"
+            }
+          },
+          {
+            "id": "asr_008",
+            "category": "Preparation",
+            "translations": {
+              "en": "Prepare for the evening with Asr prayer",
+              "ar": "اسْتَعِدَّ لِلْمَسَاءِ بِصَلَاةِ الْعَصْرِ",
+              "id": "Persiapkan malam dengan salat Asar",
+              "ur": "عصر کی نماز کے ساتھ شام کی تیاری کریں",
+              "tr": "İkindi namazıyla akşama hazırlan",
+              "fr": "Prépare-toi pour le soir avec la prière d'Asr",
+              "ru": "Готовься к вечеру с молитвой Аср",
+              "fa": "با نماز عصر برای شب آماده شو",
+              "hi": "अस्र की नमाज़ के साथ शाम की तैयारी करें",
+              "ms": "Sediakan malam dengan solat Asar",
+              "sw": "Jiandae kwa jioni kwa sala ya Asr",
+              "bn": "আসরের নামাজ দিয়ে সন্ধ্যার প্রস্তুতি নিন"
+            }
+          },
+          {
+            "id": "asr_009",
+            "category": "Blessing",
+            "translations": {
+              "en": "Turn your afternoon into blessed time",
+              "ar": "حَوِّلْ بَعْدَ ظُهْرِكَ إِلَى وَقْتٍ مُبَارَكٍ",
+              "id": "Ubah soremu menjadi waktu yang diberkati",
+              "ur": "اپنی دوپہر کو بابرکت وقت میں بدلیں",
+              "tr": "Öğleden sonranı bereketli zamana çevir",
+              "fr": "Transforme ton après-midi en temps béni",
+              "ru": "Преврати свой день в благословенное время",
+              "fa": "عصرت را به زمانی مبارک تبدیل کن",
+              "hi": "अपनी दोपहर को बरकत वाले समय में बदलें",
+              "ms": "Tukar petang anda menjadi masa yang diberkati",
+              "sw": "Badilisha alasiri yako kuwa wakati uliobarikiwa",
+              "bn": "আপনার বিকেলকে বরকতময় সময়ে পরিণত করুন"
+            }
+          },
+          {
+            "id": "asr_010",
+            "category": "Strength",
+            "translations": {
+              "en": "Tired? Asr prayer gives second wind",
+              "ar": "مُتْعَبٌ؟ صَلَاةُ الْعَصْرِ تُعْطِي طَاقَةً جَدِيدَةً",
+              "id": "Lelah? Salat Asar memberi energi baru",
+              "ur": "تھکے ہوئے؟ عصر کی نماز نئی توانائی دیتی ہے",
+              "tr": "Yorgun musun? İkindi namazı ikinci nefes verir",
+              "fr": "Fatigué ? La prière d'Asr donne un second souffle",
+              "ru": "Устал? Молитва Аср даёт второе дыхание",
+              "fa": "خسته‌ای؟ نماز عصر انرژی تازه می‌دهد",
+              "hi": "थके हुए? अस्र की नमाज़ नई ऊर्जा देती है",
+              "ms": "Letih? Solat Asar memberi tenaga baharu",
+              "sw": "Umechoka? Sala ya Asr inatoa nguvu mpya",
+              "bn": "ক্লান্ত? আসরের নামাজ নতুন শক্তি দেয়"
+            }
+          },
+          {
+            "id": "asr_011",
+            "category": "Gratitude",
+            "translations": {
+              "en": "Count your blessings at Asr time",
+              "ar": "عُدَّ نِعَمَكَ فِي وَقْتِ الْعَصْرِ",
+              "id": "Hitung nikmatmu di waktu Asar",
+              "ur": "عصر کے وقت اپنی نعمتوں کو گنیں",
+              "tr": "İkindi vaktinde nimetlerini say",
+              "fr": "Compte tes bénédictions à l'heure d'Asr",
+              "ru": "Считай свои благословения во время Аср",
+              "fa": "در وقت عصر نعمت‌هایت را بشمار",
+              "hi": "अस्र के समय अपनी नेमतों को गिनें",
+              "ms": "Kira nikmat anda di waktu Asar",
+              "sw": "Hesabu neema zako wakati wa Asr",
+              "bn": "আসরের সময় আপনার নিয়ামতগুলো গণনা করুন"
+            }
+          },
+          {
+            "id": "asr_012",
+            "category": "Focus",
+            "translations": {
+              "en": "Late afternoon clarity comes with Asr",
+              "ar": "وُضُوحُ آخِرِ النَّهَارِ يَأْتِي مَعَ الْعَصْرِ",
+              "id": "Kejernihan sore hari datang dengan Asar",
+              "ur": "دیر دوپہر کی صفائی عصر کے ساتھ آتی ہے",
+              "tr": "Öğleden sonra berraklığı ikindi ile gelir",
+              "fr": "La clarté de fin d'après-midi vient avec Asr",
+              "ru": "Ясность позднего дня приходит с Аср",
+              "fa": "شفافیت عصرگاهی با نماز عصر می‌آید",
+              "hi": "देर दोपहर की स्पष्टता अस्र के साथ आती है",
+              "ms": "Kejelasan petang datang dengan Asar",
+              "sw": "Uwazi wa alasiri unakuja na Asr",
+              "bn": "বিকেলের স্বচ্ছতা আসরের সাথে আসে"
+            }
+          }
+        ],
+        "maghrib": [
+          {
+            "id": "maghrib_001",
+            "category": "Gratitude",
+            "translations": {
+              "en": "Sunset calls, time to thank Allah",
+              "ar": "الْغُرُوبُ يُنَادِي، وَقْتُ شُكْرِ اللهِ",
+              "id": "Matahari terbenam memanggil, waktunya bersyukur kepada Allah",
+              "ur": "غروب آفتاب کی پکار، اللہ کا شکر ادا کرنے کا وقت",
+              "tr": "Gün batımı çağırıyor, Allah'a şükür zamanı",
+              "fr": "Le coucher du soleil appelle, temps de remercier Allah",
+              "ru": "Закат зовёт, время благодарить Аллаха",
+              "fa": "غروب فرا می‌خواند، وقت شکر خداست",
+              "hi": "सूर्यास्त पुकारता है, अल्लाह का शुक्र अदा करने का समय",
+              "ms": "Matahari terbenam memanggil, masa bersyukur kepada Allah",
+              "sw": "Jua linazama, wakati wa kumshukuru Allah",
+              "bn": "সূর্যাস্ত ডাকছে, আল্লাহর শুকরিয়া আদায়ের সময়"
+            }
+          },
+          {
+            "id": "maghrib_002",
+            "category": "Reflection",
+            "translations": {
+              "en": "As the day ends, seek Allah's mercy",
+              "ar": "مَعَ انْتِهَاءِ الْيَوْمِ، اطْلُبْ رَحْمَةَ اللهِ",
+              "id": "Saat hari berakhir, carilah rahmat Allah",
+              "ur": "جیسے دن ختم ہوتا ہے، اللہ کی رحمت تلاش کریں",
+              "tr": "Gün sona ererken, Allah'ın rahmetini ara",
+              "fr": "Alors que le jour se termine, cherche la miséricorde d'Allah",
+              "ru": "Когда день заканчивается, ищи милость Аллаха",
+              "fa": "با پایان روز، رحمت خدا را بجوی",
+              "hi": "जैसे दिन समाप्त होता है, अल्लाह की रहमत तलाशें",
+              "ms": "Ketika hari berakhir, cari rahmat Allah",
+              "sw": "Siku inapoisha, tafuta rehema ya Allah",
+              "bn": "দিন শেষ হওয়ার সাথে, আল্লাহর রহমত খুঁজুন"
+            }
+          },
+          {
+            "id": "maghrib_003",
+            "category": "Peace",
+            "translations": {
+              "en": "Maghrib brings peace after a long day",
+              "ar": "الْمَغْرِبُ يَجْلِبُ السَّلَامَ بَعْدَ يَوْمٍ طَوِيلٍ",
+              "id": "Maghrib membawa kedamaian setelah hari yang panjang",
+              "ur": "مغرب ایک طویل دن کے بعد سکون لاتی ہے",
+              "tr": "Akşam namazı uzun bir günün ardından huzur getirir",
+              "fr": "Maghrib apporte la paix après une longue journée",
+              "ru": "Магриб приносит покой после долгого дня",
+              "fa": "مغرب پس از روزی طولانی آرامش می‌آورد",
+              "hi": "मग़रिब एक लंबे दिन के बाद शांति लाती है",
+              "ms": "Maghrib membawa ketenangan selepas hari yang panjang",
+              "sw": "Maghrib inaleta amani baada ya siku ndefu",
+              "bn": "মাগরিব দীর্ঘ দিনের পর শান্তি নিয়ে আসে"
+            }
+          },
+          {
+            "id": "maghrib_004",
+            "category": "Family",
+            "translations": {
+              "en": "Unite with family over Maghrib prayer",
+              "ar": "اجْتَمِعْ مَعَ الْعَائِلَةِ فِي صَلَاةِ الْمَغْرِبِ",
+              "id": "Bersatu dengan keluarga dalam salat Maghrib",
+              "ur": "مغرب کی نماز میں خاندان کے ساتھ متحد ہوں",
+              "tr": "Akşam namazında aileyle birleş",
+              "fr": "Unis-toi avec la famille pour la prière de Maghrib",
+              "ru": "Объединись с семьёй на молитве Магриб",
+              "fa": "با خانواده در نماز مغرب متحد شو",
+              "hi": "मग़रिब की नमाज़ में परिवार के साथ एकजुट हों",
+              "ms": "Bersatu dengan keluarga dalam solat Maghrib",
+              "sw": "Ungana na familia katika sala ya Maghrib",
+              "bn": "মাগরিবের নামাজে পরিবারের সাথে একত্রিত হন"
+            }
+          },
+          {
+            "id": "maghrib_005",
+            "category": "Transition",
+            "translations": {
+              "en": "From work mode to worship mode",
+              "ar": "مِنْ وَضْعِ الْعَمَلِ إِلَى وَضْعِ الْعِبَادَةِ",
+              "id": "Dari mode kerja ke mode ibadah",
+              "ur": "کام کے موڈ سے عبادت کے موڈ میں",
+              "tr": "Çalışma modundan ibadet moduna",
+              "fr": "Du mode travail au mode adoration",
+              "ru": "От рабочего режима к режиму поклонения",
+              "fa": "از حالت کار به حالت عبادت",
+              "hi": "काम के मोड से इबादत के मोड में",
+              "ms": "Dari mod kerja ke mod ibadat",
+              "sw": "Kutoka hali ya kazi hadi hali ya ibada",
+              "bn": "কাজের মোড থেকে ইবাদতের মোডে"
+            }
+          },
+          {
+            "id": "maghrib_006",
+            "category": "Remembrance",
+            "translations": {
+              "en": "End your day remembering the One who gave it",
+              "ar": "أَنْهِ يَوْمَكَ بِذِكْرِ مَنْ أَعْطَاكَ إِيَّاهُ",
+              "id": "Akhiri harimu dengan mengingat Yang memberinya",
+              "ur": "اپنے دن کا اختتام اس کی یاد میں کریں جس نے یہ دیا",
+              "tr": "Gününü onu veren Zat'ı anarak bitir",
+              "fr": "Termine ta journée en te souvenant de Celui qui te l'a donnée",
+              "ru": "Заверши свой день, помня Того, кто дал его",
+              "fa": "روزت را با یاد کسی که آن را به تو داد به پایان برسان",
+              "hi": "अपने दिन को उसकी याद में समाप्त करें जिसने इसे दिया",
+              "ms": "Akhiri hari anda dengan mengingati Yang memberinya",
+              "sw": "Maliza siku yako ukimkumbuka Aliyekupa",
+              "bn": "যিনি দিয়েছেন তাঁকে স্মরণ করে আপনার দিন শেষ করুন"
+            }
+          },
+          {
+            "id": "maghrib_007",
+            "category": "Blessing",
+            "translations": {
+              "en": "Maghrib: Where the day's blessings culminate",
+              "ar": "الْمَغْرِبُ: حَيْثُ تَتَوَّجُ بَرَكَاتُ الْيَوْمِ",
+              "id": "Maghrib: Di mana berkah hari mencapai puncaknya",
+              "ur": "مغرب: جہاں دن کی برکات عروج پر پہنچتی ہیں",
+              "tr": "Akşam namazı: Günün bereketlerinin zirveye ulaştığı yer",
+              "fr": "Maghrib : Où les bénédictions du jour culminent",
+              "ru": "Магриб: Где благословения дня достигают кульминации",
+              "fa": "مغرب: جایی که برکات روز به اوج می‌رسد",
+              "hi": "मग़रिब: जहाँ दिन की बरकतें चरम पर पहुँचती हैं",
+              "ms": "Maghrib: Di mana keberkatan hari memuncak",
+              "sw": "Maghrib: Mahali baraka za siku zinafikia kilele",
+              "bn": "মাগরিব: যেখানে দিনের বরকত শীর্ষে পৌঁছায়"
+            }
+          },
+          {
+            "id": "maghrib_008",
+            "category": "Renewal",
+            "translations": {
+              "en": "New evening, new chance to improve",
+              "ar": "مَسَاءٌ جَدِيدٌ، فُرْصَةٌ جَدِيدَةٌ لِلتَّحَسُّنِ",
+              "id": "Malam baru, kesempatan baru untuk memperbaiki diri",
+              "ur": "نئی شام، بہتری کا نیا موقع",
+              "tr": "Yeni akşam, gelişmek için yeni fırsat",
+              "fr": "Nouveau soir, nouvelle chance de s'améliorer",
+              "ru": "Новый вечер, новый шанс стать лучше",
+              "fa": "شب نو، فرصتی نو برای بهبود",
+              "hi": "नई शाम, सुधार का नया अवसर",
+              "ms": "Malam baharu, peluang baharu untuk memperbaiki",
+              "sw": "Jioni mpya, fursa mpya ya kuboresha",
+              "bn": "নতুন সন্ধ্যা, উন্নতির নতুন সুযোগ"
+            }
+          },
+          {
+            "id": "maghrib_009",
+            "category": "Forgiveness",
+            "translations": {
+              "en": "Seek forgiveness as the sun sets",
+              "ar": "اطْلُبِ الْمَغْفِرَةَ مَعَ غُرُوبِ الشَّمْسِ",
+              "id": "Mohon ampunan saat matahari terbenam",
+              "ur": "سورج غروب ہوتے وقت معافی مانگیں",
+              "tr": "Güneş batarken mağfiret dile",
+              "fr": "Cherche le pardon au coucher du soleil",
+              "ru": "Ищи прощения на закате солнца",
+              "fa": "با غروب خورشید طلب آمرزش کن",
+              "hi": "सूर्यास्त के समय क्षमा मांगें",
+              "ms": "Mohon keampunan ketika matahari terbenam",
+              "sw": "Omba msamaha jua linapozama",
+              "bn": "সূর্যাস্তের সময় ক্ষমা প্রার্থনা করুন"
+            }
+          },
+          {
+            "id": "maghrib_010",
+            "category": "Hope",
+            "translations": {
+              "en": "Tomorrow's success begins with tonight's Maghrib",
+              "ar": "نَجَاحُ الْغَدِ يَبْدَأُ بِمَغْرِبِ اللَّيْلَةِ",
+              "id": "Kesuksesan esok dimulai dengan Maghrib malam ini",
+              "ur": "کل کی کامیابی آج رات کی مغرب سے شروع ہوتی ہے",
+              "tr": "Yarının başarısı bu gecenin akşam namazıyla başlar",
+              "fr": "Le succès de demain commence avec le Maghrib de ce soir",
+              "ru": "Завтрашний успех начинается с сегодняшнего Магриба",
+              "fa": "موفقیت فردا با مغرب امشب آغاز می‌شود",
+              "hi": "कल की सफलता आज रात की मग़रिब से शुरू होती है",
+              "ms": "Kejayaan esok bermula dengan Maghrib malam ini",
+              "sw": "Mafanikio ya kesho yanaanza na Maghrib ya usiku huu",
+              "bn": "আগামীকালের সাফল্য আজ রাতের মাগরিব দিয়ে শুরু হয়"
+            }
+          },
+          {
+            "id": "maghrib_011",
+            "category": "Preparation",
+            "translations": {
+              "en": "Prepare your soul for the night ahead",
+              "ar": "أَعِدَّ رُوحَكَ لِلَّيْلَةِ الْقَادِمَةِ",
+              "id": "Siapkan jiwamu untuk malam yang akan datang",
+              "ur": "آنے والی رات کے لیے اپنی روح کو تیار کریں",
+              "tr": "Ruhunu önündeki gece için hazırla",
+              "fr": "Prépare ton âme pour la nuit à venir",
+              "ru": "Подготовь свою душу к предстоящей ночи",
+              "fa": "روحت را برای شب پیش رو آماده کن",
+              "hi": "आने वाली रात के लिए अपनी आत्मा को तैयार करें",
+              "ms": "Sediakan jiwa anda untuk malam yang mendatang",
+              "sw": "Andaa roho yako kwa usiku ujao",
+              "bn": "আগামী রাতের জন্য আপনার আত্মা প্রস্তুত করুন"
+            }
+          },
+          {
+            "id": "maghrib_012",
+            "category": "Connection",
+            "translations": {
+              "en": "Disconnect from the world, connect with Allah",
+              "ar": "انْقَطِعْ عَنِ الْعَالَمِ، وَاتَّصِلْ بِاللهِ",
+              "id": "Putuskan dari dunia, sambungkan dengan Allah",
+              "ur": "دنیا سے منقطع ہوں، اللہ سے جڑیں",
+              "tr": "Dünyadan kopun, Allah'a bağlan",
+              "fr": "Déconnecte-toi du monde, connecte-toi à Allah",
+              "ru": "Отключись от мира, подключись к Аллаху",
+              "fa": "از دنیا جدا شو، به خدا متصل شو",
+              "hi": "दुनिया से अलग हों, अल्लाह से जुड़ें",
+              "ms": "Putuskan dari dunia, sambung dengan Allah",
+              "sw": "Jitenga na dunia, ungana na Allah",
+              "bn": "দুনিয়া থেকে বিচ্ছিন্ন হন, আল্লাহর সাথে সংযুক্ত হন"
+            }
+          }
+        ],
+        "isha": [
+          {
+            "id": "isha_001",
+            "category": "Completion",
+            "translations": {
+              "en": "Complete your day with Isha prayer",
+              "ar": "أَكْمِلْ يَوْمَكَ بِصَلَاةِ الْعِشَاءِ",
+              "id": "Lengkapi harimu dengan salat Isya",
+              "ur": "عشاء کی نماز کے ساتھ اپنا دن مکمل کریں",
+              "tr": "Gününü yatsı namazıyla tamamla",
+              "fr": "Complète ta journée avec la prière d'Isha",
+              "ru": "Заверши свой день молитвой Иша",
+              "fa": "روزت را با نماز عشاء کامل کن",
+              "hi": "इशा की नमाज़ के साथ अपना दिन पूरा करें",
+              "ms": "Lengkapkan hari anda dengan solat Isyak",
+              "sw": "Kamilisha siku yako na sala ya Isha",
+              "bn": "এশার নামাজ দিয়ে আপনার দিন সম্পূর্ণ করুন"
+            }
+          },
+          {
+            "id": "isha_002",
+            "category": "Peace",
+            "translations": {
+              "en": "End with peace, begin with hope",
+              "ar": "انْتَهِ بِسَلَامٍ، وَابْدَأْ بِأَمَلٍ",
+              "id": "Akhiri dengan damai, mulai dengan harapan",
+              "ur": "سکون کے ساتھ ختم کریں، امید کے ساتھ شروع کریں",
+              "tr": "Huzurla bitir, umutla başla",
+              "fr": "Termine en paix, commence avec espoir",
+              "ru": "Заканчивай с миром, начинай с надеждой",
+              "fa": "با آرامش پایان بده، با امید آغاز کن",
+              "hi": "शांति के साथ समाप्त करें, आशा के साथ शुरू करें",
+              "ms": "Akhiri dengan aman, mulai dengan harapan",
+              "sw": "Maliza kwa amani, anza kwa matumaini",
+              "bn": "শান্তিতে শেষ করুন, আশা নিয়ে শুরু করুন"
+            }
+          },
+          {
+            "id": "isha_003",
+            "category": "Reflection",
+            "translations": {
+              "en": "Night falls, time for self-reflection",
+              "ar": "حَلَّ اللَّيْلُ، وَقْتُ مُحَاسَبَةِ النَّفْسِ",
+              "id": "Malam tiba, waktu untuk introspeksi diri",
+              "ur": "رات آگئی، خود احتسابی کا وقت",
+              "tr": "Gece çöktü, kendini muhasebenin zamanı",
+              "fr": "La nuit tombe, temps pour l'introspection",
+              "ru": "Наступает ночь, время для самоанализа",
+              "fa": "شب فرا رسید، وقت خودبازبینی",
+              "hi": "रात हो गई, आत्मनिरीक्षण का समय",
+              "ms": "Malam tiba, masa untuk muhasabah diri",
+              "sw": "Usiku umeingia, wakati wa kujichunguza",
+              "bn": "রাত হয়েছে, আত্মসমালোচনার সময়"
+            }
+          },
+          {
+            "id": "isha_004",
+            "category": "Protection",
+            "translations": {
+              "en": "Seek Allah's protection before you sleep",
+              "ar": "اطْلُبْ حِمَايَةَ اللهِ قَبْلَ أَنْ تَنَامَ",
+              "id": "Mohon perlindungan Allah sebelum tidur",
+              "ur": "سونے سے پہلے اللہ کی حفاظت طلب کریں",
+              "tr": "Uyumadan önce Allah'ın korumasını iste",
+              "fr": "Cherche la protection d'Allah avant de dormir",
+              "ru": "Ищи защиту Аллаха перед сном",
+              "fa": "پیش از خواب حفاظت خدا را بخواه",
+              "hi": "सोने से पहले अल्लाह की सुरक्षा मांगें",
+              "ms": "Mohon perlindungan Allah sebelum tidur",
+              "sw": "Omba ulinzi wa Allah kabla ya kulala",
+              "bn": "ঘুমানোর আগে আল্লাহর সুরক্ষা চান"
+            }
+          },
+          {
+            "id": "isha_005",
+            "category": "Forgiveness",
+            "translations": {
+              "en": "Clear your heart before the night's rest",
+              "ar": "طَهِّرْ قَلْبَكَ قَبْلَ رَاحَةِ اللَّيْلِ",
+              "id": "Bersihkan hatimu sebelum istirahat malam",
+              "ur": "رات کے آرام سے پہلے اپنا دل صاف کریں",
+              "tr": "Gece istirahati öncesi kalbini temizle",
+              "fr": "Purifie ton cœur avant le repos nocturne",
+              "ru": "Очисти своё сердце перед ночным отдыхом",
+              "fa": "پیش از استراحت شب قلبت را پاک کن",
+              "hi": "रात के आराम से पहले अपना दिल साफ़ करें",
+              "ms": "Bersihkan hati anda sebelum berehat malam",
+              "sw": "Safisha moyo wako kabla ya mapumziko ya usiku",
+              "bn": "রাতের বিশ্রামের আগে আপনার হৃদয় পরিষ্কার করুন"
+            }
+          },
+          {
+            "id": "isha_006",
+            "category": "Gratitude",
+            "translations": {
+              "en": "Thank Allah for another day of life",
+              "ar": "اشْكُرِ اللهَ عَلَى يَوْمٍ آخَرَ مِنَ الْحَيَاةِ",
+              "id": "Syukuri Allah atas satu hari lagi kehidupan",
+              "ur": "زندگی کے ایک اور دن کے لیے اللہ کا شکر ادا کریں",
+              "tr": "Bir gün daha yaşam için Allah'a şükret",
+              "fr": "Remercie Allah pour un autre jour de vie",
+              "ru": "Поблагодари Аллаха за ещё один день жизни",
+              "fa": "خدا را برای یک روز دیگر از زندگی شکر کن",
+              "hi": "जीवन के एक और दिन के लिए अल्लाह का शुक्र अदा करें",
+              "ms": "Syukuri Allah atas satu hari lagi kehidupan",
+              "sw": "Mshukuru Allah kwa siku nyingine ya maisha",
+              "bn": "জীবনের আরেকটি দিনের জন্য আল্লাহর শুকরিয়া আদায় করুন"
+            }
+          },
+          {
+            "id": "isha_007",
+            "category": "Preparation",
+            "translations": {
+              "en": "Prepare to meet your Lord in prayer",
+              "ar": "اسْتَعِدَّ لِلِقَاءِ رَبِّكَ فِي الصَّلَاةِ",
+              "id": "Bersiaplah bertemu Tuhanmu dalam salat",
+              "ur": "نماز میں اپنے رب سے ملاقات کی تیاری کریں",
+              "tr": "Namazda Rabbinle buluşmaya hazırlan",
+              "fr": "Prépare-toi à rencontrer ton Seigneur dans la prière",
+              "ru": "Приготовься встретить своего Господа в молитве",
+              "fa": "برای ملاقات پروردگارت در نماز آماده شو",
+              "hi": "नमाज़ में अपने रब से मिलने की तैयारी करें",
+              "ms": "Bersedia untuk bertemu Tuhan anda dalam solat",
+              "sw": "Jiandae kukutana na Mola wako katika sala",
+              "bn": "নামাজে আপনার প্রভুর সাথে সাক্ষাতের প্রস্তুতি নিন"
+            }
+          },
+          {
+            "id": "isha_008",
+            "category": "Wisdom",
+            "translations": {
+              "en": "Night prayers bring morning blessings",
+              "ar": "صَلَوَاتُ اللَّيْلِ تَجْلِبُ بَرَكَاتِ الصَّبَاحِ",
+              "id": "Salat malam membawa berkah pagi",
+              "ur": "رات کی نمازیں صبح کی برکات لاتی ہیں",
+              "tr": "Gece namazları sabah bereketleri getirir",
+              "fr": "Les prières nocturnes apportent les bénédictions matinales",
+              "ru": "Ночные молитвы приносят утренние благословения",
+              "fa": "نمازهای شب برکات صبح را می‌آورد",
+              "hi": "रात की नमाज़ें सुबह की बरकतें लाती हैं",
+              "ms": "Solat malam membawa berkat pagi",
+              "sw": "Sala za usiku zinaleta baraka za asubuhi",
+              "bn": "রাতের নামাজ সকালের বরকত নিয়ে আসে"
+            }
+          },
+          {
+            "id": "isha_009",
+            "category": "Reminder",
+            "translations": {
+              "en": "Don't sleep without praying Isha",
+              "ar": "لَا تَنَمْ دُونَ صَلَاةِ الْعِشَاءِ",
+              "id": "Jangan tidur tanpa salat Isya",
+              "ur": "عشاء کی نماز کے بغیر نہ سوئیں",
+              "tr": "Yatsı namazı kılmadan uyuma",
+              "fr": "Ne dors pas sans prier Isha",
+              "ru": "Не спи без молитвы Иша",
+              "fa": "بدون نماز عشاء نخواب",
+              "hi": "इशा की नमाज़ के बिना न सोएं",
+              "ms": "Jangan tidur tanpa solat Isyak",
+              "sw": "Usilale bila kuswali Isha",
+              "bn": "এশার নামাজ ছাড়া ঘুমাবেন না"
+            }
+          },
+          {
+            "id": "isha_010",
+            "category": "Hope",
+            "translations": {
+              "en": "Tomorrow is Allah's gift, pray tonight",
+              "ar": "الْغَدُ هِبَةُ اللهِ، صَلِّ اللَّيْلَةَ",
+              "id": "Esok adalah karunia Allah, salatlah malam ini",
+              "ur": "کل اللہ کا تحفہ ہے، آج رات نماز پڑھیں",
+              "tr": "Yarın Allah'ın hediyesidir, bu gece namaz kıl",
+              "fr": "Demain est le don d'Allah, prie ce soir",
+              "ru": "Завтра - дар Аллаха, молись сегодня",
+              "fa": "فردا هدیه خداست، امشب نماز بخوان",
+              "hi": "कल अल्लाह का तोहफ़ा है, आज रात नमाज़ पढ़ें",
+              "ms": "Esok adalah kurniaan Allah, solat malam ini",
+              "sw": "Kesho ni zawadi ya Allah, swali usiku huu",
+              "bn": "আগামীকাল আল্লাহর উপহার, আজ রাতে নামাজ পড়ুন"
+            }
+          },
+          {
+            "id": "isha_011",
+            "category": "Blessing",
+            "translations": {
+              "en": "Close your day with Allah's name",
+              "ar": "اخْتِمْ يَوْمَكَ بِاسْمِ اللهِ",
+              "id": "Tutup harimu dengan nama Allah",
+              "ur": "اللہ کے نام کے ساتھ اپنا دن ختم کریں",
+              "tr": "Gününü Allah'ın adıyla kapat",
+              "fr": "Clôture ta journée avec le nom d'Allah",
+              "ru": "Закрой свой день с именем Аллаха",
+              "fa": "روزت را با نام خدا به پایان برسان",
+              "hi": "अल्लाह के नाम के साथ अपना दिन समाप्त करें",
+              "ms": "Tutup hari anda dengan nama Allah",
+              "sw": "Funga siku yako kwa jina la Allah",
+              "bn": "আল্লাহর নাম দিয়ে আপনার দিন শেষ করুন"
+            }
+          },
+          {
+            "id": "isha_012",
+            "category": "Success",
+            "translations": {
+              "en": "Successful days end with grateful prayers",
+              "ar": "الْأَيَّامُ النَّاجِحَةُ تَنْتَهِي بِصَلَوَاتٍ شَاكِرَةٍ",
+              "id": "Hari yang sukses diakhiri dengan salat penuh syukur",
+              "ur": "کامیاب دن شکرگزار نمازوں کے ساتھ ختم ہوتے ہیں",
+              "tr": "Başarılı günler şükreden namazlarla biter",
+              "fr": "Les jours réussis se terminent par des prières reconnaissantes",
+              "ru": "Успешные дни заканчиваются благодарными молитвами",
+              "fa": "روزهای موفق با نمازهای شکرگزار پایان می‌یابد",
+              "hi": "सफल दिन कृतज्ञ नमाज़ों के साथ समाप्त होते हैं",
+              "ms": "Hari yang berjaya berakhir dengan solat penuh syukur",
+              "sw": "Siku za mafanikio zinaishia kwa sala za shukrani",
+              "bn": "সফল দিনগুলো কৃতজ্ঞ নামাজ দিয়ে শেষ হয়"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

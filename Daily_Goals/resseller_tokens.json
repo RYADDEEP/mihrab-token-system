@@ -1,0 +1,42 @@
+{
+  "version": "1.1",
+  "reseller_tokens": {
+    "package_types": {
+      "silver": {
+        "label": {
+          "en": "Silver Package",
+          "ar": "الباقة الفضية",
+          "fr": "Pack Argenté",
+          "in-ID": "Paket Perak",
+          "ms-MY": "Pakej Perak"
+        },
+        "description": {
+          "en": "Basic access with one device",
+          "ar": "وصول أساسي مع جهاز واحد",
+          ...
+        },
+        "price": 19.99,
+        "currency": "USD",
+        "max_devices": 1,
+        "created_at": "2025-06-23T00:00:00Z",
+        "updated_at": "2025-06-23T00:00:00Z",
+        "is_active": true
+      }
+    },
+    "reseller_tiers": {
+      "basic": {
+        "commission_rate": 0.05,
+        "label": {
+          "en": "Basic Reseller",
+          "ar": "موزع أساسي",
+          ...
+        },
+        "description": {
+          "en": "Entry-level reseller with 5% commission",
+          ...
+        },
+        "is_active": true
+      }
+    }
+  }
+}
