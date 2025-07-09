@@ -314,6 +314,34 @@
           "type": "color",
           "description": "Mount Arafat"
         }
+      },
+      "personalization": {
+        "backgrounds": {
+          "option1_soft_blue": {
+            "value": "#F7F9FC",
+            "type": "color",
+            "description": "User option \u2013 soft blue background"
+          },
+          "option2_soft_lavender": {
+            "value": "#F3F2F7",
+            "type": "color",
+            "description": "User option \u2013 soft lavender background"
+          },
+          "option3_nature_green": {
+            "value": "#3A4D1C",
+            "type": "color",
+            "description": "User option \u2013 spiritual deep green"
+          }
+        }
+      },
+      "mihrab": {
+        "background": {
+          "light": {
+            "value": "#F4F7F4",
+            "type": "color",
+            "description": "Mihrab Default Light Mode Background"
+          }
+        }
       }
     },
     "typography": {
