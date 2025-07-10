@@ -3,77 +3,77 @@
     "spacing": {
       "screen": {
         "padding": {
-          "value": "{01-core/primitives.spacing.4}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.4}"
         },
         "safeArea": {
           "top": {
-            "value": "{01-core/primitives.spacing.11}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.11}"
           },
           "bottom": {
-            "value": "{01-core/primitives.spacing.8}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.8}"
           },
           "horizontal": {
-            "value": "{01-core/primitives.spacing.4}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.4}"
           }
         }
       },
       "navigation": {
         "height": {
-          "value": "56",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "56"
         },
         "iconSize": {
-          "value": "24",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "24"
         }
       }
     },
     "typography": {
       "scale": {
-        "value": "1",
-        "type": "other"
+        "$type": "other",
+        "$value": "1"
       }
     },
     "components": {
       "button": {
         "minHeight": {
-          "value": "44",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "44"
         },
         "paddingX": {
-          "value": "{01-core/primitives.spacing.4}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.4}"
         },
         "paddingY": {
-          "value": "{01-core/primitives.spacing.3}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.3}"
         }
       },
       "input": {
         "minHeight": {
-          "value": "44",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "44"
         }
       },
       "card": {
         "padding": {
-          "value": "{01-core/primitives.spacing.4}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.4}"
         }
       }
     },
     "layout": {
       "columns": {
-        "value": "4",
-        "type": "other"
+        "$type": "other",
+        "$value": "4"
       },
       "gutter": {
-        "value": "{01-core/primitives.spacing.4}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.4}"
       }
     }
   },
@@ -81,81 +81,81 @@
     "spacing": {
       "screen": {
         "padding": {
-          "value": "{01-core/primitives.spacing.6}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.6}"
         },
         "safeArea": {
           "top": {
-            "value": "{01-core/primitives.spacing.8}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.8}"
           },
           "bottom": {
-            "value": "{01-core/primitives.spacing.8}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.8}"
           },
           "horizontal": {
-            "value": "{01-core/primitives.spacing.6}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.6}"
           }
         }
       },
       "navigation": {
         "height": {
-          "value": "64",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "64"
         },
         "iconSize": {
-          "value": "28",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "28"
         }
       }
     },
     "typography": {
       "scale": {
-        "value": "1.125",
-        "type": "other"
+        "$type": "other",
+        "$value": "1.125"
       }
     },
     "components": {
       "button": {
         "minHeight": {
-          "value": "48",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "48"
         },
         "paddingX": {
-          "value": "{01-core/primitives.spacing.6}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.6}"
         },
         "paddingY": {
-          "value": "{01-core/primitives.spacing.3}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.3}"
         }
       },
       "input": {
         "minHeight": {
-          "value": "48",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "48"
         }
       },
       "card": {
         "padding": {
-          "value": "{01-core/primitives.spacing.6}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.6}"
         }
       }
     },
     "layout": {
       "columns": {
-        "value": "8",
-        "type": "other"
+        "$type": "other",
+        "$value": "8"
       },
       "gutter": {
-        "value": "{01-core/primitives.spacing.6}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.6}"
       },
       "sidebarWidth": {
-        "value": "280",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "280"
       }
     }
   },
@@ -163,75 +163,75 @@
     "spacing": {
       "screen": {
         "padding": {
-          "value": "{01-core/primitives.spacing.8}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.8}"
         },
         "maxWidth": {
-          "value": "1440",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "1440"
         },
         "contentMaxWidth": {
-          "value": "1200",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "1200"
         }
       },
       "navigation": {
         "height": {
-          "value": "72",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "72"
         },
         "iconSize": {
-          "value": "24",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "24"
         }
       }
     },
     "typography": {
       "scale": {
-        "value": "1",
-        "type": "other"
+        "$type": "other",
+        "$value": "1"
       }
     },
     "components": {
       "button": {
         "minHeight": {
-          "value": "40",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "40"
         },
         "paddingX": {
-          "value": "{01-core/primitives.spacing.4}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.4}"
         },
         "paddingY": {
-          "value": "{01-core/primitives.spacing.2}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.2}"
         }
       },
       "input": {
         "minHeight": {
-          "value": "40",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "40"
         }
       },
       "card": {
         "padding": {
-          "value": "{01-core/primitives.spacing.6}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.6}"
         }
       }
     },
     "layout": {
       "columns": {
-        "value": "12",
-        "type": "other"
+        "$type": "other",
+        "$value": "12"
       },
       "gutter": {
-        "value": "{01-core/primitives.spacing.6}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.6}"
       },
       "sidebarWidth": {
-        "value": "320",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "320"
       }
     }
   },
@@ -239,97 +239,97 @@
     "spacing": {
       "screen": {
         "padding": {
-          "value": "{01-core/primitives.spacing.12}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.12}"
         },
         "safeArea": {
-          "value": "{01-core/primitives.spacing.16}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.16}"
         }
       },
       "navigation": {
         "height": {
-          "value": "96",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "96"
         },
         "iconSize": {
-          "value": "48",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "48"
         }
       }
     },
     "typography": {
       "scale": {
-        "value": "2",
-        "type": "other",
-        "description": "2x scale for 10-foot UI"
+        "$type": "other",
+        "$value": "2",
+        "$description": "2x scale for 10-foot UI"
       },
       "minSize": {
-        "value": "24",
-        "type": "fontSizes",
-        "description": "Minimum readable size"
+        "$type": "fontSizes",
+        "$value": "24",
+        "$description": "Minimum readable size"
       }
     },
     "components": {
       "button": {
         "minHeight": {
-          "value": "80",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "80"
         },
         "paddingX": {
-          "value": "{01-core/primitives.spacing.8}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.8}"
         },
         "paddingY": {
-          "value": "{01-core/primitives.spacing.6}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.6}"
         }
       },
       "card": {
         "padding": {
-          "value": "{01-core/primitives.spacing.10}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.10}"
         },
         "focusScale": {
-          "value": "1.05",
-          "type": "other"
+          "$type": "other",
+          "$value": "1.05"
         }
       },
       "tile": {
         "size": {
-          "value": "240",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "240"
         },
         "gap": {
-          "value": "{01-core/primitives.spacing.8}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.8}"
         }
       }
     },
     "focus": {
       "outline": {
-        "value": "4px solid {01-core/primitives.colors.primary.500}",
-        "type": "other"
+        "$type": "other",
+        "$value": "4px solid {01-core/primitives.colors.primary.500}"
       },
       "offset": {
-        "value": "4",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "4"
       },
       "animation": {
-        "value": "pulse 2s infinite",
-        "type": "other"
+        "$type": "other",
+        "$value": "pulse 2s infinite"
       }
     },
     "navigation": {
       "dpad": {
         "sensitivity": {
-          "value": "300",
-          "type": "other",
-          "description": "ms delay"
+          "$type": "other",
+          "$value": "300",
+          "$description": "ms delay"
         },
         "acceleration": {
-          "value": "1.2",
-          "type": "other"
+          "$type": "other",
+          "$value": "1.2"
         }
       }
     }
@@ -338,93 +338,93 @@
     "spacing": {
       "screen": {
         "padding": {
-          "value": "{01-core/primitives.spacing.2}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.2}"
         },
         "safeArea": {
-          "value": "{01-core/primitives.spacing.1}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.1}"
         }
       }
     },
     "typography": {
       "scale": {
-        "value": "0.75",
-        "type": "other"
+        "$type": "other",
+        "$value": "0.75"
       },
       "body": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontSize": "12",
           "lineHeight": "16",
           "fontWeight": "500"
-        },
-        "type": "typography"
+        }
       },
       "caption": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontSize": "10",
           "lineHeight": "12",
           "fontWeight": "400"
-        },
-        "type": "typography"
+        }
       }
     },
     "components": {
       "button": {
         "minHeight": {
-          "value": "32",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "32"
         },
         "circular": {
-          "value": "true",
-          "type": "other"
+          "$type": "other",
+          "$value": "true"
         }
       },
       "complication": {
         "small": {
-          "value": "32",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "32"
         },
         "medium": {
-          "value": "48",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "48"
         },
         "large": {
-          "value": "64",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "64"
         }
       },
       "list": {
         "itemHeight": {
-          "value": "40",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "40"
         },
         "maxItems": {
-          "value": "5",
-          "type": "other"
+          "$type": "other",
+          "$value": "5"
         }
       }
     },
     "layout": {
       "circular": {
         "enabled": {
-          "value": "true",
-          "type": "other"
+          "$type": "other",
+          "$value": "true"
         },
         "padding": {
-          "value": "15%",
-          "type": "other"
+          "$type": "other",
+          "$value": "15%"
         }
       }
     },
     "interaction": {
       "crownSensitivity": {
-        "value": "0.5",
-        "type": "other"
+        "$type": "other",
+        "$value": "0.5"
       },
       "tapSize": {
-        "value": "44",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "44"
       }
     }
   },
@@ -432,187 +432,187 @@
     "spacing": {
       "touch": {
         "minSize": {
-          "value": "64",
-          "type": "spacing",
-          "description": "Minimum touch target"
+          "$type": "spacing",
+          "$value": "64",
+          "$description": "Minimum touch target"
         },
         "preferredSize": {
-          "value": "80",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "80"
         },
         "gap": {
-          "value": "{01-core/primitives.spacing.6}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.6}"
         }
       }
     },
     "typography": {
       "scale": {
-        "value": "1.5",
-        "type": "other"
+        "$type": "other",
+        "$value": "1.5"
       },
       "minSize": {
-        "value": "18",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "18"
       },
       "driving": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontSize": "24",
           "fontWeight": "600",
           "lineHeight": "32"
-        },
-        "type": "typography"
+        }
       }
     },
     "colors": {
       "contrast": {
         "high": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "onHigh": {
-          "value": "#FFFFFF",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFFFFF"
         }
       },
       "day": {
         "background": {
-          "value": "#FFFFFF",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFFFFF"
         },
         "text": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         }
       },
       "night": {
         "background": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "text": {
-          "value": "#FFFFFF",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFFFFF"
         },
         "accent": {
-          "value": "#4CAF50",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4CAF50"
         }
       }
     },
     "components": {
       "button": {
         "minHeight": {
-          "value": "64",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "64"
         },
         "paddingX": {
-          "value": "{01-core/primitives.spacing.8}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.8}"
         }
       },
       "quickAction": {
         "size": {
-          "value": "80",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "80"
         },
         "iconSize": {
-          "value": "40",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "40"
         }
       }
     },
     "safety": {
       "glanceTime": {
-        "value": "2000",
-        "type": "duration",
-        "description": "Max glance duration"
+        "$type": "duration",
+        "$value": "2000",
+        "$description": "Max glance duration"
       },
       "autoHide": {
-        "value": "5000",
-        "type": "duration"
+        "$type": "duration",
+        "$value": "5000"
       }
     }
   },
   "04-platforms/smarthome": {
     "typography": {
       "voice": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
           "fontSize": "24",
           "fontWeight": "500",
           "lineHeight": "32"
-        },
-        "type": "typography"
+        }
       },
       "display": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontSize": "32",
           "fontWeight": "700",
           "lineHeight": "40"
-        },
-        "type": "typography"
+        }
       }
     },
     "feedback": {
       "audio": {
         "enabled": {
-          "value": "true",
-          "type": "other"
+          "$type": "other",
+          "$value": "true"
         },
         "volume": {
-          "value": "0.7",
-          "type": "other"
+          "$type": "other",
+          "$value": "0.7"
         }
       },
       "haptic": {
         "enabled": {
-          "value": "true",
-          "type": "other"
+          "$type": "other",
+          "$value": "true"
         },
         "intensity": {
-          "value": "light",
-          "type": "other"
+          "$type": "other",
+          "$value": "light"
         }
       },
       "visual": {
         "ledColor": {
-          "value": "{01-core/primitives.colors.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.500}"
         },
         "pulseSpeed": {
-          "value": "1500",
-          "type": "duration"
+          "$type": "duration",
+          "$value": "1500"
         }
       }
     },
     "voice": {
       "wakeWord": {
-        "value": "Mihrab",
-        "type": "other"
+        "$type": "other",
+        "$value": "Mihrab"
       },
       "timeout": {
-        "value": "10000",
-        "type": "duration"
+        "$type": "duration",
+        "$value": "10000"
       },
       "confirmationRequired": {
-        "value": "true",
-        "type": "other"
+        "$type": "other",
+        "$value": "true"
       }
     },
     "display": {
       "brightness": {
         "auto": {
-          "value": "true",
-          "type": "other"
+          "$type": "other",
+          "$value": "true"
         },
         "min": {
-          "value": "0.3",
-          "type": "other"
+          "$type": "other",
+          "$value": "0.3"
         },
         "max": {
-          "value": "1",
-          "type": "other"
+          "$type": "other",
+          "$value": "1"
         }
       }
     }

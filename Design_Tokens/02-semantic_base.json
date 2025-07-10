@@ -3,465 +3,465 @@
     "colors": {
       "background": {
         "primary": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.neutral.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.50}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         },
         "quaternary": {
-          "value": "{01-core/primitives.colors.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.200}"
         },
         "prayer": {
-          "value": "{01-core/primitives.colors.primary.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.50}"
         },
         "overlay": {
-          "value": "rgba(0, 0, 0, 0.5)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.5)"
         },
         "overlayLight": {
-          "value": "rgba(0, 0, 0, 0.3)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.3)"
         },
         "overlayDark": {
-          "value": "rgba(0, 0, 0, 0.7)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.7)"
         }
       },
       "text": {
         "primary": {
-          "value": "{01-core/primitives.colors.neutral.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.900}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.neutral.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.600}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.neutral.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.500}"
         },
         "quaternary": {
-          "value": "{01-core/primitives.colors.neutral.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.400}"
         },
         "disabled": {
-          "value": "{01-core/primitives.colors.neutral.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.400}"
         },
         "placeholder": {
-          "value": "{01-core/primitives.colors.neutral.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.400}"
         },
         "inverse": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "inverseSecondary": {
-          "value": "{01-core/primitives.colors.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.200}"
         },
         "prayer": {
-          "value": "{01-core/primitives.colors.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.700}"
         },
         "link": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "linkHover": {
-          "value": "{01-core/primitives.colors.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.700}"
         }
       },
       "surface": {
         "primary": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.neutral.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.50}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         }
       },
       "border": {
         "default": {
-          "value": "{01-core/primitives.colors.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.200}"
         },
         "light": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         },
         "medium": {
-          "value": "{01-core/primitives.colors.neutral.300}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.300}"
         },
         "dark": {
-          "value": "{01-core/primitives.colors.neutral.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.400}"
         },
         "focus": {
-          "value": "{01-core/primitives.colors.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.500}"
         },
         "error": {
-          "value": "{01-core/primitives.colors.status.error}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.status.error}"
         },
         "success": {
-          "value": "{01-core/primitives.colors.status.success}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.status.success}"
         },
         "warning": {
-          "value": "{01-core/primitives.colors.status.warning}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.status.warning}"
         }
       },
       "action": {
         "primary": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "primaryHover": {
-          "value": "{01-core/primitives.colors.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.700}"
         },
         "primaryActive": {
-          "value": "{01-core/primitives.colors.primary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.800}"
         },
         "primaryDisabled": {
-          "value": "{01-core/primitives.colors.primary.300}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.300}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.neutral.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.600}"
         },
         "secondaryHover": {
-          "value": "{01-core/primitives.colors.neutral.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.700}"
         },
         "secondaryActive": {
-          "value": "{01-core/primitives.colors.neutral.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.800}"
         },
         "secondaryDisabled": {
-          "value": "{01-core/primitives.colors.neutral.300}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.300}"
         },
         "tertiary": {
-          "value": "transparent",
-          "type": "color"
+          "$type": "color",
+          "$value": "transparent"
         },
         "tertiaryHover": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         },
         "tertiaryActive": {
-          "value": "{01-core/primitives.colors.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.200}"
         }
       },
       "state": {
         "hover": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         },
         "active": {
-          "value": "{01-core/primitives.colors.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.200}"
         },
         "selected": {
-          "value": "{01-core/primitives.colors.primary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.100}"
         },
         "disabled": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         },
         "focus": {
-          "value": "{01-core/primitives.colors.primary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.100}"
         }
       }
     },
     "typography": {
       "heading": {
         "1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.5xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.bold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.tight}",
             "letterSpacing": "{01-core/primitives.typography.letterSpacing.tight}"
-          },
-          "type": "typography"
+          }
         },
         "2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.4xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.semibold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.tight}",
             "letterSpacing": "{01-core/primitives.typography.letterSpacing.tight}"
-          },
-          "type": "typography"
+          }
         },
         "3": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.3xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.semibold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.snug}",
             "letterSpacing": "{01-core/primitives.typography.letterSpacing.normal}"
-          },
-          "type": "typography"
+          }
         },
         "4": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.2xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.semibold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.snug}"
-          },
-          "type": "typography"
+          }
         },
         "5": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.semibold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.normal}"
-          },
-          "type": "typography"
+          }
         },
         "6": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.lg}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.semibold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.normal}"
-          },
-          "type": "typography"
+          }
         }
       },
       "body": {
         "xl": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.relaxed}"
-          },
-          "type": "typography"
+          }
         },
         "lg": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.lg}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.relaxed}"
-          },
-          "type": "typography"
+          }
         },
         "base": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.base}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.normal}"
-          },
-          "type": "typography"
+          }
         },
         "sm": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.sm}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.normal}"
-          },
-          "type": "typography"
+          }
         },
         "xs": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.xs}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.normal}"
-          },
-          "type": "typography"
+          }
         }
       },
       "label": {
         "lg": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.base}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.medium}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.tight}"
-          },
-          "type": "typography"
+          }
         },
         "base": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.sm}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.medium}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.tight}"
-          },
-          "type": "typography"
+          }
         },
         "sm": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.latin}",
             "fontSize": "{01-core/primitives.typography.fontSizes.xs}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.medium}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.tight}"
-          },
-          "type": "typography"
+          }
         }
       },
       "arabic": {
         "display": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.arabicDisplay}",
             "fontSize": "{01-core/primitives.typography.fontSizes.3xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.bold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.arabic}",
             "letterSpacing": "{01-core/primitives.typography.letterSpacing.arabic}"
-          },
-          "type": "typography"
+          }
         },
         "heading": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.arabicDisplay}",
             "fontSize": "{01-core/primitives.typography.fontSizes.2xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.semibold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.arabic}"
-          },
-          "type": "typography"
+          }
         },
         "body": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.arabic}",
             "fontSize": "{01-core/primitives.typography.fontSizes.lg}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.arabic}"
-          },
-          "type": "typography"
+          }
         },
         "caption": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.arabic}",
             "fontSize": "{01-core/primitives.typography.fontSizes.sm}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.arabic}"
-          },
-          "type": "typography"
+          }
         }
       },
       "urdu": {
         "display": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.urdu}",
             "fontSize": "{01-core/primitives.typography.fontSizes.3xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.bold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.urdu}"
-          },
-          "type": "typography"
+          }
         },
         "body": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.urdu}",
             "fontSize": "{01-core/primitives.typography.fontSizes.lg}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.urdu}"
-          },
-          "type": "typography"
+          }
         }
       },
       "persian": {
         "display": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.persian}",
             "fontSize": "{01-core/primitives.typography.fontSizes.3xl}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.bold}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.persian}"
-          },
-          "type": "typography"
+          }
         },
         "body": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{01-core/primitives.typography.fontFamilies.persian}",
             "fontSize": "{01-core/primitives.typography.fontSizes.lg}",
             "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
             "lineHeight": "{01-core/primitives.typography.lineHeights.persian}"
-          },
-          "type": "typography"
+          }
         }
       },
       "code": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{01-core/primitives.typography.fontFamilies.mono}",
           "fontSize": "{01-core/primitives.typography.fontSizes.sm}",
           "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
           "lineHeight": "{01-core/primitives.typography.lineHeights.normal}"
-        },
-        "type": "typography"
+        }
       }
     },
     "spacing": {
       "page": {
         "padding": {
-          "value": "{01-core/primitives.spacing.4}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.4}"
         },
         "margin": {
-          "value": "{01-core/primitives.spacing.0}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.0}"
         }
       },
       "section": {
         "gap": {
-          "value": "{01-core/primitives.spacing.6}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.6}"
         },
         "padding": {
-          "value": "{01-core/primitives.spacing.8}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.8}"
         }
       },
       "component": {
         "padding": {
-          "value": "{01-core/primitives.spacing.3}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.3}"
         },
         "gap": {
-          "value": "{01-core/primitives.spacing.2}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.2}"
         }
       },
       "input": {
         "paddingX": {
-          "value": "{01-core/primitives.spacing.3}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.3}"
         },
         "paddingY": {
-          "value": "{01-core/primitives.spacing.2}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.2}"
         }
       }
     }

@@ -3,149 +3,149 @@
     "button": {
       "base": {
         "borderRadius": {
-          "value": "{01-core/primitives.radius.md}",
-          "type": "borderRadius"
+          "$type": "borderRadius",
+          "$value": "{01-core/primitives.radius.md}"
         },
         "fontWeight": {
-          "value": "{01-core/primitives.typography.fontWeights.medium}",
-          "type": "fontWeights"
+          "$type": "fontWeights",
+          "$value": "{01-core/primitives.typography.fontWeights.medium}"
         },
         "transition": {
-          "value": "all {01-core/primitives.motion.duration.fast} {01-core/primitives.motion.easing.easeInOut}",
-          "type": "other"
+          "$type": "other",
+          "$value": "all {01-core/primitives.motion.duration.fast} {01-core/primitives.motion.easing.easeInOut}"
         }
       },
       "sizes": {
         "sm": {
           "paddingX": {
-            "value": "{01-core/primitives.spacing.3}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.3}"
           },
           "paddingY": {
-            "value": "{01-core/primitives.spacing.1.5}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.1.5}"
           },
           "fontSize": {
-            "value": "{01-core/primitives.typography.fontSizes.sm}",
-            "type": "fontSizes"
+            "$type": "fontSizes",
+            "$value": "{01-core/primitives.typography.fontSizes.sm}"
           }
         },
         "md": {
           "paddingX": {
-            "value": "{01-core/primitives.spacing.4}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.4}"
           },
           "paddingY": {
-            "value": "{01-core/primitives.spacing.2}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.2}"
           },
           "fontSize": {
-            "value": "{01-core/primitives.typography.fontSizes.base}",
-            "type": "fontSizes"
+            "$type": "fontSizes",
+            "$value": "{01-core/primitives.typography.fontSizes.base}"
           }
         },
         "lg": {
           "paddingX": {
-            "value": "{01-core/primitives.spacing.6}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.6}"
           },
           "paddingY": {
-            "value": "{01-core/primitives.spacing.3}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.3}"
           },
           "fontSize": {
-            "value": "{01-core/primitives.typography.fontSizes.lg}",
-            "type": "fontSizes"
+            "$type": "fontSizes",
+            "$value": "{01-core/primitives.typography.fontSizes.lg}"
           }
         }
       },
       "variants": {
         "primary": {
           "background": {
-            "value": "{02-semantic/base.colors.action.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.action.primary}"
           },
           "backgroundHover": {
-            "value": "{02-semantic/base.colors.action.primaryHover}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.action.primaryHover}"
           },
           "backgroundActive": {
-            "value": "{02-semantic/base.colors.action.primaryActive}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.action.primaryActive}"
           },
           "backgroundDisabled": {
-            "value": "{02-semantic/base.colors.action.primaryDisabled}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.action.primaryDisabled}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.0}"
           },
           "border": {
-            "value": "transparent",
-            "type": "color"
+            "$type": "color",
+            "$value": "transparent"
           }
         },
         "secondary": {
           "background": {
-            "value": "transparent",
-            "type": "color"
+            "$type": "color",
+            "$value": "transparent"
           },
           "backgroundHover": {
-            "value": "{02-semantic/base.colors.state.hover}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.state.hover}"
           },
           "backgroundActive": {
-            "value": "{02-semantic/base.colors.state.active}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.state.active}"
           },
           "text": {
-            "value": "{02-semantic/base.colors.text.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.text.primary}"
           },
           "border": {
-            "value": "{02-semantic/base.colors.border.default}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.border.default}"
           },
           "borderWidth": {
-            "value": "{01-core/primitives.borderWidth.thin}",
-            "type": "borderWidth"
+            "$type": "borderWidth",
+            "$value": "{01-core/primitives.borderWidth.thin}"
           }
         },
         "tertiary": {
           "background": {
-            "value": "transparent",
-            "type": "color"
+            "$type": "color",
+            "$value": "transparent"
           },
           "backgroundHover": {
-            "value": "{02-semantic/base.colors.state.hover}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.state.hover}"
           },
           "text": {
-            "value": "{02-semantic/base.colors.text.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.text.primary}"
           },
           "textHover": {
-            "value": "{02-semantic/base.colors.text.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.text.primary}"
           },
           "border": {
-            "value": "transparent",
-            "type": "color"
+            "$type": "color",
+            "$value": "transparent"
           }
         },
         "danger": {
           "background": {
-            "value": "{01-core/primitives.colors.status.error}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.status.error}"
           },
           "backgroundHover": {
-            "value": "{01-core/primitives.colors.status.errorDark}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.status.errorDark}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.0}"
           }
         }
       }
@@ -153,83 +153,83 @@
     "input": {
       "base": {
         "borderRadius": {
-          "value": "{01-core/primitives.radius.md}",
-          "type": "borderRadius"
+          "$type": "borderRadius",
+          "$value": "{01-core/primitives.radius.md}"
         },
         "borderWidth": {
-          "value": "{01-core/primitives.borderWidth.thin}",
-          "type": "borderWidth"
+          "$type": "borderWidth",
+          "$value": "{01-core/primitives.borderWidth.thin}"
         },
         "paddingX": {
-          "value": "{01-core/primitives.spacing.3}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.3}"
         },
         "paddingY": {
-          "value": "{01-core/primitives.spacing.2}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.2}"
         },
         "fontSize": {
-          "value": "{01-core/primitives.typography.fontSizes.base}",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "{01-core/primitives.typography.fontSizes.base}"
         },
         "lineHeight": {
-          "value": "{01-core/primitives.typography.lineHeights.normal}",
-          "type": "lineHeights"
+          "$type": "lineHeights",
+          "$value": "{01-core/primitives.typography.lineHeights.normal}"
         }
       },
       "states": {
         "default": {
           "background": {
-            "value": "{02-semantic/base.colors.background.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.background.primary}"
           },
           "border": {
-            "value": "{02-semantic/base.colors.border.default}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.border.default}"
           },
           "text": {
-            "value": "{02-semantic/base.colors.text.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.text.primary}"
           },
           "placeholder": {
-            "value": "{02-semantic/base.colors.text.placeholder}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.text.placeholder}"
           }
         },
         "hover": {
           "border": {
-            "value": "{02-semantic/base.colors.border.dark}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.border.dark}"
           }
         },
         "focus": {
           "border": {
-            "value": "{02-semantic/base.colors.border.focus}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.border.focus}"
           },
           "shadow": {
-            "value": "0 0 0 3px {01-core/primitives.colors.primary.200}",
-            "type": "boxShadow"
+            "$type": "boxShadow",
+            "$value": "0 0 0 3px {01-core/primitives.colors.primary.200}"
           }
         },
         "error": {
           "border": {
-            "value": "{02-semantic/base.colors.border.error}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.border.error}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.status.error}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.status.error}"
           }
         },
         "disabled": {
           "background": {
-            "value": "{02-semantic/base.colors.background.secondary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.background.secondary}"
           },
           "text": {
-            "value": "{02-semantic/base.colors.text.disabled}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.text.disabled}"
           }
         }
       }
@@ -237,65 +237,65 @@
     "card": {
       "base": {
         "background": {
-          "value": "{02-semantic/base.colors.surface.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.primary}"
         },
         "borderRadius": {
-          "value": "{01-core/primitives.radius.lg}",
-          "type": "borderRadius"
+          "$type": "borderRadius",
+          "$value": "{01-core/primitives.radius.lg}"
         },
         "padding": {
-          "value": "{01-core/primitives.spacing.4}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.4}"
         },
         "shadow": {
-          "value": "{01-core/primitives.shadows.sm}",
-          "type": "boxShadow"
+          "$type": "boxShadow",
+          "$value": "{01-core/primitives.shadows.sm}"
         }
       },
       "interactive": {
         "hoverShadow": {
-          "value": "{01-core/primitives.shadows.md}",
-          "type": "boxShadow"
+          "$type": "boxShadow",
+          "$value": "{01-core/primitives.shadows.md}"
         },
         "hoverTransform": {
-          "value": "translateY(-2px)",
-          "type": "other"
+          "$type": "other",
+          "$value": "translateY(-2px)"
         },
         "transition": {
-          "value": "all {01-core/primitives.motion.duration.fast} {01-core/primitives.motion.easing.easeOut}",
-          "type": "other"
+          "$type": "other",
+          "$value": "all {01-core/primitives.motion.duration.fast} {01-core/primitives.motion.easing.easeOut}"
         }
       },
       "variants": {
         "elevated": {
           "shadow": {
-            "value": "{01-core/primitives.shadows.md}",
-            "type": "boxShadow"
+            "$type": "boxShadow",
+            "$value": "{01-core/primitives.shadows.md}"
           }
         },
         "outlined": {
           "border": {
-            "value": "{02-semantic/base.colors.border.default}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.border.default}"
           },
           "borderWidth": {
-            "value": "{01-core/primitives.borderWidth.thin}",
-            "type": "borderWidth"
+            "$type": "borderWidth",
+            "$value": "{01-core/primitives.borderWidth.thin}"
           },
           "shadow": {
-            "value": "{01-core/primitives.shadows.none}",
-            "type": "boxShadow"
+            "$type": "boxShadow",
+            "$value": "{01-core/primitives.shadows.none}"
           }
         },
         "filled": {
           "background": {
-            "value": "{02-semantic/base.colors.background.secondary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.background.secondary}"
           },
           "shadow": {
-            "value": "{01-core/primitives.shadows.none}",
-            "type": "boxShadow"
+            "$type": "boxShadow",
+            "$value": "{01-core/primitives.shadows.none}"
           }
         }
       }
@@ -303,509 +303,509 @@
     "navigation": {
       "navbar": {
         "height": {
-          "value": "{04-platforms/mobile.spacing.navigation.height}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{04-platforms/mobile.spacing.navigation.height}"
         },
         "background": {
-          "value": "{02-semantic/base.colors.background.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
         },
         "borderBottom": {
-          "value": "{02-semantic/base.colors.border.light}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.light}"
         },
         "shadow": {
-          "value": "{01-core/primitives.shadows.sm}",
-          "type": "boxShadow"
+          "$type": "boxShadow",
+          "$value": "{01-core/primitives.shadows.sm}"
         }
       },
       "tabbar": {
         "height": {
-          "value": "56",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "56"
         },
         "background": {
-          "value": "{02-semantic/base.colors.background.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
         },
         "borderTop": {
-          "value": "{02-semantic/base.colors.border.light}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.light}"
         },
         "item": {
           "paddingX": {
-            "value": "{01-core/primitives.spacing.3}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.3}"
           },
           "paddingY": {
-            "value": "{01-core/primitives.spacing.2}",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "{01-core/primitives.spacing.2}"
           },
           "iconSize": {
-            "value": "24",
-            "type": "spacing"
+            "$type": "spacing",
+            "$value": "24"
           },
           "activeColor": {
-            "value": "{01-core/primitives.colors.primary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.primary.600}"
           },
           "inactiveColor": {
-            "value": "{02-semantic/base.colors.text.tertiary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{02-semantic/base.colors.text.tertiary}"
           }
         }
       },
       "drawer": {
         "width": {
-          "value": "280",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "280"
         },
         "background": {
-          "value": "{02-semantic/base.colors.background.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
         },
         "overlay": {
-          "value": "{02-semantic/base.colors.background.overlay}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.overlay}"
         }
       }
     },
     "list": {
       "item": {
         "paddingX": {
-          "value": "{01-core/primitives.spacing.4}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.4}"
         },
         "paddingY": {
-          "value": "{01-core/primitives.spacing.3}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.3}"
         },
         "minHeight": {
-          "value": "48",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "48"
         },
         "separator": {
-          "value": "{02-semantic/base.colors.border.light}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.light}"
         },
         "hover": {
-          "value": "{02-semantic/base.colors.state.hover}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.state.hover}"
         },
         "active": {
-          "value": "{02-semantic/base.colors.state.active}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.state.active}"
         }
       }
     },
     "switch": {
       "width": {
-        "value": "44",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "44"
       },
       "height": {
-        "value": "24",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "24"
       },
       "thumbSize": {
-        "value": "20",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "20"
       },
       "padding": {
-        "value": "2",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "2"
       },
       "transition": {
-        "value": "all {01-core/primitives.motion.duration.fast} {01-core/primitives.motion.easing.easeInOut}",
-        "type": "other"
+        "$type": "other",
+        "$value": "all {01-core/primitives.motion.duration.fast} {01-core/primitives.motion.easing.easeInOut}"
       },
       "off": {
         "background": {
-          "value": "{01-core/primitives.colors.neutral.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.400}"
         },
         "thumb": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         }
       },
       "on": {
         "background": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "thumb": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         }
       }
     },
     "checkbox": {
       "size": {
-        "value": "20",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "20"
       },
       "borderRadius": {
-        "value": "{01-core/primitives.radius.xs}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.xs}"
       },
       "borderWidth": {
-        "value": "{01-core/primitives.borderWidth.medium}",
-        "type": "borderWidth"
+        "$type": "borderWidth",
+        "$value": "{01-core/primitives.borderWidth.medium}"
       },
       "unchecked": {
         "background": {
-          "value": "{02-semantic/base.colors.background.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
         },
         "border": {
-          "value": "{02-semantic/base.colors.border.default}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.default}"
         }
       },
       "checked": {
         "background": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "border": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "icon": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         }
       }
     },
     "radio": {
       "size": {
-        "value": "20",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "20"
       },
       "dotSize": {
-        "value": "8",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "8"
       },
       "borderWidth": {
-        "value": "{01-core/primitives.borderWidth.medium}",
-        "type": "borderWidth"
+        "$type": "borderWidth",
+        "$value": "{01-core/primitives.borderWidth.medium}"
       },
       "unchecked": {
         "background": {
-          "value": "{02-semantic/base.colors.background.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
         },
         "border": {
-          "value": "{02-semantic/base.colors.border.default}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.default}"
         }
       },
       "checked": {
         "background": {
-          "value": "{02-semantic/base.colors.background.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
         },
         "border": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "dot": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         }
       }
     },
     "badge": {
       "paddingX": {
-        "value": "{01-core/primitives.spacing.2}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.2}"
       },
       "paddingY": {
-        "value": "{01-core/primitives.spacing.0.5}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.0.5}"
       },
       "borderRadius": {
-        "value": "{01-core/primitives.radius.full}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.full}"
       },
       "fontSize": {
-        "value": "{01-core/primitives.typography.fontSizes.xs}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{01-core/primitives.typography.fontSizes.xs}"
       },
       "fontWeight": {
-        "value": "{01-core/primitives.typography.fontWeights.semibold}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{01-core/primitives.typography.fontWeights.semibold}"
       },
       "variants": {
         "primary": {
           "background": {
-            "value": "{01-core/primitives.colors.primary.600}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.primary.600}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.0}"
           }
         },
         "success": {
           "background": {
-            "value": "{01-core/primitives.colors.status.success}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.status.success}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.0}"
           }
         },
         "warning": {
           "background": {
-            "value": "{01-core/primitives.colors.status.warning}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.status.warning}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.neutral.900}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.900}"
           }
         },
         "error": {
           "background": {
-            "value": "{01-core/primitives.colors.status.error}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.status.error}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.0}"
           }
         },
         "neutral": {
           "background": {
-            "value": "{01-core/primitives.colors.neutral.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.200}"
           },
           "text": {
-            "value": "{01-core/primitives.colors.neutral.700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.neutral.700}"
           }
         }
       }
     },
     "tooltip": {
       "background": {
-        "value": "{01-core/primitives.colors.neutral.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.neutral.900}"
       },
       "text": {
-        "value": "{01-core/primitives.colors.neutral.0}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.neutral.0}"
       },
       "paddingX": {
-        "value": "{01-core/primitives.spacing.3}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.3}"
       },
       "paddingY": {
-        "value": "{01-core/primitives.spacing.2}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.2}"
       },
       "borderRadius": {
-        "value": "{01-core/primitives.radius.md}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.md}"
       },
       "fontSize": {
-        "value": "{01-core/primitives.typography.fontSizes.sm}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{01-core/primitives.typography.fontSizes.sm}"
       },
       "shadow": {
-        "value": "{01-core/primitives.shadows.lg}",
-        "type": "boxShadow"
+        "$type": "boxShadow",
+        "$value": "{01-core/primitives.shadows.lg}"
       },
       "maxWidth": {
-        "value": "320",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "320"
       }
     },
     "modal": {
       "overlay": {
-        "value": "{02-semantic/base.colors.background.overlay}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{02-semantic/base.colors.background.overlay}"
       },
       "background": {
-        "value": "{02-semantic/base.colors.background.primary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{02-semantic/base.colors.background.primary}"
       },
       "borderRadius": {
-        "value": "{01-core/primitives.radius.xl}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.xl}"
       },
       "padding": {
-        "value": "{01-core/primitives.spacing.6}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.6}"
       },
       "shadow": {
-        "value": "{01-core/primitives.shadows.2xl}",
-        "type": "boxShadow"
+        "$type": "boxShadow",
+        "$value": "{01-core/primitives.shadows.2xl}"
       },
       "maxWidth": {
-        "value": "560",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "560"
       }
     },
     "divider": {
       "color": {
-        "value": "{02-semantic/base.colors.border.light}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{02-semantic/base.colors.border.light}"
       },
       "thickness": {
-        "value": "{01-core/primitives.borderWidth.thin}",
-        "type": "borderWidth"
+        "$type": "borderWidth",
+        "$value": "{01-core/primitives.borderWidth.thin}"
       },
       "margin": {
-        "value": "{01-core/primitives.spacing.4}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.4}"
       }
     }
   },
   "05-components/prayer-card": {
     "container": {
       "background": {
-        "value": "{03-themes/light.colors.surface.primary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{03-themes/light.colors.surface.primary}"
       },
       "padding": {
-        "value": "{01-core/primitives.spacing.4}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.4}"
       },
       "radius": {
-        "value": "{01-core/primitives.radius.lg}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.lg}"
       },
       "shadow": {
-        "value": "{01-core/primitives.shadows.md}",
-        "type": "boxShadow"
+        "$type": "boxShadow",
+        "$value": "{01-core/primitives.shadows.md}"
       },
       "borderWidth": {
-        "value": "{01-core/primitives.borderWidth.thin}",
-        "type": "borderWidth"
+        "$type": "borderWidth",
+        "$value": "{01-core/primitives.borderWidth.thin}"
       },
       "borderColor": {
-        "value": "transparent",
-        "type": "color"
+        "$type": "color",
+        "$value": "transparent"
       }
     },
     "header": {
       "gap": {
-        "value": "{01-core/primitives.spacing.2}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.2}"
       }
     },
     "prayer-name": {
       "color": {
-        "value": "{01-core/primitives.colors.primary.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.primary.700}"
       },
       "typography": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{01-core/primitives.typography.fontFamilies.arabicDisplay}",
           "fontSize": "{01-core/primitives.typography.fontSizes.xl}",
           "fontWeight": "{01-core/primitives.typography.fontWeights.semibold}",
           "lineHeight": "{01-core/primitives.typography.lineHeights.tight}"
-        },
-        "type": "typography"
+        }
       }
     },
     "prayer-time": {
       "color": {
-        "value": "{02-semantic/base.colors.text.primary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{02-semantic/base.colors.text.primary}"
       },
       "typography": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{01-core/primitives.typography.fontFamilies.mono}",
           "fontSize": "{01-core/primitives.typography.fontSizes.2xl}",
           "fontWeight": "{01-core/primitives.typography.fontWeights.medium}",
           "lineHeight": "{01-core/primitives.typography.lineHeights.tight}"
-        },
-        "type": "typography"
+        }
       }
     },
     "prayer-arabic": {
       "color": {
-        "value": "{01-core/primitives.colors.islamic.gold}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.islamic.gold}"
       },
       "typography": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{01-core/primitives.typography.fontFamilies.arabic}",
           "fontSize": "{01-core/primitives.typography.fontSizes.lg}",
           "fontWeight": "{01-core/primitives.typography.fontWeights.regular}",
           "lineHeight": "{01-core/primitives.typography.lineHeights.arabic}"
-        },
-        "type": "typography"
+        }
       }
     },
     "countdown": {
       "color": {
-        "value": "{02-semantic/base.colors.text.secondary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{02-semantic/base.colors.text.secondary}"
       },
       "typography": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{01-core/primitives.typography.fontFamilies.mono}",
           "fontSize": "{01-core/primitives.typography.fontSizes.sm}",
           "fontWeight": "{01-core/primitives.typography.fontWeights.regular}"
-        },
-        "type": "typography"
+        }
       }
     },
     "states": {
       "active": {
         "background": {
-          "value": "{03-themes/light.colors.prayer.active}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{03-themes/light.colors.prayer.active}"
         },
         "borderColor": {
-          "value": "{01-core/primitives.colors.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.500}"
         },
         "borderWidth": {
-          "value": "{01-core/primitives.borderWidth.medium}",
-          "type": "borderWidth"
+          "$type": "borderWidth",
+          "$value": "{01-core/primitives.borderWidth.medium}"
         },
         "shadow": {
-          "value": "{01-core/primitives.shadows.lg}",
-          "type": "boxShadow"
+          "$type": "boxShadow",
+          "$value": "{01-core/primitives.shadows.lg}"
         }
       },
       "upcoming": {
         "background": {
-          "value": "{03-themes/light.colors.prayer.upcoming}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{03-themes/light.colors.prayer.upcoming}"
         },
         "borderColor": {
-          "value": "{01-core/primitives.colors.primary.300}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.300}"
         }
       },
       "passed": {
         "background": {
-          "value": "{03-themes/light.colors.prayer.passed}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{03-themes/light.colors.prayer.passed}"
         },
         "opacity": {
-          "value": "{01-core/primitives.opacity.70}",
-          "type": "opacity"
+          "$type": "opacity",
+          "$value": "{01-core/primitives.opacity.70}"
         }
       }
     },
     "actions": {
       "button": {
         "size": {
-          "value": "32",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "32"
         },
         "iconSize": {
-          "value": "16",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "16"
         }
       }
     }
@@ -813,128 +813,128 @@
   "05-components/qibla-compass": {
     "size": {
       "mobile": {
-        "value": "280",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "280"
       },
       "tablet": {
-        "value": "320",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "320"
       },
       "web": {
-        "value": "360",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "360"
       },
       "tv": {
-        "value": "480",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "480"
       },
       "smartwatch": {
-        "value": "140",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "140"
       }
     },
     "colors": {
       "needle": {
-        "value": "{01-core/primitives.colors.islamic.gold}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.islamic.gold}"
       },
       "needleTip": {
-        "value": "{01-core/primitives.colors.status.error}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.status.error}"
       },
       "compass": {
-        "value": "{01-core/primitives.colors.primary.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.primary.600}"
       },
       "compassBorder": {
-        "value": "{01-core/primitives.colors.primary.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.primary.700}"
       },
       "direction": {
-        "value": "{01-core/primitives.colors.neutral.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.neutral.600}"
       },
       "directionText": {
-        "value": "{02-semantic/base.colors.text.primary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{02-semantic/base.colors.text.primary}"
       },
       "kaaba": {
-        "value": "{01-core/primitives.colors.islamic.gold}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.islamic.gold}"
       }
     },
     "animation": {
       "duration": {
-        "value": "{01-core/primitives.motion.duration.compass}",
-        "type": "duration"
+        "$type": "duration",
+        "$value": "{01-core/primitives.motion.duration.compass}"
       },
       "easing": {
-        "value": "{01-core/primitives.motion.easing.easeInOut}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{01-core/primitives.motion.easing.easeInOut}"
       },
       "calibration": {
         "duration": {
-          "value": "2000ms",
-          "type": "duration"
+          "$type": "duration",
+          "$value": "2000ms"
         },
         "pulse": {
-          "value": "pulse 1.5s ease-in-out infinite",
-          "type": "other"
+          "$type": "other",
+          "$value": "pulse 1.5s ease-in-out infinite"
         }
       }
     },
     "elements": {
       "ring": {
         "width": {
-          "value": "{01-core/primitives.borderWidth.thick}",
-          "type": "borderWidth"
+          "$type": "borderWidth",
+          "$value": "{01-core/primitives.borderWidth.thick}"
         },
         "outerRing": {
-          "value": "{01-core/primitives.borderWidth.bold}",
-          "type": "borderWidth"
+          "$type": "borderWidth",
+          "$value": "{01-core/primitives.borderWidth.bold}"
         }
       },
       "markers": {
         "major": {
           "width": {
-            "value": "2",
-            "type": "sizing"
+            "$type": "sizing",
+            "$value": "2"
           },
           "height": {
-            "value": "12",
-            "type": "sizing"
+            "$type": "sizing",
+            "$value": "12"
           }
         },
         "minor": {
           "width": {
-            "value": "1",
-            "type": "sizing"
+            "$type": "sizing",
+            "$value": "1"
           },
           "height": {
-            "value": "6",
-            "type": "sizing"
+            "$type": "sizing",
+            "$value": "6"
           }
         }
       },
       "text": {
         "distance": {
           "fontSize": {
-            "value": "{01-core/primitives.typography.fontSizes.2xl}",
-            "type": "fontSizes"
+            "$type": "fontSizes",
+            "$value": "{01-core/primitives.typography.fontSizes.2xl}"
           },
           "fontWeight": {
-            "value": "{01-core/primitives.typography.fontWeights.bold}",
-            "type": "fontWeights"
+            "$type": "fontWeights",
+            "$value": "{01-core/primitives.typography.fontWeights.bold}"
           }
         },
         "direction": {
           "fontSize": {
-            "value": "{01-core/primitives.typography.fontSizes.sm}",
-            "type": "fontSizes"
+            "$type": "fontSizes",
+            "$value": "{01-core/primitives.typography.fontSizes.sm}"
           },
           "fontWeight": {
-            "value": "{01-core/primitives.typography.fontWeights.medium}",
-            "type": "fontWeights"
+            "$type": "fontWeights",
+            "$value": "{01-core/primitives.typography.fontWeights.medium}"
           }
         }
       }
@@ -944,165 +944,165 @@
     "container": {
       "size": {
         "mobile": {
-          "value": "200",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "200"
         },
         "tablet": {
-          "value": "240",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "240"
         },
         "web": {
-          "value": "280",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "280"
         }
       },
       "background": {
-        "value": "{03-themes/light.colors.surface.secondary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{03-themes/light.colors.surface.secondary}"
       },
       "radius": {
-        "value": "{01-core/primitives.radius.full}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.full}"
       },
       "shadow": {
-        "value": "{01-core/primitives.shadows.xl}",
-        "type": "boxShadow"
+        "$type": "boxShadow",
+        "$value": "{01-core/primitives.shadows.xl}"
       }
     },
     "display": {
       "typography": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{01-core/primitives.typography.fontFamilies.mono}",
           "fontSize": "{01-core/primitives.typography.fontSizes.5xl}",
           "fontWeight": "{01-core/primitives.typography.fontWeights.bold}",
           "lineHeight": "{01-core/primitives.typography.lineHeights.none}"
-        },
-        "type": "typography"
+        }
       },
       "color": {
-        "value": "{01-core/primitives.colors.primary.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{01-core/primitives.colors.primary.700}"
       },
       "background": {
-        "value": "{02-semantic/base.colors.background.primary}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{02-semantic/base.colors.background.primary}"
       },
       "padding": {
-        "value": "{01-core/primitives.spacing.6}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.6}"
       },
       "radius": {
-        "value": "{01-core/primitives.radius.md}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.md}"
       }
     },
     "button": {
       "tap": {
         "size": {
-          "value": "80",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "80"
         },
         "background": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "backgroundActive": {
-          "value": "{01-core/primitives.colors.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.700}"
         },
         "shadow": {
-          "value": "{01-core/primitives.shadows.lg}",
-          "type": "boxShadow"
+          "$type": "boxShadow",
+          "$value": "{01-core/primitives.shadows.lg}"
         },
         "shadowActive": {
-          "value": "{01-core/primitives.shadows.md}",
-          "type": "boxShadow"
+          "$type": "boxShadow",
+          "$value": "{01-core/primitives.shadows.md}"
         },
         "icon": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "iconSize": {
-          "value": "32",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "32"
         }
       },
       "reset": {
         "size": {
-          "value": "40",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "40"
         },
         "background": {
-          "value": "{01-core/primitives.colors.neutral.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.600}"
         },
         "icon": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "iconSize": {
-          "value": "20",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "20"
         }
       },
       "preset": {
         "padding": {
-          "value": "{01-core/primitives.spacing.2}",
-          "type": "spacing"
+          "$type": "spacing",
+          "$value": "{01-core/primitives.spacing.2}"
         },
         "background": {
-          "value": "{01-core/primitives.colors.primary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.100}"
         },
         "backgroundActive": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "text": {
-          "value": "{01-core/primitives.colors.primary.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.700}"
         },
         "textActive": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         }
       }
     },
     "progress": {
       "ring": {
         "width": {
-          "value": "{01-core/primitives.borderWidth.thick}",
-          "type": "borderWidth"
+          "$type": "borderWidth",
+          "$value": "{01-core/primitives.borderWidth.thick}"
         },
         "background": {
-          "value": "{01-core/primitives.colors.neutral.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.200}"
         },
         "fill": {
-          "value": "{01-core/primitives.colors.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.500}"
         }
       }
     },
     "animation": {
       "tap": {
         "scale": {
-          "value": "0.95",
-          "type": "other"
+          "$type": "other",
+          "$value": "0.95"
         },
         "duration": {
-          "value": "{01-core/primitives.motion.duration.instant}",
-          "type": "duration"
+          "$type": "duration",
+          "$value": "{01-core/primitives.motion.duration.instant}"
         }
       },
       "complete": {
         "duration": {
-          "value": "{01-core/primitives.motion.duration.slow}",
-          "type": "duration"
+          "$type": "duration",
+          "$value": "{01-core/primitives.motion.duration.slow}"
         },
         "effect": {
-          "value": "celebrate 1s ease-out",
-          "type": "other"
+          "$type": "other",
+          "$value": "celebrate 1s ease-out"
         }
       }
     }
@@ -1110,115 +1110,115 @@
   "05-components/notification": {
     "container": {
       "padding": {
-        "value": "{01-core/primitives.spacing.4}",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "{01-core/primitives.spacing.4}"
       },
       "radius": {
-        "value": "{01-core/primitives.radius.md}",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "{01-core/primitives.radius.md}"
       },
       "maxWidth": {
-        "value": "360",
-        "type": "sizing"
+        "$type": "sizing",
+        "$value": "360"
       },
       "shadow": {
-        "value": "{01-core/primitives.shadows.lg}",
-        "type": "boxShadow"
+        "$type": "boxShadow",
+        "$value": "{01-core/primitives.shadows.lg}"
       }
     },
     "types": {
       "adhan": {
         "background": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "text": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "icon": {
-          "value": "{01-core/primitives.colors.islamic.gold}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.islamic.gold}"
         },
         "iconSize": {
-          "value": "24",
-          "type": "sizing"
+          "$type": "sizing",
+          "$value": "24"
         },
         "sound": {
-          "value": "adhan_notification.mp3",
-          "type": "other"
+          "$type": "other",
+          "$value": "adhan_notification.mp3"
         }
       },
       "reminder": {
         "background": {
-          "value": "{03-themes/light.colors.surface.secondary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{03-themes/light.colors.surface.secondary}"
         },
         "text": {
-          "value": "{02-semantic/base.colors.text.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.primary}"
         },
         "icon": {
-          "value": "{01-core/primitives.colors.primary.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.600}"
         },
         "sound": {
-          "value": "gentle_reminder.mp3",
-          "type": "other"
+          "$type": "other",
+          "$value": "gentle_reminder.mp3"
         }
       },
       "alert": {
         "background": {
-          "value": "{01-core/primitives.colors.status.warning}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.status.warning}"
         },
         "text": {
-          "value": "{01-core/primitives.colors.neutral.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.900}"
         },
         "icon": {
-          "value": "{01-core/primitives.colors.neutral.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.900}"
         }
       },
       "success": {
         "background": {
-          "value": "{01-core/primitives.colors.status.success}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.status.success}"
         },
         "text": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "icon": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         }
       }
     },
     "animation": {
       "slideIn": {
         "duration": {
-          "value": "{01-core/primitives.motion.duration.normal}",
-          "type": "duration"
+          "$type": "duration",
+          "$value": "{01-core/primitives.motion.duration.normal}"
         },
         "easing": {
-          "value": "{01-core/primitives.motion.easing.easeOut}",
-          "type": "other"
+          "$type": "other",
+          "$value": "{01-core/primitives.motion.easing.easeOut}"
         },
         "from": {
-          "value": "translateY(-100%)",
-          "type": "other"
+          "$type": "other",
+          "$value": "translateY(-100%)"
         }
       },
       "fadeOut": {
         "duration": {
-          "value": "{01-core/primitives.motion.duration.slow}",
-          "type": "duration"
+          "$type": "duration",
+          "$value": "{01-core/primitives.motion.duration.slow}"
         },
         "delay": {
-          "value": "5000ms",
-          "type": "duration"
+          "$type": "duration",
+          "$value": "5000ms"
         }
       }
     }

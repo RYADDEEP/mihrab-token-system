@@ -3,66 +3,66 @@
     "colors": {
       "background": {
         "default": {
-          "value": "{02-semantic/base.colors.background.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
         },
         "elevated": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "overlay": {
-          "value": "rgba(0, 0, 0, 0.5)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.5)"
         },
         "prayer": {
           "fajr": {
-            "value": "{01-core/primitives.colors.prayer.fajrLight}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.fajrLight}"
           },
           "dhuhr": {
-            "value": "{01-core/primitives.colors.prayer.dhuhrLight}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.dhuhrLight}"
           },
           "asr": {
-            "value": "{01-core/primitives.colors.prayer.asrLight}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.asrLight}"
           },
           "maghrib": {
-            "value": "{01-core/primitives.colors.prayer.maghribLight}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.maghribLight}"
           },
           "isha": {
-            "value": "{01-core/primitives.colors.prayer.ishaLight}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.ishaLight}"
           }
         }
       },
       "surface": {
         "primary": {
-          "value": "{01-core/primitives.colors.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.0}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.neutral.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.50}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         }
       },
       "prayer": {
         "active": {
-          "value": "{01-core/primitives.colors.primary.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.100}"
         },
         "upcoming": {
-          "value": "{01-core/primitives.colors.primary.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.50}"
         },
         "passed": {
-          "value": "{01-core/primitives.colors.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.100}"
         }
       }
     }
@@ -71,80 +71,80 @@
     "colors": {
       "background": {
         "default": {
-          "value": "{01-core/primitives.colors.neutral.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.900}"
         },
         "elevated": {
-          "value": "{01-core/primitives.colors.neutral.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.800}"
         },
         "overlay": {
-          "value": "rgba(0, 0, 0, 0.7)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.7)"
         },
         "prayer": {
           "fajr": {
-            "value": "{01-core/primitives.colors.prayer.fajrDark}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.fajrDark}"
           },
           "dhuhr": {
-            "value": "{01-core/primitives.colors.prayer.dhuhrDark}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.dhuhrDark}"
           },
           "asr": {
-            "value": "{01-core/primitives.colors.prayer.asrDark}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.asrDark}"
           },
           "maghrib": {
-            "value": "{01-core/primitives.colors.prayer.maghribDark}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.maghribDark}"
           },
           "isha": {
-            "value": "{01-core/primitives.colors.prayer.ishaDark}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{01-core/primitives.colors.prayer.ishaDark}"
           }
         }
       },
       "surface": {
         "primary": {
-          "value": "{01-core/primitives.colors.neutral.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.800}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.neutral.700}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.700}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.neutral.600}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.600}"
         }
       },
       "text": {
         "primary": {
-          "value": "{01-core/primitives.colors.neutral.50}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.50}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.neutral.300}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.300}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.neutral.400}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.400}"
         }
       },
       "prayer": {
         "active": {
-          "value": "{01-core/primitives.colors.primary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.800}"
         },
         "upcoming": {
-          "value": "{01-core/primitives.colors.primary.900}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.primary.900}"
         },
         "passed": {
-          "value": "{01-core/primitives.colors.neutral.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.neutral.800}"
         }
       }
     }
@@ -153,59 +153,59 @@
     "colors": {
       "background": {
         "default": {
-          "value": "#FFF5E6",
-          "type": "color",
-          "description": "Fajr dawn sky"
+          "$type": "color",
+          "$value": "#FFF5E6",
+          "$description": "Fajr dawn sky"
         },
         "elevated": {
-          "value": "#FFFAF0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFFAF0"
         },
         "overlay": {
-          "value": "rgba(255, 140, 0, 0.1)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(255, 140, 0, 0.1)"
         },
         "gradient": {
-          "value": "linear-gradient(180deg, #FFE4B5 0%, #FFF5E6 50%, #FFFAF0 100%)",
-          "type": "other"
+          "$type": "other",
+          "$value": "linear-gradient(180deg, #FFE4B5 0%, #FFF5E6 50%, #FFFAF0 100%)"
         }
       },
       "surface": {
         "primary": {
-          "value": "#FFFAF0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFFAF0"
         },
         "secondary": {
-          "value": "#FFE4B5",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFE4B5"
         },
         "tertiary": {
-          "value": "#FFDAB9",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFDAB9"
         }
       },
       "text": {
         "primary": {
-          "value": "#5D4037",
-          "type": "color"
+          "$type": "color",
+          "$value": "#5D4037"
         },
         "secondary": {
-          "value": "#795548",
-          "type": "color"
+          "$type": "color",
+          "$value": "#795548"
         },
         "tertiary": {
-          "value": "#8D6E63",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8D6E63"
         }
       },
       "accent": {
         "primary": {
-          "value": "#FF8C00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FF8C00"
         },
         "secondary": {
-          "value": "#FFB347",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFB347"
         }
       }
     }
@@ -214,59 +214,59 @@
     "colors": {
       "background": {
         "default": {
-          "value": "#1A237E",
-          "type": "color",
-          "description": "Maghrib twilight"
+          "$type": "color",
+          "$value": "#1A237E",
+          "$description": "Maghrib twilight"
         },
         "elevated": {
-          "value": "#283593",
-          "type": "color"
+          "$type": "color",
+          "$value": "#283593"
         },
         "overlay": {
-          "value": "rgba(255, 107, 107, 0.2)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(255, 107, 107, 0.2)"
         },
         "gradient": {
-          "value": "linear-gradient(180deg, #FF6B6B 0%, #4A148C 50%, #1A237E 100%)",
-          "type": "other"
+          "$type": "other",
+          "$value": "linear-gradient(180deg, #FF6B6B 0%, #4A148C 50%, #1A237E 100%)"
         }
       },
       "surface": {
         "primary": {
-          "value": "#283593",
-          "type": "color"
+          "$type": "color",
+          "$value": "#283593"
         },
         "secondary": {
-          "value": "#3949AB",
-          "type": "color"
+          "$type": "color",
+          "$value": "#3949AB"
         },
         "tertiary": {
-          "value": "#5C6BC0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#5C6BC0"
         }
       },
       "text": {
         "primary": {
-          "value": "#FFFFFF",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFFFFF"
         },
         "secondary": {
-          "value": "#B3E5FC",
-          "type": "color"
+          "$type": "color",
+          "$value": "#B3E5FC"
         },
         "tertiary": {
-          "value": "#81D4FA",
-          "type": "color"
+          "$type": "color",
+          "$value": "#81D4FA"
         }
       },
       "accent": {
         "primary": {
-          "value": "#FF6B6B",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FF6B6B"
         },
         "secondary": {
-          "value": "#FFB347",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFB347"
         }
       }
     }
@@ -275,77 +275,77 @@
     "colors": {
       "background": {
         "default": {
-          "value": "#1A0F2E",
-          "type": "color",
-          "description": "Night purple"
+          "$type": "color",
+          "$value": "#1A0F2E",
+          "$description": "Night purple"
         },
         "elevated": {
-          "value": "#2D1B4E",
-          "type": "color"
+          "$type": "color",
+          "$value": "#2D1B4E"
         },
         "overlay": {
-          "value": "rgba(212, 175, 55, 0.2)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(212, 175, 55, 0.2)"
         },
         "pattern": {
-          "value": "url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9InN0YXIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHBhdGggZD0iTTMwLDEwIEwzNSwyNSBMNTAsMjUgTDM3LjUsMzUgTDQyLjUsNTAgTDMwLDQwIEwxNy41LDUwIEwyMi41LDM1IEwxMCwyNSBMMjUsMjUgWiIgZmlsbD0iI0Q0QUYzNyIgb3BhY2l0eT0iMC4zIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI3N0YXIpIiAvPjwvc3ZnPg==')",
-          "type": "other"
+          "$type": "other",
+          "$value": "url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9InN0YXIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHBhdGggZD0iTTMwLDEwIEwzNSwyNSBMNTAsMjUgTDM3LjUsMzUgTDQyLjUsNTAgTDMwLDQwIEwxNy41LDUwIEwyMi41LDM1IEwxMCwyNSBMMjUsMjUgWiIgZmlsbD0iI0Q0QUYzNyIgb3BhY2l0eT0iMC4zIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI3N0YXIpIiAvPjwvc3ZnPg==')"
         }
       },
       "surface": {
         "primary": {
-          "value": "#2D1B4E",
-          "type": "color"
+          "$type": "color",
+          "$value": "#2D1B4E"
         },
         "secondary": {
-          "value": "#3F2863",
-          "type": "color"
+          "$type": "color",
+          "$value": "#3F2863"
         },
         "tertiary": {
-          "value": "#523578",
-          "type": "color"
+          "$type": "color",
+          "$value": "#523578"
         }
       },
       "text": {
         "primary": {
-          "value": "#FFFFFF",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FFFFFF"
         },
         "secondary": {
-          "value": "#D4AF37",
-          "type": "color"
+          "$type": "color",
+          "$value": "#D4AF37"
         },
         "tertiary": {
-          "value": "#F4E4BC",
-          "type": "color"
+          "$type": "color",
+          "$value": "#F4E4BC"
         }
       },
       "accent": {
         "primary": {
-          "value": "{01-core/primitives.colors.ramadan.secondary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.ramadan.secondary}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.ramadan.star}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.ramadan.star}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.ramadan.moon}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.ramadan.moon}"
         }
       },
       "special": {
         "iftar": {
-          "value": "#8B4513",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8B4513"
         },
         "suhoor": {
-          "value": "#4682B4",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4682B4"
         },
         "tarawih": {
-          "value": "#228B22",
-          "type": "color"
+          "$type": "color",
+          "$value": "#228B22"
         }
       }
     }
@@ -354,302 +354,352 @@
     "colors": {
       "background": {
         "default": {
-          "value": "#FFFFFF",
-          "type": "color",
-          "description": "Ihram white"
+          "$type": "color",
+          "$value": "#FFFFFF",
+          "$description": "Ihram white"
         },
         "elevated": {
-          "value": "#FAFAFA",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FAFAFA"
         },
         "overlay": {
-          "value": "rgba(0, 0, 0, 0.3)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.3)"
         },
         "pattern": {
-          "value": "url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9ImthYWJhIiB3aWR0aD0iODAiIGhlaWdodD0iODAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyMCIgeTE9IjMwIiB4Mj0iNjAiIHkyPSIzMCIgc3Ryb2tlPSIjRDRBRjM3IiBzdHJva2Utd2lkdGg9IjMiLz48L3BhdHRlcm4+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgja2FhYmEpIiAvPjwvc3ZnPg==')",
-          "type": "other"
+          "$type": "other",
+          "$value": "url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9ImthYWJhIiB3aWR0aD0iODAiIGhlaWdodD0iODAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyMCIgeTE9IjMwIiB4Mj0iNjAiIHkyPSIzMCIgc3Ryb2tlPSIjRDRBRjM3IiBzdHJva2Utd2lkdGg9IjMiLz48L3BhdHRlcm4+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgja2FhYmEpIiAvPjwvc3ZnPg==')"
         }
       },
       "surface": {
         "primary": {
-          "value": "#FAFAFA",
-          "type": "color"
+          "$type": "color",
+          "$value": "#FAFAFA"
         },
         "secondary": {
-          "value": "#F5F5F5",
-          "type": "color"
+          "$type": "color",
+          "$value": "#F5F5F5"
         },
         "tertiary": {
-          "value": "#EEEEEE",
-          "type": "color"
+          "$type": "color",
+          "$value": "#EEEEEE"
         }
       },
       "text": {
         "primary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "secondary": {
-          "value": "#424242",
-          "type": "color"
+          "$type": "color",
+          "$value": "#424242"
         },
         "tertiary": {
-          "value": "#616161",
-          "type": "color"
+          "$type": "color",
+          "$value": "#616161"
         }
       },
       "accent": {
         "primary": {
-          "value": "{01-core/primitives.colors.hajj.primary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.hajj.primary}"
         },
         "secondary": {
-          "value": "{01-core/primitives.colors.hajj.secondary}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.hajj.secondary}"
         },
         "tertiary": {
-          "value": "{01-core/primitives.colors.hajj.mount}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{01-core/primitives.colors.hajj.mount}"
         }
       },
       "special": {
         "tawaf": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "safa": {
-          "value": "#228B22",
-          "type": "color"
+          "$type": "color",
+          "$value": "#228B22"
         },
         "marwa": {
-          "value": "#228B22",
-          "type": "color"
+          "$type": "color",
+          "$value": "#228B22"
         },
         "arafat": {
-          "value": "#8B7355",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8B7355"
         },
         "muzdalifah": {
-          "value": "#696969",
-          "type": "color"
+          "$type": "color",
+          "$value": "#696969"
         },
         "mina": {
-          "value": "#DC143C",
-          "type": "color"
+          "$type": "color",
+          "$value": "#DC143C"
         }
       }
     }
   },
   "03-themes": {
     "soft-light": {
-      "background.default": {
-        "value": "{02-semantic/base.colors.background.primary}",
-        "type": "color"
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
+        },
+        "surface": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.surface}"
+        },
+        "elevated": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.elevated}"
+        }
       },
-      "background.surface": {
-        "value": "{02-semantic/base.colors.background.surface}",
-        "type": "color"
+      "text": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.secondary}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.disabled}"
+        }
       },
-      "background.elevated": {
-        "value": "{02-semantic/base.colors.background.elevated}",
-        "type": "color"
+      "surface": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.secondary}"
+        }
       },
-      "text.primary": {
-        "value": "{02-semantic/base.colors.text.primary}",
-        "type": "color"
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.default}"
+        }
       },
-      "text.secondary": {
-        "value": "{02-semantic/base.colors.text.secondary}",
-        "type": "color"
-      },
-      "text.disabled": {
-        "value": "{02-semantic/base.colors.text.disabled}",
-        "type": "color"
-      },
-      "surface.primary": {
-        "value": "{02-semantic/base.colors.surface.primary}",
-        "type": "color"
-      },
-      "surface.secondary": {
-        "value": "{02-semantic/base.colors.surface.secondary}",
-        "type": "color"
-      },
-      "border.default": {
-        "value": "{02-semantic/base.colors.border.default}",
-        "type": "color"
-      },
-      "action.primary": {
-        "value": "{02-semantic/base.colors.action.primary}",
-        "type": "color"
+      "action": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.action.primary}"
+        }
       }
     },
     "warm-light": {
-      "background.default": {
-        "value": "{02-semantic/base.colors.background.primary}",
-        "type": "color"
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
+        },
+        "surface": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.surface}"
+        },
+        "elevated": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.elevated}"
+        }
       },
-      "background.surface": {
-        "value": "{02-semantic/base.colors.background.surface}",
-        "type": "color"
+      "text": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.secondary}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.disabled}"
+        }
       },
-      "background.elevated": {
-        "value": "{02-semantic/base.colors.background.elevated}",
-        "type": "color"
+      "surface": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.secondary}"
+        }
       },
-      "text.primary": {
-        "value": "{02-semantic/base.colors.text.primary}",
-        "type": "color"
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.default}"
+        }
       },
-      "text.secondary": {
-        "value": "{02-semantic/base.colors.text.secondary}",
-        "type": "color"
-      },
-      "text.disabled": {
-        "value": "{02-semantic/base.colors.text.disabled}",
-        "type": "color"
-      },
-      "surface.primary": {
-        "value": "{02-semantic/base.colors.surface.primary}",
-        "type": "color"
-      },
-      "surface.secondary": {
-        "value": "{02-semantic/base.colors.surface.secondary}",
-        "type": "color"
-      },
-      "border.default": {
-        "value": "{02-semantic/base.colors.border.default}",
-        "type": "color"
-      },
-      "action.primary": {
-        "value": "{02-semantic/base.colors.action.primary}",
-        "type": "color"
+      "action": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.action.primary}"
+        }
       }
     },
     "mihrab-green": {
-      "background.default": {
-        "value": "{02-semantic/base.colors.background.primary}",
-        "type": "color"
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
+        },
+        "surface": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.surface}"
+        },
+        "elevated": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.elevated}"
+        }
       },
-      "background.surface": {
-        "value": "{02-semantic/base.colors.background.surface}",
-        "type": "color"
+      "text": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.secondary}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.disabled}"
+        }
       },
-      "background.elevated": {
-        "value": "{02-semantic/base.colors.background.elevated}",
-        "type": "color"
+      "surface": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.secondary}"
+        }
       },
-      "text.primary": {
-        "value": "{02-semantic/base.colors.text.primary}",
-        "type": "color"
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.default}"
+        }
       },
-      "text.secondary": {
-        "value": "{02-semantic/base.colors.text.secondary}",
-        "type": "color"
-      },
-      "text.disabled": {
-        "value": "{02-semantic/base.colors.text.disabled}",
-        "type": "color"
-      },
-      "surface.primary": {
-        "value": "{02-semantic/base.colors.surface.primary}",
-        "type": "color"
-      },
-      "surface.secondary": {
-        "value": "{02-semantic/base.colors.surface.secondary}",
-        "type": "color"
-      },
-      "border.default": {
-        "value": "{02-semantic/base.colors.border.default}",
-        "type": "color"
-      },
-      "action.primary": {
-        "value": "{02-semantic/base.colors.action.primary}",
-        "type": "color"
+      "action": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.action.primary}"
+        }
       }
     },
     "pale-neutral": {
-      "background.default": {
-        "value": "{02-semantic/base.colors.background.primary}",
-        "type": "color"
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
+        },
+        "surface": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.surface}"
+        },
+        "elevated": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.elevated}"
+        }
       },
-      "background.surface": {
-        "value": "{02-semantic/base.colors.background.surface}",
-        "type": "color"
+      "text": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.secondary}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.disabled}"
+        }
       },
-      "background.elevated": {
-        "value": "{02-semantic/base.colors.background.elevated}",
-        "type": "color"
+      "surface": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.secondary}"
+        }
       },
-      "text.primary": {
-        "value": "{02-semantic/base.colors.text.primary}",
-        "type": "color"
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.default}"
+        }
       },
-      "text.secondary": {
-        "value": "{02-semantic/base.colors.text.secondary}",
-        "type": "color"
-      },
-      "text.disabled": {
-        "value": "{02-semantic/base.colors.text.disabled}",
-        "type": "color"
-      },
-      "surface.primary": {
-        "value": "{02-semantic/base.colors.surface.primary}",
-        "type": "color"
-      },
-      "surface.secondary": {
-        "value": "{02-semantic/base.colors.surface.secondary}",
-        "type": "color"
-      },
-      "border.default": {
-        "value": "{02-semantic/base.colors.border.default}",
-        "type": "color"
-      },
-      "action.primary": {
-        "value": "{02-semantic/base.colors.action.primary}",
-        "type": "color"
+      "action": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.action.primary}"
+        }
       }
     },
     "cream-beige": {
-      "background.default": {
-        "value": "{02-semantic/base.colors.background.primary}",
-        "type": "color"
+      "background": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.primary}"
+        },
+        "surface": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.surface}"
+        },
+        "elevated": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.background.elevated}"
+        }
       },
-      "background.surface": {
-        "value": "{02-semantic/base.colors.background.surface}",
-        "type": "color"
+      "text": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.secondary}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.text.disabled}"
+        }
       },
-      "background.elevated": {
-        "value": "{02-semantic/base.colors.background.elevated}",
-        "type": "color"
+      "surface": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.primary}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.surface.secondary}"
+        }
       },
-      "text.primary": {
-        "value": "{02-semantic/base.colors.text.primary}",
-        "type": "color"
+      "border": {
+        "default": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.border.default}"
+        }
       },
-      "text.secondary": {
-        "value": "{02-semantic/base.colors.text.secondary}",
-        "type": "color"
-      },
-      "text.disabled": {
-        "value": "{02-semantic/base.colors.text.disabled}",
-        "type": "color"
-      },
-      "surface.primary": {
-        "value": "{02-semantic/base.colors.surface.primary}",
-        "type": "color"
-      },
-      "surface.secondary": {
-        "value": "{02-semantic/base.colors.surface.secondary}",
-        "type": "color"
-      },
-      "border.default": {
-        "value": "{02-semantic/base.colors.border.default}",
-        "type": "color"
-      },
-      "action.primary": {
-        "value": "{02-semantic/base.colors.action.primary}",
-        "type": "color"
+      "action": {
+        "primary": {
+          "$type": "color",
+          "$value": "{02-semantic/base.colors.action.primary}"
+        }
       }
     }
   }
