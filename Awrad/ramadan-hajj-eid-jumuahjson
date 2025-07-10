@@ -1,0 +1,965 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+    "category_id": "life_events",
+    "id": "seasons_1",
+    "repeat": 1,
+    "source": "Tirmidhi 3513, Ibn Majah 3850 (Laylat al-Qadr)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إنك عفو تحب العفو فاعف عني"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, নিশ্চয়ই আপনি ক্ষমাশীল, আপনি ক্ষমা করতে ভালোবাসেন, সুতরাং আমাকে ক্ষমা করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, indeed You are Pardoning, You love pardon, so pardon me."
+      },
+      "fa": {
+        "meaning": "بارالها، تو بخشنده‌ای، بخشش را دوست داری، پس مرا ببخش."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Tu es certes Pardonneur, Tu aimes le pardon, alors pardonne-moi."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, तू बेशक बहुत माफ़ करने वाला है, माफ़ी को पसंद करता है, पस मुझे माफ़ कर दे।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau mencintai maaf, maka maafkanlah aku."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau mencintai maaf, maka maafkanlah aku."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, Ты Прощающий, Ты любишь прощать, так прости же меня."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika Wewe ni Mwingi wa kusamehe, Unapenda kusamehe, basi nisamehe mimi."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Sen affedicisin, affı seversin, beni affet."
+      },
+      "ur": {
+        "meaning": "اے اللہ، تو بے شک بہت معاف کرنے والا ہے، معافی کو پسند کرتا ہے، پس مجھے معاف کر دے۔"
+      }
+    },
+    "transliteration": "Allāhumma innaka ʿafuwwun tuḥibbul-ʿafwa faʿfu ʿannī"
+  },
+  "entry_002": {
+    "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
+    "category_id": "life_events",
+    "id": "seasons_2",
+    "repeat": 1,
+    "source": "Abu Dawud 2357 (Breaking Fast)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "ذهب الظمأ وابتلت العروق وثبت الأجر إن شاء الله"
+      },
+      "bn": {
+        "meaning": "পিপাসা দূর হয়েছে, শিরাগুলো সিক্ত হয়েছে এবং ইন শা আল্লাহ পুরস্কার সুনিশ্চিত হয়েছে।"
+      },
+      "en": {
+        "meaning": "The thirst has gone and the veins have been moistened, and the reward is confirmed, if Allah wills."
+      },
+      "fa": {
+        "meaning": "تشنگی برطرف شد، رگ‌ها تر شدند، و اجر ثابت گشت، اگر خدا بخواهد."
+      },
+      "fr": {
+        "meaning": "La soif est partie, les veines sont humidifiées, et la récompense est confirmée, si Allah le veut."
+      },
+      "hi": {
+        "meaning": "प्यास बुझ गई, रगों में तरी आ गई, और अगर अल्लाह ने चाहा तो सवाब मिल गया।"
+      },
+      "id": {
+        "meaning": "Dahaga telah hilang, urat-urat telah basah, dan pahala telah ditetapkan, insya Allah."
+      },
+      "ms": {
+        "meaning": "Dahaga telah hilang, urat-urat telah basah, dan pahala telah ditetapkan, insya Allah."
+      },
+      "ru": {
+        "meaning": "Жажда ушла, жилы наполнились влагой, и награда утвердилась, если пожелает Аллах."
+      },
+      "sw": {
+        "meaning": "Kiu imeondoka, na mishipa imelowa, na ujira umethibitika, In shaa Allah."
+      },
+      "tr": {
+        "meaning": "Susuzluk gitti, damarlar ıslandı ve ecir sabit oldu, inşaallah."
+      },
+      "ur": {
+        "meaning": "پیاس بجھ گئی، رگیں تر ہو گئیں، اور اجر ثابت ہو گیا، اگر اللہ نے چاہا۔"
+      }
+    },
+    "transliteration": "Dhahabaẓ-ẓamaʾu wabtallatil-ʿurūqu wa thabatal-ajru in shāʾ Allāh"
+  },
+  "entry_003": {
+    "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي لِسَانِي نُورًا وَاجْعَلْ فِي سَمْعِي نُورًا وَاجْعَلْ فِي بَصَرِي نُورًا وَاجْعَلْ مِنْ خَلْفِي نُورًا وَمِنْ أَمَامِي نُورًا وَاجْعَلْ مِنْ فَوْقِي نُورًا وَمِنْ تَحْتِي نُورًا اللَّهُمَّ أَعْطِنِي نُورًا",
+    "category_id": "life_events",
+    "id": "seasons_3",
+    "repeat": 1,
+    "source": "Bukhari 6316, Muslim 763 (Jumuah, general supplication)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم اجعل في قلبي نورا وفي لساني نورا واجعل في سمعي نورا واجعل في بصري نورا واجعل من خلفي نورا ومن أمامي نورا واجعل من فوقي نورا ومن تحتي نورا اللهم أعطني نورا"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার অন্তরে নূর দান করুন, আমার জিহ্বায় নূর দান করুন, আমার শ্রবণে নূর দান করুন, আমার দৃষ্টিতে নূর দান করুন, আমার পিছন থেকে নূর দান করুন, আমার সম্মুখ থেকে নূর দান করুন, আমার উপর থেকে নূর দান করুন এবং আমার নিচ থেকে নূর দান করুন। হে আল্লাহ, আমাকে নূর দান করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, place light in my heart, and light in my tongue, and place light in my hearing, and place light in my sight, and place light behind me, and light in front of me, and place light above me, and light below me. O Allah, grant me light."
+      },
+      "fa": {
+        "meaning": "بارالها، در دلم نور قرار ده، و در زبانم نور، و در گوشم نور، و در چشمم نور، و از پشت سرم نور، و از پیش رویم نور، و از بالای سرم نور، و از زیر پایم نور قرار ده. بارالها، به من نور عطا فرما."
+      },
+      "fr": {
+        "meaning": "Ô Allah, place de la lumière dans mon cœur, et de la lumière dans ma langue, et place de la lumière dans mon ouïe, et place de la lumière dans ma vue, et place de la lumière derrière moi, et devant moi, et place de la lumière au-dessus de moi, et en dessous de moi. Ô Allah, accorde-moi la lumière."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मेरे दिल में नूर डाल दे, और मेरी ज़बान में नूर डाल दे, और मेरी समाअत में नूर डाल दे, और मेरी बसारत में नूर डाल दे, और मेरे पीछे नूर कर दे, और मेरे आगे नूर कर दे, और मेरे ऊपर नूर कर दे, और मेरे नीचे नूर कर दे। ऐ अल्लाह, मुझे नूर अता फ़रमा।"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah di hatiku cahaya, dan pada lisanku cahaya, dan jadikanlah pada pendengaranku cahaya, dan jadikanlah pada penglihatanku cahaya, dan jadikanlah dari belakangku cahaya, dan dari depanku cahaya, dan jadikanlah dari atasku cahaya, dan dari bawahku cahaya. Ya Allah, berikanlah aku cahaya."
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah di hatiku cahaya, dan pada lisanku cahaya, dan jadikanlah pada pendengaranku cahaya, dan jadikanlah pada penglihatanku cahaya, dan jadikanlah dari belakangku cahaya, dan dari depanku cahaya, dan jadikanlah dari atasku cahaya, dan dari bawahku cahaya. Ya Allah, berikanlah aku cahaya."
+      },
+      "ru": {
+        "meaning": "О Аллах, помести свет в моем сердце, и свет в моем языке, и помести свет в моем слухе, и помести свет в моем зрении, и помести свет позади меня, и впереди меня, и помести свет надо мной, и подо мной. О Аллах, даруй мне свет."
+      },
+      "sw": {
+        "meaning": "Ee Allah, weka nuru moyoni mwangu, na nuru katika ulimi wangu, na weka nuru katika kusikia kwangu, na weka nuru katika kuona kwangu, na weka nuru nyuma yangu, na nuru mbele yangu, na weka nuru juu yangu, na nuru chini yangu. Ee Allah, nipe nuru."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Kalbime nur ver, dilime nur ver, kulağıma nur ver, gözüme nur ver, arkamdan nur ver, önümden nur ver, üstümden nur ver, altımdan nur ver. Allah'ım! Bana nur ihsan et."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میرے دل میں نور ڈال دے، اور میری زبان میں نور ڈال دے، اور میری سماعت میں نور ڈال دے، اور میری بصارت میں نور ڈال دے، اور میرے پیچھے نور کر دے، اور میرے آگے نور کر دے، اور میرے اوپر نور کر دے، اور میرے نیچے نور کر دے۔ اے اللہ، مجھے نور عطا فرما۔"
+      }
+    },
+    "transliteration": "Allāhumma ijʿal fī qalbī nūran, wa fī lisānī nūran, wa ijʿal fī samʿī nūran, wa ijʿal fī baṣarī nūran, wa ijʿal min khalfī nūran, wa min amāmī nūran, wa ijʿal min fawqī nūran, wa min taḥtī nūran, Allāhumma aʿṭinī nūrā"
+  },
+  "entry_004": {
+    "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
+    "category_id": "special_pathways",
+    "id": "seasons_4",
+    "repeat": 1,
+    "source": "Sunan Abī Dāwūd 2357 (ḥasan)",
+    "subcategory_id": "ramadan_hajj_eid_jumuah",
+    "tag": "iftar_dua",
+    "translations": {
+      "ar": {
+        "meaning": "ذَهَبَ الظَّمَأُ ..."
+      },
+      "bn": {
+        "meaning": "পিপাসা দূর হয়েছে, শিরায় শীতলতা এসেছে এবং সওয়াব স্থির হয়েছে, ইন-শা-আল্লাহ।"
+      },
+      "en": {
+        "meaning": "The thirst is gone, the veins are moistened and the reward is certain, if Allah wills."
+      },
+      "fa": {
+        "meaning": "تشنگی برطرف شد، رگ‌ها تر شد و پاداش ثابت گردید، اگر خدا بخواهد."
+      },
+      "fr": {
+        "meaning": "La soif est partie, les veines sont humides et la récompense est sûre, si Allah le veut."
+      },
+      "hi": {
+        "meaning": "प्यास दूर हुई, नसें तर हो गईं और सवाब पक्का हुआ, यदि अल्लाह चाहे।"
+      },
+      "id": {
+        "meaning": "Haus telah hilang, urat telah basah, dan pahala telah tetap, insya-Allah."
+      },
+      "ms": {
+        "meaning": "Haus telah hilang, urat telah dibasahi, dan ganjaran telah dikira, insya-Allah."
+      },
+      "ru": {
+        "meaning": "Жажда ушла, вены напитались влагой, и награда подтверждена, если пожелает Аллах."
+      },
+      "sw": {
+        "meaning": "Kiu kimeondoka, mishipa imeloa na thawabu imethibiti, insha-Allah."
+      },
+      "tr": {
+        "meaning": "Susuzluk gitti, damarlar ıslandı ve sevap, Allah dilerse, sabit oldu."
+      },
+      "ur": {
+        "meaning": "پیاس بجھ گئی، رگیں تر ہو گئیں اور اجر ثابت ہو گیا، اِن شاء اللہ۔"
+      }
+    },
+    "transliteration": "Dhahaba ẓ-ẓamaʾu wabtallati l-ʿurūqu wa thabata l-ajr, in-shāʾa-llāh."
+  },
+  "entry_005": {
+    "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لاَ شَرِيكَ لَكَ",
+    "category_id": "life_events",
+    "id": "seasons_5",
+    "repeat": 1,
+    "source": "Bukhari 1549, Muslim 1184 (Talbiyah for Hajj/Umrah)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "لبيك اللهم لبيك، لبيك لا شريك لك لبيك، إن الحمد والنعمة لك والملك، لا شريك لك"
+      },
+      "bn": {
+        "meaning": "আমি উপস্থিত, হে আল্লাহ, আমি উপস্থিত। আমি উপস্থিত, আপনার কোন শরীক নেই, আমি উপস্থিত। নিশ্চয়ই সমস্ত প্রশংসা, অনুগ্রহ এবং সার্বভৌমত্ব আপনারই, আপনার কোন শরীক নেই।"
+      },
+      "en": {
+        "meaning": "Here I am, O Allah, here I am. Here I am, You have no partner, here I am. Indeed, all praise, grace, and sovereignty belong to You. You have no partner."
+      },
+      "fa": {
+        "meaning": "حاضرم ای پروردگار، حاضرم! حاضرم، شریکی برای تو نیست، حاضرم! همانا ستایش و نعمت و فرمانروایی از آن توست، شریکی برای تو نیست."
+      },
+      "fr": {
+        "meaning": "Me voici, ô Allah, me voici. Me voici, Tu n'as pas d'associé, me voici. Certes, toute louange, toute grâce et toute souveraineté T'appartiennent. Tu n'as pas d'associé."
+      },
+      "hi": {
+        "meaning": "मैं हाज़िर हूँ, ऐ अल्लाह, मैं हाज़िर हूँ। मैं हाज़िर हूँ, तेरा कोई शरीक नहीं, मैं हाज़िर हूँ। बेशक, तमाम तारीफ़ें, नेमतें और बादशाही तेरी ही हैं, तेरा कोई शरीक नहीं।"
+      },
+      "id": {
+        "meaning": "Aku datang memenuhi panggilan-Mu, ya Allah, aku datang memenuhi panggilan-Mu. Aku datang memenuhi panggilan-Mu, tiada sekutu bagi-Mu, aku datang memenuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kerajaan adalah milik-Mu, tiada sekutu bagi-Mu."
+      },
+      "ms": {
+        "meaning": "Aku datang memenuhi panggilan-Mu, ya Allah, aku datang memenuhi panggilan-Mu. Aku datang memenuhi panggilan-Mu, tiada sekutu bagi-Mu, aku datang memenuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kerajaan adalah milik-Mu, tiada sekutu bagi-Mu."
+      },
+      "ru": {
+        "meaning": "Вот я пред Тобой, о Аллах, вот я пред Тобой! Вот я пред Тобой, нет у Тебя сотоварища, вот я пред Тобой! Поистине, вся хвала, и милость, и власть принадлежат Тебе, нет у Тебя сотоварища!"
+      },
+      "sw": {
+        "meaning": "Niko hapa, Ee Allah, niko hapa. Niko hapa, huna mshirika, niko hapa. Hakika sifa zote, neema, na ufalme ni wako. Huna mshirika."
+      },
+      "tr": {
+        "meaning": "Buyur Allah'ım, buyur! Buyur, ortağın yoktur, buyur! Şüphesiz hamd, nimet ve mülk Sana aittir, ortağın yoktur."
+      },
+      "ur": {
+        "meaning": "حاضر ہوں، اے اللہ، حاضر ہوں، حاضر ہوں، تیرا کوئی شریک نہیں، حاضر ہوں، بے شک تمام تعریفیں، نعمتیں اور بادشاہت تیری ہی ہے، تیرا کوئی شریک نہیں۔"
+      }
+    },
+    "transliteration": "Labbayk Allāhumma Labbayk, Labbayk lā sharīka laka Labbayk, innal-ḥamda wan-niʿmata laka wal-mulk, lā sharīka lak"
+  },
+  "entry_006": {
+    "arabic": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لَا إِلَٰهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ",
+    "category_id": "special_pathways",
+    "id": "seasons_6",
+    "repeat": 1,
+    "source": "Ibn Abī Shaybah 5633 (ḥasan isnād)",
+    "subcategory_id": "ramadan_hajj_eid_jumuah",
+    "tag": "eid_takbir",
+    "translations": {
+      "ar": {
+        "meaning": "اللَّهُ أَكْبَرُ ... وَلِلَّهِ الْحَمْدُ"
+      },
+      "bn": {
+        "meaning": "আল্লাহ মহান, আল্লাহ মহান, আল্লাহ ছাড়া কোনো উপাস্য নেই; আল্লাহ মহান, আল্লাহ মহান, এবং সমস্ত প্রশংসা আল্লাহর জন্য।"
+      },
+      "en": {
+        "meaning": "Allah is greatest, Allah is greatest; there is no deity but Allah. Allah is greatest, Allah is greatest and to Allah belongs all praise."
+      },
+      "fa": {
+        "meaning": "الله اکبر، الله اکبر، معبودی جز خدا نیست؛ الله اکبر، الله اکبر، و ستایش مخصوص خداست."
+      },
+      "fr": {
+        "meaning": "Allah est le plus Grand, Allah est le plus Grand, il n’est de divinité qu’Allah. Allah est le plus Grand, Allah est le plus Grand et à Allah appartient la louange."
+      },
+      "hi": {
+        "meaning": "अल्लाह सबसे बड़ा है, अल्लाह सबसे बड़ा है; अल्लाह के सिवा कोई पूज्य नहीं; अल्लाह सबसे बड़ा है, अल्लाह सबसे बड़ा है और सारी प्रशंसा अल्लाह के लिए है।"
+      },
+      "id": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar, tiada ilah selain Allah; Allah Maha Besar, Allah Maha Besar, segala puji bagi-Nya."
+      },
+      "ms": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar, tiada Tuhan selain Allah; Allah Maha Besar, Allah Maha Besar dan segala puji bagi Allah."
+      },
+      "ru": {
+        "meaning": "Аллах Велик, Аллах Велик, нет божества кроме Аллаха; Аллах Велик, Аллах Велик, и хвала принадлежит Аллаху."
+      },
+      "sw": {
+        "meaning": "Allah ni Mkubwa, Allah ni Mkubwa; hapana mungu isipokuwa Allah. Allah ni Mkubwa, Allah ni Mkubwa na sifa ni za Allah."
+      },
+      "tr": {
+        "meaning": "Allah büyüktür, Allah büyüktür; Allah’tan başka ilah yoktur. Allah büyüktür, Allah büyüktür, hamd Allah’a mahsustur."
+      },
+      "ur": {
+        "meaning": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے؛ اللہ کے سوا کوئی معبود نہیں؛ اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے اور تمام تعریف اللہ کے لیے ہے۔"
+      }
+    },
+    "transliteration": "Allāhu akbar, Allāhu akbar, lā ilāha illā-llāh; wa-llāhu akbar, Allāhu akbar wa li-llāhi l-ḥamd."
+  },
+  "entry_007": {
+    "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+    "category_id": "life_events",
+    "id": "seasons_7",
+    "repeat": 1,
+    "source": "Bukhari 1032 (Dua during rain, beneficial for sustenance)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم صيبا نافعا"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, (इसे) উপকারী বৃষ্টি দিন।"
+      },
+      "en": {
+        "meaning": "O Allah, (make it) a beneficial rain."
+      },
+      "fa": {
+        "meaning": "بارالها، بارانی پر منفعت."
+      },
+      "fr": {
+        "meaning": "Ô Allah, (fais-en) une pluie utile."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, (इसे) एक नफ़ा बख़्श बारिश बना दे।"
+      },
+      "id": {
+        "meaning": "Ya Allah, (jadikanlah hujan ini) hujan yang bermanfaat."
+      },
+      "ms": {
+        "meaning": "Ya Allah, (jadikanlah ia) hujan yang bermanfaat."
+      },
+      "ru": {
+        "meaning": "О Аллах, (сделай это) полезным дождем."
+      },
+      "sw": {
+        "meaning": "Ee Allah, (fanya iwe) mvua yenye manufaa."
+      },
+      "tr": {
+        "meaning": "Allah'ım, faydalı yağmur kıl."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے نفع بخش بارش بنا دے۔"
+      }
+    },
+    "transliteration": "Allāhumma ṣayyiban nāfiʿā"
+  },
+  "entry_008": {
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "category_id": "life_events",
+    "id": "seasons_8",
+    "repeat": 1,
+    "source": "Quran 2:201 (Often recited during Tawaf, general supplication)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار"
+      },
+      "bn": {
+        "meaning": "হে আমাদের প্রতিপালক, আমাদেরকে দুনিয়াতে কল্যাণ দিন এবং আখেরাতেও কল্যাণ দিন এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন।"
+      },
+      "en": {
+        "meaning": "Our Lord, grant us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
+      },
+      "fa": {
+        "meaning": "پروردگارا، در دنیا به ما نیکی ده و در آخرت نیز نیکی ده، و ما را از عذاب آتش نگاه دار."
+      },
+      "fr": {
+        "meaning": "Notre Seigneur, accorde-nous une belle part ici-bas et une belle part dans l'au-delà, et préserve-nous du châtiment du Feu."
+      },
+      "hi": {
+        "meaning": "ऐ हमारे रब, हमें दुनिया में भलाई अता फ़रमा और आख़िरत में भी भलाई अता फ़रमा, और हमें दोज़ख़ के अज़ाब से बचा।"
+      },
+      "id": {
+        "meaning": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+      },
+      "ms": {
+        "meaning": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari azab neraka."
+      },
+      "ru": {
+        "meaning": "Господь наш! Даруй нам в этом мире добро и в Последней жизни добро, и защити нас от мучений Огня."
+      },
+      "sw": {
+        "meaning": "Mola wetu, tupe wema duniani na wema Akhera, na utulinde na adhabu ya Moto."
+      },
+      "tr": {
+        "meaning": "Rabbimiz! Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi cehennem azabından koru."
+      },
+      "ur": {
+        "meaning": "اے ہمارے رب، ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما، اور ہمیں دوزخ کے عذاب سے بچا۔"
+      }
+    },
+    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ʿadhāban-nār"
+  },
+  "entry_009": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "category_id": "life_events",
+    "id": "seasons_9",
+    "repeat": 1,
+    "source": "Abu Dawud 793, Ibn Majah 2011 (General dua, often recited during Hajj)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك الجنة وأعوذ بك من النار"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে জান্নাত চাই এবং জাহান্নামের আগুন থেকে আপনার আশ্রয় চাই।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You for Paradise and I seek refuge in You from the Fire."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو بهشت را می‌طلبم و از آتش به تو پناه می‌برم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le Paradis et je cherche refuge auprès de Toi contre l'Enfer."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे जन्नत का सवाल करता हूँ और जहन्नम की आग से तेरी पनाह चाहता हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Allah, aku memohon kepada-Mu surga dan aku berlindung kepada-Mu dari api neraka."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu syurga dan aku berlindung kepada-Mu dari api neraka."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя Рая и прибегаю к Твоей защите от Ада."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nakuomba Pepo na najikinga Kwako kutokana na Moto."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden cenneti dilerim ve cehennemden Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے جنت کا سوال کرتا ہوں اور جہنم کی آگ سے تیری پناہ چاہتا ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾalukal-jannah wa aʿūdhu bika minan-nār"
+  },
+  "entry_010": {
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "category_id": "life_events",
+    "id": "seasons_10",
+    "repeat": 100,
+    "source": "Bukhari 6405 (Frequently recited, especially on Jumuah)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "سبحان الله وبحمده"
+      },
+      "bn": {
+        "meaning": "আল্লাহ পবিত্র এবং সমস্ত প্রশংসা তাঁরই জন্য।"
+      },
+      "en": {
+        "meaning": "Glorified is Allah and praised is He."
+      },
+      "fa": {
+        "meaning": "پاک است خدا و ستایش از آن اوست."
+      },
+      "fr": {
+        "meaning": "Gloire à Allah et louange à Lui."
+      },
+      "hi": {
+        "meaning": "अल्लाह पाक है और उसकी हम्द के साथ।"
+      },
+      "id": {
+        "meaning": "Maha Suci Allah dan dengan pujian-Nya."
+      },
+      "ms": {
+        "meaning": "Maha Suci Allah dan dengan pujian-Nya."
+      },
+      "ru": {
+        "meaning": "Пречист Аллах и хвала Ему."
+      },
+      "sw": {
+        "meaning": "Ametakasika Allah na sifa zote ni zake."
+      },
+      "tr": {
+        "meaning": "Allah'ı hamdiyle tesbih ederim."
+      },
+      "ur": {
+        "meaning": "اللہ پاک ہے اور اس کی حمد کے ساتھ۔"
+      }
+    },
+    "transliteration": "Subḥānallāhi wa biḥamdihī"
+  },
+  "entry_011": {
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "category_id": "life_events",
+    "id": "seasons_11",
+    "repeat": 3,
+    "source": "Muslim 2702 (Frequently recited, especially after prayers)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "أستغفر الله"
+      },
+      "bn": {
+        "meaning": "আমি আল্লাহর কাছে ক্ষমা চাই।"
+      },
+      "en": {
+        "meaning": "I seek Allah's forgiveness."
+      },
+      "fa": {
+        "meaning": "از خدا آمرزش می‌طلبم."
+      },
+      "fr": {
+        "meaning": "Je demande pardon à Allah."
+      },
+      "hi": {
+        "meaning": "मैं अल्लाह से मग़फ़िरत तलब करता हूँ।"
+      },
+      "id": {
+        "meaning": "Aku memohon ampun kepada Allah."
+      },
+      "ms": {
+        "meaning": "Aku memohon ampun kepada Allah."
+      },
+      "ru": {
+        "meaning": "Я прошу прощения у Аллаха."
+      },
+      "sw": {
+        "meaning": "Namuomba msamaha Allah."
+      },
+      "tr": {
+        "meaning": "Allah'tan bağışlama dilerim."
+      },
+      "ur": {
+        "meaning": "میں اللہ سے مغفرت طلب کرتا ہوں۔"
+      }
+    },
+    "transliteration": "Astaghfirullāh"
+  },
+  "entry_012": {
+    "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+    "category_id": "life_events",
+    "id": "seasons_12",
+    "repeat": 1,
+    "source": "Bukhari 834, Muslim 2705 (Dua in prayer, seeking forgiveness)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني ظلمت نفسي ظلما كثيرا ولا يغفر الذنوب إلا أنت فاغفر لي مغفرة من عندك وارحمني إنك أنت الغفور الرحيم"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আমার আত্মার উপর অনেক যুলুম করেছি, আর আপনি ছাড়া কেউ গুনাহ মাফ করতে পারে না। সুতরাং আপনার পক্ষ থেকে আমাকে ক্ষমা করুন এবং আমার প্রতি রহম করুন। নিশ্চয়ই আপনি ক্ষমাশীল, পরম দয়ালু।"
+      },
+      "en": {
+        "meaning": "O Allah, I have wronged myself greatly, and none can forgive sins except You. So grant me forgiveness from You and have mercy upon me. Indeed, You are the Forgiving, the Merciful."
+      },
+      "fa": {
+        "meaning": "بارالها، من به خود بسیار ستم کرده‌ام و گناهان را جز تو کسی نمی‌آمرزد. پس مرا از جانب خود بیامرز و به من رحم کن. همانا تو آمرزنده و مهربان هستی."
+      },
+      "fr": {
+        "meaning": "Ô Allah, j'ai beaucoup opprimé mon âme, et nul ne pardonne les péchés sauf Toi. Alors accorde-moi un pardon de Ta part et fais-moi miséricorde. Certes, Tu es le Pardonneur, le Très Miséricordieux."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैंने अपनी जान पर बहुत ज़ुल्म किया है, और तेरे सिवा कोई गुनाहों को माफ़ नहीं कर सकता। पस मुझे अपनी तरफ़ से मग़फ़िरत अता फ़रमा और मुझ पर रहम फ़रमा। बेशक तू ही बख़्शने वाला, निहायत रहम वाला है।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku telah menzalimi diriku sendiri dengan kezaliman yang banyak, dan tiada yang mengampuni dosa-dosa melainkan Engkau. Maka ampunilah aku dengan ampunan dari sisi-Mu dan rahmatilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku telah menzalimi diriku sendiri dengan kezaliman yang banyak, dan tiada yang mengampuni dosa-dosa melainkan Engkau. Maka ampunilah aku dengan keampunan dari sisi-Mu dan rahmatilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я очень много причинил вреда своей душе, и никто не прощает грехов, кроме Тебя. Так прости же меня прощением от Себя и помилуй меня. Поистине, Ты — Прощающий, Милосердный."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nimeidhulumu nafsi yangu dhuluma nyingi, na hakuna anayesamehe dhambi isipokuwa Wewe. Basi nisamehe msamaha kutoka Kwako na unirehemu. Hakika Wewe ndiye Mwingi wa kusamehe, Mwenye kurehemu."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Ben nefsime çok zulmettim. Günahları ancak Sen affedersin. Katından bir mağfiret ile beni affet ve bana merhamet et. Şüphesiz Sen, çok bağışlayansın, çok merhametlisin."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں نے اپنی جان پر بہت زیادہ ظلم کیا ہے، اور تیرے سوا کوئی گناہوں کو معاف نہیں کر سکتا۔ پس مجھے اپنی طرف سے مغفرت عطا فرما اور مجھ پر رحم فرما۔ بے شک تو ہی بخشنے والا، نہایت رحم والا ہے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī ẓalamtu nafsī ẓulman kathīran wa lā yaghfirudh-dhunūba illā Anta, faghfir lī maghfiratan min ʿindika warḥamnī innaka Antal-Ghafūrur-Raḥīm"
+  },
+  "entry_013": {
+    "arabic": "اللَّهُمَّ اجْعَلْهَا حَجَّةً مَبْرُورَةً وَسَعْيًا مَشْكُورًا وَذَنْبًا مَغْفُورًا",
+    "category_id": "life_events",
+    "id": "seasons_13",
+    "repeat": 1,
+    "source": "Common Dua for Hajj (Hisnul Muslim #103 - similar context)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم اجعلها حجة مبرورة وسعيا مشكورا وذنبا مغفورا"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, এটিকে কবুল হজ, কৃতজ্ঞ প্রচেষ্টা এবং ক্ষমাপ্রাপ্ত গুনাহ করে দিন।"
+      },
+      "en": {
+        "meaning": "O Allah, make it an accepted Hajj, a thanked effort, and a forgiven sin."
+      },
+      "fa": {
+        "meaning": "بارالها، آن را حج مبرور، و سعی مشکور، و گناه آمرزیده قرار ده."
+      },
+      "fr": {
+        "meaning": "Ô Allah, fais-en un Hajj accepté, un effort remercié et un péché pardonné."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, इसे हज-ए-मबरूर बना, सई-ए-मश्कूर बना, और गुनाह बख़्शा हुआ बना।"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah haji ini haji yang mabrur, sa'i yang disyukuri, dan dosa yang diampuni."
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah haji ini haji yang mabrur, sa'i yang disyukuri, dan dosa yang diampuni."
+      },
+      "ru": {
+        "meaning": "О Аллах, сделай это принятым хаджем, благодатным усердием и прощенным грехом."
+      },
+      "sw": {
+        "meaning": "Ee Allah, fanya iwe Hajj iliyokubalika, juhudi inayoshukuriwa, na dhambi iliyosamehewa."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Bu haccı mebrur, ameli makbul ve günahı mağfur eyle."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے حج مقبول بنا، سعی مشکور بنا، اور گناہ بخشا ہوا بنا۔"
+      }
+    },
+    "transliteration": "Allāhumma ijʿalhā ḥajjatan mabrūratan wa saʿyan mashkūran wa dhanban maghfūrā"
+  },
+  "entry_014": {
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "category_id": "life_events",
+    "id": "seasons_14",
+    "repeat": 1,
+    "source": "Muslim 2709 (Before breaking fast, general protection)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "أعوذ بكلمات الله التامات من شر ما خلق"
+      },
+      "bn": {
+        "meaning": "আমি আল্লাহর পরিপূর্ণ বাক্যসমূহের আশ্রয় চাই, যা তিনি সৃষ্টি করেছেন তার অনিষ্ট থেকে।"
+      },
+      "en": {
+        "meaning": "I seek refuge in the perfect words of Allah from the evil of what He has created."
+      },
+      "fa": {
+        "meaning": "به کلمات کامل خداوند از شر آنچه آفریده پناه می‌برم."
+      },
+      "fr": {
+        "meaning": "Je cherche refuge auprès des paroles parfaites d'Allah contre le mal de ce qu'Il a créé."
+      },
+      "hi": {
+        "meaning": "मैं अल्लाह के कामिल कलमात की पनाह चाहता हूँ हर उस चीज़ के शर से जो उसने पैदा की।"
+      },
+      "id": {
+        "meaning": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang diciptakan-Nya."
+      },
+      "ms": {
+        "meaning": "Aku berlindung dengan kalimah-kalimah Allah yang sempurna dari kejahatan apa yang diciptakan-Nya."
+      },
+      "ru": {
+        "meaning": "Я прибегаю к совершенным словам Аллаха от зла того, что Он сотворил."
+      },
+      "sw": {
+        "meaning": "Najikinga kwa maneno kamili ya Allah kutokana na shari ya alichokiumba."
+      },
+      "tr": {
+        "meaning": "Allah'ın eksiksiz kelimeleriyle yarattıklarının şerrinden Allah'a sığınırım."
+      },
+      "ur": {
+        "meaning": "میں اللہ کے کامل کلمات کی پناہ چاہتا ہوں ہر اس چیز کے شر سے جو اس نے پیدا کی۔"
+      }
+    },
+    "transliteration": "Aʿūdhu bikalimātillāhit-tāmmāti min sharri mā khalaq"
+  },
+  "entry_015": {
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+    "category_id": "life_events",
+    "id": "seasons_15",
+    "repeat": 1,
+    "source": "Bukhari 3370 (Recited frequently, especially on Jumuah)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم صل على محمد وعلى آل محمد"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, মুহাম্মদ ও তাঁর পরিবারের উপর সালাত বর্ষণ করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad and upon the family of Muhammad."
+      },
+      "fa": {
+        "meaning": "بارالها، بر محمد و آل محمد درود فرست."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुहम्मद पर और आले मुहम्मद पर रहमत भेज।"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat kepada Muhammad dan kepada keluarga Muhammad."
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah ke atas Muhammad dan ke atas keluarga Muhammad."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир Мухаммаду и роду Мухаммада."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu Muhammad na familia ya Muhammad."
+      },
+      "tr": {
+        "meaning": "Allah'ım, Muhammed'e ve Muhammed ailesine salât et."
+      },
+      "ur": {
+        "meaning": "اے اللہ، محمد پر اور آلِ محمد پر رحمت بھیج۔"
+      }
+    },
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammadin wa ʿalā āli Muḥammad"
+  },
+  "entry_016": {
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ",
+    "category_id": "life_events",
+    "id": "seasons_16",
+    "repeat": 1,
+    "source": "Quran 7:43 (General gratitude, suitable for Eid)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله الذي هدانا لهذا وما كنا لنهتدي لولا أن هدانا الله"
+      },
+      "bn": {
+        "meaning": "সমস্ত প্রশংসা আল্লাহর জন্য, যিনি আমাদেরকে এই পথে পরিচালিত করেছেন। আমরা কখনো পথ পেতাম না, যদি না আল্লাহ আমাদেরকে পথ দেখাতেন।"
+      },
+      "en": {
+        "meaning": "Praise be to Allah, who has guided us to this; and we would not have been guided had not Allah guided us."
+      },
+      "fa": {
+        "meaning": "سپاس خدایی را که ما را به این راه هدایت کرد، و اگر خدا ما را هدایت نمی‌کرد، ما هرگز هدایت نمی‌یافتیم."
+      },
+      "fr": {
+        "meaning": "Louange à Allah, qui nous a guidés à ceci. Nous n'aurions pas été guidés si Allah ne nous avait pas guidés."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने हमें इसकी तरफ़ हिदायत दी, और अगर अल्लाह हमें हिदायत न देता तो हम कभी हिदायत न पाते।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah menunjukkan kami kepada (jalan) ini. Dan kami tidak akan mendapat petunjuk sekiranya Allah tidak memberi kami petunjuk."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah menunjukkan kami kepada (jalan) ini. Dan kami tidak akan mendapat petunjuk sekiranya Allah tidak memberi kami petunjuk."
+      },
+      "ru": {
+        "meaning": "Хвала Аллаху, Который привел нас к этому! Мы не последовали бы прямым путем, если бы Аллах не наставил нас."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah, aliyetuelewesha haya. Na tusingelielewa isipokuwa Allah angetuelekeza."
+      },
+      "tr": {
+        "meaning": "Hamdolsun o Allah'a ki, bizi buna iletti. Allah bize hidayet etmeseydi, biz kendiliğimizden hidayete eremezdik."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں اس کی طرف ہدایت دی، اور اگر اللہ ہمیں ہدایت نہ دیتا تو ہم کبھی ہدایت نہ پاتے۔"
+      }
+    },
+    "transliteration": "Alḥamdu lillāhilla-dhī hadānā lihādhā wa mā kunnā linahtadiya lawlā an hadānallāh"
+  },
+  "entry_017": {
+    "arabic": "رَبِّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا",
+    "category_id": "life_events",
+    "id": "seasons_17",
+    "repeat": 1,
+    "source": "Quran 14:35 (Dua of Ibrahim A.S. for Makkah, relevant for Hajj)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "رب اجعل هذا البلد آمنا"
+      },
+      "bn": {
+        "meaning": "হে আমার রব, এই শহরকে নিরাপদ করুন।"
+      },
+      "en": {
+        "meaning": "My Lord, make this city secure."
+      },
+      "fa": {
+        "meaning": "پروردگارا، این شهر را امن گردان."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, fais de cette cité un lieu sûr."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, इस शहर को पुरअमन बना दे।"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, jadikanlah negeri ini aman."
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, jadikanlah negeri ini aman."
+      },
+      "ru": {
+        "meaning": "Господь мой! Сделай этот город безопасным."
+      },
+      "sw": {
+        "meaning": "Mola wangu, fanya mji huu uwe salama."
+      },
+      "tr": {
+        "meaning": "Rabbim! Bu beldeyi (Mekke'yi) güvenli kıl."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، اس شہر کو پرامن بنا دے۔"
+      }
+    },
+    "transliteration": "Rabbi ijʿal hādhāl-balada āminā"
+  },
+  "entry_018": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفِتَنِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ",
+    "category_id": "life_events",
+    "id": "seasons_18",
+    "repeat": 1,
+    "source": "Muslim 2867 (General protection, relevant for troubled times like end of Ramadan, after Hajj)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الفتن ما ظهر منها وما بطن"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে প্রকাশ্য ও গোপন সকল ফেতনা থেকে আশ্রয় চাই।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from trials, what is apparent of them and what is hidden."
+      },
+      "fa": {
+        "meaning": "بارالها، به تو پناه می‌برم از فتنه‌ها، آنچه از آنها آشکار است و آنچه پنهان است."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre les épreuves, ce qui en est apparent et ce qui est caché."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ फ़ितनों से, जो उनमें से ज़ाहिर हों और जो पोशीदा हों।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari fitnah-fitnah, baik yang tampak maupun yang tersembunyi."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari fitnah-fitnah, baik yang zahir mahupun yang batin."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Твоей защите от искушений, как явных, так и скрытых."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na fitina, zile zilizo wazi na zile zilizofichika."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Açık ve gizli bütün fitnelerden Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں فتنوں سے، جو ان میں سے ظاہر ہوں اور جو پوشیدہ ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-fitani mā ẓahara minhā wa mā baṭan"
+  },
+  "entry_019": {
+    "arabic": "اَللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+    "category_id": "life_events",
+    "id": "seasons_19",
+    "repeat": 1,
+    "source": "Bukhari 6306 (Sayyid al-Istighfar, beneficial at all times including sacred seasons)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم أنت ربي لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك ما استطعت، أعوذ بك من شر ما صنعت، أبوء لك بنعمتك علي، وأبوء بذنبي فاغفر لي فإنه لا يغفر الذنوب إلا أنت"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি আমার রব, আপনি ছাড়া কোন ইলাহ নেই। আপনি আমাকে সৃষ্টি করেছেন এবং আমি আপনার বান্দা, আর আমি আপনার অঙ্গীকার ও প্রতিশ্রুতির উপর আছি যতক্ষণ আমার সামর্থ্য আছে। আমি যা করেছি তার অনিষ্ট থেকে আপনার কাছে আশ্রয় চাই। আমি আপনার আমার উপর আরোপিত নেয়ামত স্বীকার করি এবং আমার গুনাহ স্বীকার করি, সুতরাং আমাকে ক্ষমা করুন, কারণ আপনি ছাড়া কেউ গুনাহ ক্ষমা করতে পারে না।"
+      },
+      "en": {
+        "meaning": "O Allah, You are my Lord, there is no god but You. You created me and I am Your slave, and I am on Your covenant and Your promise as much as I am able. I seek refuge in You from the evil of what I have done. I acknowledge Your blessings upon me, and I acknowledge my sin, so forgive me, for indeed none can forgive sins except You."
+      },
+      "fa": {
+        "meaning": "بارالها، تو پروردگار منی، هیچ معبودی جز تو نیست. مرا آفریدی و من بنده تو هستم، و من بر پیمان و وعده تو هستم تا آنجا که توان دارم. به تو پناه می‌برم از شر آنچه انجام داده‌ام. نعمت‌های تو را بر خود اعتراف می‌کنم، و به گناه خود اقرار می‌کنم، پس مرا بیامرز، زیرا گناهان را جز تو کسی نمی‌آمرزد."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Tu es mon Seigneur, il n'y a de dieu que Toi. Tu m'as créé et je suis Ton esclave, et je suis sur Ton alliance et Ta promesse autant que je le peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai fait. Je reconnais Tes bienfaits sur moi, et je reconnais mon péché, alors pardonne-moi, car en vérité, nul ne pardonne les péchés sauf Toi."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, तू मेरा रब है, तेरे सिवा कोई माबूद नहीं, तूने मुझे पैदा किया और मैं तेरा बंदा हूँ, और मैं तेरी अहद और तेरे वादे पर क़ायम हूँ जितनी मुझमें ताक़त है। मैंने जो कुछ किया है उसके शर से तेरी पनाह चाहता हूँ। मैं तेरी नेमतों का इक़रार करता हूँ जो तूने मुझ पर की हैं, और मैं अपने गुनाह का इक़रार करता हूँ, पस मुझे बख़्श दे, क्योंकि तेरे सिवा कोई गुनाहों को नहीं बख़्शता।"
+      },
+      "id": {
+        "meaning": "Ya Allah, Engkau adalah Tuhanku, tiada tuhan selain Engkau. Engkau menciptakan aku dan aku adalah hamba-Mu, dan aku berada di atas janji dan sumpah-Mu sebisa mungkin. Aku berlindung kepada-Mu dari kejahatan yang aku lakukan. Aku mengakui nikmat-Mu atasku, dan aku mengakui dosaku, maka ampunilah aku, karena sesungguhnya tidak ada yang dapat mengampuni dosa-dosa melainkan Engkau."
+      },
+      "ms": {
+        "meaning": "Ya Allah, Engkau adalah Tuhanku, tiada tuhan melainkan Engkau. Engkau menciptakan aku dan aku adalah hamba-Mu, dan aku berada di atas janji dan sumpah-Mu sebisa mungkin. Aku berlindung kepada-Mu dari kejahatan yang aku lakukan. Aku mengakui nikmat-Mu atasku, dan aku mengakui dosaku, maka ampunilah aku, kerana sesungguhnya tidak ada yang dapat mengampuni dosa-dosa melainkan Engkau."
+      },
+      "ru": {
+        "meaning": "О Аллах, Ты — мой Господь, нет бога, кроме Тебя. Ты создал меня, и я — Твой раб, и я на Твоем завете и обещании, насколько могу. Я прибегаю к Тебе от зла того, что я совершил. Я признаю Твои блага, оказанные мне, и признаю свой грех, так прости же меня, ибо поистине, никто не прощает грехов, кроме Тебя."
+      },
+      "sw": {
+        "meaning": "Ee Allah, Wewe ndiye Mola wangu, hapana Mola ila Wewe. Umeniumba na mimi ni mja wako, na mimi niko juu ya ahadi yako na kauli yako kadiri niwezavyo. Najikinga Kwako kutokana na shari ya niliyoyafanya. Nakiri neema zako juu yangu, na nakiri dhambi yangu, basi nisamehe, kwani hakika hakuna anayesamehe dhambi isipokuwa Wewe."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Sen benim Rabbimsin. Senden başka ilah yoktur. Beni Sen yarattın ve ben Senin kulunum. Gücüm yettiğince Senin ahdin ve vaadin üzereyim. Yaptıklarımın şerrinden Sana sığınırım. Bana verdiğin nimetleri itiraf ederim. Günahımı da itiraf ederim. Beni bağışla, çünkü günahları ancak Sen bağışlarsın."
+      },
+      "ur": {
+        "meaning": "اے اللہ، تو میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں، اور میں تیری عہد اور تیرے وعدے پر قائم ہوں جتنی مجھ میں طاقت ہے۔ میں نے جو کچھ کیا ہے اس کے شر سے تیری پناہ چاہتا ہوں۔ میں تیری نعمتوں کا اقرار کرتا ہوں جو تو نے مجھ پر کی ہیں، اور میں اپنے گناہ کا اقرار کرتا ہوں، پس مجھے بخش دے، کیونکہ تیرے سوا کوئی گناہوں کو نہیں بخشتا۔"
+      }
+    },
+    "transliteration": "Allāhumma Anta Rabbī Lā ilāha illā Anta, Khalaqtanī wa anā ʿabduk, wa anā ʿalā ʿahdika wa waʿdika masṭaṭaʿtu, Aʿūdhu bika min sharri mā ṣanaʿtu, Abūʾu laka biniʿmatika ʿalayya, wa abūʾu bidhanbī faghfir lī faʾinnahu lā yaghfirudh-dhunūba illā Anta"
+  },
+  "entry_020": {
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ",
+    "category_id": "life_events",
+    "id": "seasons_20",
+    "repeat": 1,
+    "source": "Muslim 2091 (General glorification, beneficial during Hajj/Ramadan)",
+    "subcategory_id": "seasons_of_mercy",
+    "tag": "ramadan_hajj_eid_jumuah",
+    "translations": {
+      "ar": {
+        "meaning": "سبحان الله والحمد لله ولا إله إلا الله والله أكبر"
+      },
+      "bn": {
+        "meaning": "আল্লাহ পবিত্র, এবং সমস্ত প্রশংসা আল্লাহর জন্য, এবং আল্লাহ ছাড়া কোন ইলাহ নেই, এবং আল্লাহ মহান।"
+      },
+      "en": {
+        "meaning": "Glorified is Allah, and praise be to Allah, and there is no god but Allah, and Allah is the greatest."
+      },
+      "fa": {
+        "meaning": "پاک است خدا، و ستایش از آن خداست، و هیچ معبودی جز خدا نیست، و خدا بزرگتر است."
+      },
+      "fr": {
+        "meaning": "Gloire à Allah, et louange à Allah, et il n'y a de dieu qu'Allah, et Allah est le plus grand."
+      },
+      "hi": {
+        "meaning": "अल्लाह पाक है, और तमाम तारीफ़ें अल्लाह के लिए हैं, और अल्लाह के सिवा कोई माबूद नहीं, और अल्लाह सबसे बड़ा है।"
+      },
+      "id": {
+        "meaning": "Maha Suci Allah, dan segala puji bagi Allah, dan tiada tuhan melainkan Allah, dan Allah Maha Besar."
+      },
+      "ms": {
+        "meaning": "Maha Suci Allah, dan segala puji bagi Allah, dan tiada tuhan melainkan Allah, dan Allah Maha Besar."
+      },
+      "ru": {
+        "meaning": "Пречист Аллах, и хвала Аллаху, и нет бога, кроме Аллаха, и Аллах велик."
+      },
+      "sw": {
+        "meaning": "Ametakasika Allah, na sifa zote ni za Allah, na hapana Mungu ila Allah, na Allah Mkubwa."
+      },
+      "tr": {
+        "meaning": "Allah'ı tenzih ederim, hamd Allah'adır, Allah'tan başka ilah yoktur ve Allah en büyüktür."
+      },
+      "ur": {
+        "meaning": "اللہ پاک ہے، اور تمام تعریفیں اللہ کے لیے ہیں، اور اللہ کے سوا کوئی معبود نہیں، اور اللہ سب سے بڑا ہے۔"
+      }
+    },
+    "transliteration": "Subḥānallāhi wal-ḥamdulillāhi wa lā ilāha illallāhu wallāhu akbar"
+  }
+}

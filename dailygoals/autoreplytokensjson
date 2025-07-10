@@ -1,0 +1,261 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "autoreply_tokens": {
+    "auto_reply_templates": [
+      {
+        "category": "prayer_time",
+        "placeholders": [],
+        "template_id": "business_1",
+        "text": "I'm currently in prayer. I will respond shortly. Thank you for your patience.",
+        "tone": "business",
+        "translations": {
+          "ar": "أَنَا حَالِيًّا فِي الصَّلَاة. سَأَرُد قَرِيبًا. شُكْرًا لِصَبْرِك",
+          "bn": "আমি এখন নামাজে আছি। শীঘ্রই উত্তর দেব। ধৈর্যের জন্য ধন্যবাদ।",
+          "en": "I'm currently in prayer. I will respond shortly. Thank you for your patience.",
+          "fa": "در حال حاضر در حال نماز هستم. به زودی پاسخ خواهم داد. از صبر شما متشکرم.",
+          "fr": "Je suis actuellement en prière. Je répondrai bientôt. Merci pour votre patience.",
+          "hi": "मैं अभी नमाज़ में हूं। जल्द जवाब दूंगा। धैर्य के लिए धन्यवाद।",
+          "id": "Saya sedang shalat. Saya akan membalas segera. Terima kasih atas kesabarannya.",
+          "ms": "Saya sedang solat. Saya akan membalas tidak lama lagi. Terima kasih atas kesabaran.",
+          "ru": "Я сейчас молюсь. Отвечу вскоре. Спасибо за терпение.",
+          "sw": "Nina maombi sasa. Nitajibu hivi karibuni. Asante kwa uvumilivu.",
+          "tr": "Şu anda namazdayım. Kısa süre içinde cevap vereceğim. Sabrınız için teşekkürler.",
+          "ur": "میں فی الوقت نماز میں ہوں۔ جلد جواب دوں گا۔ صبر کے لیے شکریہ۔"
+        }
+      },
+      {
+        "category": "prayer_time",
+        "placeholders": [],
+        "template_id": "business_2",
+        "text": "It is now prayer time. I'll be available again soon. Thank you.",
+        "tone": "business",
+        "translations": {
+          "ar": "حَانَ وَقْت الصَّلَاة الآن. سَأَكُون مُتَاحًا مَرَّةً أُخْرَى قَرِيبًا. شُكْرًا",
+          "bn": "এখন নামাজের সময়। শীঘ্রই আবার উপলব্ধ হব। ধন্যবাদ।",
+          "en": "It is now prayer time. I'll be available again soon. Thank you.",
+          "fa": "اکنون وقت نماز است. به زودی دوباره در دسترس خواهم بود. متشکرم.",
+          "fr": "C'est maintenant l'heure de la prière. Je serai bientôt disponible. Merci.",
+          "hi": "अब नमाज़ का समय है। जल्द फिर उपलब्ध होऊंगा। धन्यवाद।",
+          "id": "Sekarang waktu shalat. Saya akan tersedia lagi segera. Terima kasih.",
+          "ms": "Sekarang waktu solat. Saya akan tersedia semula tidak lama lagi. Terima kasih.",
+          "ru": "Сейчас время молитвы. Скоро снова буду доступен. Спасибо.",
+          "sw": "Sasa ni wakati wa maombi. Nitapatikana tena hivi karibuni. Asante.",
+          "tr": "Şimdi namaz vakti. Yakında tekrar müsait olacağım. Teşekkürler.",
+          "ur": "اب نماز کا وقت ہے۔ جلد دوبارہ دستیاب ہوں گا۔ شکریہ۔"
+        }
+      },
+      {
+        "category": "scheduled_break",
+        "placeholders": [],
+        "template_id": "business_3",
+        "text": "I'm observing a scheduled break. I'll reply when I return. Appreciate your message.",
+        "tone": "business",
+        "translations": {
+          "ar": "أَتَّبِع اسْتِرَاحَة مُجَدْوَلَة. سَأَرُد عِنْدَ عَوْدَتِي. أُقَدِّر رِسَالَتَك",
+          "bn": "আমি নির্ধারিত বিরতি নিচ্ছি। ফিরে এলে উত্তর দেব। আপনার বার্তার প্রশংসা করি।",
+          "en": "I'm observing a scheduled break. I'll reply when I return. Appreciate your message.",
+          "fa": "در حال رعایت استراحت برنامه‌ریزی شده هستم. با بازگشتم پاسخ خواهم داد. از پیام شما قدردانی می‌کنم.",
+          "fr": "J'observe une pause programmée. Je répondrai à mon retour. J'apprécie votre message.",
+          "hi": "मैं निर्धारित विराम ले रहा हूं। वापसी पर जवाब दूंगा। आपके संदेश की सराहना करता हूं।",
+          "id": "Saya sedang istirahat terjadwal. Saya akan membalas saat kembali. Menghargai pesan Anda.",
+          "ms": "Saya sedang berehat mengikut jadual. Saya akan membalas apabila kembali. Menghargai mesej anda.",
+          "ru": "У меня запланированный перерыв. Отвечу, когда вернусь. Ценю ваше сообщение.",
+          "sw": "Nina mapumziko yaliyopangwa. Nitajibu nikirudi. Ninakadiria ujumbe wako.",
+          "tr": "Planlı bir mola veriyorum. Döndüğümde cevap vereceğim. Mesajınız için teşekkürler.",
+          "ur": "میں طے شدہ وقفہ لے رہا ہوں۔ واپسی پر جواب دوں گا۔ آپ کے پیغام کی قدر کرتا ہوں۔"
+        }
+      },
+      {
+        "category": "reflection_time",
+        "placeholders": [],
+        "template_id": "business_4",
+        "text": "I'm in a short period of reflection. I'll get back to you shortly.",
+        "tone": "business",
+        "translations": {
+          "ar": "أَنَا فِي فَتْرَة قَصِيرَة مِن التَّأَمُّل. سَأَعُود إِلَيْك قَرِيبًا",
+          "bn": "আমি সংক্ষিপ্ত চিন্তার সময়ে আছি। শীঘ্রই আপনার কাছে ফিরে আসব।",
+          "en": "I'm in a short period of reflection. I'll get back to you shortly.",
+          "fa": "در دوره کوتاهی از تأمل هستم. به زودی با شما تماس خواهم گرفت.",
+          "fr": "Je suis dans une courte période de réflexion. Je vous recontacterai bientôt.",
+          "hi": "मैं संक्षिप्त चिंतन काल में हूं। जल्द आपसे संपर्क करूंगा।",
+          "id": "Saya sedang dalam periode refleksi singkat. Saya akan kembali kepada Anda segera.",
+          "ms": "Saya sedang dalam tempoh refleksi singkat. Saya akan kembali kepada anda tidak lama lagi.",
+          "ru": "У меня короткий период размышлений. Скоро свяжусь с вами.",
+          "sw": "Nina katika kipindi kifupi cha kutafakari. Nitarudi kwako hivi karibuni.",
+          "tr": "Kısa bir düşünce dönemindeyim. Size kısa süre içinde döneceğim.",
+          "ur": "میں مختصر تفکر کے دور میں ہوں۔ جلد آپ سے رابطہ کروں گا۔"
+        }
+      },
+      {
+        "category": "spiritual_duties",
+        "placeholders": [],
+        "template_id": "business_5",
+        "text": "I'm temporarily unavailable due to spiritual duties. Thank you for understanding.",
+        "tone": "business",
+        "translations": {
+          "ar": "أَنَا غَيْر مُتَاح مُؤَقَّتًا بِسَبَب الوَاجِبَات الرُّوحِيَّة. شُكْرًا لِتَفَهُّمِك",
+          "bn": "আধ্যাত্মিক দায়িত্বের কারণে সাময়িকভাবে অনুপস্থিত। বোঝার জন্য ধন্যবাদ।",
+          "en": "I'm temporarily unavailable due to spiritual duties. Thank you for understanding.",
+          "fa": "به دلیل وظایف معنوی موقتاً در دسترس نیستم. از درک شما متشکرم.",
+          "fr": "Je suis temporairement indisponible en raison de devoirs spirituels. Merci de votre compréhension.",
+          "hi": "आध्यात्मिक कर्तव्यों के कारण अस्थायी रूप से अनुपलब्ध हूं। समझने के लिए धन्यवाद।",
+          "id": "Saya sementara tidak tersedia karena kewajiban spiritual. Terima kasih atas pengertiannya.",
+          "ms": "Saya sementara tidak tersedia kerana tugas rohani. Terima kasih atas kefahaman.",
+          "ru": "Я временно недоступен из-за духовных обязанностей. Спасибо за понимание.",
+          "sw": "Sipatikani kwa muda kwa sababu ya majukumu ya kiroho. Asante kwa uelewa.",
+          "tr": "Ruhani görevler nedeniyle geçici olarak müsait değilim. Anlayışınız için teşekkürler.",
+          "ur": "روحانی فرائض کی وجہ سے عارضی طور پر دستیاب نہیں ہوں۔ سمجھداری کے لیے شکریہ۔"
+        }
+      },
+      {
+        "category": "notifications_paused",
+        "placeholders": [],
+        "template_id": "business_6",
+        "text": "My notifications are paused during prayer time. I'll respond as soon as I can.",
+        "tone": "business",
+        "translations": {
+          "ar": "إِشْعَارَاتِي مُتَوَقِّفَة أَثْنَاء وَقْت الصَّلَاة. سَأَرُد فِي أَقْرَب وَقْت مُمْكِن",
+          "bn": "নামাজের সময় আমার বিজ্ঞপ্তি বন্ধ আছে। যত তাড়াতাড়ি সম্ভব উত্তর দেব।",
+          "en": "My notifications are paused during prayer time. I'll respond as soon as I can.",
+          "fa": "اطلاعیه‌هایم در زمان نماز متوقف شده‌اند. به محض امکان پاسخ خواهم داد.",
+          "fr": "Mes notifications sont suspendues pendant la prière. Je répondrai dès que possible.",
+          "hi": "नमाज़ के दौरान मेरी सूचनाएं रोक दी गई हैं। जल्द से जल्द जवाب दूंगा।",
+          "id": "Notifikasi saya dijeda selama waktu shalat. Saya akan membalas secepat mungkin.",
+          "ms": "Pemberitahuan saya dijeda semasa waktu solat. Saya akan membalas secepat mungkin.",
+          "ru": "Мои уведомления приостановлены во время молитвы. Отвечу как можно скорее.",
+          "sw": "Arifa zangu zimesimamishwa wakati wa maombi. Nitajibu haraka iwezekanavyo.",
+          "tr": "Namaz vakti bildirimlerim duraklatıldı. En kısa sürede cevap vereceğim.",
+          "ur": "نماز کے دوران میری اطلاعات رک گئی ہیں۔ جلد از جلد جواب دوں گا۔"
+        }
+      },
+      {
+        "category": "prayer_time",
+        "placeholders": [],
+        "template_id": "casual_1",
+        "text": "It's prayer time. I'll reply to you soon!",
+        "tone": "casual",
+        "translations": {
+          "ar": "وَقْت الصَّلَاة. سَأَرُد عَلَيْك قَرِيبًا!",
+          "bn": "নামাজের সময়। শীঘ্রই উত্তর দেব!",
+          "en": "It's prayer time. I'll reply to you soon!",
+          "fa": "وقت نماز است. به زودی جواب می‌دم!",
+          "fr": "C'est l'heure de la prière. Je te réponds bientôt !",
+          "hi": "नमाज़ का वक्त है। जल्दी जवाब दूंगा!",
+          "id": "Waktu shalat nih. Nanti balas ya!",
+          "ms": "Waktu solat ni. Nanti balas!",
+          "ru": "Время молитвы. Скоро отвечу!",
+          "sw": "Ni wakati wa maombi. Nitajibu hivi karibuni!",
+          "tr": "Namaz vakti. Yakında cevap vereceğim!",
+          "ur": "نماز کا وقت ہے۔ جلد جواب دوں گا!"
+        }
+      },
+      {
+        "category": "prayer_time",
+        "placeholders": [],
+        "template_id": "casual_2",
+        "text": "Taking a moment for prayer. Back shortly!",
+        "tone": "casual",
+        "translations": {
+          "ar": "آخُذ لَحْظَة لِلصَّلَاة. أَعُود قَرِيبًا!",
+          "bn": "নামাজের জন্য একটু সময়। শীঘ্রই ফিরছি!",
+          "en": "Taking a moment for prayer. Back shortly!",
+          "fa": "یک لحظه برای نماز. زود برمی‌گردم!",
+          "fr": "Je prends un moment pour prier. De retour bientôt !",
+          "hi": "नमाज़ के लिए एक पल। जल्दी वापस!",
+          "id": "Sebentar untuk shalat. Segera kembali!",
+          "ms": "Ambil masa untuk solat. Balik kejap!",
+          "ru": "Уделяю момент молитве. Скоро вернусь!",
+          "sw": "Nachukua dakika ya maombi. Narudi haraka!",
+          "tr": "Namaz için bir dakika. Hemen dönüyorum!",
+          "ur": "نماز کے لیے ایک لمحہ۔ جلد واپس!"
+        }
+      },
+      {
+        "category": "prayer_time",
+        "placeholders": [],
+        "template_id": "casual_3",
+        "text": "Currently in prayer. I'll message you when I'm done.",
+        "tone": "casual",
+        "translations": {
+          "ar": "أُصَلِّي حَالِيًّا. سَأُرْسِل لَك رِسَالَة عِنْدَ الانْتِهَاء",
+          "bn": "এখন নামাজে আছি। শেষ হলে মেসেজ করব।",
+          "en": "Currently in prayer. I'll message you when I'm done.",
+          "fa": "الان نماز می‌خونم. تموم شد بهت پیام می‌دم.",
+          "fr": "Actuellement en prière. Je t'enverrai un message quand j'aurai fini.",
+          "hi": "अभी नमाज़ में हूं। पूरा होने पर मैसेज करूंगा।",
+          "id": "Lagi shalat. Nanti chat lagi setelah selesai.",
+          "ms": "Tengah solat. Nanti mesej bila dah habis.",
+          "ru": "Сейчас молюсь. Напишу, когда закончу.",
+          "sw": "Nina maombi sasa. Nitakutumia ujumbe nikimaliza.",
+          "tr": "Şu anda namazdayım. Bittiğinde mesaj atacağım.",
+          "ur": "فی الوقت نماز میں ہوں۔ ختم ہونے پر پیغام بھیجوں گا۔"
+        }
+      },
+      {
+        "category": "reflection_time",
+        "placeholders": [],
+        "template_id": "casual_4",
+        "text": "Quick break for reflection. I'll be back soon!",
+        "tone": "casual",
+        "translations": {
+          "ar": "اسْتِرَاحَة سَرِيعَة لِلتَّأَمُّل. سَأَعُود قَرِيبًا!",
+          "bn": "চিন্তার জন্য দ্রুত বিরতি। শীঘ্রই ফিরে আসব!",
+          "en": "Quick break for reflection. I'll be back soon!",
+          "fa": "استراحت کوتاه برای تأمل. زود برمی‌گردم!",
+          "fr": "Petite pause pour réfléchir. Je reviens bientôt !",
+          "hi": "चिंतन के लिए छोटा ब्रेक। जल्द वापस आऊंगा!",
+          "id": "Istirahat sebentar untuk refleksi. Segera kembali!",
+          "ms": "Rehat kejap untuk refleksi. Balik segera!",
+          "ru": "Быстрый перерыв для размышлений. Скоро вернусь!",
+          "sw": "Mapumziko ya haraka ya kutafakari. Nitarudi hivi karibuni!",
+          "tr": "Düşünmek için kısa mola. Yakında döneceğim!",
+          "ur": "تفکر کے لیے فوری وقفہ۔ جلد واپس آؤں گا!"
+        }
+      },
+      {
+        "category": "personal_time",
+        "placeholders": [],
+        "template_id": "casual_5",
+        "text": "Stepping away for a moment. Talk soon!",
+        "tone": "casual",
+        "translations": {
+          "ar": "أَبْتَعِد لِلَحْظَة. نَتَحَدَّث قَرِيبًا!",
+          "bn": "একটু সরে যাচ্ছি। শীঘ্রই কথা হবে!",
+          "en": "Stepping away for a moment. Talk soon!",
+          "fa": "یک لحظه می‌رم. زود حرف می‌زنیم!",
+          "fr": "Je m'éloigne un moment. On parle bientôt !",
+          "hi": "एक पल के लिए जा रहा हूं। जल्दी बात करते हैं!",
+          "id": "Keluar sebentar. Ngobrol lagi nanti!",
+          "ms": "Keluar kejap. Cakap lagi nanti!",
+          "ru": "Отхожу на минутку. Поговорим скоро!",
+          "sw": "Naondoka kidogo. Tutazungumza hivi karibuni!",
+          "tr": "Bir dakika uzaklaşıyorum. Yakında konuşuruz!",
+          "ur": "ایک لمحے کے لیے جا رہا ہوں۔ جلد بات کریں گے!"
+        }
+      },
+      {
+        "category": "pause_time",
+        "placeholders": [],
+        "template_id": "casual_6",
+        "text": "It's a good time to pause. I'll get back to you shortly.",
+        "tone": "casual",
+        "translations": {
+          "ar": "إِنَّهُ وَقْت جَيِّد لِلتَّوَقُّف. سَأَعُود إِلَيْك قَرِيبًا",
+          "bn": "থামার জন্য ভালো সময়। শীঘ্রই তোমার কাছে ফিরে আসব।",
+          "en": "It's a good time to pause. I'll get back to you shortly.",
+          "fa": "وقت خوبی برای مکث است. به زودی پیشت برمی‌گردم.",
+          "fr": "C'est un bon moment pour faire une pause. Je reviens vers toi bientôt.",
+          "hi": "रुकने का अच्छा समय है। जल्द तुमसे मिलूंगा।",
+          "id": "Waktu yang tepat untuk berhenti sejenak. Segera kembali ke kamu.",
+          "ms": "Masa yang baik untuk berhenti seketika. Nanti balik pada kamu.",
+          "ru": "Хорошее время для паузы. Скоро вернусь к тебе.",
+          "sw": "Ni wakati mzuri wa kupumzika. Nitarudi kwako hivi karibuni.",
+          "tr": "Durmak için iyi bir zaman. Kısa süre içinde sana döneceğim.",
+          "ur": "رکنے کا اچھا وقت ہے۔ جلد آپ سے رابطہ کروں گا۔"
+        }
+      }
+    ]
+  }
+}

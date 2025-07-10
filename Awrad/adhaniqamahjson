@@ -1,0 +1,725 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "arabic": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ",
+    "category_id": "prayer_connected",
+    "id": "adhan_1",
+    "repeat": 1,
+    "source": "Bukhari 611",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "الله أكبر الله أكبر"
+      },
+      "bn": {
+        "meaning": "আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ।"
+      },
+      "en": {
+        "meaning": "Allah is the Greatest, Allah is the Greatest."
+      },
+      "fa": {
+        "meaning": "الله بزرگ‌تر است، الله بزرگ‌تر است."
+      },
+      "fr": {
+        "meaning": "Allah est le Plus Grand, Allah est le Plus Grand."
+      },
+      "hi": {
+        "meaning": "अल्लाह सबसे बड़ा है, अल्लाह सबसे बड़ा है।"
+      },
+      "id": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar."
+      },
+      "ms": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar."
+      },
+      "ru": {
+        "meaning": "Аллах Велик, Аллах Велик."
+      },
+      "sw": {
+        "meaning": "Allah ni Mkubwa, Allah ni Mkubwa."
+      },
+      "tr": {
+        "meaning": "Allah en büyüktür, Allah en büyüktür."
+      },
+      "ur": {
+        "meaning": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔"
+      }
+    },
+    "transliteration": "Allāhu Akbar, Allāhu Akbar"
+  },
+  "entry_002": {
+    "arabic": "أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ",
+    "category_id": "prayer_connected",
+    "id": "adhan_2",
+    "repeat": 1,
+    "source": "Bukhari 611",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "أشهد أن لا إله إلا الله"
+      },
+      "bn": {
+        "meaning": "আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া কোন উপাস্য নেই।"
+      },
+      "en": {
+        "meaning": "I bear witness that there is no deity worthy of worship except Allah."
+      },
+      "fa": {
+        "meaning": "شهادت می‌دهم که هیچ معبودی جز الله نیست."
+      },
+      "fr": {
+        "meaning": "J'atteste qu'il n'y a de divinité digne d'adoration qu'Allah."
+      },
+      "hi": {
+        "meaning": "मैं गवाही देता हूँ कि अल्लाह के सिवा कोई माबूद नहीं।"
+      },
+      "id": {
+        "meaning": "Aku bersaksi bahwa tiada ilah yang berhak disembah kecuali Allah."
+      },
+      "ms": {
+        "meaning": "Aku bersaksi bahawa tiada Tuhan yang berhak disembah melainkan Allah."
+      },
+      "ru": {
+        "meaning": "Свидетельствую, что нет божества, кроме Аллаха."
+      },
+      "sw": {
+        "meaning": "Nashuhudia kwamba hapana mola ila Allah."
+      },
+      "tr": {
+        "meaning": "Allah'tan başka ilah olmadığına şehadet ederim."
+      },
+      "ur": {
+        "meaning": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں۔"
+      }
+    },
+    "transliteration": "Ashhadu an lā ilāha illallāh"
+  },
+  "entry_003": {
+    "arabic": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ",
+    "category_id": "prayer_connected",
+    "id": "adhan_3",
+    "repeat": 1,
+    "source": "Bukhari 611",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "أشهد أن محمدا رسول الله"
+      },
+      "bn": {
+        "meaning": "আমি সাক্ষ্য দিচ্ছি যে, মুহাম্মদ আল্লাহর রাসূল।"
+      },
+      "en": {
+        "meaning": "I bear witness that Muhammad is the Messenger of Allah."
+      },
+      "fa": {
+        "meaning": "شهادت می‌دهم که محمد فرستاده الله است."
+      },
+      "fr": {
+        "meaning": "J'atteste que Muhammad est le Messager d'Allah."
+      },
+      "hi": {
+        "meaning": "मैं गवाही देता हूँ कि मुहम्मद अल्लाह के रसूल हैं।"
+      },
+      "id": {
+        "meaning": "Aku bersaksi bahwa Muhammad adalah Rasulullah."
+      },
+      "ms": {
+        "meaning": "Aku bersaksi bahawa Muhammad adalah Rasulullah."
+      },
+      "ru": {
+        "meaning": "Свидетельствую, что Мухаммад — Посланник Аллаха."
+      },
+      "sw": {
+        "meaning": "Nashuhudia kwamba Muhammad ni Mtume wa Allah."
+      },
+      "tr": {
+        "meaning": "Muhammed'in Allah'ın Resûlü olduğuna şehadet ederim."
+      },
+      "ur": {
+        "meaning": "میں گواہی دیتا ہوں کہ محمد اللہ کے رسول ہیں۔"
+      }
+    },
+    "transliteration": "Ashhadu anna Muḥammadan Rasūlullāh"
+  },
+  "entry_004": {
+    "arabic": "حَيَّ عَلَى الصَّلاَةِ",
+    "category_id": "prayer_connected",
+    "id": "adhan_4",
+    "repeat": 1,
+    "source": "Bukhari 611",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "حي على الصلاة"
+      },
+      "bn": {
+        "meaning": "সালাতের দিকে এসো।"
+      },
+      "en": {
+        "meaning": "Come to prayer."
+      },
+      "fa": {
+        "meaning": "به سوی نماز بشتابید."
+      },
+      "fr": {
+        "meaning": "Venez à la prière."
+      },
+      "hi": {
+        "meaning": "नमाज़ के लिए आओ।"
+      },
+      "id": {
+        "meaning": "Marilah shalat."
+      },
+      "ms": {
+        "meaning": "Marilah solat."
+      },
+      "ru": {
+        "meaning": "Спешите на молитву."
+      },
+      "sw": {
+        "meaning": "Njoo kwenye Sala."
+      },
+      "tr": {
+        "meaning": "Haydi namaza."
+      },
+      "ur": {
+        "meaning": "نماز کے لیے آؤ۔"
+      }
+    },
+    "transliteration": "Ḥayya ʿalaṣ-ṣalāh"
+  },
+  "entry_005": {
+    "arabic": "حَيَّ عَلَى الْفَلاَحِ",
+    "category_id": "prayer_connected",
+    "id": "adhan_5",
+    "repeat": 1,
+    "source": "Bukhari 611",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "حي على الفلاح"
+      },
+      "bn": {
+        "meaning": "সাফল্যের দিকে এসো।"
+      },
+      "en": {
+        "meaning": "Come to success."
+      },
+      "fa": {
+        "meaning": "به سوی رستگاری بشتابید."
+      },
+      "fr": {
+        "meaning": "Venez au succès."
+      },
+      "hi": {
+        "meaning": "कामयाबी के लिए आओ।"
+      },
+      "id": {
+        "meaning": "Marilah menuju kemenangan."
+      },
+      "ms": {
+        "meaning": "Marilah menuju kejayaan."
+      },
+      "ru": {
+        "meaning": "Спешите к спасению."
+      },
+      "sw": {
+        "meaning": "Njoo kwenye Uokovu."
+      },
+      "tr": {
+        "meaning": "Haydi kurtuluşa."
+      },
+      "ur": {
+        "meaning": "کامیابی کے لیے آؤ۔"
+      }
+    },
+    "transliteration": "Ḥayya ʿalal-falāḥ"
+  },
+  "entry_006": {
+    "arabic": "الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ",
+    "category_id": "prayer_connected",
+    "id": "adhan_6",
+    "repeat": 1,
+    "source": "Abu Dawud 500",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "الصلاة خير من النوم"
+      },
+      "bn": {
+        "meaning": "ঘুমের চেয়ে নামাজ উত্তম। (ফজরের আযানে শুধু বলা হয়)"
+      },
+      "en": {
+        "meaning": "Prayer is better than sleep. (Only said in the Adhan of Fajr prayer)"
+      },
+      "fa": {
+        "meaning": "نماز بهتر از خواب است. (فقط در اذان نماز صبح گفته می‌شود)"
+      },
+      "fr": {
+        "meaning": "La prière est meilleure que le sommeil. (Se dit uniquement dans l'Adhan de la prière du Fajr)"
+      },
+      "hi": {
+        "meaning": "नमाज़ नींद से बेहतर है। (सिर्फ़ फ़ज्र की अज़ान में)"
+      },
+      "id": {
+        "meaning": "Shalat lebih baik dari tidur. (Hanya diucapkan pada adzan Subuh)"
+      },
+      "ms": {
+        "meaning": "Solat lebih baik dari tidur. (Hanya diucapkan dalam azan Subuh)"
+      },
+      "ru": {
+        "meaning": "Молитва лучше сна. (Произносится только в азане утренней молитвы)"
+      },
+      "sw": {
+        "meaning": "Sala ni bora kuliko usingizi. (Huambiwa tu katika Adhana ya Sala ya Alfajiri)"
+      },
+      "tr": {
+        "meaning": "Namaz uykudan hayırlıdır. (Sadece sabah ezanında söylenir)"
+      },
+      "ur": {
+        "meaning": "نماز نیند سے بہتر ہے۔ (صرف فجر کی اذان میں)"
+      }
+    },
+    "transliteration": "Aṣ-ṣalātu khayrum minan-nawm"
+  },
+  "entry_007": {
+    "arabic": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ",
+    "category_id": "prayer_connected",
+    "id": "adhan_7",
+    "repeat": 1,
+    "source": "Bukhari 611",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "الله أكبر الله أكبر"
+      },
+      "bn": {
+        "meaning": "আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ।"
+      },
+      "en": {
+        "meaning": "Allah is the Greatest, Allah is the Greatest."
+      },
+      "fa": {
+        "meaning": "الله بزرگ‌تر است، الله بزرگ‌تر است."
+      },
+      "fr": {
+        "meaning": "Allah est le Plus Grand, Allah est le Plus Grand."
+      },
+      "hi": {
+        "meaning": "अल्लाह सबसे बड़ा है, अल्लाह सबसे बड़ा है।"
+      },
+      "id": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar."
+      },
+      "ms": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar."
+      },
+      "ru": {
+        "meaning": "Аллах Велик, Аллах Велик."
+      },
+      "sw": {
+        "meaning": "Allah ni Mkubwa, Allah ni Mkubwa."
+      },
+      "tr": {
+        "meaning": "Allah en büyüktür, Allah en büyüktür."
+      },
+      "ur": {
+        "meaning": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔"
+      }
+    },
+    "transliteration": "Allāhu Akbar, Allāhu Akbar"
+  },
+  "entry_008": {
+    "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ",
+    "category_id": "prayer_connected",
+    "id": "adhan_8",
+    "repeat": 1,
+    "source": "Bukhari 611",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "لا إله إلا الله"
+      },
+      "bn": {
+        "meaning": "আল্লাহ ছাড়া কোন উপাস্য নেই।"
+      },
+      "en": {
+        "meaning": "There is no deity worthy of worship except Allah."
+      },
+      "fa": {
+        "meaning": "هیچ معبودی جز الله نیست."
+      },
+      "fr": {
+        "meaning": "Il n'y a de divinité digne d'adoration qu'Allah."
+      },
+      "hi": {
+        "meaning": "अल्लाह के सिवा कोई माबूद नहीं।"
+      },
+      "id": {
+        "meaning": "Tiada ilah yang berhak disembah kecuali Allah."
+      },
+      "ms": {
+        "meaning": "Tiada Tuhan yang berhak disembah melainkan Allah."
+      },
+      "ru": {
+        "meaning": "Нет божества, кроме Аллаха."
+      },
+      "sw": {
+        "meaning": "Hapana mola ila Allah."
+      },
+      "tr": {
+        "meaning": "Allah'tan başka ilah yoktur."
+      },
+      "ur": {
+        "meaning": "اللہ کے سوا کوئی معبود نہیں۔"
+      }
+    },
+    "transliteration": "Lā ilāha illallāh"
+  },
+  "entry_009": {
+    "arabic": "أَنَا أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، رَضِيتُ بِاللَّهِ رَبًّا وَبِمُحَمَّدٍ رَسُولاً وَبِالإِسْلاَمِ دِينًا",
+    "category_id": "prayer_connected",
+    "id": "adhan_9",
+    "repeat": 1,
+    "source": "Muslim 386",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "أنا أشهد أن لا إله إلا الله وحده لا شريك له، وأن محمدا عبده ورسوله، رضيت بالله ربا وبمحمد رسولا وبالإسلام دينا"
+      },
+      "bn": {
+        "meaning": "আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া কোন উপাস্য নেই, তিনি এক, তাঁর কোন শরীক নেই, এবং মুহাম্মদ তাঁর বান্দা ও রাসূল। আমি আল্লাহকে রব হিসেবে, মুহাম্মদকে রাসূল হিসেবে এবং ইসলামকে দ্বীন হিসেবে গ্রহণ করে সন্তুষ্ট।"
+      },
+      "en": {
+        "meaning": "I bear witness that there is no deity worthy of worship except Allah, Alone without any partner, and that Muhammad is His servant and Messenger. I am pleased with Allah as my Lord, with Muhammad as a Messenger, and with Islam as my religion."
+      },
+      "fa": {
+        "meaning": "من شهادت می‌دهم که هیچ معبودی جز الله نیست، یکتاست و شریکی ندارد، و اینکه محمد بنده و فرستاده اوست. به اینکه الله پروردگارم باشد، و محمد فرستاده‌ام، و اسلام دینم، راضی شدم."
+      },
+      "fr": {
+        "meaning": "J'atteste qu'il n'y a de divinité digne d'adoration qu'Allah, Seul sans associé, et que Muhammad est Son serviteur et Son Messager. Je suis satisfait d'Allah comme Seigneur, de Muhammad comme Messager, et de l'Islam comme religion."
+      },
+      "hi": {
+        "meaning": "मैं गवाही देता हूँ कि अल्लाह के सिवा कोई माबूद नहीं, वह अकेला है उसका कोई शरीक नहीं, और यह कि मुहम्मद उसके बंदे और रसूल हैं। मैं अल्लाह के रब होने पर, और मुहम्मद के रसूल होने पर, और इस्लाम के दीन होने पर राज़ी हुआ।"
+      },
+      "id": {
+        "meaning": "Aku bersaksi bahwa tiada ilah yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya, dan bahwa Muhammad adalah hamba dan Rasul-Nya. Aku rela Allah sebagai Tuhanku, Muhammad sebagai Rasul, dan Islam sebagai agamaku."
+      },
+      "ms": {
+        "meaning": "Aku bersaksi bahawa tiada Tuhan yang berhak disembah melainkan Allah, Yang Maha Esa, tiada sekutu bagi-Nya, dan bahawa Muhammad adalah hamba dan Rasul-Nya. Aku rela Allah sebagai Tuhanku, Muhammad sebagai Rasul, dan Islam sebagai agamaku."
+      },
+      "ru": {
+        "meaning": "Я свидетельствую, что нет божества, кроме Аллаха, Единственного, у Которого нет сотоварищей, и что Мухаммад — Его раб и Посланник. Я доволен Аллахом как Господом, Мухаммадом как Посланником и Исламом как религией."
+      },
+      "sw": {
+        "meaning": "Nashuhudia kwamba hapana mola ila Allah, Peke Yake, Hana mshirika, na kwamba Muhammad ni mja Wake na Mtume Wake. Nimeridhika na Allah kama Mola wangu, na Muhammad kama Mtume, na Uislamu kama dini yangu."
+      },
+      "tr": {
+        "meaning": "Ben şehadet ederim ki, Allah'tan başka ilah yoktur, O tekdir, ortağı yoktur. Ve Muhammed O'nun kulu ve elçisidir. Allah'ı Rab olarak, Muhammed'i Resûl olarak ve İslam'ı din olarak kabul ettim (razı oldum)."
+      },
+      "ur": {
+        "meaning": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے اس کا کوئی شریک نہیں، اور یہ کہ محمد اس کے بندے اور رسول ہیں۔ میں اللہ کے رب ہونے پر، اور محمد کے رسول ہونے پر، اور اسلام کے دین ہونے پر راضی ہوا۔"
+      }
+    },
+    "transliteration": "Anā ashhadu an lā ilāha illallāhu waḥdahu lā sharīka lahu, wa anna Muḥammadan ʿabduhū wa Rasūluhu, raḍītu billāhi Rabban wa bi-Muḥammadin Rasūlan wa bil-Islāmi dīnan"
+  },
+  "entry_010": {
+    "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلاَةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+    "category_id": "prayer_connected",
+    "id": "adhan_10",
+    "repeat": 1,
+    "source": "Bukhari 614",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم رب هذه الدعوة التامة والصلاة القائمة آت محمدا الوسيلة والفضيلة وابعثه مقاما محمودا الذي وعدته"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, এই পরিপূর্ণ আহ্বান এবং প্রতিষ্ঠিত সালাতের প্রতিপালক, মুহাম্মদকে ওয়াসিলা (জান্নাতের সর্বোচ্চ স্থান) ও ফযীলত দান করুন এবং তাঁকে সেই প্রশংসিত স্থানে উন্নীত করুন যার প্রতিশ্রুতি আপনি তাঁকে দিয়েছেন।"
+      },
+      "en": {
+        "meaning": "O Allah, Lord of this perfect call and the prayer to be offered, grant Muhammad the Wasilah (highest rank in Paradise) and Al-Fadilah (distinction) and raise him to the praised station which You have promised him."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار این ندای کامل و نماز برپا شده، به محمد وسیله و فضیلت عطا فرما، و او را به مقامی محمود برسان که به او وعده داده‌ای."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur de cet appel parfait et de la prière établie, accorde à Muhammad Al-Wasilah (le plus haut rang au Paradis) et Al-Fadilah (la distinction), et élève-le à la station louable que Tu lui as promise."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! इस पूर्ण पुकार और स्थापित होने वाली नमाज़ के रब, मुहम्मद को वसीला और फज़ीलत अता फरमा और उन्हें उस प्रशंसा योग्य स्थान पर पहुँचा दे जिसका तूने उनसे वादा किया है।"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan pemilik panggilan yang sempurna ini dan shalat yang akan didirikan, berikanlah kepada Muhammad Al-Wasilah (derajat tertinggi di surga) dan keutamaan, serta bangkitkanlah beliau pada kedudukan yang terpuji yang telah Engkau janjikan kepadanya."
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan pemilik panggilan yang sempurna ini dan solat yang akan didirikan, berikanlah kepada Muhammad Al-Wasilah (kedudukan tertinggi di syurga) dan keutamaan, serta bangkitkanlah beliau pada kedudukan yang terpuji yang telah Engkau janjikan kepadanya."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь этого совершенного призыва и предстоящей молитвы, даруй Мухаммаду аль-Василю (высочайшее положение в Раю) и достоинство, и воскреси его на Достойном положении, которое Ты ему обещал."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wa wito huu kamili na Sala iliyosimama, mpe Muhammad Wasilah (cheo cha juu kabisa Peponi) na fadhila, na mwinue kwenye cheo kinachostahiki sifa Ulichomwahidi."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Ey bu eksiksiz davetin ve kılınacak namazın Rabbi! Muhammed'e (sav) Vesîle'yi ve fazîleti ver. Ve onu, va'dettiğin Makâm-ı Mahmûd'a ulaştır."
+      },
+      "ur": {
+        "meaning": "اے اللہ! اس کامل پکار اور قائم ہونے والی نماز کے رب، محمد کو وسیلہ اور فضیلت عطا فرما اور انہیں مقام محمود پر فائز کر جس کا تو نے ان سے وعدہ کیا ہے۔"
+      }
+    },
+    "transliteration": "Allāhumma Rabba hādhihid-daʿwatit-tāmmah waṣ-ṣalātil-qāʾimah, āti Muḥammadanil-Wasīlata wal-Faḍīlah, wabʿath-hu Maqāmam-Maḥmūdanilladhī waʿadtah"
+  },
+  "entry_011": {
+    "arabic": "لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ",
+    "category_id": "prayer_connected",
+    "id": "adhan_11",
+    "repeat": 1,
+    "source": "Muslim 2704",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "لا حول ولا قوة إلا بالله"
+      },
+      "bn": {
+        "meaning": "আল্লাহর সাহায্য ছাড়া কোন শক্তি বা ক্ষমতা নেই।"
+      },
+      "en": {
+        "meaning": "There is no might or power except with Allah."
+      },
+      "fa": {
+        "meaning": "هیچ نیرو و قدرتی جز به کمک الله نیست."
+      },
+      "fr": {
+        "meaning": "Il n'y a de force ni de puissance qu'en Allah."
+      },
+      "hi": {
+        "meaning": "कोई ताक़त और कुव्वत नहीं मगर अल्लाह की मदद से।"
+      },
+      "id": {
+        "meaning": "Tiada daya dan kekuatan kecuali dengan pertolongan Allah."
+      },
+      "ms": {
+        "meaning": "Tiada daya dan kekuatan melainkan dengan pertolongan Allah."
+      },
+      "ru": {
+        "meaning": "Нет силы и мощи, кроме как у Аллаха."
+      },
+      "sw": {
+        "meaning": "Hapana uwezo wala nguvu ila kwa Allah."
+      },
+      "tr": {
+        "meaning": "Kuvvet ve kudret yalnızca Allah'tandır."
+      },
+      "ur": {
+        "meaning": "کوئی طاقت اور قوت نہیں مگر اللہ کی مدد سے۔"
+      }
+    },
+    "transliteration": "Lā ḥawla wa lā quwwata illā billāh"
+  },
+  "entry_012": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "category_id": "prayer_connected",
+    "id": "adhan_12",
+    "repeat": 1,
+    "source": "Muslim 713",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك من فضلك"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আপনার অনুগ্রহ চাই।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You from Your bounty."
+      },
+      "fa": {
+        "meaning": "ای الله، من از فضل تو می‌خواهم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande de Ta générosité."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तुझसे तेरा फ़ज़्ल मांगता हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebagian dari karunia-Mu."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebagian dari kurnia-Mu."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя о Твоей милости."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba katika fadhila Zako."
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senin fazlından isterim."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تجھ سے تیرا فضل مانگتا ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾaluka min faḍlika"
+  },
+  "entry_013": {
+    "arabic": "الدُّعَاءُ لاَ يُرَدُّ بَيْنَ الأَذَانِ وَالإِقَامَةِ",
+    "category_id": "prayer_connected",
+    "id": "adhan_13",
+    "repeat": 1,
+    "source": "Tirmidhi 212",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "الدعاء لا يرد بين الأذان والإقامة"
+      },
+      "bn": {
+        "meaning": "আযান ও ইকামাতের মধ্যবর্তী সময়ের দু'আ প্রত্যাখ্যাত হয় না।"
+      },
+      "en": {
+        "meaning": "The supplication between the Adhan and the Iqamah is not rejected."
+      },
+      "fa": {
+        "meaning": "دعا بین اذان و اقامه رد نمی‌شود."
+      },
+      "fr": {
+        "meaning": "L'invocation entre l'Adhan et l'Iqamah n'est pas rejetée."
+      },
+      "hi": {
+        "meaning": "अज़ान और इक़ामत के बीच की दुआ रद्द नहीं होती।"
+      },
+      "id": {
+        "meaning": "Doa tidak akan ditolak antara azan dan iqamah."
+      },
+      "ms": {
+        "meaning": "Doa tidak akan ditolak antara azan dan iqamah."
+      },
+      "ru": {
+        "meaning": "Мольба между азаном и икамой не отвергается."
+      },
+      "sw": {
+        "meaning": "Dua hairudishwi kati ya Adhan na Iqamah."
+      },
+      "tr": {
+        "meaning": "Ezan ile kamet arasında yapılan dua reddolunmaz."
+      },
+      "ur": {
+        "meaning": "اذان اور اقامت کے درمیان کی دعا رد نہیں ہوتی۔"
+      }
+    },
+    "transliteration": "Ad-duʿāʾu lā yuraddu baynal-adhān wal-iqāmah"
+  },
+  "entry_014": {
+    "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا، وَمِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ شِمَالِي نُورًا، وَمِنْ أَمَامِي نُورًا، وَمِنْ خَلْفِي نُورًا، وَاجْعَلْ فِي نَفْسِي نُورًا، وَأَعْظِمْ لِي نُورًا",
+    "category_id": "prayer_connected",
+    "id": "adhan_14",
+    "repeat": 1,
+    "source": "Muslim 763",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم اجعل في قلبي نورا، وفي لساني نورا، وفي سمعي نورا، وفي بصري نورا، ومن فوقي نورا، ومن تحتي نورا، وعن يميني نورا، وعن شمالي نورا، ومن أمامي نورا، ومن خلفي نورا، واجعل في نفسي نورا، وأعظم لي نورا"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার অন্তরে আলো দান করুন, আমার জিহ্বায় আলো দান করুন, আমার কানে আলো দান করুন, আমার চোখে আলো দান করুন, আমার উপরে আলো দান করুন, আমার নিচে আলো দান করুন, আমার ডানে আলো দান করুন, আমার বামে আলো দান করুন, আমার সামনে আলো দান করুন, আমার পেছনে আলো দান করুন। আর আমার আত্মায় আলো দান করুন, এবং আমার জন্য আলোকে বৃদ্ধি করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, place light in my heart, and light in my tongue, and light in my hearing, and light in my sight, and light above me, and light below me, and light on my right, and light on my left, and light in front of me, and light behind me. And place light in my soul, and magnify for me light."
+      },
+      "fa": {
+        "meaning": "ای الله، در قلبم نور قرار ده، و در زبانم نور، و در گوشم نور، و در چشمم نور، و بالای سرم نور، و زیر پایم نور، و در راستم نور، و در چپم نور، و در پیش رویم نور، و در پشت سرم نور، و در وجودم نور قرار ده، و نورم را بزرگ گردان."
+      },
+      "fr": {
+        "meaning": "Ô Allah, place de la lumière dans mon cœur, et de la lumière dans ma langue, et de la lumière dans mon ouïe, et de la lumière dans ma vue, et de la lumière au-dessus de moi, et de la lumière en dessous de moi, et de la lumière à ma droite, et de la lumière à ma gauche, et de la lumière devant moi, et de la lumière derrière moi. Et place de la lumière dans mon âme, et magnifie pour moi la lumière."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मेरे दिल में नूर डाल दे, और मेरी ज़बान में नूर, और मेरे कान में नूर, और मेरी आँख में नूर, और मेरे ऊपर नूर, और मेरे नीचे नूर, और मेरे दाएं नूर, और मेरे बाएं नूर, और मेरे आगे नूर, और मेरे पीछे नूर, और मेरी जान में नूर डाल दे, और मेरे लिए नूर को बड़ा कर दे।"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah cahaya di hatiku, dan cahaya di lisanku, dan cahaya di pendengaranku, dan cahaya di penglihatanku, dan cahaya di atasku, dan cahaya di bawahku, dan cahaya di kananku, dan cahaya di kiriku, dan cahaya di depanku, dan cahaya di belakangku. Dan jadikanlah cahaya di jiwaku, dan perbesarlah bagiku cahaya."
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah cahaya di hatiku, dan cahaya di lidahku, dan cahaya di pendengaranku, dan cahaya di penglihatanku, dan cahaya di atasku, dan cahaya di bawahku, dan cahaya di kananku, dan cahaya di kiriku, dan cahaya di depanku, dan cahaya di belakangku. Dan jadikanlah cahaya di jiwaku, dan besarkanlah bagiku cahaya."
+      },
+      "ru": {
+        "meaning": "О Аллах, помести свет в мое сердце, и свет в мой язык, и свет в мой слух, и свет в мое зрение, и свет надо мной, и свет подо мной, и свет справа от меня, и свет слева от меня, и свет передо мной, и свет позади меня. И помести свет в мою душу, и преумножь для меня свет."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, jaalia nuru moyoni mwangu, na nuru katika ulimi wangu, na nuru katika usikivu wangu, na nuru katika kuona kwangu, na nuru juu yangu, na nuru chini yangu, na nuru kulia kwangu, na nuru kushoto kwangu, na nuru mbele yangu, na nuru nyuma yangu. Na jaalia nuru katika nafsi yangu, na uniongezee nuru."
+      },
+      "tr": {
+        "meaning": "Allah'ım, kalbime nur ver, dilime nur ver, kulağıma nur ver, gözüme nur ver, üstüme nur ver, altıma nur ver, sağıma nur ver, soluma nur ver, önüme nur ver, arkama nur ver, nefsime nur ver ve nurumu büyüt."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میرے دل میں نور ڈال دے، اور میری زبان میں نور، اور میرے کان میں نور، اور میری آنکھ میں نور، اور میرے اوپر نور، اور میرے نیچے نور، اور میرے دائیں نور، اور میرے بائیں نور، اور میرے آگے نور، اور میرے پیچھے نور، اور میری جان میں نور ڈال دے، اور میرے لیے نور کو بڑا کر دے۔"
+      }
+    },
+    "transliteration": "Allāhummajʿal fī qalbī nūran, wa fī lisānī nūran, wa fī samʿī nūran, wa fī baṣarī nūran, wa min fawqī nūran, wa min taḥtī nūran, wa ʿan yamīnī nūran, wa ʿan shimālī nūran, wa min amāmī nūran, wa min khalfī nūran, wajʿal fī nafsī nūran, wa aʿẓim lī nūran"
+  },
+  "entry_015": {
+    "arabic": "أَقِمِ الصَّلاَةَ",
+    "category_id": "prayer_connected",
+    "id": "adhan_15",
+    "repeat": 1,
+    "source": "Bukhari 625",
+    "subcategory_id": "adhan_iqamah",
+    "tag": "call_to_prayer",
+    "translations": {
+      "ar": {
+        "meaning": "أقم الصلاة"
+      },
+      "bn": {
+        "meaning": "সালাত কায়েম করুন। (ইকামাতে ‘ক্বাদ ক্বামাতিস-সালাহ’ এর জবাবে)"
+      },
+      "en": {
+        "meaning": "Establish the prayer. (Response to Qad Qāmatil-Salāh in Iqamah)"
+      },
+      "fa": {
+        "meaning": "نماز را برپا دار. (پاسخ به «قد قامت الصلاة» در اقامه)"
+      },
+      "fr": {
+        "meaning": "Établis la prière. (Réponse à 'Qad Qāmatil-Salāh' dans l'Iqamah)"
+      },
+      "hi": {
+        "meaning": "नमाज़ क़ायम करो। (इक़ामत में 'क़द क़ामतिस-सलाह' के जवाब में)"
+      },
+      "id": {
+        "meaning": "Dirikanlah shalat. (Jawaban untuk Qad Qāmatil-Salāh dalam Iqamah)"
+      },
+      "ms": {
+        "meaning": "Dirikanlah solat. (Jawapan untuk 'Qad Qāmatil-Salāh' dalam Iqamah)"
+      },
+      "ru": {
+        "meaning": "Установи молитву. (Ответ на «Кад Каматис-Салях» в икаме)"
+      },
+      "sw": {
+        "meaning": "Simamisha Sala. (Majibu ya Qad Qāmatil-Salāh katika Iqamah)"
+      },
+      "tr": {
+        "meaning": "Namazı ikame et. (Kametteki 'Kad Kâmetis-Salâh'a cevap)"
+      },
+      "ur": {
+        "meaning": "نماز قائم کرو۔ (اقامت میں ’قد قامت الصلاۃ‘ کے جواب میں)"
+      }
+    },
+    "transliteration": "Aqimiṣ-ṣalāh"
+  }
+}

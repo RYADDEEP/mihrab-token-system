@@ -1,0 +1,725 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_1",
+    "repeat": 3,
+    "source": "Abu Dawud 1517",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "أستغفر الله العظيم الذي لا إله إلا هو الحي القيوم وأتوب إليه"
+      },
+      "bn": {
+        "meaning": "আমি মহান আল্লাহর কাছে ক্ষমা চাই, যিনি ব্যতীত কোন ইলাহ নেই, তিনি চিরঞ্জীব, সর্বসত্তার ধারক এবং আমি তাঁরই দিকে তওবা করি।"
+      },
+      "en": {
+        "meaning": "I seek the forgiveness of Allah the Almighty, Whom there is none worthy of worship except Him, The Ever Living, The Sustainer, and I repent to Him."
+      },
+      "fa": {
+        "meaning": "از الله بزرگ آمرزش می‌طلبم که هیچ معبودی جز او نیست، زنده‌ای است که به ذات خود قائم است، و به سوی او توبه می‌کنم."
+      },
+      "fr": {
+        "meaning": "Je demande pardon à Allah le Tout-Puissant, en dehors de Qui il n'y a pas de divinité, le Vivant, le Subsistant par Soi-même, et je me repens à Lui."
+      },
+      "hi": {
+        "meaning": "मैं अल्लाह महान से माफ़ी माँगता हूँ जिसके सिवा कोई माबूद नहीं, वह ज़िंदा, क़ायम रहने वाला है और मैं उसी की तरफ़ तौबा करता हूँ।"
+      },
+      "id": {
+        "meaning": "Aku memohon ampun kepada Allah Yang Maha Agung, yang tiada ilah yang berhak disembah kecuali Dia, Yang Maha Hidup, Yang Maha Mengurus (makhluk-Nya), dan aku bertaubat kepada-Nya."
+      },
+      "ms": {
+        "meaning": "Aku memohon ampun kepada Allah Yang Maha Agung, yang tiada Tuhan yang berhak disembah melainkan Dia, Yang Maha Hidup, Yang Maha Mengurus (makhluk-Nya), dan aku bertaubat kepada-Nya."
+      },
+      "ru": {
+        "meaning": "Я прошу прощения у Аллаха Великого, кроме Которого нет божества, Живого, Поддерживающего, и приношу Ему покаяние."
+      },
+      "sw": {
+        "meaning": "Ninaomba msamaha kwa Allah Mtukufu, ambaye hapana mola isipokuwa Yeye, Mwenye Hai, Msimamizi, na narejea Kwake kwa toba."
+      },
+      "tr": {
+        "meaning": "Azim olan Allah'tan, kendisinden başka ilah olmayan, Hayy ve Kayyum olan Allah'tan bağışlanma diler ve O'na tevbe ederim."
+      },
+      "ur": {
+        "meaning": "میں اللہ عظمت والے سے بخشش طلب کرتا ہوں جس کے سوا کوئی معبود نہیں، وہ زندہ، قائم رہنے والا ہے اور میں اسی کی طرف توبہ کرتا ہوں۔"
+      }
+    },
+    "transliteration": "Astaghfirullāhal-ʿAẓīm al-ladhī lā ilāha illā Huwal-Ḥayyul-Qayyūmu wa atūbu ilayhi"
+  },
+  "entry_002": {
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_2",
+    "repeat": 1,
+    "source": "Bukhari 6682",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "سبحان الله وبحمده سبحان الله العظيم"
+      },
+      "bn": {
+        "meaning": "আল্লাহর পবিত্রতা ঘোষণা করছি এবং তাঁর প্রশংসা করছি, মহান আল্লাহর পবিত্রতা ঘোষণা করছি।"
+      },
+      "en": {
+        "meaning": "Glory be to Allah and with His praise, glory be to Allah the Almighty."
+      },
+      "fa": {
+        "meaning": "الله پاک است و ستایش از آن اوست، الله بزرگ پاک است."
+      },
+      "fr": {
+        "meaning": "Gloire à Allah et louange à Lui, gloire à Allah le Tout-Puissant."
+      },
+      "hi": {
+        "meaning": "अल्लाह पाक है और उसी की तारीफ़ है, अल्लाह अज़मत वाला पाक है।"
+      },
+      "id": {
+        "meaning": "Maha Suci Allah dengan segala puji bagi-Nya, Maha Suci Allah Yang Maha Agung."
+      },
+      "ms": {
+        "meaning": "Maha Suci Allah dengan segala puji bagi-Nya, Maha Suci Allah Yang Maha Agung."
+      },
+      "ru": {
+        "meaning": "Пречист Аллах и хвала Ему, Пречист Аллах Великий."
+      },
+      "sw": {
+        "meaning": "Ametakasika Allah na sifa zote njema ni Zake, ametakasika Allah Mtukufu."
+      },
+      "tr": {
+        "meaning": "Allah'ı hamdiyle tesbih ederim, Azim olan Allah'ı tesbih ederim."
+      },
+      "ur": {
+        "meaning": "اللہ پاک ہے اور اسی کی تعریف ہے، اللہ عظمت والا پاک ہے۔"
+      }
+    },
+    "transliteration": "Subḥānallāhi wa biḥamdihi, subḥānallāhil-ʿAẓīm"
+  },
+  "entry_003": {
+    "arabic": "اللَّهُمَّ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_3",
+    "repeat": 1,
+    "source": "Bukhari 6389",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের প্রতিপালক, আমাদেরকে দুনিয়াতে কল্যাণ দিন এবং আখিরাতেও কল্যাণ দিন এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, our Lord, grant us good in this world and good in the Hereafter and protect us from the punishment of the Fire."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار ما، در دنیا به ما نیکی عطا کن و در آخرت نیز نیکی، و ما را از عذاب آتش حفظ کن."
+      },
+      "fr": {
+        "meaning": "Ô Allah, notre Seigneur, accorde-nous le bien dans ce monde et le bien dans l'au-delà et protège-nous du châtiment du Feu."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! हमारे रब, हमें दुनिया में भलाई अता फरमा और आख़िरत में भी भलाई अता फरमा और हमें आग के अज़ाब से बचा।"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, serta lindungilah kami dari siksa neraka."
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, serta lindungilah kami dari seksaan api neraka."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь наш! Даруй нам в этом мире добро и в Последней жизни добро и защити нас от мучений Огня."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wetu, tupe wema duniani na wema Akhera na utulinde na adhabu ya Moto."
+      },
+      "tr": {
+        "meaning": "Allah'ım, Rabbimiz! Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi cehennem azabından koru."
+      },
+      "ur": {
+        "meaning": "اے اللہ! ہمارے رب، ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔"
+      }
+    },
+    "transliteration": "Allāhumma Rabbanā ātinā fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ʿadhāban-nār"
+  },
+  "entry_004": {
+    "arabic": "لَا إِلَٰهَ إِلَّا ٱللَّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_4",
+    "repeat": 10,
+    "source": "Bukhari 6479",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير"
+      },
+      "bn": {
+        "meaning": "আল্লাহ ছাড়া কোন উপাস্য নেই, তিনি এক, তাঁর কোন শরীক নেই। রাজত্ব তাঁরই এবং সমস্ত প্রশংসা তাঁরই জন্য, এবং তিনি সবকিছুর উপর ক্ষমতাবান।"
+      },
+      "en": {
+        "meaning": "There is no deity worthy of worship except Allah, alone without any partner. To Him belongs the dominion, and to Him belongs all praise, and He is over all things competent."
+      },
+      "fa": {
+        "meaning": "هیچ معبودی جز الله نیست، یکتاست و شریکی ندارد. پادشاهی و ستایش از آن اوست، و او بر هر چیزی تواناست."
+      },
+      "fr": {
+        "meaning": "Il n'y a de divinité digne d'adoration qu'Allah, seul sans associé. À Lui appartient la royauté et à Lui appartient la louange, et Il est Omnipotent sur toute chose."
+      },
+      "hi": {
+        "meaning": "अल्लाह के सिवा कोई माबूद नहीं, वह अकेला है, उसका कोई शरीक नहीं, उसी के लिए बादशाहत है और उसी के लिए तमाम तारीफ़ें हैं, और वह हर चीज़ पर क़ादिर है।"
+      },
+      "id": {
+        "meaning": "Tiada ilah yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kekuasaan dan bagi-Nya segala puji, dan Dia Mahakuasa atas segala sesuatu."
+      },
+      "ms": {
+        "meaning": "Tiada Tuhan yang berhak disembah melainkan Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kekuasaan dan bagi-Nya segala puji, dan Dia Maha Berkuasa atas segala sesuatu."
+      },
+      "ru": {
+        "meaning": "Нет божества, достойного поклонения, кроме Аллаха, Единственного, у Которого нет сотоварищей. Ему принадлежит власть, и Ему принадлежит вся хвала, и Он над всякой вещью Всемогущ."
+      },
+      "sw": {
+        "meaning": "Hapana mola ila Allah, Peke Yake, Hana mshirika. Ufalme ni Wake, na sifa zote ni Zake, Naye juu ya kila kitu ni Muweza."
+      },
+      "tr": {
+        "meaning": "Allah'tan başka ilah yoktur, O tektir, ortağı yoktur. Mülk O'nundur, hamd O'nadır. Ve O, her şeye Kadirdir."
+      },
+      "ur": {
+        "meaning": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کے لیے بادشاہت ہے اور اسی کے لیے تمام تعریفیں ہیں، اور وہ ہر چیز پر قادر ہے۔"
+      }
+    },
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu, wa Huwa ʿalā kulli shayʾin Qadīr"
+  },
+  "entry_005": {
+    "arabic": "سُبْحَانَ اللَّهِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_5",
+    "repeat": 33,
+    "source": "Muslim 597",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "سبحان الله"
+      },
+      "bn": {
+        "meaning": "আল্লাহ পবিত্র।"
+      },
+      "en": {
+        "meaning": "Glory be to Allah."
+      },
+      "fa": {
+        "meaning": "الله پاک است."
+      },
+      "fr": {
+        "meaning": "Gloire à Allah."
+      },
+      "hi": {
+        "meaning": "अल्लाह पाक है।"
+      },
+      "id": {
+        "meaning": "Maha Suci Allah."
+      },
+      "ms": {
+        "meaning": "Maha Suci Allah."
+      },
+      "ru": {
+        "meaning": "Пречист Аллах."
+      },
+      "sw": {
+        "meaning": "Ametakasika Allah."
+      },
+      "tr": {
+        "meaning": "Allah'ı tesbih ederim."
+      },
+      "ur": {
+        "meaning": "اللہ پاک ہے۔"
+      }
+    },
+    "transliteration": "Subḥānallāh"
+  },
+  "entry_006": {
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_6",
+    "repeat": 33,
+    "source": "Muslim 597",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله"
+      },
+      "bn": {
+        "meaning": "সমস্ত প্রশংসা আল্লাহর জন্য।"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah."
+      },
+      "fa": {
+        "meaning": "ستایش برای الله است."
+      },
+      "fr": {
+        "meaning": "Louange à Allah."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah."
+      },
+      "ru": {
+        "meaning": "Хвала Аллаху."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah."
+      },
+      "tr": {
+        "meaning": "Hamd Allah'adır."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں۔"
+      }
+    },
+    "transliteration": "Alḥamdulillāh"
+  },
+  "entry_007": {
+    "arabic": "اللَّهُ أَكْبَرُ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_7",
+    "repeat": 33,
+    "source": "Muslim 597",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "الله أكبر"
+      },
+      "bn": {
+        "meaning": "আল্লাহ সর্বশ্রেষ্ঠ।"
+      },
+      "en": {
+        "meaning": "Allah is the Greatest."
+      },
+      "fa": {
+        "meaning": "الله بزرگ است."
+      },
+      "fr": {
+        "meaning": "Allah est le Plus Grand."
+      },
+      "hi": {
+        "meaning": "अल्लाह सबसे बड़ा है।"
+      },
+      "id": {
+        "meaning": "Allah Maha Besar."
+      },
+      "ms": {
+        "meaning": "Allah Maha Besar."
+      },
+      "ru": {
+        "meaning": "Аллах Велик."
+      },
+      "sw": {
+        "meaning": "Allah ni Mkubwa zaidi."
+      },
+      "tr": {
+        "meaning": "Allah en büyüktür."
+      },
+      "ur": {
+        "meaning": "اللہ سب سے بڑا ہے۔"
+      }
+    },
+    "transliteration": "Allāhu Akbar"
+  },
+  "entry_008": {
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_8",
+    "repeat": 1,
+    "source": "Muslim 597",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت وهو على كل شيء قدير"
+      },
+      "bn": {
+        "meaning": "আল্লাহ ছাড়া কোন উপাস্য নেই, তিনি এক, তাঁর কোন শরীক নেই। রাজত্ব তাঁরই এবং সমস্ত প্রশংসা তাঁরই জন্য। তিনি জীবন দেন ও মৃত্যু দেন এবং তিনি সবকিছুর উপর ক্ষমতাবান।"
+      },
+      "en": {
+        "meaning": "There is no deity worthy of worship except Allah, alone without any partner. To Him belongs the dominion and to Him belongs all praise. He gives life and causes death, and He is over all things competent."
+      },
+      "fa": {
+        "meaning": "هیچ معبودی جز الله نیست، یکتاست و شریکی ندارد. پادشاهی و ستایش از آن اوست. زنده می‌کند و می‌میراند و او بر هر چیزی تواناست."
+      },
+      "fr": {
+        "meaning": "Il n'y a de divinité digne d'adoration qu'Allah, seul sans associé. À Lui appartient la royauté et à Lui appartient la louange. Il donne la vie et la mort, et Il est Omnipotent sur toute chose."
+      },
+      "hi": {
+        "meaning": "अल्लाह के सिवा कोई माबूद नहीं, वह अकेला है, उसका कोई शरीक नहीं, उसी के लिए बादशाहत है और उसी के लिए तमाम तारीफ़ें हैं। वह ज़िंदगी देता है और मौत देता है, और वह हर चीज़ पर क़ादिर है।"
+      },
+      "id": {
+        "meaning": "Tiada ilah yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kekuasaan dan bagi-Nya segala puji. Dia menghidupkan dan mematikan, dan Dia Mahakuasa atas segala sesuatu."
+      },
+      "ms": {
+        "meaning": "Tiada Tuhan yang berhak disembah melainkan Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kekuasaan dan bagi-Nya segala puji. Dia menghidupkan dan mematikan, dan Dia Maha Berkuasa atas segala sesuatu."
+      },
+      "ru": {
+        "meaning": "Нет божества, достойного поклонения, кроме Аллаха, Единственного, у Которого нет сотоварищей. Ему принадлежит власть, и Ему принадлежит вся хвала. Он оживляет и умерщвляет, и Он над всякой вещью Всемогущ."
+      },
+      "sw": {
+        "meaning": "Hapana mola ila Allah, Peke Yake, Hana mshirika. Ufalme ni Wake, na sifa zote ni Zake. Anahuisha na kufisha, Naye juu ya kila kitu ni Muweza."
+      },
+      "tr": {
+        "meaning": "Allah'tan başka ilah yoktur, O tektir, ortağı yoktur. Mülk O'nundur, hamd O'nadır. Diriltir ve öldürür. O, her şeye Kadirdir."
+      },
+      "ur": {
+        "meaning": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کے لیے بادشاہت ہے اور اسی کے لیے تمام تعریفیں ہیں، وہ زندہ کرتا ہے اور مارتا ہے، اور وہ ہر چیز پر قادر ہے۔"
+      }
+    },
+    "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu yuḥyī wa yumītu wa Huwa ʿalā kulli shayʾin Qadīr"
+  },
+  "entry_009": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلاً مُتَقَبَّلاً",
+    "category_id": "daily_essentials",
+    "id": "prayergap_9",
+    "repeat": 1,
+    "source": "Ibn Majah 925",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك علما نافعا، ورزقا طيبا، وعملا متقبلا"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে উপকারী জ্ঞান, পবিত্র রিজিক এবং কবুল হওয়া আমল চাই।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds."
+      },
+      "fa": {
+        "meaning": "ای الله، من از تو علم سودمند، رزق پاک و عمل مقبول مسئلت می‌نمایم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande une science utile, une subsistance pure et une œuvre acceptée."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तुझसे नफ़ा बख़्श इल्म, पाकीज़ा रिज़्क़ और मक़बूल अमल का सवाल करता हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя о полезном знании, благом уделе и принятых делах."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba elimu yenye manufaa, riziki njema, na amali zinazokubaliwa."
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senden faydalı ilim, helal rızık ve kabul olunmuş amel dilerim."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تجھ سے نفع بخش علم، پاکیزہ رزق اور مقبول عمل کا سوال کرتا ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾaluka ʿilman nāfiʿan, wa rizqan ṭayyiban, wa ʿamalan mutaqabbalā"
+  },
+  "entry_010": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَمِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_10",
+    "repeat": 1,
+    "source": "Muslim 588",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من عذاب جهنم ومن عذاب القبر ومن فتنة المحيا والممات ومن شر فتنة المسيح الدجال"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে জাহান্নামের আযাব থেকে, কবরের আযাব থেকে, জীবন ও মৃত্যুর ফেতনা থেকে এবং দাজ্জালের ফেতনার অনিষ্ট থেকে আশ্রয় চাই।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from the punishment of Hell, and from the punishment of the grave, and from the trials of life and death, and from the evil of the trial of the False Messiah (Dajjal)."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از عذاب جهنم و از عذاب قبر و از فتنه زندگی و مرگ و از شر فتنه مسیح دجال."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre le châtiment de l'Enfer, et contre le châtiment de la tombe, et contre l'épreuve de la vie et de la mort, et contre le mal de l'épreuve du Faux Messie (Dajjal)."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ जहन्नम के अज़ाब से, और क़ब्र के अज़ाब से, और ज़िंदगी और मौत के फ़ित्नों से, और मसीह दज्जाल के फ़ित्ने के शर से।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari azab Jahannam, dan dari azab kubur, dan dari fitnah kehidupan dan kematian, serta dari kejahatan fitnah Al-Masih Ad-Dajjal."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari azab Jahannam, dan dari azab kubur, dan dari fitnah kehidupan dan kematian, serta dari kejahatan fitnah Al-Masih Ad-Dajjal."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от наказания Ада, и от наказания могилы, и от искушений жизни и смерти, и от зла искушения Антихриста (Даджаля)."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na adhabu ya Jahannam, na kutokana na adhabu ya kaburi, na kutokana na fitina ya uhai na mauti, na kutokana na shari ya fitina ya Masihi Dajjal."
+      },
+      "tr": {
+        "meaning": "Allah'ım, Cehennem azabından, kabir azabından, hayatın ve ölümün fitnesinden ve Mesih Deccal'in fitnesinin şerrinden Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں جہنم کے عذاب سے، اور قبر کے عذاب سے، اور زندگی و موت کے فتنے سے، اور مسیح الدجال کے فتنے کے شر سے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika min ʿadhābi Jahannam wa min ʿadhābil-qabr wa min fitnatil-maḥyā wal-mamāt wa min sharri fitnatil-masīḥid-dajjāl"
+  },
+  "entry_011": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_11",
+    "repeat": 1,
+    "source": "Tirmidhi 3514",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে দুনিয়া ও আখিরাতে ক্ষমা ও সুস্থতা চাই।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You for pardon and well-being in this world and the Hereafter."
+      },
+      "fa": {
+        "meaning": "ای الله، من از تو عفو و عافیت در دنیا و آخرت را مسئلت می‌نمایم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le pardon et le bien-être dans ce monde et dans l'au-delà."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तुझसे दुनिया और आख़िरत में माफ़ी और आफ़ियत का सवाल करता हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ampunan dan keselamatan di dunia dan di akhirat."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu keampunan dan kesejahteraan di dunia dan di akhirat."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя о прощении и благополучии в этом мире и в мире вечном."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba msamaha na afya njema duniani na Akhera."
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senden dünya ve ahirette af ve afiyet dilerim."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تجھ سے دنیا اور آخرت میں معافی اور عافیت کا سوال کرتا ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾalukal-ʿafwa wal-ʿāfiyata fid-dunyā wal-ākhirah"
+  },
+  "entry_012": {
+    "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_12",
+    "repeat": 1,
+    "source": "Quran 23:97-98",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "رب أعوذ بك من همزات الشياطين وأعوذ بك رب أن يحضرون"
+      },
+      "bn": {
+        "meaning": "হে আমার প্রতিপালক, আমি আপনার কাছে শয়তানদের কুমন্ত্রণা থেকে আশ্রয় চাই এবং আপনার কাছে আশ্রয় চাই, হে আমার প্রতিপালক, যেন তারা আমার কাছে উপস্থিত না হয়।"
+      },
+      "en": {
+        "meaning": "My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me."
+      },
+      "fa": {
+        "meaning": "پروردگارا، از وسوسه‌های شیطان‌ها به تو پناه می‌برم و به تو پناه می‌برم پروردگارا از اینکه (در کارهایم) حاضر شوند."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, je cherche refuge auprès de Toi contre les incitations des démons, et je cherche refuge auprès de Toi, ô mon Seigneur, de peur qu'ils ne soient présents avec moi."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब! मैं तेरी पनाह चाहता हूँ शैतानों के बहकावे से, और मैं तेरी पनाह चाहता हूँ, ऐ मेरे रब, कि वे मेरे पास हाज़िर हों।"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, aku berlindung kepada-Mu dari bisikan-bisikan syaitan, dan aku berlindung kepada-Mu, ya Tuhanku, jangan sampai mereka mendekatiku."
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, aku berlindung kepada-Mu dari bisikan-bisikan syaitan, dan aku berlindung kepada-Mu, ya Tuhanku, jangan sampai mereka mendekatiku."
+      },
+      "ru": {
+        "meaning": "Господи, я прибегаю к Тебе от наущений дьяволов, и я прибегаю к Тебе, Господи, дабы они не приблизились ко мне."
+      },
+      "sw": {
+        "meaning": "Mola wangu, najikinga Kwako kutokana na wasiwasi wa mashetani, na najikinga Kwako, Mola wangu, wasije wakaniudhia."
+      },
+      "tr": {
+        "meaning": "Rabbim! Şeytanların vesveselerinden Sana sığınırım. Rabbim! Onların yanımda bulunmalarından da Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے میرے رب! میں تیری پناہ چاہتا ہوں شیطانوں کے وسوسوں سے، اور میں تیری پناہ چاہتا ہوں، اے میرے رب، کہ وہ میرے پاس حاضر ہوں۔"
+      }
+    },
+    "transliteration": "Rabbi aʿūdhu bika min hamazātish-shayāṭīn wa aʿūdhu bika Rabbi an yaḥḍurūn"
+  },
+  "entry_013": {
+    "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+    "category_id": "daily_essentials",
+    "id": "prayergap_13",
+    "repeat": 1,
+    "source": "Tirmidhi 3513",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إنك عفو تحب العفو فاعف عني"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি ক্ষমাশীল, ক্ষমা করতে ভালোবাসেন, সুতরাং আমাকে ক্ষমা করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, You are the Pardoner, and You love to pardon, so pardon me."
+      },
+      "fa": {
+        "meaning": "ای الله، تو بخشنده‌ای و بخشش را دوست داری، پس مرا ببخش."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Tu es le Grand Pardonneur, Tu aimes le pardon, alors pardonne-moi."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! तू यक़ीनन माफ़ करने वाला है, माफ़ी को पसंद करता है, पस मुझे माफ़ कर दे।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau mencintai pemaafan, maka maafkanlah aku."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau mencintai kemaafan, maka maafkanlah aku."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, Ты Прощающий, любишь прощение, так прости же меня."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika Wewe ni Mwingi wa Kusamehe, unaupenda msamaha, basi nisamehe mimi."
+      },
+      "tr": {
+        "meaning": "Allah'ım, Sen affedicisin, affetmeyi seversin, beni affet."
+      },
+      "ur": {
+        "meaning": "اے اللہ! تو یقیناً معاف کرنے والا ہے، معافی کو پسند کرتا ہے، پس مجھے معاف کر دے۔"
+      }
+    },
+    "transliteration": "Allāhumma innaka ʿafūwun tuḥibbul-ʿafwa faʿfu ʿannī"
+  },
+  "entry_014": {
+    "arabic": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_14",
+    "repeat": 7,
+    "source": "Abu Dawud 5081",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم"
+      },
+      "bn": {
+        "meaning": "আল্লাহই আমার জন্য যথেষ্ট। তিনি ছাড়া কোন উপাস্য নেই। তাঁর উপরই আমি ভরসা করেছি এবং তিনি মহান আরশের প্রতিপালক।"
+      },
+      "en": {
+        "meaning": "Allah is sufficient for me. There is no deity worthy of worship except Him. On Him I have relied, and He is the Lord of the Great Throne."
+      },
+      "fa": {
+        "meaning": "الله مرا کفایت می‌کند. هیچ معبودی جز او نیست. بر او توکل کردم و او پروردگار عرش عظیم است."
+      },
+      "fr": {
+        "meaning": "Allah me suffit. Il n'y a de divinité digne d'adoration que Lui. C'est en Lui que je me suis confié, et Il est le Seigneur du Trône Immense."
+      },
+      "hi": {
+        "meaning": "मेरे लिए अल्लाह काफ़ी है। उसके सिवा कोई माबूद नहीं। मैंने उसी पर भरोसा किया और वही अर्श-ए-अज़ीम का रब है।"
+      },
+      "id": {
+        "meaning": "Cukuplah Allah bagiku. Tiada ilah yang berhak disembah kecuali Dia. Hanya kepada-Nya aku bertawakal, dan Dia adalah Tuhan 'Arsy yang agung."
+      },
+      "ms": {
+        "meaning": "Cukuplah Allah bagiku. Tiada Tuhan yang berhak disembah melainkan Dia. Hanya kepada-Nya aku bertawakal, dan Dia adalah Tuhan Arasy yang agung."
+      },
+      "ru": {
+        "meaning": "Достаточно мне Аллаха. Нет божества, достойного поклонения, кроме Него. На Него я уповаю, и Он — Господь Великого Трона."
+      },
+      "sw": {
+        "meaning": "Allah ananitosha. Hapana mola ila Yeye. Kwake Nimeegemea, Naye ni Mola wa Arshi Kuu."
+      },
+      "tr": {
+        "meaning": "Allah bana yeter. O'ndan başka ilah yoktur. O'na tevekkül ettim. O, yüce Arş'ın Rabbidir."
+      },
+      "ur": {
+        "meaning": "میرے لیے اللہ کافی ہے، اس کے سوا کوئی معبود نہیں، میں نے اسی پر بھروسہ کیا اور وہی عرش عظیم کا رب ہے۔"
+      }
+    },
+    "transliteration": "Ḥasbiyallāhu lā ilāha illā Huwa ʿalayhi tawakkaltu wa Huwa Rabbul-ʿArshil-ʿAẓīm"
+  },
+  "entry_015": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْبَرَصِ وَالْجُنُونِ وَالْجُذَامِ وَمِنْ سَيِّئِ الْأَسْقَامِ",
+    "category_id": "daily_essentials",
+    "id": "prayergap_15",
+    "repeat": 1,
+    "source": "Abu Dawud 1554",
+    "subcategory_id": "between_prayers",
+    "tag": "prayer_intervals",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من البرص والجنون والجذام ومن سيئ الأسقام"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই কুষ্ঠ, উন্মাদনা, শ্বেতরোগ এবং সকল প্রকার মন্দ রোগ থেকে।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from leprosy, madness, elephantiasis, and evil diseases."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از پیسی و دیوانگی و جذام و از بیماری‌های بد."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la lèpre, la folie, l'éléphantiasis et les mauvaises maladies."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ कोढ़, पागलपन, कुष्ठ रोग और बुरी बीमारियों से।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari penyakit belang, gila, kusta, dan dari penyakit-penyakit yang buruk."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari penyakit sopak, gila, kusta, dan dari penyakit-penyakit yang buruk."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от проказы, безумия, слоновой болезни и от плохих болезней."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na ukoma, na wazimu, na maradhi ya kifua kikuu (TB), na kutokana na magonjwa mabaya."
+      },
+      "tr": {
+        "meaning": "Allah'ım, alacalı hastalıktan (baras), delilikten (cunun), cüzzamdan (cüzzam) ve kötü hastalıklardan Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں برص (سفید داغ)، جنون (پاگل پن)، جذام (کوڑھ) اور تمام بری بیماریوں سے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-baraṣi wal-junūni wal-judhāmi wa min sayyiʾil-asqām"
+  }
+}

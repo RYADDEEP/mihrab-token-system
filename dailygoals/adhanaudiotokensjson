@@ -1,0 +1,493 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "collections": {
+    "adhan_audio_tokens": {
+      "adhan_entries": {
+        "adhan_library": [
+          {
+            "id": "adhan_001",
+            "length": 185,
+            "muezzin": "Ali Ahmed Mulla",
+            "preview_text": "Classic Meccan Adhan from Masjid al-Haram.",
+            "source_url": "/audio/adhan/ali_mulla_meccan.mp3",
+            "style": "Meccan",
+            "tags": [
+              "Arabic",
+              "Makkah",
+              "Traditional",
+              "Sunni",
+              "Haramain"
+            ],
+            "title": "Makkah - Ali Ahmed Mulla"
+          },
+          {
+            "id": "adhan_002",
+            "length": 210,
+            "muezzin": "Hafiz Mustafa Özcan",
+            "preview_text": "Beautiful Madani style from Masjid an-Nabawi.",
+            "source_url": "/audio/adhan/mustafa_ozcan_madani.mp3",
+            "style": "Madani",
+            "tags": [
+              "Arabic",
+              "Madinah",
+              "Traditional",
+              "Turkish",
+              "Haramain"
+            ],
+            "title": "Madinah - Hafiz Mustafa Özcan"
+          },
+          {
+            "id": "adhan_003",
+            "length": 195,
+            "muezzin": "Sheikh Ali Ahmad",
+            "preview_text": "Emotional recitation from Masjid Al-Aqsa, Jerusalem.",
+            "source_url": "/audio/adhan/ali_ahmad_aqsa.mp3",
+            "style": "Palestinian",
+            "tags": [
+              "Arabic",
+              "Palestine",
+              "Traditional",
+              "Levantine",
+              "Al-Aqsa"
+            ],
+            "title": "Al-Aqsa - Sheikh Ali Ahmad"
+          },
+          {
+            "id": "adhan_004",
+            "length": 220,
+            "muezzin": "Abdul Basit Abdus Samad",
+            "preview_text": "Legendary Egyptian muezzin with distinctive melodic style.",
+            "source_url": "/audio/adhan/abdul_basit_egyptian.mp3",
+            "style": "Egyptian",
+            "tags": [
+              "Arabic",
+              "Egypt",
+              "Classical",
+              "Cairo",
+              "Melodic"
+            ],
+            "title": "Cairo - Abdul Basit Abdus Samad"
+          },
+          {
+            "id": "adhan_005",
+            "length": 205,
+            "muezzin": "Fatih Seferagic",
+            "preview_text": "Modern Turkish style with beautiful vocal modulation.",
+            "source_url": "/audio/adhan/fatih_seferagic_turkish.mp3",
+            "style": "Turkish",
+            "tags": [
+              "Turkish",
+              "Istanbul",
+              "Contemporary",
+              "Melodic",
+              "Sunni"
+            ],
+            "title": "Istanbul - Fatih Seferagic"
+          },
+          {
+            "id": "adhan_006",
+            "length": 190,
+            "muezzin": "Ustaz Dzulkarnain",
+            "preview_text": "Popular Malaysian muezzin with clear articulation.",
+            "source_url": "/audio/adhan/dzulkarnain_malaysian.mp3",
+            "style": "Malaysian",
+            "tags": [
+              "Malay",
+              "Malaysia",
+              "Southeast Asian",
+              "Modern",
+              "Clear"
+            ],
+            "title": "Kuala Lumpur - Ustaz Dzulkarnain"
+          },
+          {
+            "id": "adhan_007",
+            "length": 200,
+            "muezzin": "Sheikh Muhammad Rashad",
+            "preview_text": "Traditional Syrian maqam style from Umayyad Mosque.",
+            "source_url": "/audio/adhan/muhammad_rashad_syrian.mp3",
+            "style": "Syrian",
+            "tags": [
+              "Arabic",
+              "Syria",
+              "Damascus",
+              "Classical",
+              "Maqam"
+            ],
+            "title": "Damascus - Sheikh Muhammad Rashad"
+          },
+          {
+            "id": "adhan_008",
+            "length": 180,
+            "muezzin": "Ustaz Jefri Al Buchori",
+            "preview_text": "Beloved Indonesian muezzin with gentle delivery.",
+            "source_url": "/audio/adhan/jefri_indonesian.mp3",
+            "style": "Indonesian",
+            "tags": [
+              "Indonesian",
+              "Jakarta",
+              "Southeast Asian",
+              "Melodic",
+              "Popular"
+            ],
+            "title": "Jakarta - Ustaz Jefri Al Buchori"
+          },
+          {
+            "id": "adhan_009",
+            "length": 215,
+            "muezzin": "Sidi Ahmed Tijani",
+            "preview_text": "Traditional Maghrebi style from ancient Fez.",
+            "source_url": "/audio/adhan/ahmed_tijani_moroccan.mp3",
+            "style": "Moroccan",
+            "tags": [
+              "Arabic",
+              "Morocco",
+              "Maghrebi",
+              "Traditional",
+              "Andalusian"
+            ],
+            "title": "Fez - Sidi Ahmed Tijani"
+          },
+          {
+            "id": "adhan_010",
+            "length": 225,
+            "muezzin": "Hojjat Ashrafzadeh",
+            "preview_text": "Persian style with unique Shia additions.",
+            "source_url": "/audio/adhan/ashrafzadeh_persian.mp3",
+            "style": "Persian",
+            "tags": [
+              "Persian",
+              "Iran",
+              "Shia",
+              "Tehran",
+              "Traditional"
+            ],
+            "title": "Tehran - Hojjat Ashrafzadeh"
+          },
+          {
+            "id": "adhan_011",
+            "length": 195,
+            "muezzin": "Hafiz Aziz Alili",
+            "preview_text": "Beautiful Balkan style from Gazi Husrev-beg Mosque.",
+            "source_url": "/audio/adhan/aziz_alili_bosnian.mp3",
+            "style": "Bosnian",
+            "tags": [
+              "Bosnian",
+              "Sarajevo",
+              "Balkan",
+              "European",
+              "Ottoman"
+            ],
+            "title": "Sarajevo - Hafiz Aziz Alili"
+          },
+          {
+            "id": "adhan_012",
+            "length": 200,
+            "muezzin": "Qari Waheed Zafar",
+            "preview_text": "Renowned Pakistani qari with powerful voice.",
+            "source_url": "/audio/adhan/waheed_zafar_pakistani.mp3",
+            "style": "Pakistani",
+            "tags": [
+              "Urdu",
+              "Pakistan",
+              "Karachi",
+              "South Asian",
+              "Contemporary"
+            ],
+            "title": "Karachi - Qari Waheed Zafar"
+          },
+          {
+            "id": "adhan_013",
+            "length": 185,
+            "muezzin": "Muhammadsolih Ochildiev",
+            "preview_text": "Central Asian style with Turkic influences.",
+            "source_url": "/audio/adhan/ochildiev_uzbek.mp3",
+            "style": "Uzbek",
+            "tags": [
+              "Uzbek",
+              "Tashkent",
+              "Central Asian",
+              "Turkic",
+              "Traditional"
+            ],
+            "title": "Tashkent - Muhammadsolih Ochildiev"
+          },
+          {
+            "id": "adhan_014",
+            "length": 190,
+            "muezzin": "Qari Mizanur Rahman",
+            "preview_text": "Popular Bangladeshi style from Baitul Mukarram.",
+            "source_url": "/audio/adhan/mizanur_bengali.mp3",
+            "style": "Bengali",
+            "tags": [
+              "Bengali",
+              "Bangladesh",
+              "Dhaka",
+              "South Asian",
+              "Modern"
+            ],
+            "title": "Dhaka - Qari Mizanur Rahman"
+          },
+          {
+            "id": "adhan_015",
+            "length": 175,
+            "muezzin": "Sheikh Ibrahim Jibrin",
+            "preview_text": "West African style with Hausa influences.",
+            "source_url": "/audio/adhan/ibrahim_jibrin_nigerian.mp3",
+            "style": "Nigerian",
+            "tags": [
+              "Hausa",
+              "Nigeria",
+              "West African",
+              "Kano",
+              "Traditional"
+            ],
+            "title": "Kano - Sheikh Ibrahim Jibrin"
+          },
+          {
+            "id": "adhan_016",
+            "length": 195,
+            "muezzin": "Omar Hisham Al Arabi",
+            "preview_text": "Modern Gulf style with crystal clear pronunciation.",
+            "source_url": "/audio/adhan/omar_hisham_emirati.mp3",
+            "style": "Emirati",
+            "tags": [
+              "Arabic",
+              "UAE",
+              "Gulf",
+              "Modern",
+              "Contemporary"
+            ],
+            "title": "Dubai - Omar Hisham Al Arabi"
+          },
+          {
+            "id": "adhan_017",
+            "length": 200,
+            "muezzin": "Sheikh Majed Al-Zamil",
+            "preview_text": "Beautiful Jordanian style from King Hussein Mosque.",
+            "source_url": "/audio/adhan/majed_zamil_jordanian.mp3",
+            "style": "Jordanian",
+            "tags": [
+              "Arabic",
+              "Jordan",
+              "Amman",
+              "Levantine",
+              "Classical"
+            ],
+            "title": "Amman - Sheikh Majed Al-Zamil"
+          },
+          {
+            "id": "adhan_018",
+            "length": 210,
+            "muezzin": "Sheikh Fadhel Saker",
+            "preview_text": "North African style from Zitouna Mosque.",
+            "source_url": "/audio/adhan/fadhel_saker_tunisian.mp3",
+            "style": "Tunisian",
+            "tags": [
+              "Arabic",
+              "Tunisia",
+              "Maghrebi",
+              "Traditional",
+              "Maliki"
+            ],
+            "title": "Tunis - Sheikh Fadhel Saker"
+          },
+          {
+            "id": "adhan_019",
+            "length": 195,
+            "muezzin": "Hafiz Kareem Ullah",
+            "preview_text": "Classical Indian style from Jama Masjid Delhi.",
+            "source_url": "/audio/adhan/kareem_ullah_indian.mp3",
+            "style": "Indian",
+            "tags": [
+              "Urdu",
+              "India",
+              "Delhi",
+              "South Asian",
+              "Mughal"
+            ],
+            "title": "Delhi - Hafiz Kareem Ullah"
+          },
+          {
+            "id": "adhan_020",
+            "length": 185,
+            "muezzin": "Ustaz Haji Hamzah",
+            "preview_text": "Royal Bruneian style with Malay influences.",
+            "source_url": "/audio/adhan/haji_hamzah_bruneian.mp3",
+            "style": "Bruneian",
+            "tags": [
+              "Malay",
+              "Brunei",
+              "Southeast Asian",
+              "Royal",
+              "Traditional"
+            ],
+            "title": "Brunei - Ustaz Haji Hamzah"
+          },
+          {
+            "id": "adhan_021",
+            "length": 205,
+            "muezzin": "Sheikh Abdullah Al-Harazi",
+            "preview_text": "Ancient Yemeni style with unique melodic patterns.",
+            "source_url": "/audio/adhan/abdullah_harazi_yemeni.mp3",
+            "style": "Yemeni",
+            "tags": [
+              "Arabic",
+              "Yemen",
+              "Sana'a",
+              "Traditional",
+              "Zaydi"
+            ],
+            "title": "Sana'a - Sheikh Abdullah Al-Harazi"
+          },
+          {
+            "id": "adhan_022",
+            "length": 215,
+            "muezzin": "Sheikh Abdelkader Benali",
+            "preview_text": "Algerian Andalusian influence from Ketchaoua Mosque.",
+            "source_url": "/audio/adhan/benali_algerian.mp3",
+            "style": "Algerian",
+            "tags": [
+              "Arabic",
+              "Algeria",
+              "Maghrebi",
+              "Andalusian",
+              "Classical"
+            ],
+            "title": "Algiers - Sheikh Abdelkader Benali"
+          },
+          {
+            "id": "adhan_023",
+            "length": 180,
+            "muezzin": "Hafiz Muhammad Asim",
+            "preview_text": "Contemporary British Muslim style.",
+            "source_url": "/audio/adhan/muhammad_asim_british.mp3",
+            "style": "British",
+            "tags": [
+              "English",
+              "UK",
+              "Contemporary",
+              "Western",
+              "Modern"
+            ],
+            "title": "London - Hafiz Muhammad Asim"
+          },
+          {
+            "id": "adhan_024",
+            "length": 190,
+            "muezzin": "Ildar Bayazitov",
+            "preview_text": "Unique Tatar style from Qul Sharif Mosque.",
+            "source_url": "/audio/adhan/bayazitov_tatar.mp3",
+            "style": "Tatar",
+            "tags": [
+              "Tatar",
+              "Russia",
+              "Kazan",
+              "Turkic",
+              "Traditional"
+            ],
+            "title": "Kazan - Ildar Bayazitov"
+          },
+          {
+            "id": "adhan_025",
+            "length": 185,
+            "muezzin": "Imam Moussa Diop",
+            "preview_text": "West African Tijani style from Senegal.",
+            "source_url": "/audio/adhan/moussa_diop_senegalese.mp3",
+            "style": "Senegalese",
+            "tags": [
+              "Wolof",
+              "Senegal",
+              "West African",
+              "Tijani",
+              "Sufi"
+            ],
+            "title": "Dakar - Imam Moussa Diop"
+          },
+          {
+            "id": "adhan_026",
+            "length": 195,
+            "muezzin": "Haji Shahin Hasanli",
+            "preview_text": "Caucasian style from Heydar Mosque.",
+            "source_url": "/audio/adhan/shahin_hasanli_azeri.mp3",
+            "style": "Azerbaijani",
+            "tags": [
+              "Azerbaijani",
+              "Baku",
+              "Caucasian",
+              "Shia",
+              "Modern"
+            ],
+            "title": "Baku - Haji Shahin Hasanli"
+          },
+          {
+            "id": "adhan_027",
+            "length": 180,
+            "muezzin": "Ustaz Firdaus Yahya",
+            "preview_text": "Modern Southeast Asian style from Sultan Mosque.",
+            "source_url": "/audio/adhan/firdaus_yahya_singaporean.mp3",
+            "style": "Singaporean",
+            "tags": [
+              "Malay",
+              "Singapore",
+              "Southeast Asian",
+              "Modern",
+              "Urban"
+            ],
+            "title": "Singapore - Ustaz Firdaus Yahya"
+          },
+          {
+            "id": "adhan_028",
+            "length": 200,
+            "muezzin": "Sheikh Nureldin Ahmed",
+            "preview_text": "Traditional Sudanese style with African rhythms.",
+            "source_url": "/audio/adhan/nureldin_sudanese.mp3",
+            "style": "Sudanese",
+            "tags": [
+              "Arabic",
+              "Sudan",
+              "African",
+              "Traditional",
+              "Maliki"
+            ],
+            "title": "Khartoum - Sheikh Nureldin Ahmed"
+          },
+          {
+            "id": "adhan_029",
+            "length": 195,
+            "muezzin": "Sheikh Hassan Merheb",
+            "preview_text": "Lebanese style from Mohammad Al-Amin Mosque.",
+            "source_url": "/audio/adhan/hassan_merheb_lebanese.mp3",
+            "style": "Lebanese",
+            "tags": [
+              "Arabic",
+              "Lebanon",
+              "Levantine",
+              "Modern",
+              "Melodic"
+            ],
+            "title": "Beirut - Sheikh Hassan Merheb"
+          },
+          {
+            "id": "adhan_030",
+            "length": 90,
+            "muezzin": "Mihrab Default",
+            "preview_text": "Brief Adhan without melodic embellishment.",
+            "source_url": "/audio/adhan/mihrab_default_short.mp3",
+            "style": "Simple",
+            "tags": [
+              "Simple",
+              "Short",
+              "Default",
+              "Basic",
+              "Universal"
+            ],
+            "title": "Short - Mihrab Default"
+          }
+        ]
+      }
+    }
+  }
+}

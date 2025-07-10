@@ -1,0 +1,725 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+    "category_id": "family_social",
+    "id": "manners_1",
+    "repeat": 1,
+    "source": "Abu Dawud 5195, Tirmidhi 2721 (Full Islamic greeting)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "السلام عليكم ورحمة الله وبركاته"
+      },
+      "bn": {
+        "meaning": "আপনাদের উপর শান্তি বর্ষিত হোক, এবং আল্লাহর রহমত ও তাঁর বরকতসমূহ।"
+      },
+      "en": {
+        "meaning": "Peace be upon you, and the mercy of Allah and His blessings."
+      },
+      "fa": {
+        "meaning": "سلام و رحمت خدا و برکات او بر شما باد."
+      },
+      "fr": {
+        "meaning": "Que la paix soit sur vous, ainsi que la miséricorde d'Allah et Ses bénédictions."
+      },
+      "hi": {
+        "meaning": "तुम पर सलामती हो, और अल्लाह की रहमत और उसकी बरकतें हों।"
+      },
+      "id": {
+        "meaning": "Semoga keselamatan, rahmat Allah, dan keberkahan-Nya tercurah atasmu."
+      },
+      "ms": {
+        "meaning": "Semoga keselamatan, rahmat Allah, dan keberkatan-Nya tercurah atas kamu."
+      },
+      "ru": {
+        "meaning": "Мир вам, и милость Аллаха, и Его благословения."
+      },
+      "sw": {
+        "meaning": "Amani iwe juu yenu, na rehema za Allah na baraka zake."
+      },
+      "tr": {
+        "meaning": "Allah'ın selamı, rahmeti ve bereketi üzerinize olsun."
+      },
+      "ur": {
+        "meaning": "تم پر سلامتی ہو، اور اللہ کی رحمت اور اس کی برکتیں ہوں۔"
+      }
+    },
+    "transliteration": "As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh"
+  },
+  "entry_002": {
+    "arabic": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+    "category_id": "family_social",
+    "id": "manners_2",
+    "repeat": 1,
+    "source": "Abu Dawud 5195, Tirmidhi 2721 (Reply to full Islamic greeting)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "وعليكم السلام ورحمة الله وبركاته"
+      },
+      "bn": {
+        "meaning": "এবং আপনাদের উপরও শান্তি বর্ষিত হোক, এবং আল্লাহর রহমত ও তাঁর বরকতসমূহ।"
+      },
+      "en": {
+        "meaning": "And upon you be peace, and the mercy of Allah and His blessings."
+      },
+      "fa": {
+        "meaning": "و بر شما هم سلام و رحمت خدا و برکات او باد."
+      },
+      "fr": {
+        "meaning": "Et que la paix soit sur vous aussi, ainsi que la miséricorde d'Allah et Ses bénédictions."
+      },
+      "hi": {
+        "meaning": "और तुम पर भी सलामती हो, और अल्लाह की रहमत और उसकी बरकतें हों।"
+      },
+      "id": {
+        "meaning": "Dan atasmu juga keselamatan, rahmat Allah, dan keberkahan-Nya."
+      },
+      "ms": {
+        "meaning": "Dan atas kamu juga keselamatan, rahmat Allah, dan keberkatan-Nya."
+      },
+      "ru": {
+        "meaning": "И на вас мир, и милость Аллаха, и Его благословения."
+      },
+      "sw": {
+        "meaning": "Na juu yenu iwe amani, na rehema za Allah na baraka zake."
+      },
+      "tr": {
+        "meaning": "Ve sizin üzerinize de Allah'ın selamı, rahmeti ve bereketi olsun."
+      },
+      "ur": {
+        "meaning": "اور تم پر بھی سلامتی ہو، اور اللہ کی رحمت اور اس کی برکتیں ہوں۔"
+      }
+    },
+    "transliteration": "Wa ʿalaykumus-salāmu wa raḥmatullāhi wa barakātuh"
+  },
+  "entry_003": {
+    "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+    "category_id": "family_social",
+    "id": "manners_3",
+    "repeat": 1,
+    "source": "Tirmidhi 2035 (Thanking someone, for male singular)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "جزاك الله خيرا"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাকে উত্তম প্রতিদান দিন।"
+      },
+      "en": {
+        "meaning": "May Allah reward you with goodness."
+      },
+      "fa": {
+        "meaning": "خداوند به تو پاداش نیک دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te récompense en bien."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें बेहतर बदला दे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah membalasmu dengan kebaikan."
+      },
+      "ms": {
+        "meaning": "Semoga Allah membalasmu dengan kebaikan."
+      },
+      "ru": {
+        "meaning": "Да вознаградит тебя Аллах благом."
+      },
+      "sw": {
+        "meaning": "Allah akulipe kheri."
+      },
+      "tr": {
+        "meaning": "Allah seni hayırla mükafatlandırsın."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں بہتر اجر دے۔"
+      }
+    },
+    "transliteration": "Jazākallāhu khayrā"
+  },
+  "entry_004": {
+    "arabic": "جَزَاكِ اللَّهُ خَيْرًا",
+    "category_id": "family_social",
+    "id": "manners_4",
+    "repeat": 1,
+    "source": "Tirmidhi 2035 (Thanking someone, for female singular)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "جزاك الله خيرا"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাকে (স্ত্রী) উত্তম প্রতিদান দিন।"
+      },
+      "en": {
+        "meaning": "May Allah reward you (female) with goodness."
+      },
+      "fa": {
+        "meaning": "خداوند به تو (زن) پاداش نیک دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te (femme) récompense en bien."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें (स्त्री) बेहतर बदला दे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah membalasmu (perempuan) dengan kebaikan."
+      },
+      "ms": {
+        "meaning": "Semoga Allah membalasmu (perempuan) dengan kebaikan."
+      },
+      "ru": {
+        "meaning": "Да вознаградит тебя (жен.) Аллах благом."
+      },
+      "sw": {
+        "meaning": "Allah akulipe (mwanamke) kheri."
+      },
+      "tr": {
+        "meaning": "Allah seni (kadın) hayırla mükafatlandırsın."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں (عورت) بہتر اجر دے۔"
+      }
+    },
+    "transliteration": "Jazākīllāhu khayrā"
+  },
+  "entry_005": {
+    "arabic": "جَزَاكُمُ اللَّهُ خَيْرًا",
+    "category_id": "family_social",
+    "id": "manners_5",
+    "repeat": 1,
+    "source": "Tirmidhi 2035 (Thanking someone, for plural)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "جزاكم الله خيرا"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাদের (বহুবচন) উত্তম প্রতিদান দিন।"
+      },
+      "en": {
+        "meaning": "May Allah reward you (plural) with goodness."
+      },
+      "fa": {
+        "meaning": "خداوند به شما (جمع) پاداش نیک دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah vous (pluriel) récompense en bien."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम सबको बेहतर बदला दे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah membalas kalian dengan kebaikan."
+      },
+      "ms": {
+        "meaning": "Semoga Allah membalas kalian dengan kebaikan."
+      },
+      "ru": {
+        "meaning": "Да вознаградит вас (мн.ч.) Аллах благом."
+      },
+      "sw": {
+        "meaning": "Allah awalipe (wingi) kheri."
+      },
+      "tr": {
+        "meaning": "Allah sizi (çoğul) hayırla mükafatlandırsın."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں (جمع) بہتر اجر دے۔"
+      }
+    },
+    "transliteration": "Jazākumullāhu khayrā"
+  },
+  "entry_006": {
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "category_id": "family_social",
+    "id": "manners_6",
+    "repeat": 1,
+    "source": "Bukhari 6224 (Upon sneezing)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর।"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah."
+      },
+      "fa": {
+        "meaning": "تمام ستایش‌ها از آن خداست."
+      },
+      "fr": {
+        "meaning": "Toutes les louanges sont à Allah."
+      },
+      "hi": {
+        "meaning": "सभी तारीफें अल्लाह के लिए हैं।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah."
+      },
+      "ru": {
+        "meaning": "Вся хвала принадлежит Аллаху."
+      },
+      "sw": {
+        "meaning": "Sifa zote ni za Allah."
+      },
+      "tr": {
+        "meaning": "Hamd Allah'a mahsustur."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں۔"
+      }
+    },
+    "transliteration": "Al-ḥamdu lillāh"
+  },
+  "entry_007": {
+    "arabic": "يَرْحَمُكَ اللَّهُ",
+    "category_id": "family_social",
+    "id": "manners_7",
+    "repeat": 1,
+    "source": "Bukhari 6224 (Reply to 'Alhamdulillah' after sneezing, for male singular)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "يرحمك الله"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনার প্রতি রহম করুন।"
+      },
+      "en": {
+        "meaning": "May Allah have mercy upon you."
+      },
+      "fa": {
+        "meaning": "خداوند تو را مورد رحمت قرار دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te fasse miséricorde."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम पर रहम करे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah merahmatimu."
+      },
+      "ms": {
+        "meaning": "Semoga Allah merahmatimu."
+      },
+      "ru": {
+        "meaning": "Да помилует тебя Аллах."
+      },
+      "sw": {
+        "meaning": "Allah akurehemu."
+      },
+      "tr": {
+        "meaning": "Allah sana merhamet etsin."
+      },
+      "ur": {
+        "meaning": "اللہ تم پر رحم فرمائے۔"
+      }
+    },
+    "transliteration": "Yarḥamukallāh"
+  },
+  "entry_008": {
+    "arabic": "يَرْحَمُكِ اللَّهُ",
+    "category_id": "family_social",
+    "id": "manners_8",
+    "repeat": 1,
+    "source": "Bukhari 6224 (Reply to 'Alhamdulillah' after sneezing, for female singular)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "يرحمك الله"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনার (স্ত্রী) প্রতি রহম করুন।"
+      },
+      "en": {
+        "meaning": "May Allah have mercy upon you (female)."
+      },
+      "fa": {
+        "meaning": "خداوند تو (زن) را مورد رحمت قرار دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te (femme) fasse miséricorde."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम पर (स्त्री) रहम करे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah merahmatimu (perempuan)."
+      },
+      "ms": {
+        "meaning": "Semoga Allah merahmatimu (perempuan)."
+      },
+      "ru": {
+        "meaning": "Да помилует тебя (жен.) Аллах."
+      },
+      "sw": {
+        "meaning": "Allah akurehemu (mwanamke)."
+      },
+      "tr": {
+        "meaning": "Allah sana (kadın) merhamet etsin."
+      },
+      "ur": {
+        "meaning": "اللہ تم پر (عورت) رحم فرمائے۔"
+      }
+    },
+    "transliteration": "Yarḥamukillāh"
+  },
+  "entry_009": {
+    "arabic": "يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ",
+    "category_id": "family_social",
+    "id": "manners_9",
+    "repeat": 1,
+    "source": "Bukhari 6224 (Reply to 'Yarhamukallah' after sneezing)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "يهديكم الله ويصلح بالكم"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাকে হেদায়েত দিন এবং আপনার অবস্থা সংশোধন করুন।"
+      },
+      "en": {
+        "meaning": "May Allah guide you and rectify your affairs."
+      },
+      "fa": {
+        "meaning": "خداوند شما را هدایت کند و حال شما را اصلاح گرداند."
+      },
+      "fr": {
+        "meaning": "Qu'Allah vous guide et améliore votre situation."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें हिदायत दे और तुम्हारी हालत सुधार दे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah memberimu petunjuk dan memperbaiki keadaanmu."
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberimu petunjuk dan memperbaiki keadaanmu."
+      },
+      "ru": {
+        "meaning": "Да направит вас Аллах на правильный путь и исправит ваше положение."
+      },
+      "sw": {
+        "meaning": "Allah awahidi na awatengenezee hali zenu."
+      },
+      "tr": {
+        "meaning": "Allah size hidayet versin ve durumunuzu düzeltsin."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں ہدایت دے اور تمہارے معاملات درست کرے۔"
+      }
+    },
+    "transliteration": "Yahdīkumullāhu wa yuṣliḥu bālakum"
+  },
+  "entry_010": {
+    "arabic": "بَارَكَ اللَّهُ فِيكَ",
+    "category_id": "family_social",
+    "id": "manners_10",
+    "repeat": 1,
+    "source": "Hisnul Muslim #71 (General blessing, for male singular)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "بارك الله فيك"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাকে বরকত দিন।"
+      },
+      "en": {
+        "meaning": "May Allah bless you."
+      },
+      "fa": {
+        "meaning": "خداوند به تو برکت دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te bénisse."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें बरकत दे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahimu."
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkatimu."
+      },
+      "ru": {
+        "meaning": "Да благословит тебя Аллах."
+      },
+      "sw": {
+        "meaning": "Allah akubariki."
+      },
+      "tr": {
+        "meaning": "Allah sana bereket versin."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں برکت دے۔"
+      }
+    },
+    "transliteration": "Bārakallāhu fīka"
+  },
+  "entry_011": {
+    "arabic": "بَارَكَ اللَّهُ فِيكِ",
+    "category_id": "family_social",
+    "id": "manners_11",
+    "repeat": 1,
+    "source": "Hisnul Muslim #71 (General blessing, for female singular)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "بارك الله فيك"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাকে (স্ত্রী) বরকত দিন।"
+      },
+      "en": {
+        "meaning": "May Allah bless you (female)."
+      },
+      "fa": {
+        "meaning": "خداوند به تو (زن) برکت دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te (femme) bénisse."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें (स्त्री) बरकत दे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahimu (perempuan)."
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkatimu (perempuan)."
+      },
+      "ru": {
+        "meaning": "Да благословит тебя (жен.) Аллах."
+      },
+      "sw": {
+        "meaning": "Allah akubariki (mwanamke)."
+      },
+      "tr": {
+        "meaning": "Allah sana (kadın) bereket versin."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں (عورت) برکت دے۔"
+      }
+    },
+    "transliteration": "Bārakallāhu fīki"
+  },
+  "entry_012": {
+    "arabic": "بَارَكَ اللَّهُ فِيكُمْ",
+    "category_id": "family_social",
+    "id": "manners_12",
+    "repeat": 1,
+    "source": "Hisnul Muslim #71 (General blessing, for plural)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "بارك الله فيكم"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাদের (বহুবচন) বরকত দিন।"
+      },
+      "en": {
+        "meaning": "May Allah bless you (plural)."
+      },
+      "fa": {
+        "meaning": "خداوند به شما (جمع) برکت دهد."
+      },
+      "fr": {
+        "meaning": "Qu'Allah vous (pluriel) bénisse."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम सबको बरकत दे।"
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahi kalian."
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkati kalian."
+      },
+      "ru": {
+        "meaning": "Да благословит вас (мн.ч.) Аллах."
+      },
+      "sw": {
+        "meaning": "Allah awabariki (wingi)."
+      },
+      "tr": {
+        "meaning": "Allah size (çoğul) bereket versin."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں (جمع) برکت دے۔"
+      }
+    },
+    "transliteration": "Bārakallāhu fīkum"
+  },
+  "entry_013": {
+    "arabic": "إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلِ الْحَمْدُ لِلَّهِ وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ يَرْحَمُكَ اللَّهُ فَإِذَا قَالَ لَهُ يَرْحَمُكَ اللَّهُ فَلْيَقُلْ يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ",
+    "category_id": "family_social",
+    "id": "manners_13",
+    "repeat": 1,
+    "source": "Bukhari 6224 (Full sneezing etiquette chain)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "إذا عطس أحدكم فليقل الحمد لله وليقل له أخوه أو صاحبه يرحمك الله فإذا قال له يرحمك الله فليقل يهديكم الله ويصلح بالكم"
+      },
+      "bn": {
+        "meaning": "যখন তোমাদের কেউ হাঁচি দেয়, তখন সে 'আলহামদুলিল্লাহ' (সকল প্রশংসা আল্লাহর) বলবে, এবং তার ভাই বা সঙ্গী তাকে 'ইয়ারহামুকাল্লাহ' (আল্লাহ আপনার প্রতি রহম করুন) বলবে। এরপর যখন তাকে 'ইয়ারহামুকাল্লাহ' বলা হবে, তখন সে 'ইয়াহদিকুমুল্লাহু ওয়া ইয়ুসলিহু বালাকুম' (আল্লাহ আপনাকে হেদায়েত দিন এবং আপনার অবস্থা সংশোধন করুন) বলবে।"
+      },
+      "en": {
+        "meaning": "When one of you sneezes, he should say 'Alhamdulillah' (All praise is due to Allah), and his brother or companion should say to him 'Yarhamukallah' (May Allah have mercy upon you). Then he should say 'Yahdikumullahu wa yuṣliḥu bālakum' (May Allah guide you and rectify your affairs)."
+      },
+      "fa": {
+        "meaning": "هرگاه یکی از شما عطسه کرد، باید بگوید 'الحمد لله' (تمام ستایش‌ها از آن خداست)، و برادر یا دوستش به او بگوید 'یرحمك الله' (خداوند تو را مورد رحمت قرار دهد). پس وقتی به او 'یرحمك الله' گفته شد، باید بگوید 'یهدیكم الله و یصلح بالكم' (خداوند شما را هدایت کند و حال شما را اصلاح گرداند)."
+      },
+      "fr": {
+        "meaning": "Quand l'un de vous éternue, qu'il dise 'Alhamdulillah' (Toutes les louanges sont à Allah), et que son frère ou son compagnon lui dise 'Yarhamukallah' (Qu'Allah te fasse miséricorde). Alors, s'il lui a dit 'Yarhamukallah', qu'il dise 'Yahdikumullahu wa yuṣliḥu bālakum' (Qu'Allah vous guide et améliore votre situation)."
+      },
+      "hi": {
+        "meaning": "जब तुम में से कोई छींक ले, तो उसे 'अल्हम्दुलिल्लाह' (सभी तारीफें अल्लाह के लिए हैं) कहना चाहिए, और उसके भाई या साथी को उसे 'यरहमुकल्लाह' (अल्लाह तुम पर रहम करे) कहना चाहिए। फिर जब उसे 'यरहमुकल्लाह' कहा जाए तो उसे 'यहदीकुमुल-लाहु व युस्लिहु बालाकूम' (अल्लाह तुम्हें हिदायत दे और तुम्हारी हालत सुधार दे) कहना चाहिए।"
+      },
+      "id": {
+        "meaning": "Apabila salah seorang di antara kalian bersin, hendaklah ia mengucapkan 'Alhamdulillah' (Segala puji bagi Allah), dan saudaranya atau temannya mengucapkan kepadanya 'Yarhamukallah' (Semoga Allah merahmatimu). Apabila ia (yang bersin) mengucapkan 'Yarhamukallah', maka hendaklah ia mengucapkan 'Yahdikumullahu wa yuṣliḥu bālakum' (Semoga Allah memberimu petunjuk dan memperbaiki keadaanmu)."
+      },
+      "ms": {
+        "meaning": "Apabila salah seorang di antara kalian bersin, hendaklah ia mengucapkan 'Alhamdulillah' (Segala puji bagi Allah), dan saudaranya atau temannya mengucapkan kepadanya 'Yarhamukallah' (Semoga Allah merahmatimu). Apabila ia (yang bersin) mengucapkan 'Yarhamukallah', maka hendaklah ia mengucapkan 'Yahdikumullahu wa yuṣliḥu bālakum' (Semoga Allah memberimu petunjuk dan memperbaiki keadaanmu)."
+      },
+      "ru": {
+        "meaning": "Когда кто-либо из вас чихнет, пусть скажет 'Альхамдулиллях' (Вся хвала принадлежит Аллаху), а его брат или спутник пусть скажет ему 'Ярхамукаллах' (Да помилует тебя Аллах). И если ему скажут 'Ярхамукаллах', то пусть он скажет 'Яхдикумуллаху ва йуслиху балякум' (Да направит вас Аллах на правильный путь и исправит ваше положение)."
+      },
+      "sw": {
+        "meaning": "Anapopiga chafya mmoja wenu, basi aseme 'Alhamdulillah' (Sifa zote ni za Allah), na ndugu yake au rafiki yake amwambie 'Yarhamukallah' (Allah akurehemu). Na atakapomwambia 'Yarhamukallah', basi aseme 'Yahdikumullahu wa yuṣliḥu bālakum' (Allah awahidi na awatengenezee hali zenu)."
+      },
+      "tr": {
+        "meaning": "Sizden biriniz aksırdığı zaman 'Elhamdulillah' (Allah'a hamd olsun) desin. Kardeşi veya arkadaşı da ona 'Yerhamukallah' (Allah sana merhamet etsin) desin. O da ona 'Yehdikumullahu ve yuslihu balakum' (Allah size hidayet versin ve durumunuzu düzeltsin) desin."
+      },
+      "ur": {
+        "meaning": "جب تم میں سے کوئی چھینک لے تو اسے 'الحمد للہ' (تمام تعریفیں اللہ کے لیے ہیں) کہنا چاہیے، اور اس کا بھائی یا ساتھی اسے 'یرحمك اللہ' (اللہ تم پر رحم کرے) کہے۔ پھر جب اسے 'یرحمك اللہ' کہا جائے تو اسے 'یہدیكم اللہ ویصلح بالكم' (اللہ تمہیں ہدایت دے اور تمہارے معاملات درست کرے) کہنا چاہیے۔"
+      }
+    },
+    "transliteration": "Idhā ʿaṭasa aḥadukum falyaqul al-ḥamdu lillāh, wa lyaqul lahu akhūhu aw ṣāḥibuhu yarḥamukallāh, faʾidhā qāla lahu yarḥamukallāh falyaqul yahdīkumullāhu wa yuṣliḥu bālakum"
+  },
+  "entry_014": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ دَعْوَةٍ لاَ يُسْتَجَابُ لَهَا",
+    "category_id": "family_social",
+    "id": "manners_14",
+    "repeat": 1,
+    "source": "Muslim 2722 (Seeking refuge from unbeneficial things, general guidance)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من علم لا ينفع ومن قلب لا يخشع ومن نفس لا تشبع ومن دعوة لا يستجاب لها"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই এমন জ্ঞান থেকে যা উপকার দেয় না, এমন অন্তর থেকে যা বিনয়ী হয় না, এমন মন থেকে যা তৃপ্ত হয় না এবং এমন দোয়া থেকে যা কবুল হয় না।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from knowledge which does not benefit, and from a heart which does not fear (You), and from a soul which is not satisfied, and from a supplication which is not answered."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از دانشی که سود نمی‌دهد، و از قلبی که خشوع نمی‌کند، و از نفسی که سیر نمی‌شود، و از دعایی که اجابت نمی‌گردد."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre une science qui n'est pas utile, contre un cœur qui ne s'humilie pas, contre une âme insatiable, et contre une invocation qui n'est pas exaucée."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ ऐसे इल्म से जो नफ़ा न दे, और ऐसे दिल से जो ख़ुशूअ न करे, और ऐसे नफ़्स से जो सैर न हो, और ऐसी दुआ से जो क़बूल न हो।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, dari hati yang tidak khusyuk (takut kepada-Mu), dari nafsu yang tidak pernah kenyang, dan dari doa yang tidak dikabulkan."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, dari hati yang tidak khusyuk (takut kepada-Mu), dari nafsu yang tidak pernah kenyang, dan dari doa yang tidak dikabulkan."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от бесполезного знания, и от не смиренного сердца, и от ненасытной души, и от мольбы, на которую не отвечают."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na elimu isiyonufaisha, na kutokana na moyo usio nyenyekea, na kutokana na nafsi isiyo shiba, na kutokana na dua isiyokubaliwa."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Faydasız ilimden, huşu duymayan kalpten, doymayan nefisten ve icabet edilmeyen duadan Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں ایسے علم سے جو نفع نہ دے، اور ایسے دل سے جو خشوع نہ کرے، اور ایسے نفس سے جو سیر نہ ہو، اور ایسی دعا سے جو قبول نہ ہو۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika min ʿilmin lā yanfaʿ, wa min qalbin lā yakhshaʿ, wa min nafsin lā tashbaʿ, wa min daʿwatin lā yustajābu lahā"
+  },
+  "entry_015": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ وَالْهَرَمِ وَالْمَغْرَمِ وَالْمَأْثَمِ",
+    "category_id": "family_social",
+    "id": "manners_15",
+    "repeat": 1,
+    "source": "Bukhari 6369 (Seeking refuge from laziness and moral/financial burdens)",
+    "subcategory_id": "manners",
+    "tag": "greetings_thanking_sneezing",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الكسل والهرم والمغرم والمأثم"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই অলসতা থেকে, বার্ধক্য থেকে, ঋণ থেকে এবং পাপ থেকে।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from laziness, and from extreme old age, and from debt, and from sin."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از تنبلی و پیری و بدهکاری و گناه."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la paresse, la vieillesse (extrême), les dettes et le péché."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ सुस्ती से, और बुढ़ापे से, और कर्ज़ से, और गुनाह से।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan, dari pikun (umur tua yang sangat), dari hutang, dan dari dosa."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan, dan dari nyanyuk (usia tua yang sangat), dari hutang, dan dari dosa."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от лени, и от дряхлости, и от долгов, и от греха."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na uvivu, na uzee uliokithiri, na deni, na dhambi."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Tembellikten, ihtiyarlıktan (kötü yaşlılıktan), borçtan ve günahtan Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں سستی سے، اور بڑھاپے سے، اور قرض سے، اور گناہ سے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-kasali wal-haram, wal-maghrami wal-maʾtham"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "enabled": true,
+    "goal_type": "quran",
+    "label_translations": {
+      "ar": "اقْرَأِ الْقُرْآنَ لِمُدَّةِ عَشْرِ دَقَائِقَ",
+      "bn": "১০ মিনিট কুরআন পড়ুন",
+      "en": "Read Quran for 10 minutes",
+      "fa": "ده دقیقه قرآن بخوانید",
+      "fr": "Lire le Coran pendant 10 minutes",
+      "hi": "10 मिनट कुरान पढ़ें",
+      "id": "Baca Al-Quran selama 10 menit",
+      "ms": "Baca Al-Quran selama 10 minit",
+      "ru": "Читать Коран 10 минут",
+      "sw": "Soma Qurani kwa dakika 10",
+      "tr": "10 dakika Kuran oku",
+      "ur": "دس منٹ قرآن پڑھیں"
+    },
+    "min_time": 10,
+    "unit": "minutes"
+  },
+  "entry_002": {
+    "enabled": true,
+    "goal_type": "prayer",
+    "label_translations": {
+      "ar": "أَتِمَّ الصَّلَوَاتِ الْخَمْسَ الْيَوْمِيَّةَ",
+      "bn": "দৈনিক ৫ ওয়াক্ত নামাজ সম্পূর্ণ করুন",
+      "en": "Complete all 5 daily prayers",
+      "fa": "پنج نماز روزانه را کامل کنید",
+      "fr": "Accomplir les 5 prières quotidiennes",
+      "hi": "5 दैनिक नमाज़ पूरी करें",
+      "id": "Lengkapi 5 shalat harian",
+      "ms": "Lengkapkan 5 solat harian",
+      "ru": "Совершить все 5 ежедневных молитв",
+      "sw": "Timiza maombi 5 ya kila siku",
+      "tr": "5 vakit namazını tamamla",
+      "ur": "پانچ وقت کی نماز مکمل کریں"
+    },
+    "min_time": 15,
+    "unit": "minutes"
+  },
+  "entry_003": {
+    "enabled": true,
+    "goal_type": "dhikr",
+    "label_translations": {
+      "ar": "خَمْسُ دَقَائِقَ مِنْ ذِكْرِ اللَّهِ",
+      "bn": "৫ মিনিট আল্লাহর জিকির",
+      "en": "5 minutes of dhikr remembrance",
+      "fa": "پنج دقیقه ذکر خدا",
+      "fr": "5 minutes de dhikr (invocation)",
+      "hi": "5 मिनट जिक्र (अल्लाह का स्मरण)",
+      "id": "5 menit berdzikir mengingat Allah",
+      "ms": "5 minit berzikir mengingati Allah",
+      "ru": "5 минут поминания Аллаха (зикр)",
+      "sw": "Dakika 5 za kumkumbuka Mwenyezi Mungu",
+      "tr": "5 dakika zikir yap",
+      "ur": "پانچ منٹ ذکر الٰہی"
+    },
+    "min_time": 5,
+    "unit": "minutes"
+  },
+  "entry_004": {
+    "enabled": true,
+    "goal_type": "dua",
+    "label_translations": {
+      "ar": "ادْعُ دُعَاءً صَادِقًا لِمُدَّةِ ثَلَاثِ دَقَائِقَ",
+      "bn": "৩ মিনিট আন্তরিক দোয়া করুন",
+      "en": "Make sincere dua for 3 minutes",
+      "fa": "سه دقیقه دعای صمیمانه کنید",
+      "fr": "Faire des invocations sincères pendant 3 minutes",
+      "hi": "3 मिनट सच्चे दिल से दुआ करें",
+      "id": "Berdoa dengan khusyuk selama 3 menit",
+      "ms": "Berdoa dengan ikhlas selama 3 minit",
+      "ru": "Искренне молиться 3 минуты",
+      "sw": "Omba kwa dhati kwa dakika 3",
+      "tr": "3 dakika samimi dua et",
+      "ur": "تین منٹ خلوص سے دعا کریں"
+    },
+    "min_time": 3,
+    "unit": "minutes"
+  },
+  "entry_005": {
+    "enabled": true,
+    "goal_type": "charity",
+    "label_translations": {
+      "ar": "اعْمَلْ عَمَلًا خَيْرِيًّا الْيَوْمَ",
+      "bn": "আজ কোনো দানের কাজ করুন",
+      "en": "Perform an act of charity today",
+      "fa": "امروز کار خیری انجام دهید",
+      "fr": "Accomplir un acte de charité aujourd'hui",
+      "hi": "आज कोई दान का काम करें",
+      "id": "Lakukan amal kebaikan hari ini",
+      "ms": "Lakukan amal kebajikan hari ini",
+      "ru": "Совершить благотворительный поступок сегодня",
+      "sw": "Fanya tendo la hisani leo",
+      "tr": "Bugün bir hayır işi yap",
+      "ur": "آج کوئی نیکی کا کام کریں"
+    },
+    "min_time": 2,
+    "unit": "minutes"
+  }
+}

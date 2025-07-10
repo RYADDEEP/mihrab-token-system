@@ -1,0 +1,485 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "arabic": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ. سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ. اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى. اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ. اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الْأَهْلِ. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+    "category_id": "special_pathways",
+    "id": "traveler_1",
+    "repeat": 1,
+    "source": "Muslim 1342 (Du'a for setting out on a journey)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "الله أكبر، الله أكبر، الله أكبر. سبحان الذي سخر لنا هذا وما كنا له مقرنين، وإنا إلى ربنا لمنقلبون. اللهم إنا نسألك في سفرنا هذا البر والتقوى، ومن العمل ما ترضى. اللهم هون علينا سفرنا هذا واطو عنا بعده. اللهم أنت الصاحب في السفر والخليفة في الأهل. اللهم إني أعوذ بك من وعثاء السفر، وكآبة المنظر، وسوء المنقلب في المال والأهل"
+      },
+      "bn": {
+        "meaning": "আল্লাহু আকবার, আল্লাহু আকবার, আল্লাহু আকবার। পবিত্র সেই সত্তা যিনি আমাদের জন্য এটাকে বশীভূত করেছেন, অথচ আমরা এটিকে বশীভূত করতে সক্ষম ছিলাম না। এবং নিশ্চয়ই আমরা আমাদের রবের দিকে প্রত্যাবর্তনকারী। হে আল্লাহ, আমরা আপনার কাছে আমাদের এই সফরে চাই নেকী ও তাকওয়া, এবং এমন আমল যা আপনি পছন্দ করেন। হে আল্লাহ, আমাদের এই সফর সহজ করুন এবং এর দূরত্ব কমিয়ে দিন। হে আল্লাহ, আপনিই সফরে আমাদের সঙ্গী এবং পরিবারে আমাদের অভিভাবক। হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই সফরের কষ্ট থেকে, দুঃখজনক দৃশ্য থেকে এবং ধন-সম্পদ ও পরিবারে মন্দ প্রত্যাবর্তন থেকে।"
+      },
+      "en": {
+        "meaning": "Allah is the greatest, Allah is the greatest, Allah is the greatest. Glory be to Him Who has subjected this (transport) to us, and we could not have subdued it. And verily, to our Lord we are returning. O Allah, we ask You in this journey of ours for righteousness and piety, and for deeds that please You. O Allah, make this journey easy for us and shorten its distance. O Allah, You are our Companion in the journey and the Guardian of our family. O Allah, I seek refuge in You from the hardships of travel, and from the sorrowful sights, and from an evil return in wealth and family."
+      },
+      "fa": {
+        "meaning": "خدا بزرگ‌تر است، خدا بزرگ‌تر است، خدا بزرگ‌تر است. پاک و منزه است کسی که این (وسیله نقلیه) را برای ما رام کرد و ما خود نمی‌توانستیم آن را رام کنیم. و یقیناً به سوی پروردگارمان بازخواهیم گشت. بارالها، در این سفرمان از تو نیکی و پرهیزگاری، و از عمل آنچه را که می‌پسندی، مسألت می‌داریم. بارالها، این سفرمان را بر ما آسان گردان و دوری آن را از ما کوتاه کن. بارالها، تو همنشین در سفر و جانشین در خانواده هستی. بارالها، من به تو پناه می‌برم از سختی‌های سفر، و از منظره دلگیرکننده، و از بازگشت بد در مال و خانواده."
+      },
+      "fr": {
+        "meaning": "Allah est le Plus Grand, Allah est le Plus Grand, Allah est le Plus Grand. Gloire à Celui qui nous a soumis ceci, nous qui n'aurions pu le maîtriser. Et certes, vers notre Seigneur nous retournerons. Ô Allah, nous Te demandons dans ce voyage la piété et la droiture, et des œuvres qui Te plaisent. Ô Allah, facilite-nous ce voyage et écourte-nous sa distance. Ô Allah, Tu es le Compagnon en voyage et le Gardien de notre famille. Ô Allah, je cherche refuge auprès de Toi contre les difficultés du voyage, la vue affligeante, et un mauvais retour dans les biens et la famille."
+      },
+      "hi": {
+        "meaning": "अल्लाह सबसे बड़ा है, अल्लाह सबसे बड़ा है, अल्लाह सबसे बड़ा है। पाक है वह जात जिसने हमारे लिए इसे मुसख़्ख़र कर दिया और हम इसे क़ाबू में लाने वाले न थे। और बेशक हम अपने रब की तरफ़ लौटने वाले हैं। ऐ अल्लाह, हम तुझसे इस सफ़र में नेकी और तक़वा का सवाल करते हैं, और ऐसे अमल का जो तू पसंद करे। ऐ अल्लाह, हम पर यह सफ़र आसान कर दे और इसकी दूरी को कम कर दे। ऐ अल्लाह, तू ही सफ़र में हमारा साथी है और घर वालों का निगहबान है। ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ सफ़र की मुशक्कत से, और दिल दुखाने वाले मंज़र से, और माल और अहल व इयाल में बुरी वापसी से।"
+      },
+      "id": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Maha Suci Tuhan yang telah menundukkan ini (kendaraan) bagi kami, padahal kami tidak mampu menundukkannya. Dan sesungguhnya kami akan kembali kepada Tuhan kami. Ya Allah, kami memohon kepada-Mu dalam perjalanan kami ini kebaikan dan ketakwaan, serta amal yang Engkau ridhai. Ya Allah, mudahkanlah perjalanan kami ini dan dekatkanlah jaraknya bagi kami. Ya Allah, Engkaulah teman dalam perjalanan dan pengganti dalam keluarga. Ya Allah, aku berlindung kepada-Mu dari kesulitan perjalanan, dari pemandangan yang menyedihkan, dan dari kembalinya keadaan yang buruk pada harta dan keluarga."
+      },
+      "ms": {
+        "meaning": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Maha Suci Tuhan yang telah menundukkan ini (kenderaan) bagi kami, padahal kami tidak mampu menundukkannya. Dan sesungguhnya kami akan kembali kepada Tuhan kami. Ya Allah, kami memohon kepada-Mu dalam perjalanan kami ini kebaikan dan ketakwaan, serta amal yang Engkau redhai. Ya Allah, mudahkanlah perjalanan kami ini dan dekatkanlah jaraknya bagi kami. Ya Allah, Engkaulah teman dalam perjalanan dan pengganti dalam keluarga. Ya Allah, aku berlindung kepada-Mu dari kesulitan perjalanan, dari pemandangan yang menyedihkan, dan dari kembalinya keadaan yang buruk pada harta dan keluarga."
+      },
+      "ru": {
+        "meaning": "Аллах Велик, Аллах Велик, Аллах Велик. Пречист Тот, Кто подчинил нам это (средство передвижения), а мы не были в силах овладеть им. И поистине, к нашему Господу мы вернемся. О Аллах, поистине, мы просим у Тебя в этом нашем путешествии благочестия и богобоязненности, и таких деяний, которыми Ты доволен. О Аллах, облегчи нам это наше путешествие и сократи его расстояние. О Аллах, Ты — Спутник в пути и Защитник в семье. О Аллах, поистине, я прибегаю к Тебе от трудностей пути, и от печального зрелища, и от злого возвращения в имуществе и семье."
+      },
+      "sw": {
+        "meaning": "Allah Mkubwa, Allah Mkubwa, Allah Mkubwa. Utukufu ni Kwake Ambaye ametuwezeshea hili (usafiri), na hatukuwa na uwezo wa kulimiliki. Na hakika sisi Kwake Mola wetu tutarejea. Ee Allah, tunakuomba katika safari yetu hii wema na utulivu, na matendo unayoyaridhia. Ee Allah, tuwezeshee safari yetu hii na utufupishie umbali wake. Ee Allah, Wewe ndiye Rafiki katika safari na Mlinzi katika familia. Ee Allah, najikinga Kwako kutokana na ugumu wa safari, na kutokana na mandhari ya huzuni, na kutokana na kurudi vibaya katika mali na familia."
+      },
+      "tr": {
+        "meaning": "Allah en büyüktür, Allah en büyüktür, Allah en büyüktür. Bunu bize boyun eğdiren (taşıtı) münezzehtir, biz buna güç yetiremezdik. Ve şüphesiz biz Rabbimize döneceğiz. Allah'ım! Bu yolculuğumuzda senden iyilik ve takva, hoşnut olacağın ameller isteriz. Allah'ım! Bu yolculuğumuzu bize kolaylaştır ve mesafesini bize kısalt. Allah'ım! Yolculukta arkadaşımız sensin, ailemizde vekilimiz sensin. Allah'ım! Yolculuğun zorluklarından, kötü manzaradan ve mal ve ailede kötü dönüşten sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔ پاک ہے وہ ذات جس نے ہمارے لیے اسے مسخر کر دیا اور ہم اسے قابو میں لانے والے نہ تھے۔ اور بے شک ہم اپنے رب کی طرف لوٹنے والے ہیں۔ اے اللہ، ہم تجھ سے اس سفر میں نیکی اور تقویٰ کا سوال کرتے ہیں، اور ایسے عمل کا جو تو پسند کرے۔ اے اللہ، ہم پر یہ سفر آسان کر دے اور اس کی دوری کو کم کر دے۔ اے اللہ، تو ہی سفر میں ہمارا ساتھی ہے اور گھر والوں کا نگہبان ہے۔ اے اللہ، میں تیری پناہ چاہتا ہوں سفر کی مشقتوں سے، اور دل دکھانے والے منظر سے، اور مال اور اہل و عیال میں بری واپسی سے۔"
+      }
+    },
+    "transliteration": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar. Subḥānal-ladhī sakhkhara lanā hādhā wa mā kunnā lahu muqrinīn, wa innā ilā Rabbinā lamunqalibūn. Allāhumma innā nasʾaluka fī safarinā hādhal-birra wat-taqwā, wa minal-ʿamali mā tarḍā. Allāhumma hawwin ʿalaynā safaranā hādhā waṭwi ʿannā buʿdah. Allāhumma Antaṣ-ṣāḥibu fis-safari wal-khalīfatu fil-ahl. Allāhumma innī aʿūdhu bika min waʿthāʾis-safari, wa kaʾābatil-manẓar, wa sūʾil-munqalabi fil-māli wal-ahl"
+  },
+  "entry_002": {
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "category_id": "special_pathways",
+    "id": "traveler_2",
+    "repeat": 1,
+    "source": "Abu Dawud 5095, Tirmidhi 3426 (Du'a when leaving home, applicable to starting a journey)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "بسم الله توكلت على الله ولا حول ولا قوة إلا بالله"
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে, আমি আল্লাহর উপর ভরসা করলাম, এবং আল্লাহ ব্যতীত কোনো ক্ষমতা ও শক্তি নেই।"
+      },
+      "en": {
+        "meaning": "In the Name of Allah, I have relied upon Allah, and there is no might and no power except with Allah."
+      },
+      "fa": {
+        "meaning": "به نام خدا، بر خدا توکل کردم، و هیچ حول و قوه‌ای نیست مگر به یاری خدا."
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah, je m'en remets à Allah, et il n'y a de force ni de puissance qu'en Allah."
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से, मैंने अल्लाह पर भरोसा किया, और कोई ताक़त व क़ुव्वत नहीं मगर अल्लाह की मदद से।"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya serta kekuatan kecuali dengan pertolongan Allah."
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya serta kekuatan kecuali dengan pertolongan Allah."
+      },
+      "ru": {
+        "meaning": "С именем Аллаха, я уповаю на Аллаха, и нет мощи и силы, кроме как от Аллаха."
+      },
+      "sw": {
+        "meaning": "Kwa Jina la Allah, nimemtegemea Allah, na hapana uwezo wala nguvu isipokuwa kwa Allah."
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla, Allah'a tevekkül ettim. Güç ve kuvvet ancak Allah iledir."
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا، اور کوئی طاقت و قوت نہیں مگر اللہ کی مدد سے۔"
+      }
+    },
+    "transliteration": "Bismillāhi tawakkaltu ʿalallāhi walā ḥawla walā quwwata illā billāh"
+  },
+  "entry_003": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْكَسَلِ وَالْهَرَمِ وَالْمَغْرَمِ وَالْمَأْثَمِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ النَّارِ وَفِتْنَةِ الْقَبْرِ",
+    "category_id": "special_pathways",
+    "id": "traveler_3",
+    "repeat": 1,
+    "source": "Bukhari 6369 (Seeking refuge from laziness, old age, debt, sin, hellfire, and grave trial; general protection during travel and life)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الكسل والهرم والمغرم والمأثم، اللهم إني أعوذ بك من عذاب النار وفتنة القبر"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই অলসতা থেকে, বার্ধক্য থেকে, ঋণ থেকে এবং পাপ থেকে। হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই জাহান্নামের আযাব থেকে এবং কবরের ফিতনা থেকে।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from laziness, and from extreme old age, and from debt, and from sin. O Allah, I seek refuge in You from the punishment of the Fire and the torment of the grave."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از تنبلی و پیری و بدهکاری و گناه. بارالها، من به تو پناه می‌برم از عذاب آتش و فتنه قبر."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la paresse, la vieillesse (extrême), les dettes et le péché. Ô Allah, je cherche refuge auprès de Toi contre le châtiment du Feu et l'épreuve de la tombe."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ सुस्ती से, और बुढ़ापे से, और क़र्ज़ से, और गुनाह से। ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ जहन्नम के अज़ाब से और क़ब्र के फ़ितने से।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan, dari pikun (usia tua yang sangat), dari hutang, dan dari dosa. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari azab api neraka dan fitnah kubur."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan, dan dari nyanyuk (usia tua yang sangat), dari hutang, dan dari dosa. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari azab api neraka dan fitnah kubur."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от лени, и от дряхлости, и от долгов, и от греха. О Аллах, поистине, я прибегаю к Тебе от мучений Ада и от испытания могилы."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na uvivu, na uzee uliokithiri, na deni, na dhambi. Ee Allah, hakika najikinga Kwako kutokana na adhabu ya Moto na fitna ya kaburi."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Tembellikten, ihtiyarlıktan (kötü yaşlılıktan), borçtan ve günahtan Sana sığınırım. Allah'ım! Cehennem azabından ve kabir fitnesinden Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں سستی سے، اور بڑھاپے سے، اور قرض سے، اور گناہ سے۔ اے اللہ، میں تیری پناہ چاہتا ہوں جہنم کے عذاب سے اور قبر کے فتنے سے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-kasali wal-haram, wal-maghrami wal-maʾtham. Allāhumma innī aʿūdhu bika min ʿadhābin-nāri wa fitnatil-qabr"
+  },
+  "entry_004": {
+    "arabic": "اللَّهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ أَنْ نَزِلَّ أَوْ نُضَلَّ أَوْ نَظْلِمَ أَوْ نُظْلَمَ أَوْ نَجْهَلَ أَوْ يُجْهَلَ عَلَيْنَا",
+    "category_id": "special_pathways",
+    "id": "traveler_4",
+    "repeat": 1,
+    "source": "Tirmidhi 3427 (Seeking protection from straying, oppressing, or being oppressed, important for safe travel and conduct)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إنا نعوذ بك من أن نزل أو نضل أو نظلم أو نظلم أو نجهل أو يجهل علينا"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমরা আপনার কাছে আশ্রয় চাই পথভ্রষ্ট হওয়া থেকে বা পথভ্রষ্ট করা থেকে, অন্যায় করা থেকে বা অন্যায় করা থেকে, মূর্খতা করা থেকে বা আমাদের প্রতি মূর্খতা করা থেকে।"
+      },
+      "en": {
+        "meaning": "O Allah, we seek refuge in You from going astray or being led astray, from oppressing or being oppressed, from acting ignorantly or having ignorance acted upon us."
+      },
+      "fa": {
+        "meaning": "بارالها، ما به تو پناه می‌بریم از اینکه بلغزیم یا گمراه شویم، یا ستم کنیم یا مورد ستم واقع شویم، یا نادانی کنیم یا بر ما نادانی شود."
+      },
+      "fr": {
+        "meaning": "Ô Allah, nous cherchons refuge auprès de Toi contre le fait de dévier ou d'être dévié, d'opprimer ou d'être opprimé, d'agir par ignorance ou que l'on agisse avec ignorance envers nous."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हम तेरी पनाह चाहते हैं इस से कि हम फिसलें या गुमराह हों या ज़ुल्म करें या हम पर ज़ुल्म किया जाए या हम जहालत करें या हम पर जहालत की जाए।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya kami berlindung kepada-Mu dari tergelincir atau disesatkan, dari menzalimi atau dizalimi, dari berbuat bodoh atau dibodohi."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya kami berlindung kepada-Mu dari tergelincir atau disesatkan, dari menzalimi atau dizalimi, dari berbuat bodoh atau dibodohi."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, мы прибегаем к Тебе от того, чтобы сбиться или быть сбитыми с пути, от того, чтобы несправедливо поступать или чтобы несправедливо поступали с нами, от того, чтобы совершать невежество или чтобы его совершали по отношению к нам."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika tunajikinga Kwako tusije kuteleza au kupotoshwa, au kudhulumu au kudhulumiwa, au kutenda ujinga au kutendewa ujinga."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Sapmaktan veya saptırılmaktan, zulmetmekten veya zulme uğramaktan, cahillik etmekten veya bize cahillik edilmesinden sana sığınırız."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہم تیری پناہ چاہتے ہیں اس سے کہ ہم پھسلیں یا گمراہ ہوں یا ظلم کریں یا ہم پر ظلم کیا جائے یا ہم جہالت کریں یا ہم پر جہالت کی جائے۔"
+      }
+    },
+    "transliteration": "Allāhumma innā naʿūdhu bika min an nazilla aw nuḍalla aw naẓlima aw nuẓlama aw najhala aw yujhala ʿalaynā"
+  },
+  "entry_005": {
+    "arabic": "سَمِعَ سَامِعٌ بِحَمْدِ اللَّهِ وَحُسْنِ بَلاَئِهِ عَلَيْنَا. رَبَّنَا صَاحِبْنَا وَأَفْضِلْ عَلَيْنَا. عَائِذًا بِاللَّهِ مِنَ النَّارِ",
+    "category_id": "special_pathways",
+    "id": "traveler_5",
+    "repeat": 1,
+    "source": "Muslim 2718 (Du'a when traveling or at night, seeking Allah's companionship and grace)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "سمع سامع بحمد الله وحسن بلائه علينا. ربنا صاحبنا وأفضل علينا. عائذا بالله من النار"
+      },
+      "bn": {
+        "meaning": "কেউ শুনুক আমাদের আল্লাহর প্রশংসা এবং আমাদের প্রতি তাঁর উত্তম পরীক্ষার কথা। হে আমাদের রব, আমাদের সঙ্গী হন এবং আমাদের উপর আপনার অনুগ্রহ বর্ষণ করুন। আমি আল্লাহর কাছে জাহান্নামের আগুন থেকে আশ্রয় চাই।"
+      },
+      "en": {
+        "meaning": "Let a witness hear of our praising Allah for His favors upon us. Our Lord, be our companion and bestow Your grace upon us. Seeking refuge with Allah from the Fire."
+      },
+      "fa": {
+        "meaning": "شنونده‌ای بشنود ستایش خدا را و نیکویی آزمایش او را بر ما. پروردگارا، همراه ما باش و بر ما فضل فرما. به خدا از آتش پناه می‌برم."
+      },
+      "fr": {
+        "meaning": "Qu'un entendant entende notre louange à Allah pour Ses faveurs et Sa belle épreuve sur nous. Notre Seigneur, sois notre compagnon et accorde-nous Ta grâce. Cherchant refuge auprès d'Allah contre le Feu."
+      },
+      "hi": {
+        "meaning": "कोई सुनने वाला सुने अल्लाह की हम्द और उसके नेक एहसानात जो हम पर हैं। ऐ हमारे रब, हमारे साथ रह और हम पर फ़ज़ल फ़रमा। अल्लाह की पनाह में आग से।"
+      },
+      "id": {
+        "meaning": "Semoga seorang pendengar mendengar pujian kami kepada Allah atas kebaikan dan ujian-Nya kepada kami. Ya Tuhan kami, jadilah teman kami dan berilah karunia-Mu kepada kami. Aku berlindung kepada Allah dari api neraka."
+      },
+      "ms": {
+        "meaning": "Semoga seorang pendengar mendengar pujian kami kepada Allah atas kebaikan dan ujian-Nya kepada kami. Ya Tuhan kami, jadilah teman kami dan berilah kurnia-Mu kepada kami. Aku berlindung kepada Allah dari api neraka."
+      },
+      "ru": {
+        "meaning": "Пусть слышащий услышит о нашей хвале Аллаху за Его милости и прекрасные испытания, ниспосланные нам. Господь наш, будь нашим спутником и окажи нам Свою милость. Ищу прибежища у Аллаха от Огня."
+      },
+      "sw": {
+        "meaning": "Asikie msikilizaji sifa za Allah na wema wa majaribio Yake kwetu. Mola wetu, uwe pamoja nasi na utuzidishie fadhila Zako. Najikinga kwa Allah kutokana na Moto."
+      },
+      "tr": {
+        "meaning": "Allah'ın bize verdiği nimetler ve güzel imtihanlar için O'na hamd eden bir dinleyici işitsin. Rabbimiz! Bize arkadaş ol ve üzerimize lütfunu yağdır. Cehennem ateşinden Allah'a sığınırım."
+      },
+      "ur": {
+        "meaning": "کوئی سننے والا سنے اللہ کی حمد اور اس کے نیک احسانات جو ہم پر ہیں۔ اے ہمارے رب، ہمارے ساتھ رہ اور ہم پر فضل فرما۔ اللہ کی پناہ میں آگ سے۔"
+      }
+    },
+    "transliteration": "Samiʿa sāmiʿun biḥamdillāhi wa ḥusni balāʾihī ʿalaynā. Rabbanā ṣāḥibnā wa afḍil ʿalaynā. ʿĀʾidhan billāhi minan-nār"
+  },
+  "entry_006": {
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "category_id": "special_pathways",
+    "id": "traveler_6",
+    "repeat": 3,
+    "source": "Muslim 2709 (Seeking protection from all evils, good for any situation including travel)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "أعوذ بكلمات الله التامات من شر ما خلق"
+      },
+      "bn": {
+        "meaning": "আমি আল্লাহর পরিপূর্ণ বাক্যসমূহের আশ্রয় চাই, তাঁর সৃষ্টির ক্ষতি থেকে।"
+      },
+      "en": {
+        "meaning": "I seek refuge in the perfect words of Allah from the evil of what He has created."
+      },
+      "fa": {
+        "meaning": "پناه می‌برم به کلمات کامل خدا از شر آنچه آفریده است."
+      },
+      "fr": {
+        "meaning": "Je cherche refuge auprès des paroles parfaites d'Allah contre le mal de ce qu'Il a créé."
+      },
+      "hi": {
+        "meaning": "मैं अल्लाह के मुकम्मल कलमात के ज़रिए उसकी पनाह चाहता हूँ हर उस चीज़ के शर से जो उसने पैदा की।"
+      },
+      "id": {
+        "meaning": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan."
+      },
+      "ms": {
+        "meaning": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan."
+      },
+      "ru": {
+        "meaning": "Я прибегаю к совершенным словам Аллаха от зла того, что Он создал."
+      },
+      "sw": {
+        "meaning": "Najikinga kwa maneno kamili ya Allah kutokana na shari ya alichokiumba."
+      },
+      "tr": {
+        "meaning": "Allah'ın eksiksiz kelimeleriyle yarattığı şeylerin şerrinden Allah'a sığınırım."
+      },
+      "ur": {
+        "meaning": "میں اللہ کے مکمل کلمات کے ذریعے اس کی پناہ چاہتا ہوں ہر اس چیز کے شر سے جو اس نے پیدا کی۔"
+      }
+    },
+    "transliteration": "Aʿūdhu bikalimātillāhit-tāmmāti min sharri mā khalaq"
+  },
+  "entry_007": {
+    "arabic": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الْأَرَضِينَ السَّبْعِ وَمَا أَقْلَلْنَ، وَرَبَّ الشَّيَاطِينِ وَمَا أَضْلَلْنَ، كُنْ لِي جَارًا مِنْ شَرِّ خَلْقِكَ كُلِّهِمْ جَمِيعًا أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ أَنْ يَطْغَى، عَزَّ جَارُكَ وَجَلَّ ثَنَاؤُكَ وَلَا إِلَهَ غَيْرُكَ",
+    "category_id": "special_pathways",
+    "id": "traveler_7",
+    "repeat": 1,
+    "source": "Hisnul Muslim #98 (Du'a when stopping for rest during travel)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم رب السماوات السبع وما أظللن، ورب الأرضين السبع وما أقللن، ورب الشياطين وما أضللن، كن لي جارا من شر خلقك كلهم جميعا أن يفرط علي أحد منهم أو أن يطغى، عز جارك وجل ثناؤك ولا إله غيرك"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, হে সাত আসমানের প্রতিপালক এবং যা কিছু সে আচ্ছাদিত করেছে, এবং হে সাত যমিনের প্রতিপালক এবং যা কিছু সে বহন করেছে, এবং হে শয়তানদের প্রতিপালক এবং যা কিছু তারা পথভ্রষ্ট করেছে, আপনি আমার জন্য আপনার সমস্ত সৃষ্টির অনিষ্ট থেকে রক্ষাকারী হোন, যাতে তাদের কেউ আমার উপর বাড়াবাড়ি না করে অথবা সীমালঙ্ঘন না করে। আপনার আশ্রয় শক্তিশালী, আপনার প্রশংসা মহান এবং আপনি ব্যতীত কোন ইলাহ নেই।"
+      },
+      "en": {
+        "meaning": "O Allah, Lord of the seven heavens and what they overshadow, and Lord of the seven earths and what they carry, and Lord of the devils and what they mislead, be for me a protector from the evil of all Your creation, lest any of them should transgress against me or oppress me. Mighty is Your protection, glorious is Your praise, and there is no god but You."
+      },
+      "fa": {
+        "meaning": "بارالها، ای پروردگار هفت آسمان و آنچه بر آن سایه افکنده‌اند، و ای پروردگار هفت زمین و آنچه را حمل کرده‌اند، و ای پروردگار شیاطین و آنچه گمراه کرده‌اند، برای من پناهی باش از شر تمام مخلوقاتت، تا مبادا هیچ یک از آنها بر من تعدی یا طغیان کند. پناهت عزیز و ستایشت بزرگ است و معبودی جز تو نیست."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur des sept cieux et de ce qu'ils couvrent, et Seigneur des sept terres et de ce qu'elles portent, et Seigneur des diables et de ce qu'ils égarent, sois pour moi un protecteur contre le mal de toutes Tes créatures, de peur qu'aucun d'eux ne m'attaque ou ne me tyrannise. Ta protection est puissante, Ta louange est majestueuse, et il n'y a de divinité que Toi."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, सात आसमानों के रब और जो कुछ उन्होंने साये में लिया है, और सात ज़मीनों के रब और जो कुछ उन्होंने उठाया है, और शैतानों के रब और जो कुछ उन्होंने गुमराह किया है, तू मेरे लिए अपनी तमाम मखलूक़ के शर से पनाहगाह बन जा, कि उनमें से कोई मुझ पर ज़्यादती करे या सरकशी कर। तेरी पनाह क़वी है और तेरी तारीफ़ अज़ीम है, और तेरे सिवा कोई माबूद नहीं।"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan tujuh langit dan apa yang dinaunginya, Tuhan tujuh bumi dan apa yang dibawanya, dan Tuhan para setan dan apa yang mereka sesatkan, jadikanlah Engkau pelindung bagiku dari kejahatan seluruh ciptaan-Mu, agar tidak ada seorang pun di antara mereka yang melampaui batas terhadapku atau menzalimiku. Maha Perkasa perlindungan-Mu, Maha Agung pujian-Mu, dan tiada Tuhan selain Engkau."
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan tujuh langit dan apa yang dinaunginya, Tuhan tujuh bumi dan apa yang dibawanya, dan Tuhan syaitan-syaitan dan apa yang mereka sesatkan, jadikanlah Engkau pelindung bagiku dari kejahatan seluruh ciptaan-Mu, agar tidak ada seorang pun di antara mereka yang melampaui batas terhadapku atau menzalimiku. Maha Perkasa perlindungan-Mu, Maha Agung pujian-Mu, dan tiada Tuhan melainkan Engkau."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь семи небес и того, что они покрывают тенью, и Господь семи земель и того, что они несут, и Господь шайтанов и того, что они вводят в заблуждение, будь для меня защитником от зла всех Твоих творений, чтобы никто из них не посягнул на меня или не угнетал меня. Могущественна Твоя защита, велика Твоя хвала, и нет божества, кроме Тебя."
+      },
+      "sw": {
+        "meaning": "Ee Allah, Mola wa mbingu saba na yale yanayofunikwa nazo, na Mola wa ardhi saba na yale yanayobeba, na Mola wa mashetani na yale wanayoyapotosha, kuwa kwangu mlinzi kutokana na shari ya viumbe vyako vyote, asije yeyote kati yao kunivuka mipaka au kunidhulumu. Ulinzi wako una nguvu, sifa zako ni tukufu, na hapana Mungu isipokuwa Wewe."
+      },
+      "tr": {
+        "meaning": "Ey yedi kat semanın ve gölgelendirdiği her şeyin Rabbi! Ey yedi kat yerin ve taşıdığı her şeyin Rabbi! Ey şeytanların ve saptırdıkları her şeyin Rabbi! Yaratıklarının hepsinin şerrinden bana bir koruyucu ol ki, onlardan hiçbiri bana saldırmasın veya azgınlık etmesin. Koruman yücedir, övgün büyüktür ve senden başka ilah yoktur."
+      },
+      "ur": {
+        "meaning": "اے اللہ، سات آسمانوں کے رب اور جو کچھ انہوں نے سائے میں لیا ہے، اور سات زمینوں کے رب اور جو کچھ انہوں نے اٹھایا ہے، اور شیطانوں کے رب اور جو کچھ انہوں نے گمراہ کیا ہے، تو میرے لیے اپنے تمام مخلوق کے شر سے پناہ گاہ بن جا، کہ ان میں سے کوئی مجھ پر زیادتی کرے یا سرکشی کرے۔ تیری پناہ قوی ہے اور تیری تعریف عظیم ہے، اور تیرے سوا کوئی معبود نہیں۔"
+      }
+    },
+    "transliteration": "Allāhumma Rabbas-samāwātis-sabʿi wa mā aẓlalna, wa Rabbil-araḍīnas-sabʿi wa mā aqlalna, wa Rabbash-shayāṭīni wa mā aḍlalna, kun lī jāran min sharri khalqika kullihim jamīʿan an yafruṭa ʿalayya aḥadun minhum aw an yaṭghā, ʿazza jāruka wa jalla thanāʾuka wa lā ilāha ghayruk"
+  },
+  "entry_008": {
+    "arabic": "آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
+    "category_id": "special_pathways",
+    "id": "traveler_8",
+    "repeat": 1,
+    "source": "Muslim 1342 (Du'a upon returning from travel)",
+    "subcategory_id": "travelers_compass",
+    "tag": "spiritual_travel",
+    "translations": {
+      "ar": {
+        "meaning": "آيبون تائبون عابدون لربنا حامدون"
+      },
+      "bn": {
+        "meaning": "আমরা প্রত্যাবর্তনকারী, তওবাকারী, ইবাদতকারী, আমাদের রবের প্রশংসা করছি।"
+      },
+      "en": {
+        "meaning": "We are returning, repenting, worshipping, and praising our Lord."
+      },
+      "fa": {
+        "meaning": "بازگردندگان، توبه‌کنندگان، عبادت‌کنندگان، پروردگارمان را حمد کنندگان."
+      },
+      "fr": {
+        "meaning": "Nous revenons, nous nous repentons, nous adorons et nous louons notre Seigneur."
+      },
+      "hi": {
+        "meaning": "हम लौट रहे हैं, तौबा कर रहे हैं, इबादत कर रहे हैं, अपने रब की हम्द कर रहे हैं।"
+      },
+      "id": {
+        "meaning": "Kami kembali, bertobat, beribadah, dan memuji Tuhan kami."
+      },
+      "ms": {
+        "meaning": "Kami kembali, bertaubat, beribadah, dan memuji Tuhan kami."
+      },
+      "ru": {
+        "meaning": "Мы возвращаемся, кающиеся, поклоняющиеся и восхваляющие нашего Господа."
+      },
+      "sw": {
+        "meaning": "Tunarejea, tukitubu, tukiabudu, tukimsifu Mola wetu."
+      },
+      "tr": {
+        "meaning": "Dönüyoruz, tövbe ediyoruz, ibadet ediyoruz ve Rabbimize hamd ediyoruz."
+      },
+      "ur": {
+        "meaning": "ہم لوٹنے والے، توبہ کرنے والے، عبادت کرنے والے، اپنے رب کی حمد کرنے والے ہیں۔"
+      }
+    },
+    "transliteration": "Āyibūna tāʾibūna ʿābidūna liRabbinā ḥāmidūn"
+  },
+  "entry_009": {
+    "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هٰذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هٰذَا وَاطْوِ عَنَّا بُعْدَهُ ...",
+    "category_id": "special_pathways",
+    "id": "traveler_9",
+    "repeat": 1,
+    "source": "Ṣaḥīḥ Muslim 1342",
+    "subcategory_id": "spiritual_travel",
+    "tag": "journey_start",
+    "translations": {
+      "ar": {
+        "meaning": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هٰذَا ..."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! এই সফরে আমরা তোমার নিকট তাকওয়া ও তোমার সন্তুষ্টি অর্জনকারী আমল প্রার্থনা করছি…"
+      },
+      "en": {
+        "meaning": "O Allah, we ask You on this journey for piety, fear of You and deeds that please You…"
+      },
+      "fa": {
+        "meaning": "خدایا! در این سفر از تو پرهیزگاری و اعمالی که موجب رضایت توست می‌خواهیم…"
+      },
+      "fr": {
+        "meaning": "Ô Allah, nous Te demandons dans ce voyage la piété, la crainte de Toi et les œuvres qui Te satisfont…"
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! इस सफ़र में हम तुझसे तक़वा और ऐसे कर्म माँगते हैं जो तुझे प्रसन्न करें…"
+      },
+      "id": {
+        "meaning": "Ya Allah, pada safar ini kami memohon kepada-Mu ketakwaan dan amal yang Engkau ridhai…"
+      },
+      "ms": {
+        "meaning": "Ya Allah, dalam perjalanan ini kami memohon kepada-Mu ketakwaan dan amalan yang Engkau redai…"
+      },
+      "ru": {
+        "meaning": "О Аллах, в этом путешествии мы просим у Тебя богобоязненности и деяний, которыми Ты доволен…"
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, katika safari hii tunakuomba uchamngu na matendo unayoridhia…"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Bu seferimizde Senden takva, Senin razı olacağın ameller isteriz…"
+      },
+      "ur": {
+        "meaning": "اے اللہ! اس سفر میں ہم تجھ سے تقویٰ اور وہ اعمال طلب کرتے ہیں جو تجھے راضی کریں…"
+      }
+    },
+    "transliteration": "Allāhumma innā nasʾaluka fī safarinā hādhā al-birra wa-t-taqwā, wa mina l-ʿamali mā tarḍā..."
+  },
+  "entry_010": {
+    "arabic": "آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
+    "category_id": "special_pathways",
+    "id": "traveler_10",
+    "repeat": 1,
+    "source": "Ṣaḥīḥ Muslim 1342",
+    "subcategory_id": "spiritual_travel",
+    "tag": "return_home",
+    "translations": {
+      "ar": {
+        "meaning": "آيِبُونَ تَائِبُونَ عَابِدُونَ ..."
+      },
+      "bn": {
+        "meaning": "আমরা তওবা কারী, ইবাদতকারী এবং আমাদের রবের প্রশংসাকারী অবস্থায় ফিরছি।"
+      },
+      "en": {
+        "meaning": "We return repentant, worshipping and praising our Lord."
+      },
+      "fa": {
+        "meaning": "بازگشت‌کنندگان توبه‌کار، عبادت‌کننده و ستایشگر پروردگارمان هستیم."
+      },
+      "fr": {
+        "meaning": "Nous revenons repentants, adorateurs, louant notre Seigneur."
+      },
+      "hi": {
+        "meaning": "हम लौट रहे हैं, तौबा करने वाले, इबादत करने वाले और अपने रब की तारीफ़ करने वाले।"
+      },
+      "id": {
+        "meaning": "Kami kembali dalam keadaan bertobat, beribadah dan memuji Tuhan kami."
+      },
+      "ms": {
+        "meaning": "Kami kembali bertaubat, beribadah dan memuji Tuhan kami."
+      },
+      "ru": {
+        "meaning": "Мы возвращаемся кающимися, поклоняющимися и восхваляющими нашего Господа."
+      },
+      "sw": {
+        "meaning": "Tunarudi kwa kutubu, kumuabudu na kumsifu Mola wetu."
+      },
+      "tr": {
+        "meaning": "Dönüyoruz; tövbekâr, ibadet eden, Rabbimizi hamd ile anan kimseler olarak."
+      },
+      "ur": {
+        "meaning": "ہم تائب، عبادت گزار اور اپنے رب کی حمد کرتے ہوئے لوٹ رہے ہیں۔"
+      }
+    },
+    "transliteration": "Āyibūna tāʾibūna ʿābidūna li-rabbinā ḥāmidūn."
+  }
+}

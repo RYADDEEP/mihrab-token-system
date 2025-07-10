@@ -1,0 +1,659 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "03-themes": {
+    "cream-beige": {
+      "action.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.action.primary}"
+      },
+      "background.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.primary}"
+      },
+      "background.elevated": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.elevated}"
+      },
+      "background.surface": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.surface}"
+      },
+      "border.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.border.default}"
+      },
+      "surface.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.primary}"
+      },
+      "surface.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.secondary}"
+      },
+      "text.disabled": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.disabled}"
+      },
+      "text.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.primary}"
+      },
+      "text.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.secondary}"
+      }
+    },
+    "mihrab-green": {
+      "action.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.action.primary}"
+      },
+      "background.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.primary}"
+      },
+      "background.elevated": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.elevated}"
+      },
+      "background.surface": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.surface}"
+      },
+      "border.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.border.default}"
+      },
+      "surface.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.primary}"
+      },
+      "surface.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.secondary}"
+      },
+      "text.disabled": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.disabled}"
+      },
+      "text.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.primary}"
+      },
+      "text.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.secondary}"
+      }
+    },
+    "pale-neutral": {
+      "action.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.action.primary}"
+      },
+      "background.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.primary}"
+      },
+      "background.elevated": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.elevated}"
+      },
+      "background.surface": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.surface}"
+      },
+      "border.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.border.default}"
+      },
+      "surface.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.primary}"
+      },
+      "surface.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.secondary}"
+      },
+      "text.disabled": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.disabled}"
+      },
+      "text.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.primary}"
+      },
+      "text.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.secondary}"
+      }
+    },
+    "soft-light": {
+      "action.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.action.primary}"
+      },
+      "background.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.primary}"
+      },
+      "background.elevated": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.elevated}"
+      },
+      "background.surface": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.surface}"
+      },
+      "border.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.border.default}"
+      },
+      "surface.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.primary}"
+      },
+      "surface.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.secondary}"
+      },
+      "text.disabled": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.disabled}"
+      },
+      "text.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.primary}"
+      },
+      "text.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.secondary}"
+      }
+    },
+    "warm-light": {
+      "action.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.action.primary}"
+      },
+      "background.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.primary}"
+      },
+      "background.elevated": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.elevated}"
+      },
+      "background.surface": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.background.surface}"
+      },
+      "border.default": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.border.default}"
+      },
+      "surface.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.primary}"
+      },
+      "surface.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.surface.secondary}"
+      },
+      "text.disabled": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.disabled}"
+      },
+      "text.primary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.primary}"
+      },
+      "text.secondary": {
+        "type": "color",
+        "value": "{02-semantic/base.colors.text.secondary}"
+      }
+    }
+  },
+  "03-themes/dark": {
+    "colors": {
+      "background": {
+        "default": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.900}"
+        },
+        "elevated": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.800}"
+        },
+        "overlay": {
+          "type": "color",
+          "value": "rgba(0, 0, 0, 0.7)"
+        },
+        "prayer": {
+          "asr": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.asrDark}"
+          },
+          "dhuhr": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.dhuhrDark}"
+          },
+          "fajr": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.fajrDark}"
+          },
+          "isha": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.ishaDark}"
+          },
+          "maghrib": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.maghribDark}"
+          }
+        }
+      },
+      "prayer": {
+        "active": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.primary.800}"
+        },
+        "passed": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.800}"
+        },
+        "upcoming": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.primary.900}"
+        }
+      },
+      "surface": {
+        "primary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.800}"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.700}"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.600}"
+        }
+      },
+      "text": {
+        "primary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.50}"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.300}"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.400}"
+        }
+      }
+    }
+  },
+  "03-themes/dawn": {
+    "colors": {
+      "accent": {
+        "primary": {
+          "type": "color",
+          "value": "#FF8C00"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#FFB347"
+        }
+      },
+      "background": {
+        "default": {
+          "description": "Fajr dawn sky",
+          "type": "color",
+          "value": "#FFF5E6"
+        },
+        "elevated": {
+          "type": "color",
+          "value": "#FFFAF0"
+        },
+        "gradient": {
+          "type": "other",
+          "value": "linear-gradient(180deg, #FFE4B5 0%, #FFF5E6 50%, #FFFAF0 100%)"
+        },
+        "overlay": {
+          "type": "color",
+          "value": "rgba(255, 140, 0, 0.1)"
+        }
+      },
+      "surface": {
+        "primary": {
+          "type": "color",
+          "value": "#FFFAF0"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#FFE4B5"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#FFDAB9"
+        }
+      },
+      "text": {
+        "primary": {
+          "type": "color",
+          "value": "#5D4037"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#795548"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#8D6E63"
+        }
+      }
+    }
+  },
+  "03-themes/dusk": {
+    "colors": {
+      "accent": {
+        "primary": {
+          "type": "color",
+          "value": "#FF6B6B"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#FFB347"
+        }
+      },
+      "background": {
+        "default": {
+          "description": "Maghrib twilight",
+          "type": "color",
+          "value": "#1A237E"
+        },
+        "elevated": {
+          "type": "color",
+          "value": "#283593"
+        },
+        "gradient": {
+          "type": "other",
+          "value": "linear-gradient(180deg, #FF6B6B 0%, #4A148C 50%, #1A237E 100%)"
+        },
+        "overlay": {
+          "type": "color",
+          "value": "rgba(255, 107, 107, 0.2)"
+        }
+      },
+      "surface": {
+        "primary": {
+          "type": "color",
+          "value": "#283593"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#3949AB"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#5C6BC0"
+        }
+      },
+      "text": {
+        "primary": {
+          "type": "color",
+          "value": "#FFFFFF"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#B3E5FC"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#81D4FA"
+        }
+      }
+    }
+  },
+  "03-themes/hajj": {
+    "colors": {
+      "accent": {
+        "primary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.hajj.primary}"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.hajj.secondary}"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.hajj.mount}"
+        }
+      },
+      "background": {
+        "default": {
+          "description": "Ihram white",
+          "type": "color",
+          "value": "#FFFFFF"
+        },
+        "elevated": {
+          "type": "color",
+          "value": "#FAFAFA"
+        },
+        "overlay": {
+          "type": "color",
+          "value": "rgba(0, 0, 0, 0.3)"
+        },
+        "pattern": {
+          "type": "other",
+          "value": "url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9ImthYWJhIiB3aWR0aD0iODAiIGhlaWdodD0iODAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyMCIgeTE9IjMwIiB4Mj0iNjAiIHkyPSIzMCIgc3Ryb2tlPSIjRDRBRjM3IiBzdHJva2Utd2lkdGg9IjMiLz48L3BhdHRlcm4+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgja2FhYmEpIiAvPjwvc3ZnPg==')"
+        }
+      },
+      "special": {
+        "arafat": {
+          "type": "color",
+          "value": "#8B7355"
+        },
+        "marwa": {
+          "type": "color",
+          "value": "#228B22"
+        },
+        "mina": {
+          "type": "color",
+          "value": "#DC143C"
+        },
+        "muzdalifah": {
+          "type": "color",
+          "value": "#696969"
+        },
+        "safa": {
+          "type": "color",
+          "value": "#228B22"
+        },
+        "tawaf": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "surface": {
+        "primary": {
+          "type": "color",
+          "value": "#FAFAFA"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#F5F5F5"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#EEEEEE"
+        }
+      },
+      "text": {
+        "primary": {
+          "type": "color",
+          "value": "#000000"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#424242"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#616161"
+        }
+      }
+    }
+  },
+  "03-themes/light": {
+    "colors": {
+      "background": {
+        "default": {
+          "type": "color",
+          "value": "{02-semantic/base.colors.background.primary}"
+        },
+        "elevated": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.0}"
+        },
+        "overlay": {
+          "type": "color",
+          "value": "rgba(0, 0, 0, 0.5)"
+        },
+        "prayer": {
+          "asr": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.asrLight}"
+          },
+          "dhuhr": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.dhuhrLight}"
+          },
+          "fajr": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.fajrLight}"
+          },
+          "isha": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.ishaLight}"
+          },
+          "maghrib": {
+            "type": "color",
+            "value": "{01-core/primitives.colors.prayer.maghribLight}"
+          }
+        }
+      },
+      "prayer": {
+        "active": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.primary.100}"
+        },
+        "passed": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.100}"
+        },
+        "upcoming": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.primary.50}"
+        }
+      },
+      "surface": {
+        "primary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.0}"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.50}"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.neutral.100}"
+        }
+      }
+    }
+  },
+  "03-themes/ramadan": {
+    "colors": {
+      "accent": {
+        "primary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.ramadan.secondary}"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.ramadan.star}"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "{01-core/primitives.colors.ramadan.moon}"
+        }
+      },
+      "background": {
+        "default": {
+          "description": "Night purple",
+          "type": "color",
+          "value": "#1A0F2E"
+        },
+        "elevated": {
+          "type": "color",
+          "value": "#2D1B4E"
+        },
+        "overlay": {
+          "type": "color",
+          "value": "rgba(212, 175, 55, 0.2)"
+        },
+        "pattern": {
+          "type": "other",
+          "value": "url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9InN0YXIiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHBhdGggZD0iTTMwLDEwIEwzNSwyNSBMNTAsMjUgTDM3LjUsMzUgTDQyLjUsNTAgTDMwLDQwIEwxNy41LDUwIEwyMi41LDM1IEwxMCwyNSBMMjUsMjUgWiIgZmlsbD0iI0Q0QUYzNyIgb3BhY2l0eT0iMC4zIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI3N0YXIpIiAvPjwvc3ZnPg==')"
+        }
+      },
+      "special": {
+        "iftar": {
+          "type": "color",
+          "value": "#8B4513"
+        },
+        "suhoor": {
+          "type": "color",
+          "value": "#4682B4"
+        },
+        "tarawih": {
+          "type": "color",
+          "value": "#228B22"
+        }
+      },
+      "surface": {
+        "primary": {
+          "type": "color",
+          "value": "#2D1B4E"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#3F2863"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#523578"
+        }
+      },
+      "text": {
+        "primary": {
+          "type": "color",
+          "value": "#FFFFFF"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "#D4AF37"
+        },
+        "tertiary": {
+          "type": "color",
+          "value": "#F4E4BC"
+        }
+      }
+    }
+  }
+}

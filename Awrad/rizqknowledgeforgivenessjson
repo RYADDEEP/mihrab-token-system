@@ -1,0 +1,725 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "category_id": "spiritual_growth",
+    "id": "growth_1",
+    "repeat": 1,
+    "source": "Quran 20:114",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "رب زدني علما"
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আমাকে জ্ঞানে বৃদ্ধি করুন।"
+      },
+      "en": {
+        "meaning": "My Lord, increase me in knowledge."
+      },
+      "fa": {
+        "meaning": "پروردگارا، بر دانشم بیفزا."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, augmente-moi en connaissance."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मुझे इल्म में इज़ाफ़ा अता फ़रमा।"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan."
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan."
+      },
+      "ru": {
+        "meaning": "Господь мой! Умножь мои знания."
+      },
+      "sw": {
+        "meaning": "Mola wangu, niongezee elimu."
+      },
+      "tr": {
+        "meaning": "Rabbim, ilmimi artır."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، مجھے علم میں اضافہ فرما۔"
+      }
+    },
+    "transliteration": "Rabbi zidnī ʿilmā"
+  },
+  "entry_002": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلاً مُتَقَبَّلاً",
+    "category_id": "spiritual_growth",
+    "id": "growth_2",
+    "repeat": 1,
+    "source": "Ibn Majah 925, Hisnul Muslim #82",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك علما نافعا، ورزقا طيبا، وعملا متقبلا"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুলযোগ্য আমল প্রার্থনা করি।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو علم نافع، روزی پاک، و عمل مقبول می‌طلبم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande une science utile, une bonne subsistance et une œuvre acceptée."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे नफ़ा बख़्श इल्म, पाकीज़ा रिज़्क़, और मक़बूल अमल का सवाल करता हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amalan yang diterima."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя полезного знания, благого удела и принимаемого деяния."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nakuomba elimu yenye manufaa, riziki njema, na amali inayokubalika."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden faydalı ilim, helal rızık ve makbul amel dilerim."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے نفع بخش علم، پاکیزہ رزق، اور مقبول عمل کا سوال کرتا ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾaluka ʿilman nāfiʿan, wa rizqan ṭayyiban, wa ʿamalan mutaqabbalā"
+  },
+  "entry_003": {
+    "arabic": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+    "category_id": "spiritual_growth",
+    "id": "growth_3",
+    "repeat": 1,
+    "source": "Quran 3:147",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "ربنا اغفر لنا ذنوبنا وإسرافنا في أمرنا وثبت أقدامنا وانصرنا على القوم الكافرين"
+      },
+      "bn": {
+        "meaning": "হে আমাদের প্রতিপালক, আমাদের গুনাহসমূহ মাফ করে দিন এবং আমাদের কাজে আমাদের বাড়াবাড়ি ক্ষমা করুন, আমাদের পদসমূহ সুদৃঢ় করুন এবং কাফের সম্প্রদায়ের বিরুদ্ধে আমাদের সাহায্য করুন।"
+      },
+      "en": {
+        "meaning": "Our Lord, forgive us our sins and our excesses in our affair and plant firmly our feet and give us victory over the disbelieving people."
+      },
+      "fa": {
+        "meaning": "پروردگارا، گناهان ما را و زیاده‌روی‌هایمان را در کارمان ببخشای، و گام‌های ما را استوار بگردان و ما را بر قوم کافر یاری ده."
+      },
+      "fr": {
+        "meaning": "Notre Seigneur, pardonne-nous nos péchés ainsi que nos excès dans nos affaires, affermis nos pas et donne-nous la victoire sur le peuple mécréant."
+      },
+      "hi": {
+        "meaning": "ऐ हमारे रब, हमारे गुनाहों को बख़्श दे और हमारे काम में हमारी ज़्यादतियों को भी, और हमारे क़दमों को साबित रख, और काफ़िर क़ौम पर हमें फ़तह अता फ़रमा।"
+      },
+      "id": {
+        "meaning": "Ya Tuhan kami, ampunilah dosa-dosa kami dan tindakan-tindakan kami yang berlebihan dalam urusan kami, dan teguhkanlah pendirian kami, serta tolonglah kami menghadapi kaum yang kafir."
+      },
+      "ms": {
+        "meaning": "Ya Tuhan kami, ampunilah dosa-dosa kami dan perbuatan kami yang melampaui batas dalam urusan kami, dan teguhkanlah pendirian kami, serta tolonglah kami menghadapi kaum yang kafir."
+      },
+      "ru": {
+        "meaning": "Господь наш! Прости нам наши грехи и излишества в наших делах, укрепи наши стопы и даруй нам победу над неверующими людьми."
+      },
+      "sw": {
+        "meaning": "Mola wetu, tusamehe dhambi zetu na kupita kiasi kwetu katika mambo yetu, na imarisha nyayo zetu, na utupe ushindi dhidi ya watu makafiri."
+      },
+      "tr": {
+        "meaning": "Rabbimiz! Günahlarımızı ve işimizdeki aşırılıklarımızı bize bağışla, ayaklarımızı sağlam bastır ve kafirler topluluğuna karşı bize yardım et."
+      },
+      "ur": {
+        "meaning": "اے ہمارے رب، ہمارے گناہوں کو بخش دے اور ہمارے کام میں ہماری زیادتیوں کو بھی، اور ہمارے قدموں کو ثابت رکھ، اور کافر قوم پر ہمیں فتح عطا فرما۔"
+      }
+    },
+    "transliteration": "Rabbanā ghfir lanā dhunūbanā wa isrāfanā fī amrinā wa thabbit aqdāmanā wanṣurnā ʿalal-qawmil-kāfirīn"
+  },
+  "entry_004": {
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَعَافِنِي، وَارْزُقْنِي",
+    "category_id": "spiritual_growth",
+    "id": "growth_4",
+    "repeat": 1,
+    "source": "Muslim 2697",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم اغفر لي، وارحمني، واهدني، وعافني، وارزقني"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাকে ক্ষমা করুন, আমার প্রতি রহম করুন, আমাকে হেদায়েত দিন, আমাকে নিরাপত্তা দিন এবং আমাকে রিযিক দান করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, forgive me, have mercy on me, guide me, grant me well-being, and provide for me."
+      },
+      "fa": {
+        "meaning": "بارالها، مرا بیامرز، و بر من رحم کن، و هدایتم کن، و عافیتم ده، و روزی‌ام ده."
+      },
+      "fr": {
+        "meaning": "Ô Allah, pardonne-moi, fais-moi miséricorde, guide-moi, accorde-moi le bien-être et pourvois à ma subsistance."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुझे बख़्श दे, मुझ पर रहम फ़रमा, मुझे हिदायत दे, मुझे आफ़ियत दे, और मुझे रिज़्क़ अता फ़रमा।"
+      },
+      "id": {
+        "meaning": "Ya Allah, ampunilah aku, rahmatilah aku, berilah petunjuk kepadaku, berilah kesehatan kepadaku, dan berilah rezeki kepadaku."
+      },
+      "ms": {
+        "meaning": "Ya Allah, ampunilah aku, rahmatilah aku, berilah petunjuk kepadaku, berilah kesihatan kepadaku, dan berilah rezeki kepadaku."
+      },
+      "ru": {
+        "meaning": "О Аллах, прости меня, помилуй меня, веди меня прямым путём, даруй мне благополучие и надели меня уделом."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nisamehe, nirehemu, niongoze, nipe afya, na uniruzuku."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Beni bağışla, bana merhamet et, bana hidayet ver, bana afiyet ver ve bana rızık ver."
+      },
+      "ur": {
+        "meaning": "اے اللہ، مجھے بخش دے، مجھ پر رحم فرما، مجھے ہدایت دے، مجھے عافیت دے، اور مجھے رزق عطا فرما۔"
+      }
+    },
+    "transliteration": "Allāhumma ghfir lī, warḥamnī, wahdinī, wa ʿāfinī, warzuqnī"
+  },
+  "entry_005": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْجُبْنِ وَالْبُخْلِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "category_id": "spiritual_growth",
+    "id": "growth_5",
+    "repeat": 1,
+    "source": "Bukhari 6369, Hisnul Muslim #80",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الهم والحزن، والعجز والكسل، والجبن والبخل، وضلع الدين وغلبة الرجال"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই দুশ্চিন্তা ও মনঃকষ্ট থেকে, অক্ষমতা ও অলসতা থেকে, ভীরুতা ও কৃপণতা থেকে, এবং ঋণের ভার ও মানুষের উপর্যুপরি প্রভাব থেকে।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, cowardice and miserliness, and from being overwhelmed by debt and the domination of men."
+      },
+      "fa": {
+        "meaning": "بارالها، به تو پناه می‌برم از هم و غم، و از ناتوانی و کسالت، و از بزدلی و بخل، و از سنگینی بدهی و چیرگی مردان."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, l'incapacité et la paresse, la lâcheté et l'avarice, et contre le fardeau de la dette et la domination des hommes."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ फ़िक्र और ग़म से, आज़ीज़ से और सुस्ती से, बुज़दिली और बख़ील से, और क़र्ज़ के बोझ और लोगों के ग़लबे से।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegelisahan dan kesedihan, kelemahan dan kemalasan, sifat pengecut dan kikir, dan dari belitan hutang serta penguasaan orang lain."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kebimbangan dan kesedihan, kelemahan dan kemalasan, sifat pengecut dan kikir, dan dari belenggu hutang serta penguasaan orang lain."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Твоей защите от беспокойства и грусти, от неспособности и лени, от трусости и скупости, и от тяжкого бремени долгов и от притеснения людей."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na wasiwasi na huzuni, na kutokana na kutokuwa na uwezo na uvivu, na kutokana na woga na ubahili, na kutokana na uzito wa deni na udhibiti wa watu."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Gam ve kederden, acizlik ve tembellikten, korkaklık ve cimrilikten, borç yükünden ve insanların ezmesinden Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں فکر و غم سے، عاجزی اور سستی سے، بزدلی اور بخل سے، اور قرض کے بوجھ اور لوگوں کے غلبے سے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-hammi wal-ḥazan, wal-ʿajzi wal-kasal, wal-jubni wal-bukhl, wa ḍalaʿid-dayni wa ghalabatir-rijāl"
+  },
+  "entry_006": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+    "category_id": "spiritual_growth",
+    "id": "growth_6",
+    "repeat": 1,
+    "source": "Muslim 2721, Hisnul Muslim #81",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك الهدى والتقى والعفاف والغنى"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে হেদায়েত, তাকওয়া, পবিত্রতা এবং সচ্ছলতা প্রার্থনা করি।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You for guidance, piety, abstinence (from unlawful things), and self-sufficiency."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو هدایت، پرهیزگاری، پاکدامنی و بی‌نیازی می‌طلبم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande la guidée, la piété, la chasteté et l'indépendance."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे हिदायत, तक़वा, इफ़्फ़त और बेनियाज़ी (मालियाती कफ़ायत) का सवाल करता हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Allah, aku memohon kepada-Mu petunjuk, ketakwaan, kehormatan (menjaga diri dari yang haram), dan kekayaan hati (kecukupan)."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, kehormatan (menjaga diri dari perkara haram), dan kekayaan hati (kecukupan)."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя руководства, богобоязненности, целомудрия и богатства (самодостаточности)."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nakuomba uongofu, uchamungu, kujitakasa (na haramu), na utoshelevu."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden hidayet, takva, iffet ve zenginlik dilerim."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے ہدایت، تقویٰ، عفت اور بے نیازی (مالی کفایت) کا سوال کرتا ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾalukal-hudā wat-tuqā wal-ʿafāfa wal-ghinā"
+  },
+  "entry_007": {
+    "arabic": "رَبِّ اغْفِرْ لِي خَطِيئَتِي وَجَهْلِي وَإِسْرَافِي فِي أَمْرِي كُلِّهِ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، اللَّهُمَّ اغْفِرْ لِي خَطَايَايَ وَعَمْدِي وَجَهْلِي وَهَزْلِي وَكُلُّ ذَلِكَ عِنْدِي، اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ وَأَنْتَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "category_id": "spiritual_growth",
+    "id": "growth_7",
+    "repeat": 1,
+    "source": "Bukhari 6398, Muslim 2707",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "رب اغفر لي خطيئتي وجهلي وإسرافي في أمري كله وما أنت أعلم به مني، اللهم اغفر لي خطاياي وعمدي وجهلي وهزلي وكل ذلك عندي، اللهم اغفر لي ما قدمت وما أخرت وما أسررت وما أعلنت أنت المقدم وأنت المؤخر وأنت على كل شيء قدير"
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আমার ভুল, আমার অজ্ঞতা, আমার সমস্ত কাজে আমার বাড়াবাড়ি এবং যা আপনি আমার চেয়ে বেশি জানেন তা ক্ষমা করুন। হে আল্লাহ, আমার ভুলসমূহ, আমার ইচ্ছাকৃত পাপসমূহ, আমার অজ্ঞতা, আমার হাসি-ঠাট্টা, এবং আমার কাছে যা কিছু আছে তা ক্ষমা করুন। হে আল্লাহ, আমার পূর্বেকার কৃতকর্ম এবং পরের কৃতকর্ম, যা গোপন করেছি এবং যা প্রকাশ করেছি, তা ক্ষমা করুন। আপনিই অগ্রবর্তীকারী এবং আপনিই বিলম্বকারী এবং আপনিই সবকিছুর উপর ক্ষমতাবান।"
+      },
+      "en": {
+        "meaning": "My Lord, forgive me my faults, my ignorance, my excesses in all my affairs, and what You know better than I. O Allah, forgive me my mistakes, my intentional sins, my ignorance, my jest, and all that is with me. O Allah, forgive me for what I have sent forth and what I have held back, and what I have concealed and what I have made public. You are the Advancer and You are the Delayer, and You are over all things competent."
+      },
+      "fa": {
+        "meaning": "پروردگارا، خطایم، جهلم، زیاده‌روی‌ام در همه کارهایم، و آنچه تو به آن از من داناتری را بیامرز. بارالها، گناهانم، عمدی‌ام، جهلم، شوخی‌ام، و همه اینها که نزد من است را بیامرز. بارالها، آنچه پیش فرستادم و آنچه به تأخیر انداختم، و آنچه پنهان کردم و آنچه آشکار کردم را بیامرز. تو پیش‌برنده و تو پس‌اندازنده هستی و تو بر هر چیزی توانا هستی."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, pardonne-moi ma faute, mon ignorance, mes excès dans toutes mes affaires, et ce que Tu connais mieux que moi. Ô Allah, pardonne-moi mes erreurs, mes péchés volontaires, mon ignorance, mes plaisanteries, et tout cela est en moi. Ô Allah, pardonne-moi ce que j'ai fait avant et ce que je ferai après, ce que j'ai caché et ce que j'ai divulgué. Tu es Celui qui avance et Tu es Celui qui retarde, et Tu es Omnipotent sur toute chose."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मेरी ग़लती, मेरी नादानी, मेरे तमाम मामलात में मेरी ज़्यादती और जो कुछ तू मुझसे ज़्यादा जानता है, उसे बख़्श दे। ऐ अल्लाह, मेरी ख़ताएँ, मेरा जान बूझकर किया हुआ गुनाह, मेरी नादानी, मेरा मज़ाक़, और ये सब कुछ मुझमें है, उसे बख़्श दे। ऐ अल्लाह, जो मैंने पहले किया और जो बाद में करूँगा, जो मैंने छुपाया और जो ज़ाहिर किया, उसे बख़्श दे। तू ही मुक़द्दम करने वाला है और तू ही मुअख़्ख़िर करने वाला है, और तू हर चीज़ पर क़ादिर है।"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, ampunilah kesalahanku, kebodohanku, perbuatanku yang berlebihan dalam segala urusanku, dan apa yang Engkau lebih mengetahui daripadaku. Ya Allah, ampunilah kesalahanku, kesengajaanku, kebodohanku, gurauanku, dan semua itu ada padaku. Ya Allah, ampunilah apa yang telah aku lakukan dahulu dan apa yang akan aku lakukan kemudian, apa yang aku rahasiakan dan apa yang aku tampakkan. Engkaulah Yang Mendahulukan dan Engkaulah Yang Mengakhirkan, dan Engkau Maha Kuasa atas segala sesuatu."
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, ampunilah kesalahanku, kebodohanku, perbuatanku yang berlebihan dalam segala urusanku, dan apa yang Engkau lebih mengetahui daripadaku. Ya Allah, ampunilah kesalahanku, kesengajaanku, kebodohanku, gurauanku, dan semua itu ada padaku. Ya Allah, ampunilah apa yang telah aku lakukan dahulu dan apa yang akan aku lakukan kemudian, apa yang aku rahsiakan dan apa yang aku nyatakan. Engkaulah Yang Mendahulukan dan Engkaulah Yang Mengakhirkan, dan Engkau Maha Kuasa atas segala sesuatu."
+      },
+      "ru": {
+        "meaning": "Господь мой, прости мне мою ошибку, моё невежество, мою чрезмерность во всех моих делах и то, что Ты знаешь лучше меня. О Аллах, прости мне мои проступки, и мои умышленные (грехи), и моё невежество, и мою шутливость, и всё это есть у меня. О Аллах, прости мне то, что я совершил прежде, и то, что я отложил, и то, что я скрыл, и то, что я совершил явно. Ты — Тот, Кто выдвигает вперёд, и Ты — Тот, Кто откладывает назад, и Ты над каждой вещью Всемогущ."
+      },
+      "sw": {
+        "meaning": "Mola wangu, nisamehe makosa yangu, ujinga wangu, kupita kiasi kwangu katika mambo yangu yote na yale Unayoyajua vyema zaidi kuliko mimi. Ee Allah, nisamehe makosa yangu, makosa yangu ya makusudi, ujinga wangu, mzaha wangu, na yote hayo niliyoyafanya. Ee Allah, nisamehe yale niliyoyatanguliza na yale niliyoyachelewesha, na yale niliyoyaficha na yale niliyoyadhihirisha. Wewe ndiye Unayetanguliza na Wewe ndiye Unayechelewesha, na Wewe una uwezo juu ya kila kitu."
+      },
+      "tr": {
+        "meaning": "Rabbim! Hatalarımı, cahilliğimi, bütün işlerimdeki aşırılıklarımı ve benden daha iyi bildiğin şeyleri bana bağışla. Allah'ım! Günahlarımı, kasıtlı işlediklerimi, bilmeyerek yaptıklarımı, şaka ile yaptıklarımı ve bende olan her şeyi bana bağışla. Allah'ım! Önceki ve sonraki, gizli ve açık tüm günahlarımı bağışla. Sen öne geçirensin ve sen geride bırakansın. Sen her şeye kadirsin."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، میری غلطی، میری نادانی، میرے تمام معاملات میں میری زیادتی اور جو کچھ تو مجھ سے زیادہ جانتا ہے، اسے بخش دے۔ اے اللہ، میری خطائیں، میرا جان بوجھ کر کیا ہوا گناہ، میری نادانی، میرا مذاق، اور یہ سب کچھ مجھ میں ہے، اسے بخش دے۔ اے اللہ، جو میں نے پہلے کیا اور جو بعد میں کروں گا، جو میں نے چھپایا اور جو ظاہر کیا، اسے بخش دے۔ تو ہی مقدم کرنے والا ہے اور تو ہی مؤخر کرنے والا ہے، اور تو ہر چیز پر قادر ہے۔"
+      }
+    },
+    "transliteration": "Rabbi ghfir lī khaṭīʾatī wa jahlī wa isrāfī fī amrī kullihī wa mā Anta aʿlamu bihī minnī, Allāhumma ghfir lī khaṭāyāya wa ʿamdī wa jahlī wa hazlī wa kullu dhālika ʿindī, Allāhumma ghfir lī mā qaddamtu wa mā akhkhartu wa mā asrartu wa mā aʿlantu Antal-Muqaddimu wa Antal-Muʾakhkhiru wa Anta ʿalā kulli shayʾin Qadīr"
+  },
+  "entry_008": {
+    "arabic": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "category_id": "spiritual_growth",
+    "id": "growth_8",
+    "repeat": 1,
+    "source": "Qur’ān 28:24",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "rizq",
+    "translations": {
+      "ar": {
+        "meaning": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ ..."
+      },
+      "bn": {
+        "meaning": "হে আমার রব! আপনি আমার প্রতি যে কল্যাণ নাযিল করবেন, আমি তার মুখাপেক্ষী।"
+      },
+      "en": {
+        "meaning": "My Lord, I am in need of whatever good You send down to me."
+      },
+      "fa": {
+        "meaning": "پروردگارا! من به هر خیری که به سویم نازل کنی نیازمندم."
+      },
+      "fr": {
+        "meaning": "Seigneur, j’ai grand besoin du bien que Tu feras descendre vers moi."
+      },
+      "hi": {
+        "meaning": "मेरे रब! जो भलाई तू मेरे लिए उतारे, मैं उसका ज़रूरतमंद हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, aku benar-benar memerlukan kebaikan apa pun yang Engkau turunkan kepadaku."
+      },
+      "ms": {
+        "meaning": "Tuhanku, sesungguhnya aku sangat memerlukan segala kebaikan yang Engkau turunkan kepadaku."
+      },
+      "ru": {
+        "meaning": "Господь мой, я нуждаюсь в том добре, которое Ты ниспошлёшь мне."
+      },
+      "sw": {
+        "meaning": "Mola wangu, mimi ni mhitaji kwa kheri yoyote utakayoniteremshia."
+      },
+      "tr": {
+        "meaning": "Rabbim! Bana indirdiğin hayra muhtacım."
+      },
+      "ur": {
+        "meaning": "اے میرے رب! تو جو بھلائی میری طرف نازل کرے میں اس کا محتاج ہوں۔"
+      }
+    },
+    "transliteration": "Rabbi innī limā anzalta ilayya min khayr-in faqīr."
+  },
+  "entry_009": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+    "category_id": "spiritual_growth",
+    "id": "growth_9",
+    "repeat": 1,
+    "source": "Tirmidhi 3521, Hisnul Muslim #98",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে দুনিয়া ও আখেরাতে ক্ষমা ও নিরাপত্তা প্রার্থনা করি।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You for pardon and well-being in this world and the Hereafter."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو عفو و عافیت در دنیا و آخرت می‌طلبم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le pardon et le bien-être dans ce monde et dans l'au-delà."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे दुनिया व आख़िरत में माफ़ी और आफ़ियत का सवाल करता हूँ।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ampunan dan kesehatan di dunia dan akhirat."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu keampunan dan kesejahteraan di dunia dan akhirat."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя прощения и благополучия в этом мире и в Последней жизни."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nakuomba msamaha na afya njema duniani na Akhera."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden dünya ve ahirette af ve afiyet dilerim."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے دنیا و آخرت میں معافی اور عافیت کا سوال کرتا ہوں۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾalukal-ʿafwa wal-ʿāfiyah fid-dunyā wal-ākhirah"
+  },
+  "entry_010": {
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفَقْرِ وَالْقِلَّةِ وَالذِّلَّةِ، وَأَعُوذُ بِكَ مِنْ أَنْ أَظْلِمَ أَوْ أُظْلَمَ",
+    "category_id": "spiritual_growth",
+    "id": "growth_10",
+    "repeat": 1,
+    "source": "Abu Dawud 1543, Nasa'i 5460, Hisnul Muslim #83",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الفقر والقلة والذلة، وأعوذ بك من أن أظلم أو أظلم"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে দারিদ্র্য, অভাব ও অপমান থেকে আশ্রয় চাই, এবং আমি আপনার কাছে আশ্রয় চাই যেন আমি অন্যায় না করি বা আমার উপর অন্যায় করা না হয়।"
+      },
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from poverty, scarcity, and humiliation, and I seek refuge in You from oppressing or being oppressed."
+      },
+      "fa": {
+        "meaning": "بارالها، به تو پناه می‌برم از فقر و کمی و خواری، و به تو پناه می‌برم از اینکه ظلم کنم یا مورد ظلم واقع شوم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la pauvreté, le manque et l'humiliation, et je cherche refuge auprès de Toi contre le fait d'opprimer ou d'être opprimé."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ फ़क़र, कमी और ज़िल्लत से, और तेरी पनाह चाहता हूँ कि मैं किसी पर ज़ुल्म करूँ या मुझ पर ज़ुल्म किया जाए।"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemiskinan, kekurangan, dan kehinaan, dan aku berlindung kepada-Mu dari menzalimi atau dizalimi."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kefakiran, kekurangan, dan kehinaan, dan aku berlindung kepada-Mu dari menzalimi atau dizalimi."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Твоей защите от бедности, от нехватки и от унижения, и я прибегаю к Твоей защите от того, чтобы притеснять или быть притеснённым."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na umasikini, upungufu, na unyonge, na najikinga Kwako kutokana na kudhulumu au kudhulumiwa."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden fakirlikten, azlıktan ve zilletten Sana sığınırım. Ve zulmetmekten veya zulme uğramaktan Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں فقر، کمی اور ذلت سے، اور تیری پناہ چاہتا ہوں کہ میں کسی پر ظلم کروں یا مجھ پر ظلم کیا جائے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-faqri wal-qillati wadh-dhillah, wa aʿūdhu bika min an aẓlima aw uẓlam"
+  },
+  "entry_011": {
+    "arabic": "اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "category_id": "spiritual_growth",
+    "id": "growth_11",
+    "repeat": 1,
+    "source": "Tirmidhi 3563, Hisnul Muslim #84",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم اكفني بحلالك عن حرامك وأغنني بفضلك عمن سواك"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনার হালাল দ্বারা আমাকে আপনার হারাম থেকে যথেষ্ট করুন এবং আপনার অনুগ্রহ দ্বারা আমাকে আপনার ব্যতীত অন্য সবার থেকে অভাবমুক্ত করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, suffice me with Your lawful provision against Your unlawful, and make me independent of all those besides You by Your bounty."
+      },
+      "fa": {
+        "meaning": "بارالها، مرا با حلالت از حرامت کفایت کن، و با فضلت از هر که جز توست بی‌نیاز گردان."
+      },
+      "fr": {
+        "meaning": "Ô Allah, rends-moi suffisant par Ton licite contre Ton illicite, et rends-moi indépendant de quiconque autre que Toi par Ta générosité."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुझे अपने हलाल के साथ अपने हराम से बेनियाज़ कर दे, और अपने फ़ज़ल से मुझे अपने सिवा हर एक से बेपरवाह कर दे।"
+      },
+      "id": {
+        "meaning": "Ya Allah, cukupkanlah aku dengan rezeki-Mu yang halal dari yang haram-Mu, dan kayakanlah aku dengan karunia-Mu dari selain-Mu."
+      },
+      "ms": {
+        "meaning": "Ya Allah, cukupkanlah aku dengan rezeki-Mu yang halal dari yang haram-Mu, dan kayakanlah aku dengan kurnia-Mu dari selain-Mu."
+      },
+      "ru": {
+        "meaning": "О Аллах, сделай так, чтобы мне было достаточно Твоего дозволенного, отказавшись от запретного, и по Своей милости сделай меня независимым от кого бы то ни было, кроме Тебя."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nikidhie kwa halali yako dhidi ya haramu yako, na unikinishe kwa fadhila zako kutoka kwa asiyekuwa Wewe."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Bana helalinden yetecek kadar ver, haramından koru ve lütfunla beni Senden başkalarına muhtaç etme."
+      },
+      "ur": {
+        "meaning": "اے اللہ، مجھے اپنے حلال کے ساتھ اپنے حرام سے بے نیاز کر دے، اور اپنے فضل سے مجھے اپنے سوا ہر ایک سے بے پرواہ کر دے۔"
+      }
+    },
+    "transliteration": "Allāhumma kfinī biḥalālika ʿan ḥarāmika wa aghninī bi faḍlika ʿamman siwāk"
+  },
+  "entry_012": {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَأَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ",
+    "category_id": "spiritual_growth",
+    "id": "growth_12",
+    "repeat": 1,
+    "source": "Ibn Majah 3843, Nasa'i 5537",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم إني أسألك علما نافعا وأعوذ بك من علم لا ينفع"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে উপকারী জ্ঞান প্রার্থনা করি এবং অপকারী জ্ঞান থেকে আপনার আশ্রয় চাই।"
+      },
+      "en": {
+        "meaning": "O Allah, I ask You for beneficial knowledge, and I seek refuge in You from knowledge that is not beneficial."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو علم نافع می‌طلبم و از علم بی‌فایده به تو پناه می‌برم."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande une science utile, et je cherche refuge auprès de Toi contre une science qui ne profite pas."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे नफ़ा बख़्श इल्म का सवाल करता हूँ और ऐसे इल्म से तेरी पनाह चाहता हूँ जो नफ़ा न दे।"
+      },
+      "id": {
+        "meaning": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, dan aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat."
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, dan aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя полезного знания и прибегаю к Твоей защите от знания, которое не приносит пользы."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nakuomba elimu yenye manufaa, na najikinga Kwako kutokana na elimu isiyo na manufaa."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden faydalı ilim dilerim ve faydasız ilimden Sana sığınırım."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے نفع بخش علم کا سوال کرتا ہوں اور ایسے علم سے تیری پناہ چاہتا ہوں جو نفع نہ دے۔"
+      }
+    },
+    "transliteration": "Allāhumma innī asʾaluka ʿilman nāfiʿan wa aʿūdhu bika min ʿilmin lā yanfaʿ"
+  },
+  "entry_013": {
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "category_id": "spiritual_growth",
+    "id": "growth_13",
+    "repeat": 1,
+    "source": "Quran 2:201, Bukhari 4522, Muslim 2688 (Rabbana Atina)",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار"
+      },
+      "bn": {
+        "meaning": "হে আমাদের প্রতিপালক, আমাদেরকে দুনিয়াতে কল্যাণ দিন এবং আখেরাতেও কল্যাণ দিন এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন।"
+      },
+      "en": {
+        "meaning": "Our Lord, grant us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
+      },
+      "fa": {
+        "meaning": "پروردگارا، در دنیا به ما نیکی ده و در آخرت نیز نیکی ده، و ما را از عذاب آتش نگاه دار."
+      },
+      "fr": {
+        "meaning": "Notre Seigneur, accorde-nous une belle part ici-bas et une belle part dans l'au-delà, et préserve-nous du châtiment du Feu."
+      },
+      "hi": {
+        "meaning": "ऐ हमारे रब, हमें दुनिया में भलाई अता फ़रमा और आख़िरत में भी भलाई अता फ़रमा, और हमें दोज़ख़ के अज़ाब से बचा।"
+      },
+      "id": {
+        "meaning": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+      },
+      "ms": {
+        "meaning": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari azab neraka."
+      },
+      "ru": {
+        "meaning": "Господь наш! Даруй нам в этом мире добро и в Последней жизни добро, и защити нас от мучений Огня."
+      },
+      "sw": {
+        "meaning": "Mola wetu, tupe wema duniani na wema Akhera, na utulinde na adhabu ya Moto."
+      },
+      "tr": {
+        "meaning": "Rabbimiz! Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi cehennem azabından koru."
+      },
+      "ur": {
+        "meaning": "اے ہمارے رب، ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما، اور ہمیں دوزخ کے عذاب سے بچا۔"
+      }
+    },
+    "transliteration": "Rabbanā ātinā fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ʿadhāban-nār"
+  },
+  "entry_014": {
+    "arabic": "وَقُلْ رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+    "category_id": "spiritual_growth",
+    "id": "growth_14",
+    "repeat": 1,
+    "source": "Qur’ān 23:118",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "forgiveness",
+    "translations": {
+      "ar": {
+        "meaning": "وَقُلْ رَبِّ اغْفِرْ وَارْحَمْ ..."
+      },
+      "bn": {
+        "meaning": "আর বলুন: হে আমার রব! ক্ষমা করুন ও দয়া করুন; আপনি সর্বোত্তম দয়ালু।"
+      },
+      "en": {
+        "meaning": "And say: My Lord, forgive and have mercy; You are the best of the merciful."
+      },
+      "fa": {
+        "meaning": "و بگو: پروردگارا! ببخش و رحم کن، تو بهترین رحم کنندگانی."
+      },
+      "fr": {
+        "meaning": "Et dis: Seigneur, pardonne et fais miséricorde ; Tu es le Meilleur des miséricordieux."
+      },
+      "hi": {
+        "meaning": "और कहो: मेरे रब, क्षमा कर और दया कर; तू सबसे अच्छा दयावान है।"
+      },
+      "id": {
+        "meaning": "Dan katakanlah: Ya Tuhanku, ampunilah dan rahmatilah; Engkaulah Pemberi rahmat terbaik."
+      },
+      "ms": {
+        "meaning": "Dan katakanlah: Tuhanku, ampunilah dan rahmatilah; Engkaulah sebaik-baik Penyayang."
+      },
+      "ru": {
+        "meaning": "И скажи: Господь мой, прости и помилуй; Ты — лучший из милующих."
+      },
+      "sw": {
+        "meaning": "Na sema: Mola wangu, nisamehe na unirehemu; Wewe ndiye Mbora wa wenye kurehemu."
+      },
+      "tr": {
+        "meaning": "De ki: Rabbim, bağışla ve merhamet et; Sen merhametlilerin en hayırlısısın."
+      },
+      "ur": {
+        "meaning": "اور کہو: اے میرے رب! معاف فرما اور رحم کر, تو سب سے بہتر رحم کرنے والا ہے۔"
+      }
+    },
+    "transliteration": "Wa qul: Rabbi ighfir warḥam, wa anta khayru r-rāḥimīn."
+  },
+  "entry_015": {
+    "arabic": "اللَّهُمَّ رَبِّ جِبْرَائِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ، فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اِهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ، إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+    "category_id": "spiritual_growth",
+    "id": "growth_15",
+    "repeat": 1,
+    "source": "Muslim 770 (Dua before night prayer, seeking knowledge/guidance in truth)",
+    "subcategory_id": "rizq_knowledge_forgiveness",
+    "tag": "duas_for_growth",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم رب جبرائيل وميكائيل وإسرافيل، فاطر السماوات والأرض، عالم الغيب والشهادة، أنت تحكم بين عبادك فيما كانوا فيه يختلفون، اهدني لما اختلف فيه من الحق بإذنك، إنك تهدي من تشاء إلى صراط مستقيم"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, জিবরাঈল, মিকাঈল ও ইসরাফীলের প্রতিপালক, আসমান ও যমিনের সৃষ্টিকর্তা, দৃশ্য ও অদৃশ্যের জ্ঞান拥有কারী, আপনি আপনার বান্দাদের মধ্যে তাদের মতবিরোধপূর্ণ বিষয়ে ফায়সালা করেন। মতবিরোধপূর্ণ বিষয়ে আপনার অনুমতিতে আমাকে সত্যের দিকে পরিচালিত করুন। নিশ্চয়ই আপনি যাকে চান সরল পথে পরিচালিত করেন।"
+      },
+      "en": {
+        "meaning": "O Allah, Lord of Jibra’il, Mika’il, and Israfil, Creator of the heavens and the earth, Knower of the unseen and the seen, You judge between Your servants concerning that over which they differ. Guide me to the truth concerning that over which there is disagreement, by Your permission. Verily, You guide whom You will to a straight path."
+      },
+      "fa": {
+        "meaning": "بارالها، پروردگار جبرئیل و میکائیل و اسرافیل، آفریننده آسمان‌ها و زمین، دانای غیب و شهود، تو میان بندگانت در آنچه اختلاف می‌کردند حکم می‌کنی، مرا به آنچه از حق که در آن اختلاف شده است، با اذن خود هدایت کن، همانا تو هر که را بخواهی به راه راست هدایت می‌کنی."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur de Jibril, Mika'il et Israfil, Créateur des cieux et de la terre, Connaisseur de l'invisible et du visible, Tu juges entre Tes serviteurs concernant ce sur quoi ils divergent. Guide-moi vers la vérité concernant ce sur quoi il y a désaccord, par Ta permission. Certes, Tu guides qui Tu veux vers un chemin droit."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, जिब्राईल, मीकाईएल और इसराफ़ील के रब, आसमानों और ज़मीन के बनाने वाले, ग़ैब व शहादत के जानने वाले, तू अपने बंदों के दरमियान उन चीज़ों का फ़ैसला करता है जिनमें वह इख़्तिलाफ़ करते हैं। मुझे हक़ की तरफ़ हिदायत दे जिसमें इख़्तिलाफ़ किया गया है, अपनी इजाज़त से, बेशक तू जिसे चाहता है सीधे रास्ते की तरफ़ हिदायत देता है।"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan Jibril, Mikail, dan Israfil, Pencipta langit dan bumi, Yang Maha Mengetahui yang gaib dan yang nyata, Engkau memutuskan di antara hamba-hamba-Mu tentang apa yang mereka perselisihkan. Bimbinglah aku kepada kebenaran dalam hal yang diperselisihkan, dengan izin-Mu. Sesungguhnya Engkau membimbing siapa pun yang Engkau kehendaki ke jalan yang lurus."
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan Jibril, Mikail, dan Israfil, Pencipta langit dan bumi, Yang Maha Mengetahui yang ghaib dan yang nyata, Engkau memutuskan di antara hamba-hamba-Mu tentang apa yang mereka perselisihkan. Bimbinglah aku kepada kebenaran dalam hal yang diperselisihkan, dengan izin-Mu. Sesungguhnya Engkau membimbing siapa pun yang Engkau kehendaki ke jalan yang lurus."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь Джибриля, Микаиля и Исрафиля, Создатель небес и земли, Знающий сокровенное и явное, Ты рассудишь между Своими рабами в том, в чём они расходились. Направь меня к истине относительно того, в чём возникли разногласия, с Твоего позволения. Поистине, Ты направляешь, кого пожелаешь, на прямой путь."
+      },
+      "sw": {
+        "meaning": "Ee Allah, Mola wa Jibril, Mikail, na Israfil, Muumba wa mbingu na ardhi, Mjuzi wa ghaibu na ya dhahiri, Wewe unahukumu baina ya waja wako katika yale waliyokuwa wakikhitalifiana. Niongoze kwenye haki katika yale yaliyokhitalifiana, kwa idhini yako. Hakika Wewe unaongoza umtakaye kwenye njia iliyonyooka."
+      },
+      "tr": {
+        "meaning": "Allah'ım! Cebrâîl'in, Mîkâîl'in ve İsrâfîl'in Rabbi! Gökleri ve yeri yoktan var eden! Gizliyi ve açığı bilen! Sen kulların arasında ihtilaf ettikleri şeylerde hüküm verirsin. İhtilaf edilen konularda Senin izninle beni hakka ulaştır. Şüphesiz Sen, dilediğini dosdoğru yola iletirsin."
+      },
+      "ur": {
+        "meaning": "اے اللہ، جبرائیل، میکائیل اور اسرافیل کے رب، آسمانوں اور زمین کے بنانے والے، غیب و شہادت کے جاننے والے، تو اپنے بندوں کے درمیان ان چیزوں کا فیصلہ کرتا ہے جن میں وہ اختلاف کرتے ہیں۔ مجھے حق کی طرف ہدایت دے جس میں اختلاف کیا گیا ہے، اپنی اجازت سے، بے شک تو جسے چاہتا ہے سیدھے راستے کی طرف ہدایت دیتا ہے۔"
+      }
+    },
+    "transliteration": "Allāhumma Rabba Jibrāʾīla wa Mīkāʾīla wa Isrāfīla, Fāṭiras-samāwāti wal-arḍ, ʿĀlimal-ghaybi wash-shahādah, Anta taḥkumu bayna ʿibādika fīmā kānū fīhi yakhtalifūn, ihdinī limā khṭulifa fīhi minal-ḥaqqi biʾidhnika, innaka tahdī man tashāʾu ilā ṣirāṭin mustaqīm"
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "entry_001": {
+    "arabic": "بِسْمِ اللَّهِ",
+    "category_id": "daily_activities",
+    "id": "food_1",
+    "repeat": 1,
+    "source": "Muslim 2017",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "بسم الله"
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে।"
+      },
+      "en": {
+        "meaning": "In the Name of Allah."
+      },
+      "fa": {
+        "meaning": "به نام الله."
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah."
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से।"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah."
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah."
+      },
+      "ru": {
+        "meaning": "Во имя Аллаха."
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah."
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla."
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے۔"
+      }
+    },
+    "transliteration": "Bismillāh"
+  },
+  "entry_002": {
+    "arabic": "بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ",
+    "category_id": "daily_activities",
+    "id": "food_2",
+    "repeat": 1,
+    "source": "Abu Dawud 3767",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "بسم الله في أوله وآخره"
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে, এর শুরুতেও এবং এর শেষেও। (যদি কেউ খাবারের শুরুতে বিসমিল্লাহ বলতে ভুলে যায় তাহলে বলবে)"
+      },
+      "en": {
+        "meaning": "In the Name of Allah, in its beginning and its end. (Said if one forgets to say Bismillah at the beginning of a meal)"
+      },
+      "fa": {
+        "meaning": "به نام الله، در آغاز و پایان آن. (اگر کسی در ابتدای غذا بسم الله گفتن را فراموش کند، بگوید)"
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah, au début et à la fin. (Dit si l'on oublie de dire Bismillah au début du repas)"
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से, इसके शुरू में और इसके आखिर में। (अगर कोई खाने के शुरू में बिस्मिल्लाह कहना भूल जाए तो कहे)"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah, di awal dan di akhirnya. (Diucapkan jika lupa membaca Bismillah di awal makan)"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah, di awal dan di akhirnya. (Diucapkan jika terlupa membaca Bismillah di awal makan)"
+      },
+      "ru": {
+        "meaning": "Во имя Аллаха, в начале его и в конце его. (Произносится, если забыл сказать «Бисмиллях» в начале еды)"
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah, mwanzo wake na mwisho wake. (Husemwa ikiwa mtu amesahau kusema Bismillah mwanzoni mwa mlo)"
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla, başında ve sonunda. (Yemeğin başında besmele çekmeyi unutan kişi söyler)"
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے، اس کے شروع میں اور اس کے آخر میں۔ (اگر کوئی کھانے کے شروع میں بسم اللہ کہنا بھول جائے تو کہے)"
+      }
+    },
+    "transliteration": "Bismillāh fī awwalihī wa ākhirihī"
+  },
+  "entry_003": {
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلاَ قُوَّةٍ",
+    "category_id": "daily_activities",
+    "id": "food_3",
+    "repeat": 1,
+    "source": "Tirmidhi 3458",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله الذي أطعمني هذا ورزقنيه من غير حول مني ولا قوة"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাকে এটি খাইয়েছেন এবং আমাকে এটি দান করেছেন, আমার পক্ষ থেকে কোন শক্তি ও সামর্থ্য ছাড়াই।"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah Who fed me this and provided it for me without any might or power from myself."
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که این را به من خورانید و آن را روزی‌ام گردانید، بدون هیچ حول و قوه‌ای از جانب من."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui m'a nourri de ceci et me l'a pourvu sans aucune force ni puissance de ma part."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने मुझे यह खिलाया और मुझे यह रिज़्क़ दिया मेरी किसी ताक़त और क़ुव्वत के बग़ैर।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah memberiku makan ini dan memberiku rezeki dengannya tanpa daya dan kekuatan dariku."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah memberiku makan ini dan memberiku rezeki dengannya tanpa daya dan kekuatan dariku."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который накормил меня этим и наделил меня этим без каких-либо моих усилий и силы."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyenipa chakula hiki na kuniruzuku bila nguvu wala uwezo kutoka kwangu."
+      },
+      "tr": {
+        "meaning": "Bana bu yemeği yediren ve tarafımdan hiçbir güç ve kuvvet olmadan bunu bana nasip eden Allah'a hamdolsun."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ کھلایا اور مجھے یہ رزق دیا میری کسی طاقت اور قوت کے بغیر۔"
+      }
+    },
+    "transliteration": "Alḥamdu lillāhilladhī aṭʿamanī hādhā wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwah"
+  },
+  "entry_004": {
+    "arabic": "الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ غَيْرَ مَكْفِيٍّ وَلاَ مُوَدَّعٍ وَلاَ مُسْتَغْنًى عَنْهُ رَبَّنَا",
+    "category_id": "daily_activities",
+    "id": "food_4",
+    "repeat": 1,
+    "source": "Bukhari 5458",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله حمدا كثيرا طيبا مباركا فيه غير مكفي ولا مودع ولا مستغنى عنه ربنا"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, এমন প্রশংসা যা অনেক, পবিত্র ও বরকতময়, যা অপর্যাপ্ত হয় না, যা বর্জন করা হয় না, এবং যার থেকে মুখ ফিরিয়ে নেওয়া যায় না, হে আমাদের প্রতিপালক।"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah, much good and blessed praise, never to be insufficient, nor ever to be abandoned, nor ever to be dispensed with, O our Lord."
+      },
+      "fa": {
+        "meaning": "ستایش بسیار، پاک و پربرکت برای الله است که نیاز به آن هرگز برطرف نمی‌شود، و هرگز ترک نمی‌گردد و هرگز از آن بی‌نیاز نمی‌شوند، ای پروردگار ما."
+      },
+      "fr": {
+        "meaning": "Louange à Allah, une louange abondante, pure et bénie, jamais insuffisante, ni jamais abandonnée, ni jamais dont on puisse se passer, ô notre Seigneur."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं, बहुत ज़्यादा, पाकीज़ा, बाबरकत हम्द, जो कभी नाकाफ़ी न हो, न छोड़ी जाए, और न ही उससे बेनियाज़ हुआ जाए, ऐ हमारे रब।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah, pujian yang banyak, baik, lagi diberkahi di dalamnya, tidak akan pernah cukup, tidak akan pernah ditinggalkan, dan tidak akan pernah merasa cukup darinya, Ya Tuhan kami."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah, pujian yang banyak, baik, lagi diberkati di dalamnya, tidak akan pernah cukup, tidak akan pernah ditinggalkan, dan tidak akan pernah merasa cukup darinya, Ya Tuhan kami."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, хвала обильная, благая, благословенная, неиссякаемая, не оставляемая и не пренебрегаемая, о наш Господь."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah, sifa nyingi, nzuri, zenye baraka ndani yake, zisizotosheleza, wala hazitupiliwi mbali, wala hazihitajiki, Ewe Mola wetu."
+      },
+      "tr": {
+        "meaning": "Allah'a çok, tertemiz ve mübarek hamd olsun ki, asla terk edilmeyen, yeterli görülmeyen ve kendisine her zaman muhtaç olunan Rabbimizdir."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں، بہت زیادہ، پاکیزہ، بابرکت حمد، جو کبھی ناکافی نہ ہو، نہ چھوڑی جائے، اور نہ ہی اس سے بے نیاز ہوا جائے، اے ہمارے رب۔"
+      }
+    },
+    "transliteration": "Alḥamdu lillāhi ḥamdan kathīran ṭayyiban mubārakan fīhi ghayra makfiyyin wa lā muwaddaʿin wa lā mustaghnan ʿanhu Rabbanā"
+  },
+  "entry_005": {
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَأَطْعِمْنَا خَيْرًا مِنْهُ",
+    "category_id": "daily_activities",
+    "id": "food_5",
+    "repeat": 1,
+    "source": "Tirmidhi 3455",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم بارك لنا فيه وأطعمنا خيرا منه"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের জন্য এতে বরকত দিন এবং এর চেয়ে উত্তম কিছু খাওয়ান। (দুধ পান করার সময়)"
+      },
+      "en": {
+        "meaning": "O Allah, bless it for us and feed us with something better than it. (When drinking milk)"
+      },
+      "fa": {
+        "meaning": "ای الله، آن را برای ما مبارک گردان و ما را از آن بهتر بخوران. (هنگام نوشیدن شیر)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-le pour nous et nourris-nous de ce qui est meilleur que cela. (En buvant du lait)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमें इसमें बरकत दे और हमें इससे बेहतर खिला। (दूध पीते वक़्त)"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah kami di dalamnya dan berilah kami makan yang lebih baik darinya. (Saat minum susu)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah kami di dalamnya dan berilah kami makan yang lebih baik daripadanya. (Ketika minum susu)"
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови нам это и накорми нас лучшим, чем это. (При питье молока)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, tutie baraka ndani yake na utulisha kilicho bora kuliko hicho. (Unapokunywa maziwa)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, bize onu mübarek kıl ve bize ondan daha hayırlısını yedir. (Süt içerken)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمیں اس میں برکت دے اور ہمیں اس سے بہتر کھلا۔ (دودھ پیتے وقت)"
+      }
+    },
+    "transliteration": "Allāhumma bārik lanā fīhi wa aṭʿimnā khayran minh"
+  },
+  "entry_006": {
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ",
+    "category_id": "daily_activities",
+    "id": "food_6",
+    "repeat": 1,
+    "source": "Tirmidhi 3455",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم بارك لنا فيه وزدنا منه"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের জন্য এতে বরকত দিন এবং তা থেকে আমাদের বাড়িয়ে দিন। (দুধ ব্যতীত অন্য কিছু পান করার সময়)"
+      },
+      "en": {
+        "meaning": "O Allah, bless it for us and increase it for us. (When drinking something other than milk)"
+      },
+      "fa": {
+        "meaning": "ای الله، آن را برای ما مبارک گردان و برای ما از آن زیاد کن. (هنگام نوشیدن چیزی غیر از شیر)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-le pour nous et augmente-nous en. (En buvant autre chose que du lait)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमें इसमें बरकत दे और हमें इसमें ज़्यादा कर दे। (दूध के अलावा कोई और चीज़ पीते वक़्त)"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah kami di dalamnya dan tambahkanlah untuk kami darinya. (Saat minum selain susu)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah kami di dalamnya dan tambahkanlah untuk kami daripadanya. (Ketika minum selain susu)"
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови нам это и приумножь нам это. (При питье чего-либо, кроме молока)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, tutie baraka ndani yake na utulipe zaidi kutokana na hicho. (Unapokunywa kitu kingine isipokuwa maziwa)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, bize onu mübarek kıl ve bize ondan artır. (Süt dışındaki içecekleri içerken)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمیں اس میں برکت دے اور ہمیں اس سے بڑھا دے۔ (دودھ کے علاوہ کوئی اور چیز پیتے وقت)"
+      }
+    },
+    "transliteration": "Allāhumma bārik lanā fīhi wa zidnā minh"
+  },
+  "entry_007": {
+    "arabic": "اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي وَاسْقِ مَنْ سَقَانِي",
+    "category_id": "daily_activities",
+    "id": "food_7",
+    "repeat": 1,
+    "source": "Muslim 2055",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم أطعم من أطعمني واسق من سقاني"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, যে আমাকে খাইয়েছে তাকে খাওয়ান এবং যে আমাকে পান করিয়েছে তাকে পান করান। (যে খাবার/পানীয় পরিবেশন করে তার জন্য দোয়া)"
+      },
+      "en": {
+        "meaning": "O Allah, feed him who fed me, and give drink to him who gave me drink. (Supplication for someone who offers food/drink)"
+      },
+      "fa": {
+        "meaning": "ای الله، به کسی که مرا طعام داد طعام ده، و به کسی که مرا آب داد آب ده. (دعای برای کسی که غذا/نوشیدنی تعارف می‌کند)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, nourris celui qui m'a nourri, et donne à boire à celui qui m'a donné à boire. (Supplication pour quelqu'un qui offre de la nourriture/boisson)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, उसे खिला जिसने मुझे खिलाया और उसे पिला जिसने मुझे पिलाया। (खाना/पीने की पेशकश करने वाले के लिए दुआ)"
+      },
+      "id": {
+        "meaning": "Ya Allah, berilah makan orang yang memberiku makan dan berilah minum orang yang memberiku minum. (Doa untuk orang yang memberi makan/minum)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berilah makan orang yang memberiku makan, dan berilah minum orang yang memberiku minum. (Doa untuk orang yang memberi makanan/minuman)"
+      },
+      "ru": {
+        "meaning": "О Аллах, накорми того, кто накормил меня, и напои того, кто напоил меня. (Мольба за того, кто предлагает еду/питье)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, mlisha aliyenilisha, na mnywesha aliyeninywesha. (Dua kwa yule anayetoa chakula/kinywaji)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, bana yedireni doyur ve bana içireni sulandır. (Yemek/içecek ikram edene yapılan dua)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے کھلا جس نے مجھے کھلایا اور اسے پلا جس نے مجھے پلایا۔ (کھانا/پینے کی پیشکش کرنے والے کے لیے دعا)"
+      }
+    },
+    "transliteration": "Allāhumma aṭʿim man aṭʿamanī wasqī man saqānī"
+  },
+  "entry_008": {
+    "arabic": "جَعَلَ اللَّهُ طَعَامَكُمْ الأَبْرَارَ وَصَلَّتْ عَلَيْكُمْ الْمَلاَئِكَةُ وَأَفْطَرَ عِنْدَكُمْ الصَّائِمُونَ",
+    "category_id": "daily_activities",
+    "id": "food_8",
+    "repeat": 1,
+    "source": "Abu Dawud 3854",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "جعل الله طعامكم الأبرار وصلت عليكم الملائكة وأفطر عندكم الصائمون"
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনার খাবারকে সৎ লোকদের দ্বারা খাওয়ান, ফেরেশতারা আপনার উপর রহমত বর্ষণ করুন এবং রোযাদাররা আপনার কাছে ইফতার করুন। (কারো বাড়িতে ইফতার করার সময়)"
+      },
+      "en": {
+        "meaning": "May Allah make your food eaten by the righteous, and may the angels send prayers upon you, and may the fasting break their fast with you. (When breaking fast at someone's house)"
+      },
+      "fa": {
+        "meaning": "الله غذای شما را از آنِ نیکوکاران قرار دهد، و فرشتگان بر شما درود فرستند، و روزه‌داران نزد شما افطار کنند. (هنگام افطار کردن در خانه کسی)"
+      },
+      "fr": {
+        "meaning": "Qu'Allah fasse que votre nourriture soit mangée par les pieux, et que les anges prient sur vous, et que les jeûneurs rompent leur jeûne chez vous. (En rompant le jeûne chez quelqu'un)"
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हारे खाने को नेक लोगों के ज़रिये खाए, और फ़रिश्ते तुम पर दुरूद भेजें, और रोज़ेदार तुम्हारे पास इफ़्तार करें। (किसी के घर इफ़्तार करते वक़्त)"
+      },
+      "id": {
+        "meaning": "Semoga Allah menjadikan makanan kalian dimakan oleh orang-orang saleh, dan semoga para malaikat bershalawat atas kalian, dan semoga orang-orang yang berpuasa berbuka di sisi kalian. (Saat berbuka puasa di rumah seseorang)"
+      },
+      "ms": {
+        "meaning": "Semoga Allah menjadikan makanan kalian dimakan oleh orang-orang soleh, dan semoga para malaikat berselawat ke atas kalian, dan semoga orang-orang yang berpuasa berbuka di sisi kalian. (Ketika berbuka puasa di rumah seseorang)"
+      },
+      "ru": {
+        "meaning": "Пусть Аллах сделает вашу пищу потребляемой праведниками, и пусть ангелы ниспошлют на вас благословения, и пусть постящиеся разговляются у вас. (При разговении в чьем-либо доме)"
+      },
+      "sw": {
+        "meaning": "Allah awajalie chakula chenu kiliwe na wema, na malaika wawaombee, na wenye kufunga wafungulie kwenu. (Unapofuturu nyumbani kwa mtu)"
+      },
+      "tr": {
+        "meaning": "Allah yemeğinizi salih kişilere yedirsin, melekler size dua etsin ve oruçlular sizin yanınızda iftar etsin. (Birinin evinde iftar ederken)"
+      },
+      "ur": {
+        "meaning": "اللہ تمہارے کھانے کو نیک لوگوں کے ذریعے کھائے، اور فرشتے تم پر درود بھیجیں، اور روزہ دار تمہارے پاس افطار کریں۔ (کسی کے گھر افطار کرتے وقت)"
+      }
+    },
+    "transliteration": "Jaʿalallāhu ṭaʿāmakumul-abrār wa ṣallat ʿalaykumul-malāʾikah wa afṭara ʿindakumuṣ-ṣāʾimūn"
+  },
+  "entry_009": {
+    "arabic": "بِسْمِ اللَّهِ وَبَرَكَةِ اللَّهِ",
+    "category_id": "daily_activities",
+    "id": "food_9",
+    "repeat": 1,
+    "source": "Hisnul Muslim #77",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "بسم الله وبركة الله"
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে এবং আল্লাহর বরকতে।"
+      },
+      "en": {
+        "meaning": "In the Name of Allah and with the blessings of Allah."
+      },
+      "fa": {
+        "meaning": "به نام الله و با برکت الله."
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah et avec la bénédiction d'Allah."
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से और अल्लाह की बरकत के साथ।"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah dan dengan berkah Allah."
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah dan dengan berkat Allah."
+      },
+      "ru": {
+        "meaning": "Во имя Аллаха и с благословением Аллаха."
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah na kwa baraka za Allah."
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla ve Allah'ın bereketiyle."
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے اور اللہ کی برکت کے ساتھ۔"
+      }
+    },
+    "transliteration": "Bismillāh wa barakatillāh"
+  },
+  "entry_010": {
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+    "category_id": "daily_activities",
+    "id": "food_10",
+    "repeat": 1,
+    "source": "Ibn Majah 3267",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم بارك لنا فيما رزقتنا وقنا عذاب النار"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি আমাদেরকে যে রিযিক দিয়েছেন তাতে বরকত দিন এবং জাহান্নামের আযাব থেকে আমাদেরকে রক্ষা করুন।"
+      },
+      "en": {
+        "meaning": "O Allah, bless what You have provided for us and protect us from the torment of the Fire."
+      },
+      "fa": {
+        "meaning": "ای الله، آنچه را که روزی ما کرده‌ای برایمان مبارک گردان و ما را از عذاب آتش حفظ کن."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis ce que Tu nous as pourvu et protège-nous du châtiment du Feu."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, जो रिज़्क़ तूने हमें दिया है उसमें हमें बरकत दे और हमें आग के अज़ाब से बचा।"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah kami pada apa yang telah Engkau rezekikan kepada kami dan lindungilah kami dari siksa neraka."
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah kami pada apa yang telah Engkau rezekikan kepada kami dan lindungilah kami dari siksa neraka."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови нам то, чем Ты нас наделил, и защити нас от мучений Огня."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, tutie baraka katika ulichotupa na utulinde na adhabu ya Moto."
+      },
+      "tr": {
+        "meaning": "Allah'ım, bize rızık olarak verdiğin şeyleri bereketli kıl ve bizi cehennem azabından koru."
+      },
+      "ur": {
+        "meaning": "اے اللہ، جو رزق تو نے ہمیں دیا ہے اس میں ہمیں برکت دے اور ہمیں آگ کے عذاب سے بچا۔"
+      }
+    },
+    "transliteration": "Allāhumma bārik lanā fīmā razaqtanā wa qinā ʿadhāban-nār"
+  },
+  "entry_011": {
+    "arabic": "الحَمْدُ لِلَّهِ الَّذِي أَشْبَعَنَا وَأَرْوَانَا غَيْرَ مَكْفُورٍ وَلاَ مُوَدَّعٍ",
+    "category_id": "daily_activities",
+    "id": "food_11",
+    "repeat": 1,
+    "source": "Bukhari 5459",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله الذي أشبعنا وأروانا غير مكفور ولا مودع"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাদেরকে তৃপ্ত করেছেন এবং আমাদের পিপাসা নিবারণ করেছেন, কোন অস্বীকার বা বর্জন ছাড়াই।"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah Who has satisfied us and quenched our thirst, without being ungrateful or unappreciated."
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که ما را سیراب و سیر گردانید، بی‌آنکه ناسپاسی شود و ترک شود."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui nous a rassasiés et désaltérés, sans ingratitude ni abandon."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने हमें सैर किया और हमारी प्यास बुझाई, न किसी नाशुक्री के साथ और न ही किसी छोड़ने के साथ।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah mengenyangkan kami dan menghilangkan dahaga kami, tanpa kami kufur atau meninggalkan (nikmat-Nya)."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah mengenyangkan kami dan menghilangkan dahaga kami, tanpa kami kufur atau meninggalkan (nikmat-Nya)."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который насытил нас и напоил нас, без неблагодарности и без оставления."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyetushibisha na kutunywesha, bila kukufuru wala kuacha (neema Yake)."
+      },
+      "tr": {
+        "meaning": "Bizi doyuran ve susuzluğumuzu gideren, nankörlük edilmeyen ve terk edilmeyen Allah'a hamdolsun."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں سیر کیا اور ہماری پیاس بجھائی، نہ کسی ناشکری کے ساتھ اور نہ ہی کسی چھوڑنے کے ساتھ۔"
+      }
+    },
+    "transliteration": "Alḥamdu lillāhilladhī ashbaʿanā wa arwānā ghayra makfūrin wa lā muwaddaʿ"
+  },
+  "entry_012": {
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَ وَسَقَى وَسَوَّغَهُ وَجَعَلَ لَهُ مَخْرَجًا",
+    "category_id": "daily_activities",
+    "id": "food_12",
+    "repeat": 1,
+    "source": "Abu Dawud 3845",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله الذي أطعم وسقى وسوغه وجعل له مخرجا"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি খাইয়েছেন, পান করিয়েছেন, তা গলাধঃকরণ সহজ করেছেন এবং তার জন্য নির্গমনের পথ তৈরি করেছেন।"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah Who fed and quenched thirst and made it easy to swallow and provided an exit for it."
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که طعام داد و سیراب کرد و بلعیدن آن را آسان گردانید و برای آن خروجی قرار داد."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui a nourri, désaltéré, facilité la déglutition et a pourvu une issue pour cela."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने खिलाया और पिलाया और उसे हलक़ से आसानी से उतारा और उसके लिए रास्ता बना दिया।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah memberi makan dan minum, memudahkan menelannya, dan memberinya jalan keluar."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah memberi makan dan minum, memudahkan menelannya, dan memberinya jalan keluar."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который накормил, напоил, облегчил глотание и создал для этого выход."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyelisha na kunywesha na kurahisisha kumeza na kutoa njia ya kutokea."
+      },
+      "tr": {
+        "meaning": "Yediren, içiren, boğazdan kolayca geçiren ve çıkış yeri yapan Allah'a hamdolsun."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے کھلایا اور پلایا اور اسے حلق سے آسانی سے اتارا اور اس کے لیے راستہ بنا دیا۔"
+      }
+    },
+    "transliteration": "Alḥamdu lillāhilladhī aṭʿama wa saqā wa sawwaghahu wa jaʿala lahu makhrajan"
+  },
+  "entry_013": {
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي مَنَّ عَلَيْنَا وَهَدَانَا وَالَّذِي أَطْعَمَنَا وَسَقَانَا وَكُلَّ بَلاَءٍ حَسَنٍ أَبْلاَنَا",
+    "category_id": "daily_activities",
+    "id": "food_13",
+    "repeat": 1,
+    "source": "Hisnul Muslim #76 (related to general praise)",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله الذي من علينا وهدانا والذي أطعمنا وسقانا وكل بلاء حسن أبلانا"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাদের প্রতি অনুগ্রহ করেছেন এবং আমাদের হেদায়েত করেছেন, এবং যিনি আমাদেরকে খাইয়েছেন ও পান করিয়েছেন, এবং যিনি আমাদেরকে প্রতিটি ভালো পরীক্ষায় ফেলে পরীক্ষা করেছেন।"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah Who has favored us and guided us, and Who has fed us and quenched our thirst, and Who has tested us with every good trial."
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که بر ما منت نهاد و ما را هدایت کرد، و آن که ما را طعام داد و سیراب کرد و هر بلای نیکویی را بر ما آزمود."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui nous a fait des faveurs et nous a guidés, et qui nous a nourris et désaltérés, et qui nous a éprouvés par chaque bonne épreuve."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने हम पर एहसान किया और हमें हिदायत दी, और जिसने हमें खिलाया और पिलाया और हमें हर अच्छी आज़माइश में डाला।"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah melimpahkan nikmat-Nya kepada kami dan memberi petunjuk kepada kami, dan yang telah memberi kami makan dan minum, serta menguji kami dengan setiap ujian yang baik."
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah melimpahkan nikmat-Nya kepada kami dan memberi petunjuk kepada kami, dan yang telah memberi kami makan dan minum, serta menguji kami dengan setiap ujian yang baik."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который оказал нам милость и наставил нас, и Который накормил нас и напоил нас, и Который испытал нас каждым благим испытанием."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyetujalia neema na kutuongoza, na aliyetulisha na kutunywesha, na aliyetujaribu kwa kila jaribu jema."
+      },
+      "tr": {
+        "meaning": "Bize lütufta bulunan ve hidayet veren, bizi yediren ve içiren ve her güzel bela ile imtihan eden Allah'a hamdolsun."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہم پر احسان کیا اور ہمیں ہدایت دی، اور جس نے ہمیں کھلایا اور پلایا اور ہمیں ہر اچھی آزمائش میں ڈالا۔"
+      }
+    },
+    "transliteration": "Alḥamdu lillāhilladhī manna ʿalaynā wa hadānā walladhī aṭʿamanā wa saqānā wa kulla balāʾin ḥasanin ablānā"
+  },
+  "entry_014": {
+    "arabic": "اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+    "category_id": "daily_activities",
+    "id": "food_14",
+    "repeat": 1,
+    "source": "Muslim 2055",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "اللهم بارك لهم فيما رزقتهم واغفر لهم وارحمهم"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি তাদেরকে যে রিযিক দিয়েছেন তাতে বরকত দিন, তাদেরকে ক্ষমা করুন এবং তাদের প্রতি রহম করুন। (মেজবানের জন্য দোয়া)"
+      },
+      "en": {
+        "meaning": "O Allah, bless for them what You have provided them, forgive them and have mercy on them. (Supplication for the host)"
+      },
+      "fa": {
+        "meaning": "ای الله، آنچه را که روزی‌شان کرده‌ای برایشان مبارک گردان، و آنان را ببخش و به آنان رحم کن. (دعای برای میزبان)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis pour eux ce que Tu leur as pourvu, pardonne-leur et fais-leur miséricorde. (Supplication pour l'hôte)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, जो रिज़्क़ तूने उन्हें दिया है उसमें उन्हें बरकत दे, उन्हें बख़्श दे और उन पर रहम फ़रमा। (मेज़बान के लिए दुआ)"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah mereka pada apa yang telah Engkau rezekikan kepada mereka, ampunilah mereka, dan rahmatilah mereka. (Doa untuk tuan rumah)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah mereka pada apa yang telah Engkau rezekikan kepada mereka, ampunilah mereka, dan rahmatilah mereka. (Doa untuk tuan rumah)"
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови им то, чем Ты их наделил, прости им и смилуйся над ними. (Мольба за хозяина)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, watie baraka katika ulichowaruzuku, wasamehe na uwarehemu. (Dua kwa mwenyeji)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, onlara rızık olarak verdiğin şeyleri mübarek kıl, onları affet ve onlara merhamet et. (Misafir ağırlayan için dua)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، جو رزق تو نے انہیں دیا ہے اس میں انہیں برکت دے، انہیں بخش دے اور ان پر رحم فرما۔ (میزبان کے لیے دعا)"
+      }
+    },
+    "transliteration": "Allāhumma bārik lahum fīmā razaqtahum waghfir lahum warḥamhum"
+  },
+  "entry_015": {
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَ وَسَقَى وَكَفَى وَآوَى فَكَمْ مِمَّنْ لاَ كَافِيَ لَهُ وَلاَ مُؤْوِيَ",
+    "category_id": "daily_activities",
+    "id": "food_15",
+    "repeat": 1,
+    "source": "Muslim 2715",
+    "subcategory_id": "eating_drinking",
+    "tag": "food_gratitude",
+    "translations": {
+      "ar": {
+        "meaning": "الحمد لله الذي أطعم وسقى وكفى وآوى فكم ممن لا كافي له ولا مؤوي"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি আহার করিয়েছেন, পান করিয়েছেন, যথেষ্ট করেছেন এবং আশ্রয় দিয়েছেন। কত লোক আছে যাদের কোন প্রতিপালক নেই এবং কোন আশ্রয় নেই!"
+      },
+      "en": {
+        "meaning": "All praise is due to Allah Who fed, quenched thirst, sufficed, and gave refuge. How many there are who have no sustainer and no refuge!"
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که طعام داد و سیراب کرد و کافی بود و پناه داد. چه بسیارند کسانی که نه کفایت‌کننده دارند و نه پناه‌دهنده."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui a nourri, désaltéré, suffi et donné refuge. Combien sont-ils ceux qui n'ont ni soutien ni refuge !"
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने खिलाया, पिलाया, काफ़ी हुआ और पनाह दी। कितने ही ऐसे हैं जिनका कोई किफ़ायत करने वाला नहीं और न कोई पनाह देने वाला है!"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah memberi makan, minum, mencukupi, dan memberi tempat berlindung. Betapa banyak orang yang tidak memiliki pencukupi dan tidak memiliki tempat berlindung!"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah memberi makan, minum, mencukupi, dan memberi tempat berlindung. Betapa banyak orang yang tidak memiliki pencukupi dan tidak memiliki tempat berlindung!"
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который накормил, напоил, удовлетворил и дал убежище. Как много тех, у кого нет ни кормильца, ни приюта!"
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyelisha, kunywesha, kutosheleza, na kupa hifadhi. Wengi sana hawana mtoaji wala mpenzi!"
+      },
+      "tr": {
+        "meaning": "Yediren, içiren, kifayet eden ve barındıran Allah'a hamdolsun. Nice kimseler vardır ki, ne kifayet edeni ne de barındıranı yoktur."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے کھلایا، پلایا، کافی ہوا اور پناہ دی، پس کتنے ہی ایسے ہیں جن کا کوئی کفایت کرنے والا نہیں اور نہ کوئی پناہ دینے والا ہے۔"
+      }
+    },
+    "transliteration": "Alḥamdu lillāhilladhī aṭʿama wa saqā wa kafā wa āwā fakammim-man lā kāfiya lahu wa lā muʾwiya"
+  }
+}

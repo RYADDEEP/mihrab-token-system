@@ -1,0 +1,1115 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "01-core/primitives": {
+    "borderWidth": {
+      "bold": {
+        "type": "borderWidth",
+        "value": "3"
+      },
+      "hairline": {
+        "type": "borderWidth",
+        "value": "0.5"
+      },
+      "heavy": {
+        "type": "borderWidth",
+        "value": "4"
+      },
+      "light": {
+        "type": "borderWidth",
+        "value": "1.5"
+      },
+      "medium": {
+        "type": "borderWidth",
+        "value": "2"
+      },
+      "none": {
+        "type": "borderWidth",
+        "value": "0"
+      },
+      "thick": {
+        "type": "borderWidth",
+        "value": "8"
+      },
+      "thin": {
+        "type": "borderWidth",
+        "value": "1"
+      }
+    },
+    "breakpoints": {
+      "2xl": {
+        "description": "2X large devices",
+        "type": "other",
+        "value": "1536"
+      },
+      "lg": {
+        "description": "Large devices",
+        "type": "other",
+        "value": "1024"
+      },
+      "md": {
+        "description": "Medium devices",
+        "type": "other",
+        "value": "768"
+      },
+      "sm": {
+        "description": "Small devices",
+        "type": "other",
+        "value": "640"
+      },
+      "xl": {
+        "description": "Extra large devices",
+        "type": "other",
+        "value": "1280"
+      },
+      "xs": {
+        "description": "Extra small devices",
+        "type": "other",
+        "value": "475"
+      }
+    },
+    "colors": {
+      "hajj": {
+        "accent": {
+          "description": "Ihram white",
+          "type": "color",
+          "value": "#FFFFFF"
+        },
+        "mount": {
+          "description": "Mount Arafat",
+          "type": "color",
+          "value": "#8B7355"
+        },
+        "primary": {
+          "description": "Kaaba black",
+          "type": "color",
+          "value": "#000000"
+        },
+        "secondary": {
+          "description": "Kaaba gold",
+          "type": "color",
+          "value": "#D4AF37"
+        }
+      },
+      "islamic": {
+        "bronze": {
+          "description": "Lantern",
+          "type": "color",
+          "value": "#CD7F32"
+        },
+        "burgundy": {
+          "description": "Prayer Rug",
+          "type": "color",
+          "value": "#800020"
+        },
+        "burgundyDark": {
+          "type": "color",
+          "value": "#600018"
+        },
+        "burgundyLight": {
+          "type": "color",
+          "value": "#A0293D"
+        },
+        "gold": {
+          "description": "Kaaba Gold",
+          "type": "color",
+          "value": "#D4AF37"
+        },
+        "goldDark": {
+          "type": "color",
+          "value": "#B8941F"
+        },
+        "goldLight": {
+          "type": "color",
+          "value": "#F4E4BC"
+        },
+        "pearl": {
+          "description": "Marble",
+          "type": "color",
+          "value": "#F8F6F0"
+        },
+        "turquoise": {
+          "description": "Mosque Dome",
+          "type": "color",
+          "value": "#40E0D0"
+        },
+        "turquoiseDark": {
+          "type": "color",
+          "value": "#00CED1"
+        },
+        "turquoiseLight": {
+          "type": "color",
+          "value": "#AFEEEE"
+        }
+      },
+      "mihrab": {
+        "background": {
+          "light": {
+            "description": "Mihrab Default Light Mode Background",
+            "type": "color",
+            "value": "#F4F7F4"
+          }
+        }
+      },
+      "neutral": {
+        "0": {
+          "type": "color",
+          "value": "#FFFFFF"
+        },
+        "100": {
+          "type": "color",
+          "value": "#F5F5F5"
+        },
+        "1000": {
+          "type": "color",
+          "value": "#000000"
+        },
+        "200": {
+          "type": "color",
+          "value": "#EEEEEE"
+        },
+        "300": {
+          "type": "color",
+          "value": "#E0E0E0"
+        },
+        "400": {
+          "type": "color",
+          "value": "#BDBDBD"
+        },
+        "50": {
+          "type": "color",
+          "value": "#FAFAFA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#9E9E9E"
+        },
+        "600": {
+          "type": "color",
+          "value": "#757575"
+        },
+        "700": {
+          "type": "color",
+          "value": "#616161"
+        },
+        "800": {
+          "type": "color",
+          "value": "#424242"
+        },
+        "900": {
+          "type": "color",
+          "value": "#212121"
+        },
+        "950": {
+          "type": "color",
+          "value": "#121212"
+        }
+      },
+      "personalization": {
+        "backgrounds": {
+          "option1_soft_blue": {
+            "description": "User option – soft blue background",
+            "type": "color",
+            "value": "#F7F9FC"
+          },
+          "option2_soft_lavender": {
+            "description": "User option – soft lavender background",
+            "type": "color",
+            "value": "#F3F2F7"
+          },
+          "option3_nature_green": {
+            "description": "User option – spiritual deep green",
+            "type": "color",
+            "value": "#3A4D1C"
+          }
+        }
+      },
+      "prayer": {
+        "asr": {
+          "description": "Afternoon amber",
+          "type": "color",
+          "value": "#FFB347"
+        },
+        "asrDark": {
+          "type": "color",
+          "value": "#FF9A14"
+        },
+        "asrLight": {
+          "type": "color",
+          "value": "#FFCC7A"
+        },
+        "dhuhr": {
+          "description": "Noon sky blue",
+          "type": "color",
+          "value": "#87CEEB"
+        },
+        "dhuhrDark": {
+          "type": "color",
+          "value": "#5FBCE3"
+        },
+        "dhuhrLight": {
+          "type": "color",
+          "value": "#B0E0F3"
+        },
+        "fajr": {
+          "description": "Dawn orange",
+          "type": "color",
+          "value": "#FFE4B5"
+        },
+        "fajrDark": {
+          "type": "color",
+          "value": "#FFD494"
+        },
+        "fajrLight": {
+          "type": "color",
+          "value": "#FFF3DC"
+        },
+        "isha": {
+          "description": "Night indigo",
+          "type": "color",
+          "value": "#191970"
+        },
+        "ishaDark": {
+          "type": "color",
+          "value": "#0F0F4A"
+        },
+        "ishaLight": {
+          "type": "color",
+          "value": "#4B4B9F"
+        },
+        "maghrib": {
+          "description": "Sunset red",
+          "type": "color",
+          "value": "#FF6B6B"
+        },
+        "maghribDark": {
+          "type": "color",
+          "value": "#FF3D3D"
+        },
+        "maghribLight": {
+          "type": "color",
+          "value": "#FF9999"
+        }
+      },
+      "primary": {
+        "100": {
+          "type": "color",
+          "value": "#C8E6C9"
+        },
+        "200": {
+          "type": "color",
+          "value": "#A5D6A7"
+        },
+        "300": {
+          "type": "color",
+          "value": "#81C784"
+        },
+        "400": {
+          "type": "color",
+          "value": "#66BB6A"
+        },
+        "50": {
+          "description": "Lightest Islamic Green",
+          "type": "color",
+          "value": "#E8F5E9"
+        },
+        "500": {
+          "description": "Primary Islamic Green",
+          "type": "color",
+          "value": "#4CAF50"
+        },
+        "600": {
+          "type": "color",
+          "value": "#43A047"
+        },
+        "700": {
+          "type": "color",
+          "value": "#388E3C"
+        },
+        "800": {
+          "type": "color",
+          "value": "#2E7D32"
+        },
+        "900": {
+          "description": "Darkest Islamic Green",
+          "type": "color",
+          "value": "#1B5E20"
+        }
+      },
+      "ramadan": {
+        "accent": {
+          "description": "Night purple",
+          "type": "color",
+          "value": "#4B0082"
+        },
+        "moon": {
+          "type": "color",
+          "value": "#F0E68C"
+        },
+        "primary": {
+          "description": "Date brown",
+          "type": "color",
+          "value": "#8B4513"
+        },
+        "secondary": {
+          "description": "Lantern gold",
+          "type": "color",
+          "value": "#D4AF37"
+        },
+        "star": {
+          "type": "color",
+          "value": "#FFD700"
+        }
+      },
+      "status": {
+        "error": {
+          "type": "color",
+          "value": "#F44336"
+        },
+        "errorDark": {
+          "type": "color",
+          "value": "#D32F2F"
+        },
+        "errorLight": {
+          "type": "color",
+          "value": "#EF5350"
+        },
+        "info": {
+          "type": "color",
+          "value": "#2196F3"
+        },
+        "infoDark": {
+          "type": "color",
+          "value": "#1976D2"
+        },
+        "infoLight": {
+          "type": "color",
+          "value": "#64B5F6"
+        },
+        "success": {
+          "type": "color",
+          "value": "#4CAF50"
+        },
+        "successDark": {
+          "type": "color",
+          "value": "#388E3C"
+        },
+        "successLight": {
+          "type": "color",
+          "value": "#81C784"
+        },
+        "warning": {
+          "type": "color",
+          "value": "#FF9800"
+        },
+        "warningDark": {
+          "type": "color",
+          "value": "#F57C00"
+        },
+        "warningLight": {
+          "type": "color",
+          "value": "#FFB74D"
+        }
+      }
+    },
+    "grid": {
+      "columns": {
+        "1": {
+          "type": "other",
+          "value": "1"
+        },
+        "12": {
+          "type": "other",
+          "value": "12"
+        },
+        "16": {
+          "type": "other",
+          "value": "16"
+        },
+        "2": {
+          "type": "other",
+          "value": "2"
+        },
+        "3": {
+          "type": "other",
+          "value": "3"
+        },
+        "4": {
+          "type": "other",
+          "value": "4"
+        },
+        "5": {
+          "type": "other",
+          "value": "5"
+        },
+        "6": {
+          "type": "other",
+          "value": "6"
+        },
+        "8": {
+          "type": "other",
+          "value": "8"
+        }
+      },
+      "gap": {
+        "lg": {
+          "type": "spacing",
+          "value": "{01-core/primitives.spacing.6}"
+        },
+        "md": {
+          "type": "spacing",
+          "value": "{01-core/primitives.spacing.4}"
+        },
+        "sm": {
+          "type": "spacing",
+          "value": "{01-core/primitives.spacing.3}"
+        },
+        "xl": {
+          "type": "spacing",
+          "value": "{01-core/primitives.spacing.8}"
+        },
+        "xs": {
+          "type": "spacing",
+          "value": "{01-core/primitives.spacing.2}"
+        }
+      }
+    },
+    "motion": {
+      "duration": {
+        "adhan": {
+          "description": "For prayer notifications",
+          "type": "duration",
+          "value": "1000ms"
+        },
+        "compass": {
+          "description": "For Qibla compass",
+          "type": "duration",
+          "value": "600ms"
+        },
+        "fast": {
+          "type": "duration",
+          "value": "200ms"
+        },
+        "instant": {
+          "type": "duration",
+          "value": "100ms"
+        },
+        "normal": {
+          "type": "duration",
+          "value": "300ms"
+        },
+        "slow": {
+          "type": "duration",
+          "value": "500ms"
+        },
+        "slower": {
+          "type": "duration",
+          "value": "700ms"
+        },
+        "slowest": {
+          "type": "duration",
+          "value": "1000ms"
+        }
+      },
+      "easing": {
+        "bounce": {
+          "type": "other",
+          "value": "cubic-bezier(0.68, -0.55, 0.265, 1.55)"
+        },
+        "easeIn": {
+          "type": "other",
+          "value": "cubic-bezier(0.4, 0, 1, 1)"
+        },
+        "easeInOut": {
+          "type": "other",
+          "value": "cubic-bezier(0.4, 0, 0.2, 1)"
+        },
+        "easeInOutSine": {
+          "type": "other",
+          "value": "cubic-bezier(0.37, 0, 0.63, 1)"
+        },
+        "easeInSine": {
+          "type": "other",
+          "value": "cubic-bezier(0.12, 0, 0.39, 0)"
+        },
+        "easeOut": {
+          "type": "other",
+          "value": "cubic-bezier(0, 0, 0.2, 1)"
+        },
+        "easeOutSine": {
+          "type": "other",
+          "value": "cubic-bezier(0.61, 1, 0.88, 1)"
+        },
+        "linear": {
+          "type": "other",
+          "value": "linear"
+        },
+        "prayer": {
+          "type": "other",
+          "value": "cubic-bezier(0.25, 0.46, 0.45, 0.94)"
+        }
+      }
+    },
+    "opacity": {
+      "0": {
+        "type": "opacity",
+        "value": "0"
+      },
+      "10": {
+        "type": "opacity",
+        "value": "0.1"
+      },
+      "100": {
+        "type": "opacity",
+        "value": "1"
+      },
+      "20": {
+        "type": "opacity",
+        "value": "0.2"
+      },
+      "25": {
+        "type": "opacity",
+        "value": "0.25"
+      },
+      "30": {
+        "type": "opacity",
+        "value": "0.3"
+      },
+      "40": {
+        "type": "opacity",
+        "value": "0.4"
+      },
+      "5": {
+        "type": "opacity",
+        "value": "0.05"
+      },
+      "50": {
+        "type": "opacity",
+        "value": "0.5"
+      },
+      "60": {
+        "type": "opacity",
+        "value": "0.6"
+      },
+      "70": {
+        "type": "opacity",
+        "value": "0.7"
+      },
+      "75": {
+        "type": "opacity",
+        "value": "0.75"
+      },
+      "80": {
+        "type": "opacity",
+        "value": "0.8"
+      },
+      "90": {
+        "type": "opacity",
+        "value": "0.9"
+      },
+      "95": {
+        "type": "opacity",
+        "value": "0.95"
+      }
+    },
+    "radius": {
+      "2xl": {
+        "type": "borderRadius",
+        "value": "32"
+      },
+      "3xl": {
+        "type": "borderRadius",
+        "value": "48"
+      },
+      "full": {
+        "type": "borderRadius",
+        "value": "999"
+      },
+      "islamic": {
+        "description": "Mosque arch inspired",
+        "type": "borderRadius",
+        "value": "20"
+      },
+      "lg": {
+        "type": "borderRadius",
+        "value": "16"
+      },
+      "md": {
+        "type": "borderRadius",
+        "value": "12"
+      },
+      "none": {
+        "type": "borderRadius",
+        "value": "0"
+      },
+      "sm": {
+        "type": "borderRadius",
+        "value": "8"
+      },
+      "xl": {
+        "type": "borderRadius",
+        "value": "24"
+      },
+      "xs": {
+        "type": "borderRadius",
+        "value": "4"
+      }
+    },
+    "shadows": {
+      "2xl": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "50",
+          "color": "rgba(0, 0, 0, 0.15)",
+          "spread": "-12",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "25"
+        }
+      },
+      "inner": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "4",
+          "color": "rgba(0, 0, 0, 0.06)",
+          "spread": "0",
+          "type": "innerShadow",
+          "x": "0",
+          "y": "2"
+        }
+      },
+      "lg": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "15",
+          "color": "rgba(0, 0, 0, 0.1)",
+          "spread": "-3",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "10"
+        }
+      },
+      "md": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "6",
+          "color": "rgba(0, 0, 0, 0.1)",
+          "spread": "-1",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "4"
+        }
+      },
+      "none": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "0",
+          "color": "transparent",
+          "spread": "0",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0"
+        }
+      },
+      "sm": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "4",
+          "color": "rgba(0, 0, 0, 0.06)",
+          "spread": "0",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "2"
+        }
+      },
+      "xl": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "25",
+          "color": "rgba(0, 0, 0, 0.1)",
+          "spread": "-5",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "20"
+        }
+      },
+      "xs": {
+        "type": "boxShadow",
+        "value": {
+          "blur": "2",
+          "color": "rgba(0, 0, 0, 0.05)",
+          "spread": "0",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "1"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "type": "spacing",
+        "value": "0"
+      },
+      "0.5": {
+        "type": "spacing",
+        "value": "2"
+      },
+      "1": {
+        "type": "spacing",
+        "value": "4"
+      },
+      "1.5": {
+        "type": "spacing",
+        "value": "6"
+      },
+      "10": {
+        "type": "spacing",
+        "value": "40"
+      },
+      "11": {
+        "type": "spacing",
+        "value": "44"
+      },
+      "12": {
+        "type": "spacing",
+        "value": "48"
+      },
+      "14": {
+        "type": "spacing",
+        "value": "56"
+      },
+      "16": {
+        "type": "spacing",
+        "value": "64"
+      },
+      "2": {
+        "type": "spacing",
+        "value": "8"
+      },
+      "2.5": {
+        "type": "spacing",
+        "value": "10"
+      },
+      "20": {
+        "type": "spacing",
+        "value": "80"
+      },
+      "24": {
+        "type": "spacing",
+        "value": "96"
+      },
+      "28": {
+        "type": "spacing",
+        "value": "112"
+      },
+      "3": {
+        "type": "spacing",
+        "value": "12"
+      },
+      "3.5": {
+        "type": "spacing",
+        "value": "14"
+      },
+      "32": {
+        "type": "spacing",
+        "value": "128"
+      },
+      "36": {
+        "type": "spacing",
+        "value": "144"
+      },
+      "4": {
+        "type": "spacing",
+        "value": "16"
+      },
+      "40": {
+        "type": "spacing",
+        "value": "160"
+      },
+      "44": {
+        "type": "spacing",
+        "value": "176"
+      },
+      "48": {
+        "type": "spacing",
+        "value": "192"
+      },
+      "5": {
+        "type": "spacing",
+        "value": "20"
+      },
+      "52": {
+        "type": "spacing",
+        "value": "208"
+      },
+      "56": {
+        "type": "spacing",
+        "value": "224"
+      },
+      "6": {
+        "type": "spacing",
+        "value": "24"
+      },
+      "60": {
+        "type": "spacing",
+        "value": "240"
+      },
+      "64": {
+        "type": "spacing",
+        "value": "256"
+      },
+      "7": {
+        "type": "spacing",
+        "value": "28"
+      },
+      "72": {
+        "type": "spacing",
+        "value": "288"
+      },
+      "8": {
+        "type": "spacing",
+        "value": "32"
+      },
+      "80": {
+        "type": "spacing",
+        "value": "320"
+      },
+      "9": {
+        "type": "spacing",
+        "value": "36"
+      },
+      "96": {
+        "type": "spacing",
+        "value": "384"
+      }
+    },
+    "typography": {
+      "fontFamilies": {
+        "arabic": {
+          "type": "fontFamilies",
+          "value": "Amiri, 'Traditional Arabic', 'Noto Naskh Arabic', serif"
+        },
+        "arabicDisplay": {
+          "type": "fontFamilies",
+          "value": "'Reem Kufi', 'Kufi', 'Cairo', sans-serif"
+        },
+        "bengali": {
+          "type": "fontFamilies",
+          "value": "'Noto Sans Bengali', 'Akaash', sans-serif"
+        },
+        "french": {
+          "type": "fontFamilies",
+          "value": "'SF Pro Display', 'Roboto', sans-serif"
+        },
+        "hindi": {
+          "type": "fontFamilies",
+          "value": "'Noto Sans Devanagari', 'Mukta', sans-serif"
+        },
+        "indonesian": {
+          "type": "fontFamilies",
+          "value": "'SF Pro Display', 'Roboto', sans-serif"
+        },
+        "latin": {
+          "type": "fontFamilies",
+          "value": "'SF Pro Display', -apple-system, system-ui, 'Segoe UI', Roboto, sans-serif"
+        },
+        "malay": {
+          "type": "fontFamilies",
+          "value": "'SF Pro Display', 'Roboto', sans-serif"
+        },
+        "mono": {
+          "type": "fontFamilies",
+          "value": "'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace"
+        },
+        "persian": {
+          "type": "fontFamilies",
+          "value": "'Vazir', 'IranSans', 'Sahel', sans-serif"
+        },
+        "russian": {
+          "type": "fontFamilies",
+          "value": "'SF Pro Display', 'Roboto', 'Noto Sans', sans-serif"
+        },
+        "swahili": {
+          "type": "fontFamilies",
+          "value": "'SF Pro Display', 'Roboto', sans-serif"
+        },
+        "turkish": {
+          "type": "fontFamilies",
+          "value": "'SF Pro Display', 'Roboto', sans-serif"
+        },
+        "urdu": {
+          "type": "fontFamilies",
+          "value": "'Noto Nastaliq Urdu', 'Nafees', 'Jameel Noori Nastaleeq', serif"
+        }
+      },
+      "fontSizes": {
+        "2xl": {
+          "type": "fontSizes",
+          "value": "24"
+        },
+        "2xs": {
+          "type": "fontSizes",
+          "value": "10"
+        },
+        "3xl": {
+          "type": "fontSizes",
+          "value": "30"
+        },
+        "4xl": {
+          "type": "fontSizes",
+          "value": "36"
+        },
+        "5xl": {
+          "type": "fontSizes",
+          "value": "48"
+        },
+        "6xl": {
+          "type": "fontSizes",
+          "value": "60"
+        },
+        "7xl": {
+          "type": "fontSizes",
+          "value": "72"
+        },
+        "8xl": {
+          "type": "fontSizes",
+          "value": "96"
+        },
+        "9xl": {
+          "type": "fontSizes",
+          "value": "128"
+        },
+        "base": {
+          "type": "fontSizes",
+          "value": "16"
+        },
+        "lg": {
+          "type": "fontSizes",
+          "value": "18"
+        },
+        "sm": {
+          "type": "fontSizes",
+          "value": "14"
+        },
+        "xl": {
+          "type": "fontSizes",
+          "value": "20"
+        },
+        "xs": {
+          "type": "fontSizes",
+          "value": "12"
+        }
+      },
+      "fontWeights": {
+        "black": {
+          "type": "fontWeights",
+          "value": "900"
+        },
+        "bold": {
+          "type": "fontWeights",
+          "value": "700"
+        },
+        "extrabold": {
+          "type": "fontWeights",
+          "value": "800"
+        },
+        "extralight": {
+          "type": "fontWeights",
+          "value": "200"
+        },
+        "light": {
+          "type": "fontWeights",
+          "value": "300"
+        },
+        "medium": {
+          "type": "fontWeights",
+          "value": "500"
+        },
+        "regular": {
+          "type": "fontWeights",
+          "value": "400"
+        },
+        "semibold": {
+          "type": "fontWeights",
+          "value": "600"
+        },
+        "thin": {
+          "type": "fontWeights",
+          "value": "100"
+        }
+      },
+      "letterSpacing": {
+        "arabic": {
+          "type": "letterSpacing",
+          "value": "0.05em"
+        },
+        "normal": {
+          "type": "letterSpacing",
+          "value": "0em"
+        },
+        "tight": {
+          "type": "letterSpacing",
+          "value": "-0.025em"
+        },
+        "tighter": {
+          "type": "letterSpacing",
+          "value": "-0.05em"
+        },
+        "wide": {
+          "type": "letterSpacing",
+          "value": "0.025em"
+        },
+        "wider": {
+          "type": "letterSpacing",
+          "value": "0.05em"
+        },
+        "widest": {
+          "type": "letterSpacing",
+          "value": "0.1em"
+        }
+      },
+      "lineHeights": {
+        "arabic": {
+          "description": "For Arabic script",
+          "type": "lineHeights",
+          "value": "200%"
+        },
+        "loose": {
+          "type": "lineHeights",
+          "value": "200%"
+        },
+        "none": {
+          "type": "lineHeights",
+          "value": "100%"
+        },
+        "normal": {
+          "type": "lineHeights",
+          "value": "150%"
+        },
+        "persian": {
+          "description": "For Persian script",
+          "type": "lineHeights",
+          "value": "180%"
+        },
+        "relaxed": {
+          "type": "lineHeights",
+          "value": "170%"
+        },
+        "snug": {
+          "type": "lineHeights",
+          "value": "130%"
+        },
+        "tight": {
+          "type": "lineHeights",
+          "value": "110%"
+        },
+        "urdu": {
+          "description": "For Urdu Nastaliq",
+          "type": "lineHeights",
+          "value": "220%"
+        }
+      }
+    }
+  }
+}

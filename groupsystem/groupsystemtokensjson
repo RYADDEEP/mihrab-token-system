@@ -1,0 +1,339 @@
+{
+  "$metadata": {},
+  "$schema": "https://schemas.tokens.studio/standard.schema.json",
+  "$themes": [],
+  "group_system_tokens": {
+    "groupActions": {
+      "invite": {
+        "ar": "دَعْوَةٌ إِلَى الْمَجْمُوعَةِ",
+        "bn": "গ্রুপে আমন্ত্রণ জানান",
+        "en": "Invite to Group",
+        "fa": "دعوت به گروه",
+        "fr": "Inviter au Groupe",
+        "hi": "समूह में आमंत्रित करें",
+        "id": "Undang ke Grup",
+        "ms": "Jemput ke Kumpulan",
+        "ru": "Пригласить в Группу",
+        "sw": "Alika kwenye Kikundi",
+        "tr": "Gruba Davet Et",
+        "ur": "گروپ میں دعوت دیں"
+      },
+      "join": {
+        "ar": "انْضِمَامٌ إِلَى الْمَجْمُوعَةِ",
+        "bn": "গ্রুপে যোগ দিন",
+        "en": "Join Group",
+        "fa": "عضویت در گروه",
+        "fr": "Rejoindre le Groupe",
+        "hi": "समूह में शामिल हों",
+        "id": "Bergabung dengan Grup",
+        "ms": "Sertai Kumpulan",
+        "ru": "Присоединиться к Группе",
+        "sw": "Jiunge na Kikundi",
+        "tr": "Gruba Katıl",
+        "ur": "گروپ میں شامل ہوں"
+      },
+      "leave": {
+        "ar": "مُغَادَرَةُ الْمَجْمُوعَةِ",
+        "bn": "গ্রুপ ছাড়ুন",
+        "en": "Leave Group",
+        "fa": "ترک گروه",
+        "fr": "Quitter le Groupe",
+        "hi": "समूह छोड़ें",
+        "id": "Keluar dari Grup",
+        "ms": "Keluar dari Kumpulan",
+        "ru": "Покинуть Группу",
+        "sw": "Ondoka Kikundi",
+        "tr": "Gruptan Ayrıl",
+        "ur": "گروپ چھوڑیں"
+      }
+    },
+    "groupTypes": [
+      {
+        "adminName": "user-input",
+        "adminRole": "imam",
+        "groupId": "group_001",
+        "groupName": "user-input",
+        "groupType": "mosque_group",
+        "labels": {
+          "adminRole": {
+            "ar": "إِمَامٌ",
+            "bn": "ইমাম",
+            "en": "Imam",
+            "fa": "امام",
+            "fr": "Imam",
+            "hi": "इमाम",
+            "id": "Imam",
+            "ms": "Imam",
+            "ru": "Имам",
+            "sw": "Imam",
+            "tr": "İmam",
+            "ur": "امام"
+          },
+          "groupType": {
+            "ar": "مَجْمُوعَةُ الْمَسْجِدِ",
+            "bn": "মসজিদ গ্রুপ",
+            "en": "Mosque Group",
+            "fa": "گروه مسجد",
+            "fr": "Groupe de Mosquée",
+            "hi": "मस्जिद समूह",
+            "id": "Grup Masjid",
+            "ms": "Kumpulan Masjid",
+            "ru": "Группа Мечети",
+            "sw": "Kikundi cha Msikiti",
+            "tr": "Cami Grubu",
+            "ur": "مسجد گروپ"
+          },
+          "memberRole": {
+            "ar": "مُصَلٍّ",
+            "bn": "মুসল্লি",
+            "en": "Worshipper",
+            "fa": "نمازگزار",
+            "fr": "Fidèle",
+            "hi": "उपासक",
+            "id": "Jamaah",
+            "ms": "Jemaah",
+            "ru": "Прихожанин",
+            "sw": "Muomba",
+            "tr": "Cemaat",
+            "ur": "نمازی"
+          }
+        },
+        "memberName": "user-input",
+        "memberRole": "worshipper",
+        "permissions": {
+          "canCreateEvent": false,
+          "canInviteMembers": false,
+          "canManageMembers": true,
+          "canPostAnnouncements": true,
+          "canSchedulePrayers": false,
+          "canShareContent": true,
+          "canViewMemberList": true
+        }
+      },
+      {
+        "adminName": "user-input",
+        "adminRole": "family_head",
+        "groupId": "group_002",
+        "groupName": "user-input",
+        "groupType": "family_circle",
+        "labels": {
+          "adminRole": {
+            "ar": "رَبُّ الْأُسْرَةِ",
+            "bn": "পারিবারিক প্রধান",
+            "en": "Family Head",
+            "fa": "سرپرست خانواده",
+            "fr": "Chef de Famille",
+            "hi": "पारिवारिक मुखिया",
+            "id": "Kepala Keluarga",
+            "ms": "Ketua Keluarga",
+            "ru": "Глава Семьи",
+            "sw": "Mkuu wa Familia",
+            "tr": "Aile Reisi",
+            "ur": "خاندان کا سربراہ"
+          },
+          "groupType": {
+            "ar": "دَائِرَةُ الْعَائِلَةِ",
+            "bn": "পারিবারিক চক্র",
+            "en": "Family Circle",
+            "fa": "حلقه خانواده",
+            "fr": "Cercle Familial",
+            "hi": "पारिवारिक वृत्त",
+            "id": "Lingkaran Keluarga",
+            "ms": "Lingkungan Keluarga",
+            "ru": "Семейный Круг",
+            "sw": "Duara la Familia",
+            "tr": "Aile Çevresi",
+            "ur": "خاندانی حلقہ"
+          },
+          "memberRole": {
+            "ar": "فَرْدٌ مِنَ الْعَائِلَةِ",
+            "bn": "পরিবারের সদস্য",
+            "en": "Family Member",
+            "fa": "عضو خانواده",
+            "fr": "Membre de la Famille",
+            "hi": "पारिवारिक सदस्य",
+            "id": "Anggota Keluarga",
+            "ms": "Ahli Keluarga",
+            "ru": "Член Семьи",
+            "sw": "Mwanafamilia",
+            "tr": "Aile Üyesi",
+            "ur": "خاندان کا رُکن"
+          }
+        },
+        "memberName": "user-input",
+        "memberRole": "family_member",
+        "permissions": {
+          "canCreateEvent": true,
+          "canInviteMembers": true,
+          "canManageMembers": true,
+          "canPostAnnouncements": true,
+          "canSchedulePrayers": true,
+          "canShareContent": true,
+          "canViewMemberList": true
+        }
+      },
+      {
+        "adminName": "user-input",
+        "adminRole": "teacher",
+        "groupId": "group_003",
+        "groupName": "user-input",
+        "groupType": "study_circle",
+        "labels": {
+          "adminRole": {
+            "ar": "مُعَلِّمٌ",
+            "bn": "শিক্ষক",
+            "en": "Teacher",
+            "fa": "معلم",
+            "fr": "Enseignant",
+            "hi": "शिक्षक",
+            "id": "Guru/Ustadz",
+            "ms": "Guru",
+            "ru": "Учитель",
+            "sw": "Mwalimu",
+            "tr": "Öğretmen",
+            "ur": "استاذ"
+          },
+          "groupType": {
+            "ar": "حَلْقَةُ الدَّرْسِ",
+            "bn": "অধ্যয়ন চক্র",
+            "en": "Study Circle",
+            "fa": "حلقه درس",
+            "fr": "Cercle d'Étude",
+            "hi": "अध्ययन वृत्त",
+            "id": "Halaqah Kajian",
+            "ms": "Halaqah Pengajian",
+            "ru": "Учебный Круг",
+            "sw": "Duara la Masomo",
+            "tr": "Ders Halkası",
+            "ur": "درس کا حلقہ"
+          },
+          "memberRole": {
+            "ar": "طَالِبٌ",
+            "bn": "ছাত্র",
+            "en": "Student",
+            "fa": "شاگرد",
+            "fr": "Étudiant",
+            "hi": "छात्र",
+            "id": "Santri/Siswa",
+            "ms": "Pelajar",
+            "ru": "Ученик",
+            "sw": "Mwanafunzi",
+            "tr": "Öğrenci",
+            "ur": "طالب علم"
+          }
+        },
+        "memberName": "user-input",
+        "memberRole": "student",
+        "permissions": {
+          "canCreateEvent": true,
+          "canInviteMembers": true,
+          "canManageMembers": false,
+          "canPostAnnouncements": false,
+          "canSchedulePrayers": false,
+          "canShareContent": true,
+          "canViewMemberList": true
+        }
+      }
+    ],
+    "permissionLabels": {
+      "canCreateEvent": {
+        "ar": "يَسْتَطِيعُ إِنْشَاءَ الْفَعَالِيَّاتِ",
+        "bn": "অনুষ্ঠান তৈরি করতে পারেন",
+        "en": "Can Create Event",
+        "fa": "می‌تواند رویداد ایجاد کند",
+        "fr": "Peut Créer un Événement",
+        "hi": "कार्यक्रम बना सकते हैं",
+        "id": "Dapat Membuat Acara",
+        "ms": "Boleh Mencipta Acara",
+        "ru": "Может Создавать События",
+        "sw": "Anaweza Kuunda Tukio",
+        "tr": "Etkinlik Oluşturabilir",
+        "ur": "تقریب بنا سکتے ہیں"
+      },
+      "canInviteMembers": {
+        "ar": "يَسْتَطِيعُ دَعْوَةَ الْأَعْضَاءِ",
+        "bn": "সদস্যদের আমন্त্রণ জানাতে পারেন",
+        "en": "Can Invite Members",
+        "fa": "می‌تواند اعضا را دعوت کند",
+        "fr": "Peut Inviter des Membres",
+        "hi": "सदस्यों को आमंत्रित कर सकते हैं",
+        "id": "Dapat Mengundang Anggota",
+        "ms": "Boleh Menjemput Ahli",
+        "ru": "Может Приглашать Участников",
+        "sw": "Anaweza Kualika Wanachama",
+        "tr": "Üye Davet Edebilir",
+        "ur": "ممبران کو دعوت دے سکتے ہیں"
+      },
+      "canManageMembers": {
+        "ar": "يَسْتَطِيعُ إِدَارَةَ الْأَعْضَاءِ",
+        "bn": "সদস্যদের পরিচালনা করতে পারেন",
+        "en": "Can Manage Members",
+        "fa": "می‌تواند اعضا را مدیریت کند",
+        "fr": "Peut Gérer les Membres",
+        "hi": "सदस्यों का प्रबंधन कर सकते हैं",
+        "id": "Dapat Mengelola Anggota",
+        "ms": "Boleh Menguruskan Ahli",
+        "ru": "Может Управлять Участниками",
+        "sw": "Anaweza Kusimamia Wanachama",
+        "tr": "Üyeleri Yönetebilir",
+        "ur": "ممبران کا انتظام کر سکتے ہیں"
+      },
+      "canPostAnnouncements": {
+        "ar": "يَسْتَطِيعُ نَشْرَ الْإِعْلَانَاتِ",
+        "bn": "ঘোষণা পোস্ট করতে পারেন",
+        "en": "Can Post Announcements",
+        "fa": "می‌تواند اطلاعیه منتشر کند",
+        "fr": "Peut Publier des Annonces",
+        "hi": "घोषणाएं पोस्ट कर सकते हैं",
+        "id": "Dapat Posting Pengumuman",
+        "ms": "Boleh Menyiarkan Pengumuman",
+        "ru": "Может Публиковать Объявления",
+        "sw": "Anaweza Kutangaza Matangazo",
+        "tr": "Duyuru Yayınlayabilir",
+        "ur": "اعلانات پوسٹ کر سکتے ہیں"
+      },
+      "canSchedulePrayers": {
+        "ar": "يَسْتَطِيعُ جَدْوَلَةَ الصَّلَوَاتِ",
+        "bn": "নামাজের সময়সূচী করতে পারেন",
+        "en": "Can Schedule Prayers",
+        "fa": "می‌تواند نماز برنامه‌ریزی کند",
+        "fr": "Peut Programmer les Prières",
+        "hi": "नमाज़ का समय निर्धारित कर सकते हैं",
+        "id": "Dapat Menjadwalkan Sholat",
+        "ms": "Boleh Menjadualkan Solat",
+        "ru": "Может Планировать Молитвы",
+        "sw": "Anaweza Kupanga Maombi",
+        "tr": "Namaz Programlayabilir",
+        "ur": "نماز کا وقت مقرر کر سکتے ہیں"
+      },
+      "canShareContent": {
+        "ar": "يَسْتَطِيعُ مُشَارَكَةَ الْمُحْتَوَى",
+        "bn": "বিষয়বস্তু শেয়ার করতে পারেন",
+        "en": "Can Share Content",
+        "fa": "می‌تواند محتوا به اشتراک بگذارد",
+        "fr": "Peut Partager du Contenu",
+        "hi": "सामग्री साझा कर सकते हैं",
+        "id": "Dapat Berbagi Konten",
+        "ms": "Boleh Berkongsi Kandungan",
+        "ru": "Может Делиться Контентом",
+        "sw": "Anaweza Kushiriki Maudhui",
+        "tr": "İçerik Paylaşabilir",
+        "ur": "مواد شیئر کر سکتے ہیں"
+      },
+      "canViewMemberList": {
+        "ar": "يَسْتَطِيعُ عَرْضَ قَائِمَةِ الْأَعْضَاءِ",
+        "bn": "সদস্য তালিকা দেখতে পারেন",
+        "en": "Can View Member List",
+        "fa": "می‌تواند فهرست اعضا را ببیند",
+        "fr": "Peut Voir la Liste des Membres",
+        "hi": "सदस्य सूची देख सकते हैं",
+        "id": "Dapat Melihat Daftar Anggota",
+        "ms": "Boleh Melihat Senarai Ahli",
+        "ru": "Может Просматривать Список Участников",
+        "sw": "Anaweza Kuona Orodha ya Wanachama",
+        "tr": "Üye Listesini Görüntüleyebilir",
+        "ur": "ممبران کی فہرست دیکھ سکتے ہیں"
+      }
+    }
+  }
+}
