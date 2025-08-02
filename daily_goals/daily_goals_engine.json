@@ -1,0 +1,102 @@
+[
+  {
+    "goal_type": "quran",
+    "min_time": 10,
+    "unit": "minutes",
+    "enabled": true,
+    "label_translations": {
+      "en": "Read Quran for 10 minutes",
+      "ar": "اقْرَأِ الْقُرْآنَ لِمُدَّةِ عَشْرِ دَقَائِقَ",
+      "id": "Baca Al-Quran selama 10 menit",
+      "ur": "دس منٹ قرآن پڑھیں",
+      "tr": "10 dakika Kuran oku",
+      "fr": "Lire le Coran pendant 10 minutes",
+      "ru": "Читать Коран 10 минут",
+      "fa": "ده دقیقه قرآن بخوانید",
+      "hi": "10 मिनट कुरान पढ़ें",
+      "ms": "Baca Al-Quran selama 10 minit",
+      "sw": "Soma Qurani kwa dakika 10",
+      "bn": "১০ মিনিট কুরআন পড়ুন"
+    }
+  },
+  {
+    "goal_type": "prayer",
+    "min_time": 15,
+    "unit": "minutes",
+    "enabled": true,
+    "label_translations": {
+      "en": "Complete all 5 daily prayers",
+      "ar": "أَتِمَّ الصَّلَوَاتِ الْخَمْسَ الْيَوْمِيَّةَ",
+      "id": "Lengkapi 5 shalat harian",
+      "ur": "پانچ وقت کی نماز مکمل کریں",
+      "tr": "5 vakit namazını tamamla",
+      "fr": "Accomplir les 5 prières quotidiennes",
+      "ru": "Совершить все 5 ежедневных молитв",
+      "fa": "پنج نماز روزانه را کامل کنید",
+      "hi": "5 दैनिक नमाज़ पूरी करें",
+      "ms": "Lengkapkan 5 solat harian",
+      "sw": "Timiza maombi 5 ya kila siku",
+      "bn": "দৈনিক ৫ ওয়াক্ত নামাজ সম্পূর্ণ করুন"
+    }
+  },
+  {
+    "goal_type": "dhikr",
+    "min_time": 5,
+    "unit": "minutes",
+    "enabled": true,
+    "label_translations": {
+      "en": "5 minutes of dhikr remembrance",
+      "ar": "خَمْسُ دَقَائِقَ مِنْ ذِكْرِ اللَّهِ",
+      "id": "5 menit berdzikir mengingat Allah",
+      "ur": "پانچ منٹ ذکر الٰہی",
+      "tr": "5 dakika zikir yap",
+      "fr": "5 minutes de dhikr (invocation)",
+      "ru": "5 минут поминания Аллаха (зикр)",
+      "fa": "پنج دقیقه ذکر خدا",
+      "hi": "5 मिनट जिक्र (अल्लाह का स्मरण)",
+      "ms": "5 minit berzikir mengingati Allah",
+      "sw": "Dakika 5 za kumkumbuka Mwenyezi Mungu",
+      "bn": "৫ মিনিট আল্লাহর জিকির"
+    }
+  },
+  {
+    "goal_type": "dua",
+    "min_time": 3,
+    "unit": "minutes",
+    "enabled": true,
+    "label_translations": {
+      "en": "Make sincere dua for 3 minutes",
+      "ar": "ادْعُ دُعَاءً صَادِقًا لِمُدَّةِ ثَلَاثِ دَقَائِقَ",
+      "id": "Berdoa dengan khusyuk selama 3 menit",
+      "ur": "تین منٹ خلوص سے دعا کریں",
+      "tr": "3 dakika samimi dua et",
+      "fr": "Faire des invocations sincères pendant 3 minutes",
+      "ru": "Искренне молиться 3 минуты",
+      "fa": "سه دقیقه دعای صمیمانه کنید",
+      "hi": "3 मिनट सच्चे दिल से दुआ करें",
+      "ms": "Berdoa dengan ikhlas selama 3 minit",
+      "sw": "Omba kwa dhati kwa dakika 3",
+      "bn": "৩ মিনিট আন্তরিক দোয়া করুন"
+    }
+  },
+  {
+    "goal_type": "charity",
+    "min_time": 2,
+    "unit": "minutes",
+    "enabled": true,
+    "label_translations": {
+      "en": "Perform an act of charity today",
+      "ar": "اعْمَلْ عَمَلًا خَيْرِيًّا الْيَوْمَ",
+      "id": "Lakukan amal kebaikan hari ini",
+      "ur": "آج کوئی نیکی کا کام کریں",
+      "tr": "Bugün bir hayır işi yap",
+      "fr": "Accomplir un acte de charité aujourd'hui",
+      "ru": "Совершить благотворительный поступок сегодня",
+      "fa": "امروز کار خیری انجام دهید",
+      "hi": "आज कोई दान का काम करें",
+      "ms": "Lakukan amal kebajikan hari ini",
+      "sw": "Fanya tendo la hisani leo",
+      "bn": "আজ কোনো দানের কাজ করুন"
+    }
+  }
+]
