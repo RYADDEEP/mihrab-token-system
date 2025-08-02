@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "sleepwake_1",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "transliteration": "Bismika Allāhumma amootu wa aḥyā",
+    "source": "Bukhari 6324",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In Your name, O Allah, I die and I live."
+      },
+      "ar": {
+        "meaning": "باسمك اللهم أموت وأحيا"
+      },
+      "id": {
+        "meaning": "Dengan nama-Mu ya Allah, aku mati dan aku hidup."
+      },
+      "ur": {
+        "meaning": "اے اللہ! تیرے نام کے ساتھ میں مرتا ہوں اور زندہ ہوتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senin adınla ölür ve yaşarım."
+      },
+      "fr": {
+        "meaning": "En Ton nom, ô Allah, je meurs et je vis."
+      },
+      "ru": {
+        "meaning": "С именем Твоим, о Аллах, я умираю и живу."
+      },
+      "fa": {
+        "meaning": "با نام تو، ای الله، می‌میرم و زنده می‌شوم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! तेरे नाम के साथ मैं मरता हूँ और जीता हूँ।"
+      },
+      "ms": {
+        "meaning": "Dengan nama-Mu Ya Allah, aku mati dan aku hidup."
+      },
+      "sw": {
+        "meaning": "Kwa jina lako, Ee Allah, ninakufa na kuishi."
+      },
+      "bn": {
+        "meaning": "আপনার নামে, হে আল্লাহ, আমি মরি এবং বাঁচি।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_2",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+    "transliteration": "Allāhumma qinī ʿadhābakā yawma tabʿathu ʿibādak",
+    "source": "Tirmidhi 3390",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, save me from Your punishment on the Day You resurrect Your slaves."
+      },
+      "ar": {
+        "meaning": "اللهم قني عذابك يوم تبعث عبادك"
+      },
+      "id": {
+        "meaning": "Ya Allah, lindungilah aku dari azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu."
+      },
+      "ur": {
+        "meaning": "اے اللہ! مجھے اپنے عذاب سے بچا جس دن تو اپنے بندوں کو اٹھائے گا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kullarını dirilteceğin gün azabından beni koru."
+      },
+      "fr": {
+        "meaning": "Ô Allah, protège-moi de Ton châtiment le Jour où Tu ressusciteras Tes serviteurs."
+      },
+      "ru": {
+        "meaning": "О Аллах, защити меня от Твоего наказания в День, когда Ты воскресишь Своих рабов."
+      },
+      "fa": {
+        "meaning": "بار الها، مرا از عذاب خود در روزی که بندگانت را برمی‌انگیزی، حفظ کن."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मुझे अपने अज़ाब से बचा जिस दिन तू अपने बन्दों को उठाएगा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, peliharalah aku dari azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, unilinde kutokana na adhabu yako siku utakayowafufua waja wako."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, যেদিন আপনি আপনার বান্দাদের পুনরুত্থিত করবেন সেদিন আপনার শাস্তি থেকে আমাকে রক্ষা করুন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_3",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ، إِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+    "transliteration": "Bismika Rabbī waḍaʿtu janbī wa bika arfaʿuhu, in amsakta nafsī farḥamhā, wa in arsaltahā faḥfaẓhā bimā taḥfaẓu bihī ʿibādaka aṣ-ṣāliḥīn",
+    "source": "Bukhari 6320",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In Your name, my Lord, I lay my side, and in Your name, I raise it. If You take my soul, then have mercy upon it, and if You release it, then protect it with that by which You protect Your righteous servants."
+      },
+      "ar": {
+        "meaning": "باسمك ربي وضعت جنبي وبك أرفعه، إن أمسكت نفسي فارحمها، وإن أرسلتها فاحفظها بما تحفظ به عبادك الصالحين"
+      },
+      "id": {
+        "meaning": "Dengan nama-Mu, Tuhanku, aku meletakkan lambungku, dan dengan nama-Mu pula aku mengangkatnya. Jika Engkau menahan jiwaku, maka rahmatilah ia. Jika Engkau melepaskannya, maka peliharalah ia sebagaimana Engkau memelihara hamba-hamba-Mu yang saleh."
+      },
+      "ur": {
+        "meaning": "اے میرے رب! تیرے نام کے ساتھ میں نے اپنا پہلو رکھا اور تیرے ہی نام کے ساتھ میں اسے اٹھاتا ہوں۔ اگر تو میری جان کو روک لے تو اس پر رحم فرما، اور اگر اسے چھوڑ دے تو اسے اس چیز کے ذریعے محفوظ رکھ جس سے تو اپنے نیک بندوں کو محفوظ رکھتا ہے۔"
+      },
+      "tr": {
+        "meaning": "Rabbim! Senin adınla yanımı yatağa koydum ve yine Senin adınla kaldırırım. Eğer ruhumu alırsan, ona merhamet et; eğer salıverirsen, salih kullarını koruduğun şeyle onu koru."
+      },
+      "fr": {
+        "meaning": "En Ton nom, ô mon Seigneur, j'ai posé mon flanc et par Toi je le relève. Si Tu retiens mon âme, alors aie pitié d'elle, et si Tu la libères, alors protège-la par ce par quoi Tu protèges Tes serviteurs pieux."
+      },
+      "ru": {
+        "meaning": "С именем Твоим, мой Господь, я ложусь на бок и с именем Твоим поднимаюсь. Если Ты заберешь мою душу, то смилуйся над ней, а если отпустишь ее, то обереги ее тем, чем Ты оберегаешь Своих праведных рабов."
+      },
+      "fa": {
+        "meaning": "با نام تو، پروردگارم، پهلویم را گذاشتم و با تو آن را بلند می‌کنم. اگر جانم را بازداری، پس به آن رحم کن، و اگر رها کردی، پس آن را با آنچه بندگان صالحت را با آن حفظ می‌کنی، حفظ کن."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब! तेरे नाम के साथ मैंने अपना पहलू रखा और तेरे ही नाम के साथ मैं उसे उठाता हूँ। अगर तू मेरी जान को रोक ले तो उस पर रहम फरमा, और अगर उसे छोड़ दे तो उसे उस चीज़ के ज़रिए महफूज़ रख जिससे तू अपने नेक बन्दों को महफूज़ रखता है।"
+      },
+      "ms": {
+        "meaning": "Dengan nama-Mu, Tuhanku, aku meletakkan lambungku dan dengan nama-Mu aku mengangkatnya. Jika Engkau menahan jiwaku, maka rahmatilah ia. Jika Engkau melepaskannya, maka peliharalah ia sebagaimana Engkau memelihara hamba-hamba-Mu yang saleh."
+      },
+      "sw": {
+        "meaning": "Kwa jina lako, Mola wangu, nimelaza ubavu wangu na kwa jina lako nitaunyanyua. Ukinichukua roho yangu, basi irehemu, na ukiichilia, basi iilinde kwa yale unayowalinda kwayo waja wako wema."
+      },
+      "bn": {
+        "meaning": "আপনার নামে, আমার প্রতিপালক, আমি আমার পার্শ্ব রাখলাম এবং আপনার দ্বারা আমি তা উঠাই। যদি আপনি আমার আত্মাকে ধরে রাখেন, তবে তার উপর রহম করুন, এবং যদি আপনি তা ছেড়ে দেন, তবে তা রক্ষা করুন যার দ্বারা আপনি আপনার নেককার বান্দাদের রক্ষা করেন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_4",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لاَ كَافِيَ لَهُ وَلاَ مُؤْوِيَ",
+    "transliteration": "Alḥamdu lillāhi alladhī aṭʿamanā wa saqānā wa kafānā wa āwānā, fakam mimman lā kāfiya lahu wa lā muʾwiya",
+    "source": "Muslim 2715",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "All praise is for Allah Who fed us, gave us to drink, sufficed us, and gave us shelter. How many there are who have none to suffice them and none to shelter them!"
+      },
+      "ar": {
+        "meaning": "الحمد لله الذي أطعمنا وسقانا وكفانا وآوانا، فكم ممن لا كافي له ولا مؤوي"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah memberi kami makan dan minum, mencukupi kami dan memberi kami tempat tinggal. Betapa banyak orang yang tidak memiliki pencukupan dan tempat tinggal."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں کھلایا، پلایا، کفایت کی اور پناہ دی، پس کتنے ہی ایسے ہیں جن کے لیے نہ کوئی کافی ہے اور نہ کوئی پناہ دینے والا ہے۔"
+      },
+      "tr": {
+        "meaning": "Bizi doyuran, bize içiren, bize yeten ve bize barınak veren Allah'a hamd olsun. Nice kimseler var ki, ne kendilerine yeten ne de barınak veren vardır."
+      },
+      "fr": {
+        "meaning": "Toute louange est à Allah qui nous a nourris, nous a abreuvés, nous a suffi et nous a donné refuge. Que de gens n'ont personne pour leur suffire ni pour leur donner refuge !"
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который накормил нас, напоил нас, избавил нас от нужды и приютил нас. Скольких же нет, у кого нет того, кто бы им был достаточен и кто бы им дал приют!"
+      },
+      "fa": {
+        "meaning": "سپاس خدایی را که ما را خورانید و نوشانید و کفایت کرد و پناه داد. چه بسیارند کسانی که نه کفایت‌کننده‌ای دارند و نه پناه‌دهنده‌ای."
+      },
+      "hi": {
+        "meaning": "सारी प्रशंसा अल्लाह के लिए है जिसने हमें खिलाया, पिलाया, काफी किया और पनाह दी। कितने ही ऐसे हैं जिनके लिए न कोई काफी है और न कोई पनाह देने वाला।"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah memberi kami makan dan minum, mencukupi kami dan memberi kami tempat tinggal. Betapa ramai yang tidak mempunyai tempat mencukupi dan tempat tinggal!"
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah ambaye ametulisha, ametunywa, ametutosheleza, na ametupa hifadhi. Je, ni wangapi ambao hawana wa kuwatosheleza wala wa kuwapa hifadhi!"
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য যিনি আমাদের খাওয়ালেন, পান করালেন, আমাদের যথেষ্ট করলেন এবং আমাদের আশ্রয় দিলেন। কত লোক আছে যাদের জন্য যথেষ্ট কেউ নেই এবং আশ্রয়দাতা কেউ নেই!"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_5",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ وَالْفُرْقَانِ، أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+    "transliteration": "Allāhumma Rabbas-samāwātis-sabʿi wa Rabbal-ʿArshil-ʿAẓīm, Rabbanā wa Rabba kulli shayʾ, Fāliqal-ḥabbi wan-nawā, wa Munzilat-Tawrāti wal-Injīli wal-Furqān, aʿūdhu bika min sharri kulli shayʾin anta ākhidhun bināṣiyatihi, Allāhumma Antal-Awwalu falaysa qablaka shayʾun, wa Antal-Ākhiru falaysa baʿdaka shayʾun, wa Antaẓ-Ẓāhiru falaysa fawqaka shayʾun, wa Antal-Bāṭinu falaysa dūnaka shayʾun, iqḍi ʿannā ad-dayna wa aghninā minal-faqr",
+    "source": "Muslim 2713",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Lord of the seven heavens and Lord of the Magnificent Throne, our Lord and the Lord of everything, Splitter of the grain and the date-stone, Revealer of the Torah and the Injeel and the Furqan (Qur’an), I seek refuge in You from the evil of everything that You are seizing by its forelock. O Allah, You are the First, so there is nothing before You; and You are the Last, so there is nothing after You; and You are the Manifest, so there is nothing above You; and You are the Intimate, so there is nothing beyond You. Settle our debt for us and enrich us from poverty."
+      },
+      "ar": {
+        "meaning": "اللهم رب السماوات السبع ورب العرش العظيم، ربنا ورب كل شيء، فالق الحب والنوى، ومنزل التوراة والإنجيل والفرقان، أعوذ بك من شر كل شيء أنت آخذ بناصيته، اللهم أنت الأول فليس قبلك شيء، وأنت الآخر فليس بعدك شيء، وأنت الظاهر فليس فوقك شيء، وأنت الباطن فليس دونك شيء، اقض عنا الدين وأغننا من الفقر"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan tujuh langit dan Tuhan Arasy yang agung, Tuhan kami dan Tuhan segala sesuatu, Pembelah biji dan benih, Penurun Taurat, Injil dan Al-Furqan (Al-Qur'an), aku berlindung kepada-Mu dari kejahatan setiap sesuatu yang Engkau pegang ubun-ubunnya. Ya Allah, Engkau adalah Yang Awal, tidak ada sesuatu pun sebelum-Mu; dan Engkau adalah Yang Akhir, tidak ada sesuatu pun setelah-Mu; dan Engkau adalah Yang Zahir (Nyata), tidak ada sesuatu pun di atas-Mu; dan Engkau adalah Yang Batin (Tersembunyi), tidak ada sesuatu pun di bawah-Mu. Lunasi utang-utang kami dan kayakanlah kami dari kefakiran."
+      },
+      "ur": {
+        "meaning": "اے اللہ! سات آسمانوں کے رب اور عرش عظیم کے رب! ہمارے رب اور ہر چیز کے رب! دانہ اور گٹھلی کو پھاڑنے والے! تورات، انجیل اور فرقان (قرآن) کو نازل فرمانے والے! میں تیری پناہ چاہتا ہوں ہر اس چیز کے شر سے جس کی پیشانی تو پکڑے ہوئے ہے۔ اے اللہ! تو ہی اول ہے تو تجھ سے پہلے کچھ نہیں، اور تو ہی آخر ہے تو تیرے بعد کچھ نہیں، اور تو ہی ظاہر ہے تو تجھ سے اوپر کچھ نہیں، اور تو ہی باطن ہے تو تیرے سوا کچھ نہیں، ہمارے قرض ادا فرما اور ہمیں فقر سے غنی کر دے۔"
+      },
+      "tr": {
+        "meaning": "Ey yedi kat semavatın Rabbi, yüce Arşın Rabbi, bizim Rabbimiz ve her şeyin Rabbi! Daneyi ve çekirdeği yarıp bitiren, Tevrat'ı, İncil'i ve Furkan'ı indiren! Perçeminden tuttuğun her şeyin şerrinden sana sığınırım. Allah'ım! Sen Evvelsin, Senden önce hiçbir şey yoktur; Sen Âhirsin, Senden sonra hiçbir şey yoktur; Sen Zâhirsin, Senin üstünde hiçbir şey yoktur; Sen Bâtınsın, Senin altında hiçbir şey yoktur. Borcumuzu ödememizi kolaylaştır ve bizi fakirlikten zengin kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur des sept cieux et Seigneur du Trône grandiose, notre Seigneur et le Seigneur de toute chose, Fendeur de la graine et du noyau, Révélateur de la Torah, de l'Injil et du Furqan (Coran), je cherche refuge auprès de Toi contre le mal de toute chose dont Tu tiens le toupet. Ô Allah, Tu es le Premier, il n'y a rien avant Toi; et Tu es le Dernier, il n'y a rien après Toi; et Tu es l'Apparent, il n'y a rien au-dessus de Toi; et Tu es le Caché, il n'y a rien au-delà de Toi. Acquitte nos dettes et enrichis-nous de la pauvreté."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь семи небес и Господь великого Трона, наш Господь и Господь всего сущего, Разделитель зерна и финиковой косточки, Ниспославший Тору, Инджиль и Фулькан (Коран), я прибегаю к Тебе от зла всего, что Ты держишь за чуб. О Аллах, Ты — Первый, и нет ничего до Тебя; и Ты — Последний, и нет ничего после Тебя; и Ты — Явный, и нет ничего над Тобой; и Ты — Скрытый, и нет ничего за Тобой. Оплати наши долги и избавь нас от бедности."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار آسمان‌های هفت‌گانه و پروردگار عرش عظیم، پروردگار ما و پروردگار هر چیز، شکافنده دانه و هسته، و نازل‌کننده تورات و انجیل و فرقان (قرآن)، به تو پناه می‌برم از شر هر چیزی که تو موی پیشانی‌اش را گرفته‌ای. ای الله، تو اولی، پس پیش از تو چیزی نیست؛ و تو آخری، پس بعد از تو چیزی نیست؛ و تو ظاهری، پس بالای تو چیزی نیست؛ و تو باطنی، پس در پس تو چیزی نیست. بدهی ما را بپرداز و ما را از فقر بی‌نیاز گردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! सात आसमानों के रब और अर्श अज़ीम के रब, हमारे रब और हर चीज़ के रब! दाने और गुठली को फाड़ने वाले! तौरात, इंजील और फ़ुरक़ान (क़ुरआन) को नाज़िल करने वाले! मैं तेरी पनाह चाहता हूँ हर उस चीज़ के शर से जिसकी पेशानी तू पकड़े हुए है। ऐ अल्लाह! तू ही अव्वल है तो तुझ से पहले कुछ नहीं, और तू ही आखिर है तो तेरे बाद कुछ नहीं, और तू ही ज़ाहिर है तो तुझ से ऊपर कुछ नहीं, और तू ही बातिन है तो तेरे सिवा कुछ नहीं, हमारे क़र्ज़ अदा फ़रमा और हमें फ़क्र से ग़नी कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan tujuh langit dan Tuhan Arasy yang Agung, Tuhan kami dan Tuhan segala sesuatu, Pembelah biji dan benih, Penurun Taurat, Injil dan Al-Furqan (Al-Quran), aku berlindung kepada-Mu daripada kejahatan setiap sesuatu yang Engkau pegang ubun-ubunnya. Ya Allah, Engkau adalah Yang Awal, tidak ada sesuatu pun sebelum-Mu; dan Engkau adalah Yang Akhir, tidak ada sesuatu pun selepas-Mu; dan Engkau adalah Yang Zahir, tidak ada sesuatu pun di atas-Mu; dan Engkau adalah Yang Batin, tidak ada sesuatu pun di bawah-Mu. Lunaskan hutang-hutang kami dan kayakanlah kami dari kefakiran."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wa mbingu saba na Mola wa Arshi Kuu, Mola wetu na Mola wa kila kitu, Mpambanuzi wa punje na kokwa, Mteremshaji wa Taurati na Injili na Al-Furqan (Qur’ani), najikinga Kwako kutokana na shari ya kila kitu ambacho unakishika kwa kisogo chake. Ewe Allah, Wewe ndiye wa Kwanza, basi hakuna kitu kabla Yako; na Wewe ndiye wa Mwisho, basi hakuna kitu baada Yako; na Wewe ndiye Dhahiri, basi hakuna kitu juu Yako; na Wewe ndiye Batini, basi hakuna kitu nyuma Yako. Tulipie madeni yetu na ututajirishe kutokana na umasikini."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, সাত আসমানের প্রতিপালক এবং মহা আরশের প্রতিপালক, আমাদের প্রতিপালক এবং প্রতিটি জিনিসের প্রতিপালক, দানা ও বীজের বিদারক, তাওরাত, ইনজিল এবং ফুরকান (কুরআন) নাযিলকারী, আমি আপনার কাছে আশ্রয় চাই প্রতিটি জিনিসের অনিষ্ট থেকে যার কপাল আপনি ধরে আছেন। হে আল্লাহ, আপনিই প্রথম, তাই আপনার আগে কিছু নেই; এবং আপনিই শেষ, তাই আপনার পরে কিছু নেই; এবং আপনিই প্রকাশ্য, তাই আপনার উপরে কিছু নেই; এবং আপনিই গোপন, তাই আপনার নিচে কিছু নেই। আমাদের ঋণ পরিশোধ করে দিন এবং দারিদ্র্য থেকে আমাদের ধনী করুন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_6",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+    "transliteration": "Allāhumma aslamtu nafsī ilayka, wa fawwaḍtu amrī ilayka, wa wajjahtu wajhī ilayka, wa alja'tu ẓahrī ilayka, raghbatan wa rahbatan ilayka, lā maljaʾa wa lā manjā minka illā ilayka, āmantu bikitābika alladhī anzalta, wa binabiyyika alladhī arsalta",
+    "source": "Bukhari 6311",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I surrender my soul to You, and I entrust my affair to You, and I turn my face towards You, and I totally rely on You, out of hope and fear of You. There is no refuge and no escape from You except to You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent."
+      },
+      "ar": {
+        "meaning": "اللهم أسلمت نفسي إليك، وفوضت أمري إليك، ووجهت وجهي إليك، وألجأت ظهري إليك، رغبة ورهبة إليك، لا ملجأ ولا منجا منك إلا إليك، آمنت بكتابك الذي أنزلت، وبنبيك الذي أرسلت"
+      },
+      "id": {
+        "meaning": "Ya Allah, aku menyerahkan diriku kepada-Mu, aku menyerahkan urusanku kepada-Mu, aku menghadapkan wajahku kepada-Mu, dan aku menyandarkan punggungku kepada-Mu, dengan penuh harapan dan rasa takut kepada-Mu. Tidak ada tempat berlindung dan tidak ada tempat menyelamatkan diri dari-Mu kecuali kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan, dan kepada Nabi-Mu yang Engkau utus."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں نے اپنی جان تیرے سپرد کی، اور اپنا معاملہ تجھے سونپا، اور اپنا رخ تیری طرف کیا، اور اپنی پشت تیری پناہ میں دی، رغبت اور خوف کے ساتھ تیری طرف۔ تیری طرف سے کوئی پناہ گاہ نہیں اور نہ ہی کوئی نجات کی جگہ مگر تیری ہی طرف۔ میں تیری اس کتاب پر ایمان لایا جو تو نے نازل کی اور تیرے اس نبی پر ایمان لایا جسے تو نے بھیجا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, nefsimi Sana teslim ettim, işimi Sana havale ettim, yüzümü Sana çevirdim ve sırtımı Sana dayadım, hem ümit ederek hem de korkarak Sana yöneldim. Senden başka sığınılacak ve kurtuluş bulunacak hiçbir yer yoktur. İndirdiğin Kitabına ve gönderdiğin Peygamberine iman ettim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je me suis soumis à Toi, j'ai confié mon affaire à Toi, j'ai tourné mon visage vers Toi, et je me suis appuyé sur Toi, par désir et par crainte de Toi. Il n'y a pas de refuge ni de salut de Toi si ce n'est auprès de Toi. J'ai cru en Ton Livre que Tu as révélé et en Ton Prophète que Tu as envoyé."
+      },
+      "ru": {
+        "meaning": "О Аллах, я предаюсь Тебе, и вручаю дела свои Тебе, и обращаю лицо свое к Тебе, и полагаюсь на Тебя, стремясь к Тебе и страшась Тебя. Нет убежища и нет спасения от Тебя, кроме как у Тебя. Я уверовал в Твою Книгу, которую Ты ниспослал, и в Твоего Пророка, которого Ты послал."
+      },
+      "fa": {
+        "meaning": "ای الله، خود را به تو تسلیم کردم، کارم را به تو واگذار کردم، روی خود را به سوی تو گرداندم، و پشت خود را به تو پناه دادم، از روی رغبت و ترس به سوی تو. هیچ پناهگاه و نجات‌گاه از تو جز به سوی تو نیست. ایمان آوردم به کتابت که نازل کردی، و به پیامبرت که فرستادی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैंने अपनी जान तेरे हवाले की, और अपना मामला तुझ पर छोड़ा, और अपना रुख तेरी तरफ़ किया, और अपनी पीठ तेरे सहारे पर रखी, तेरे प्रति इच्छा और भय के साथ। तेरे सिवा न कोई शरण है और न कोई बचाव। मैं तेरी उस किताब पर ईमान लाया जो तूने नाज़िल की, और तेरे उस नबी पर ईमान लाया जिसे तूने भेजा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, aku menyerahkan diriku kepada-Mu, aku menyerahkan urusanku kepada-Mu, aku menghadapkan wajahku kepada-Mu, dan aku menyandarkan punggungku kepada-Mu, dengan penuh harapan dan rasa takut kepada-Mu. Tiada tempat berlindung dan tiada tempat menyelamatkan diri daripada-Mu melainkan kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan, dan kepada Nabi-Mu yang Engkau utus."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, nimejisalimisha Kwako, nimekukabidhi amri yangu, nimeuelekeza uso wangu Kwako, na nimeegemeza mgongo wangu Kwako, kwa matumaini na khofu Kwako. Hakuna pa kukimbilia wala pa kuokokea kutoka Kwako isipokuwa Kwako. Nimeamini Kitabu chako ulichokiteremsha, na Nabii wako uliyemtuma."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আমার সত্তাকে আপনার কাছে সমর্পণ করলাম, আমার কাজ আপনার উপর সোপর্দ করলাম, আমার মুখ আপনার দিকে ফেরালাম এবং আমার পৃষ্ঠদেশ আপনার প্রতি সোপর্দ করলাম, আশা ও ভয় উভয়ই আপনার উপর। আপনার থেকে কোন আশ্রয়স্থল নেই এবং আপনার থেকে কোন পরিত্রাণ নেই, শুধুমাত্র আপনার দিকে ছাড়া। আমি আপনার নাযিলকৃত কিতাবের উপর ঈমান আনলাম এবং আপনার প্রেরিত নবীর উপর ঈমান আনলাম।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_7",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "سُبْحَانَ اللَّهِ (33 مرة) وَالْحَمْدُ لِلَّهِ (33 مرة) وَاللَّهُ أَكْبَرُ (34 مرة)",
+    "transliteration": "Subḥānallāh (33 times) wal-ḥamdulillāh (33 times) wallāhu Akbar (34 times)",
+    "source": "Bukhari 5362",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Glory be to Allah (33 times), and praise be to Allah (33 times), and Allah is the Greatest (34 times)."
+      },
+      "ar": {
+        "meaning": "سبحان الله (33 مرة) والحمد لله (33 مرة) والله أكبر (34 مرة)"
+      },
+      "id": {
+        "meaning": "Maha Suci Allah (33 kali), dan Segala puji bagi Allah (33 kali), dan Allah Maha Besar (34 kali)."
+      },
+      "ur": {
+        "meaning": "اللہ پاک ہے (33 بار)، اور تمام تعریفیں اللہ کے لیے ہیں (33 بار)، اور اللہ سب سے بڑا ہے (34 بار)۔"
+      },
+      "tr": {
+        "meaning": "Subhanallah (33 kere), Elhamdulillah (33 kere), Allahu Ekber (34 kere)."
+      },
+      "fr": {
+        "meaning": "Gloire à Allah (33 fois), et louange à Allah (33 fois), et Allah est le Plus Grand (34 fois)."
+      },
+      "ru": {
+        "meaning": "Пречист Аллах (33 раза), и хвала Аллаху (33 раза), и Аллах Велик (34 раза)."
+      },
+      "fa": {
+        "meaning": "پاک است الله (33 بار) و سپاس خدا را (33 بار) و الله بزرگتر است (34 بار)."
+      },
+      "hi": {
+        "meaning": "अल्लाह पवित्र है (33 बार), और सभी प्रशंसा अल्लाह के लिए है (33 बार), और अल्लाह सबसे महान है (34 बार)।"
+      },
+      "ms": {
+        "meaning": "Maha Suci Allah (33 kali), dan segala puji bagi Allah (33 kali), dan Allah Maha Besar (34 kali)."
+      },
+      "sw": {
+        "meaning": "Subhanallah (mara 33), Al-hamdulillah (mara 33), Allahu Akbar (mara 34)."
+      },
+      "bn": {
+        "meaning": "আল্লাহ পবিত্র (৩৩ বার), এবং সকল প্রশংসা আল্লাহর জন্য (৩৩ বার), এবং আল্লাহ সর্বশ্রেষ্ঠ (৩৪ বার)।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_8",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ بِاسْمِكَ أَحْيَا وَبِاسْمِكَ أَمُوتُ",
+    "transliteration": "Allāhumma bismika aḥyā wa bismika amootu",
+    "source": "Muslim 2711",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, in Your name I live and in Your name I die."
+      },
+      "ar": {
+        "meaning": "اللهم باسمك أحيا وباسمك أموت"
+      },
+      "id": {
+        "meaning": "Ya Allah, dengan nama-Mu aku hidup dan dengan nama-Mu aku mati."
+      },
+      "ur": {
+        "meaning": "اے اللہ! تیرے نام کے ساتھ میں جیتا ہوں اور تیرے نام کے ساتھ میں مرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senin adınla yaşar ve Senin adınla ölürüm."
+      },
+      "fr": {
+        "meaning": "Ô Allah, en Ton nom je vis et en Ton nom je meurs."
+      },
+      "ru": {
+        "meaning": "О Аллах, с Твоим именем я живу и с Твоим именем умираю."
+      },
+      "fa": {
+        "meaning": "ای الله، با نام تو زنده می‌شوم و با نام تو می‌میرم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! तेरे नाम के साथ मैं जीता हूँ और तेरे नाम के साथ मैं मरता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, dengan nama-Mu aku hidup dan dengan nama-Mu aku mati."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, kwa jina lako ninaishi na kwa jina lako ninakufa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনার নামে আমি বাঁচি এবং আপনার নামে আমি মরি।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_9",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Allāhumma Rabbanā ātinā fid-dunyā ḥasanatan wa fil-ākhirati ḥasanatan wa qinā ʿadhāban-nār",
+    "source": "Bukhari 6389",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, our Lord, grant us good in this world and good in the Hereafter and protect us from the punishment of the Fire."
+      },
+      "ar": {
+        "meaning": "اللهم ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, serta lindungilah kami dari siksa neraka."
+      },
+      "ur": {
+        "meaning": "اے اللہ! ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Rabbimiz! Bize dünyada güzellik ver, ahirette de güzellik ver ve bizi cehennem azabından koru."
+      },
+      "fr": {
+        "meaning": "Ô Allah, notre Seigneur, accorde-nous le bien dans ce monde et le bien dans l'au-delà et protège-nous du châtiment du Feu."
+      },
+      "ru": {
+        "meaning": "О Аллах, наш Господь, даруй нам благо в этом мире и благо в мире вечном и защити нас от наказания Огня."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار ما، در دنیا نیکی به ما عطا کن و در آخرت نیز نیکی، و ما را از عذاب آتش حفظ کن."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! हमारे रब! हमें दुनिया में भलाई अता फरमा और आखिरत में भी भलाई अता फरमा और हमें आग के अज़ाब से बचा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, serta lindungilah kami dari seksaan api neraka."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wetu, tupe wema duniani na wema Akhera na utulinde na adhabu ya Moto."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের প্রতিপালক, আমাদেরকে দুনিয়াতে কল্যাণ দিন এবং আখিরাতেও কল্যাণ দিন এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_10",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "transliteration": "Alḥamdu lillāhi alladhī aḥyānā baʿda mā amātanā wa ilayhi an-nushūr",
+    "source": "Bukhari 6312",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "All praise is for Allah Who gave us life after He had caused us to die, and to Him is the resurrection."
+      },
+      "ar": {
+        "meaning": "الحمد لله الذي أحيانا بعد ما أماتنا وإليه النشور"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nyalah kami akan dibangkitkan."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں موت دینے کے بعد زندہ کیا اور اسی کی طرف اٹھنا ہے۔"
+      },
+      "tr": {
+        "meaning": "Bizi öldürdükten sonra dirilten Allah'a hamd olsun ve dönüş O'nadır."
+      },
+      "fr": {
+        "meaning": "Toute louange est à Allah qui nous a donné la vie après nous avoir fait mourir, et vers Lui est la résurrection."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который оживил нас после того, как умертвил нас, и к Нему воскрешение."
+      },
+      "fa": {
+        "meaning": "سپاس خدایی را که ما را پس از میراندن زنده کرد و بازگشت به سوی اوست."
+      },
+      "hi": {
+        "meaning": "सभी प्रशंसा अल्लाह के लिए है जिसने हमें मृत्यु देने के बाद जीवित किया, और उसी की ओर उठना है।"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya adalah kebangkitan."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah ambaye ametufufua baada ya kutufisha, na Kwake Yeye ndio kufufuliwa."
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য যিনি আমাদের মৃত্যু দেওয়ার পর জীবিত করলেন এবং তাঁরই দিকে পুনরুত্থান।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_11",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِوَجْهِكَ الْكَرِيمِ، وَكَلِمَاتِكَ التَّامَّاتِ مِن شَرِّ مَا أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اللَّهُمَّ أَنْتَ تَكْشِفُ الْمَغْرَمَ وَالْمَأْثَمَ، اللَّهُمَّ لاَ يُهْزَمُ جُنْدُكَ، وَلاَ يُخْلَفُ وَعْدُكَ، سُبْحَانَكَ وَبِحَمْدِكَ",
+    "transliteration": "Allāhumma innī aʿūdhu biwajhik al-karīm, wa kalimātikal-tāmmāt min sharri mā anta ākhidhun bināṣiyatihi, Allāhumma anta takshiful-maghrama wal-maʾtham, Allāhumma lā yuhzamu junduka, wa lā yukhlifu waʿduka, subḥānaka wa biḥamdika",
+    "source": "Hisnul Muslim #72",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in Your Noble Face and Your perfect Words from the evil of everything that You are seizing by its forelock. O Allah, You lift debt and sin. O Allah, Your army is not defeated, and Your promise is not broken. Glory be to You and praise be to You."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بوجهك الكريم، وكلماتك التامات من شر ما أنت آخذ بناصيته، اللهم أنت تكشف المغرم والمأثم، اللهم لا يهزم جندك، ولا يخلف وعدك، سبحانك وبحمدك"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung dengan wajah-Mu yang Mulia, dan kalimat-kalimat-Mu yang sempurna dari kejahatan segala sesuatu yang Engkau pegang ubun-ubunnya. Ya Allah, Engkau mengangkat hutang dan dosa. Ya Allah, tentara-Mu tidak akan kalah, dan janji-Mu tidak akan diingkari. Maha Suci Engkau dan segala puji bagi-Mu."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیرے کریم چہرے اور تیرے مکمل کلمات کی پناہ چاہتا ہوں ہر اس چیز کے شر سے جس کی پیشانی تو پکڑے ہوئے ہے۔ اے اللہ! تو قرض اور گناہ کو دور کرتا ہے۔ اے اللہ! تیری فوج شکست نہیں کھاتی، اور تیرا وعدہ نہیں ٹوٹتا۔ تو پاک ہے اور تیری ہی حمد ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Kerim yüzüne ve kusursuz kelimelerine sığınırım, perçeminden tuttuğun her şeyin şerrinden. Allah'ım, Sen borcu ve günahı kaldırırsın. Allah'ım, ordun yenilmez, vaadin bozulmaz. Seni tesbih ederim ve Sana hamd ederim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Ta Face Noble et de Tes Paroles Parfaites contre le mal de toute chose dont Tu tiens le toupet. Ô Allah, Tu lèves la dette et le péché. Ô Allah, Ton armée n'est pas vaincue, et Ta promesse n'est pas rompue. Gloire à Toi et louange à Toi."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Твоему Благородному Лику и Твоим совершенным Словам от зла всего, что Ты держишь за чуб. О Аллах, Ты устраняешь долги и грехи. О Аллах, Твое войско непобедимо, и Твое обещание не нарушается. Пречист Ты и хвала Тебе."
+      },
+      "fa": {
+        "meaning": "ای الله، من به روی کریم و کلمات تام و تمامت پناه می‌برم از شر هر چیزی که تو موی پیشانی‌اش را گرفته‌ای. ای الله، تو قرض و گناه را برطرف می‌کنی. ای الله، لشکر تو شکست نمی‌خورد، و وعده تو خلف نمی‌شود. تو پاک و منزهی و ستایش تو راست."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरे करीम चेहरे और तेरे मुकम्मल कलिमों की पनाह चाहता हूँ हर उस चीज़ के शर से जिसकी पेशानी तू पकड़े हुए है। ऐ अल्लाह! तू क़र्ज़ और गुनाह को दूर करता है। ऐ अल्लाह! तेरी फ़ौज पराजित नहीं होती, और तेरा वादा टूटता नहीं। तू पाक है और तेरी ही प्रशंसा है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung dengan wajah-Mu yang Mulia, dan kalimat-kalimat-Mu yang sempurna dari kejahatan segala sesuatu yang Engkau pegang ubun-ubunnya. Ya Allah, Engkau mengangkat hutang dan dosa. Ya Allah, tentera-Mu tidak akan kalah, dan janji-Mu tidak akan diingkari. Maha Suci Engkau dan segala puji bagi-Mu."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga kwa Uso wako mtukufu, na maneno yako kamili kutokana na shari ya kila kitu unachokishika kwa kisogo chake. Ewe Allah, Wewe unaondosha deni na dhambi. Ewe Allah, jeshi lako halishindwi, na ahadi yako haivunjwi. Umetakasika Wewe na sifa njema zote ni zako."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার মহিমান্বিত মুখমণ্ডল এবং আপনার পরিপূর্ণ বাক্যসমূহের মাধ্যমে আশ্রয় চাই প্রতিটি জিনিসের অনিষ্ট থেকে যার কপাল আপনি ধরে আছেন। হে আল্লাহ, আপনি ঋণ ও গুনাহ দূর করেন। হে আল্লাহ, আপনার বাহিনী পরাজিত হয় না এবং আপনার ওয়াদা ভঙ্গ হয় না। আপনি পবিত্র এবং আপনার জন্যই সকল প্রশংসা।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_12",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-hammi wal-ḥazan, wa aʿūdhu bika minal-ʿajzi wal-kasal, wa aʿūdhu bika minal-jubni wal-bukhl, wa aʿūdhu bika min ghalabatid-dayni wa qahrir-rijāl",
+    "source": "Bukhari 6369",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from anxiety and sorrow, and I seek refuge in You from inability and laziness, and I seek refuge in You from cowardice and stinginess, and I seek refuge in You from the burden of debt and from being overpowered by men."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegelisahan dan kesedihan, dan aku berlindung kepada-Mu dari kelemahan dan kemalasan, dan aku berlindung kepada-Mu dari sifat pengecut dan kikir, dan aku berlindung kepada-Mu dari beban hutang dan penindasan orang lain."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں غم اور پریشانی سے، اور میں تیری پناہ چاہتا ہوں عاجزی اور سستی سے، اور میں تیری پناہ چاہتا ہوں بزدلی اور بخل سے، اور میں تیری پناہ چاہتا ہوں قرض کے غلبے سے اور لوگوں کے دباؤ سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kederden ve hüzünden Sana sığınırım. Acizlikten ve tembellikten Sana sığınırım. Korkaklıktan ve cimrilikten Sana sığınırım. Borcun ağırlığından ve insanların kahrından Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, et je cherche refuge auprès de Toi contre l'incapacité et la paresse, et je cherche refuge auprès de Toi contre la lâcheté et l'avarice, et je cherche refuge auprès de Toi contre le poids de la dette et l'oppression des hommes."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от беспокойства и печали, и я прибегаю к Тебе от бессилия и лени, и я прибегаю к Тебе от трусости и скупости, и я прибегаю к Тебе от бремени долга и от притеснения людей."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از غم و اندوه، و به تو پناه می‌برم از ناتوانی و کسالت، و به تو پناه می‌برم از بزدلی و بخل، و به تو پناه می‌برم از غلبه بدهی و ستم مردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ चिंता और दुःख से, और मैं तेरी पनाह चाहता हूँ अक्षमता और आलस्य से, और मैं तेरी पनाह चाहता हूँ कायरता और कंजूसी से, और मैं तेरी पनाह चाहता हूँ क़र्ज़ के बोझ से और लोगों के अत्याचार से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegelisahan dan kesedihan, dan aku berlindung kepada-Mu dari kelemahan dan kemalasan, dan aku berlindung kepada-Mu dari sifat penakut dan kedekut, dan aku berlindung kepada-Mu dari beban hutang dan penindasan orang lain."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na wasiwasi na huzuni, na najikinga Kwako kutokana na udhaifu na uvivu, na najikinga Kwako kutokana na woga na ubakhili, na najikinga Kwako kutokana na kuzidiwa na deni na dhulma ya watu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই দুশ্চিন্তা ও মন খারাপ থেকে, এবং আপনার কাছে আশ্রয় চাই অক্ষমতা ও অলসতা থেকে, এবং আপনার কাছে আশ্রয় চাই ভীরুতা ও কৃপণতা থেকে, এবং আপনার কাছে আশ্রয় চাই ঋণের বোঝা এবং মানুষের জুলুম থেকে।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_13",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ رَبَّ جِبْرَائِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ، فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ، إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+    "transliteration": "Allāhumma Rabba Jibrāʾīla wa Mīkāʾīla wa Isrāfīla, Fāṭiras-samāwāti wal-arḍ, ʿĀlimal-ghaybi wash-shahādah, Anta taḥkumu bayna ʿibādika fīmā kānū fīhi yakhtalifūn, ihdinī limā ukhtulifa fīhi minal-ḥaqqi bi-idhnika, innaka tahdī man tashāʾu ilā ṣirāṭin mustaqīm",
+    "source": "Muslim 770",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Lord of Jibrāʾīl, Mīkāʾīl and Isrāfīl, Creator of the heavens and the earth, Knower of the unseen and the seen, You judge between Your servants concerning that wherein they differ. Guide me to the truth concerning that wherein they differ, by Your permission. Verily, You guide whom You will to a Straight Path."
+      },
+      "ar": {
+        "meaning": "اللهم رب جبرائيل وميكائيل وإسرافيل، فاطر السماوات والأرض، عالم الغيب والشهادة، أنت تحكم بين عبادك فيما كانوا فيه يختلفون، اهدني لما اختلف فيه من الحق بإذنك، إنك تهدي من تشاء إلى صراط مستقيم"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan Jibril, Mikail, dan Israfil, Pencipta langit dan bumi, Yang Mengetahui yang gaib dan yang tampak, Engkau memutuskan di antara hamba-hamba-Mu dalam apa yang mereka perselisihkan. Bimbinglah aku kepada kebenaran dalam apa yang mereka perselisihkan, dengan izin-Mu. Sesungguhnya Engkau membimbing siapa saja yang Engkau kehendaki ke jalan yang lurus."
+      },
+      "ur": {
+        "meaning": "اے اللہ! جبرائیل، میکائیل اور اسرافیل کے رب، آسمانوں اور زمین کے بنانے والے، غیب و شہادت کے جاننے والے! تو اپنے بندوں کے درمیان اس چیز میں فیصلہ کرتا ہے جس میں وہ اختلاف کرتے ہیں۔ مجھے اس حق کی طرف ہدایت دے جس میں اختلاف کیا گیا ہے تیری اجازت سے۔ بے شک تو جسے چاہتا ہے سیدھے راستے کی طرف ہدایت دیتا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Cibril'in, Mikail'in ve İsrafil'in Rabbi! Gökleri ve yeri yoktan var eden! Gizliyi ve açığı bilen! Kulların arasında ihtilaf ettikleri konularda hüküm veren Sensin. Hakkın ihtilaf edilen kısmına beni izninle hidâyet et. Şüphesiz Sen, dilediğini dosdoğru yola iletirsin."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur de Jibrāʾīl, Mīkāʾīl et Isrāfīl, Créateur des cieux et de la terre, Connaisseur de l'invisible et du visible, Tu juges entre Tes serviteurs concernant ce en quoi ils divergent. Guide-moi vers la vérité concernant ce en quoi ils divergent, par Ta permission. En vérité, Tu guides qui Tu veux vers un chemin droit."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь Джибраиля, Микаиля и Исрафиля, Создатель небес и земли, Знающий сокровенное и явное, Ты судишь между Твоими рабами в том, в чем они расходятся. Направь меня к истине относительно того, в чем они разошлись, по Твоему позволению. Поистине, Ты ведешь кого пожелаешь к прямому пути."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار جبرئیل و میکائیل و اسرافیل، آفریننده آسمان‌ها و زمین، دانای پنهان و آشکار، تو بین بندگانت در آنچه که با هم اختلاف داشتند، داوری می‌کنی. مرا به حق در آنچه اختلاف شده است، با اجازه خود هدایت کن، همانا تو هر که را بخواهی به راه راست هدایت می‌کنی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! जिब्राईल, मीकाईल और इस्राफील के रब, आसमानों और ज़मीन को पैदा करने वाले, ग़ैब और हाज़िर को जानने वाले! तू अपने बन्दों के बीच फ़ैसला करता है जिन चीज़ों में वे इख़्तिलाफ़ करते हैं। मुझे उस हक़ की तरफ़ हिदायत दे जिसमें इख़्तिलाफ़ किया गया है तेरी इजाज़त से। बेशक तू जिसे चाहता है सीधे रास्ते की तरफ़ हिदायत देता है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan Jibril, Mikail dan Israfil, Pencipta langit dan bumi, Yang Mengetahui yang ghaib dan yang nyata, Engkau memutuskan di antara hamba-hamba-Mu dalam apa yang mereka perselisihkan. Bimbinglah aku kepada kebenaran dalam apa yang mereka perselisihkan, dengan izin-Mu. Sesungguhnya Engkau membimbing siapa saja yang Engkau kehendaki ke jalan yang lurus."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wa Jibril na Mikail na Israfil, Muumbaji wa mbingu na ardhi, Mjuzi wa yaliyofichika na yanayoonekana, Wewe unahukumu kati ya waja wako katika yale waliyokhitilafiana. Niongoze mimi kwenye ukweli katika yale waliyokhitilafiana, kwa idhini yako. Hakika Wewe unamuongoza umtakaye kwenye njia iliyonyooka."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, জিব্রাঈল, মিকাঈল এবং ইসরাফিলের প্রতিপালক, আসমান ও জমিনের স্রষ্টা, অদৃশ্য ও দৃশ্যের জ্ঞাতা, আপনি আপনার বান্দাদের মধ্যে ফয়সালা করেন যা নিয়ে তারা মতবিরোধ করে। আপনার অনুমতিতে আমাকে সেই সত্যের দিকে পরিচালিত করুন যা নিয়ে মতবিরোধ করা হয়েছে। নিশ্চয়ই আপনি যাকে চান তাকে সরল পথে পরিচালিত করেন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_14",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ سَمَّيْتَ بِهِ نَفْسَكَ، أَوْ أَنْزَلْتَهُ فِي كِتَابِكَ، أَوْ عَلَّمْتَهُ أَحَدًا مِنْ خَلْقِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الْغَيْبِ عِنْدَكَ، أَنْ تَجْعَلَ الْقُرْآنَ رَبِيعَ قَلْبِي، وَنُورَ صَدْرِي، وَجَلَاءَ حُزْنِي، وَذَهَابَ هَمِّي",
+    "transliteration": "Allāhumma innī ʿabduka, ibnu ʿabdika, ibnu amatika, nāṣiyatī biyadika, māḍin fiyya ḥukmuka, ʿadlun fiyya qaḍāʾuka, asʾaluka bikulli ismin huwa laka sammayta bihi nafsaka, aw anzaltahu fī kitābika, aw ʿallamtahu aḥadan min khalqika, aw istaʾtharta bihi fī ʿilmil-ghaybi ʿindaka, an tajʿalal-Qurʾāna rabīʿa qalbī, wa nūra ṣadrī, wa jalāʾa ḥuznī, wa dhahāba hammī",
+    "source": "Hisnul Muslim #71",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I am Your servant, son of Your male servant, son of Your female servant, my forelock is in Your hand. Your command over me is forever executed and Your decree upon me is just. I ask You by every name belonging to You which You named Yourself with, or revealed in Your Book, or taught to any of Your creation, or You have preserved in the knowledge of the unseen with You, that You make the Qur'an the spring of my heart, and the light of my chest, and the remover of my sadness, and the dispeller of my anxiety."
+      },
+      "ar": {
+        "meaning": "اللهم إني عبدك، ابن عبدك، ابن أمتك، ناصيتي بيدك، ماض في حكمك، عدل في قضاؤك، أسألك بكل اسم هو لك سميت به نفسك، أو أنزلته في كتابك، أو علمته أحدا من خلقك، أو استأثرت به في علم الغيب عندك، أن تجعل القرآن ربيع قلبي، ونور صدري، وجلاء حزني، وذهاب همي"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku adalah hamba-Mu, anak dari hamba laki-laki-Mu, anak dari hamba perempuan-Mu, ubun-ubunku di tangan-Mu. Hukum-Mu padaku pasti berlaku, ketetapan-Mu padaku adalah adil. Aku memohon kepada-Mu dengan setiap nama milik-Mu yang Engkau namakan diri-Mu dengannya, atau yang Engkau turunkan dalam Kitab-Mu, atau yang Engkau ajarkan kepada salah seorang dari makhluk-Mu, atau yang Engkau khususkan dalam ilmu gaib di sisi-Mu, agar Engkau menjadikan Al-Qur'an sebagai penyejuk hatiku, cahaya dadaku, penghilang kesedihanku, dan pelenyap kegelisahanku."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیرا بندہ ہوں، تیرے بندے کا بیٹا ہوں، تیری بندی کا بیٹا ہوں، میری پیشانی تیرے ہاتھ میں ہے، تیرا حکم مجھ پر نافذ ہے، تیرا فیصلہ مجھ پر عدل ہے۔ میں تجھ سے تیرے ہر اس نام کے واسطے سے سوال کرتا ہوں جو تو نے اپنا نام رکھا ہے، یا جسے تو نے اپنی کتاب میں نازل کیا ہے، یا جسے تو نے اپنی مخلوق میں سے کسی کو سکھایا ہے، یا جسے تو نے اپنے پاس غیب کے علم میں چھپا رکھا ہے، کہ تو قرآن کو میرے دل کی بہار، اور میرے سینے کا نور، اور میرے غم کا زائل کرنے والا، اور میری پریشانی کو دور کرنے والا بنا دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, ben Senin kulunum, kulunun oğlu, cariyenin oğlu. Alnım Senin elindedir. Benim hakkımdaki hükmün geçerlidir, hakkımdaki kazâ'n adalettir. Kendini isimlendirdiğin, Kitabında indirdiğin, yarattıklarından birine öğrettiğin veya katındaki gayb ilminde sakladığın Sana ait her bir isimle Senden isterim ki, Kur'an'ı kalbimin baharı, göğsümün nuru, hüznümün gidericisi ve kederimin yok edicisi kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je suis Ton serviteur, fils de Ton serviteur, fils de Ta servante. Mon toupet est dans Ta main. Ton jugement sur moi est exécutoire, Ton décret sur moi est juste. Je Te demande par chaque nom T'appartenant, par lequel Tu T'es nommé, ou que Tu as révélé dans Ton Livre, ou que Tu as enseigné à l'une de Tes créatures, ou que Tu as gardé secret dans la connaissance de l'invisible auprès de Toi, de faire du Coran le printemps de mon cœur, la lumière de ma poitrine, le dissipateur de ma tristesse, et l'éloignement de mon anxiété."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я — Твой раб, сын Твоего раба, сын Твоей рабыни, мой чуб в Твоей руке. Твое решение относительно меня неизменно, и Твое предопределение в отношении меня справедливо. Я прошу Тебя каждым именем, которое принадлежит Тебе, которым Ты назвал Себя, или которое Ты ниспослал в Своей Книге, или которому Ты научил кого-либо из Своих созданий, или которое Ты сохранил в знании сокровенного у Себя, чтобы Ты сделал Коран весной моего сердца, и светом моей груди, и удалением моей печали, и исчезновением моего беспокойства."
+      },
+      "fa": {
+        "meaning": "ای الله، من بنده تو هستم، فرزند بنده تو، فرزند کنیز تو. پیشانی من در دست توست. حکم تو درباره من جاری و قضاوت تو درباره من عدل است. از تو می‌خواهم به هر نامی که برای توست و خود را به آن نامیده‌ای، یا در کتابت نازل کرده‌ای، یا به یکی از مخلوقاتت آموخته‌ای، یا آن را در علم غیب نزد خودت اختصاص داده‌ای، که قرآن را بهار دلم، و نور سینه‌ام، و از بین برنده اندوهم، و برطرف‌کننده غمم قرار دهی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरा बन्दा हूँ, तेरे बन्दे का बेटा हूँ, तेरी बन्दी का बेटा हूँ, मेरी पेशानी तेरे हाथ में है, मेरा फैसला मुझ पर लागू है, मेरा मुक़द्दर मुझ पर न्यायपूर्ण है। मैं तुझसे हर उस नाम के ज़रिए पूछता हूँ जो तेरा है, जिससे तूने अपने आप को नाम दिया, या जिसे तूने अपनी किताब में उतारा, या जिसे तूने अपनी किसी मख़लूक़ को सिखाया, या जिसे तूने अपने पास ग़ैब के इल्म में छिपा रखा है, कि तू क़ुरआन को मेरे दिल का बसंत, और मेरी छाती का नूर, और मेरे दुःख का मिटाने वाला, और मेरी चिंता का दूर करने वाला बना दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku adalah hamba-Mu, anak dari hamba lelaki-Mu, anak dari hamba perempuan-Mu, ubun-ubunku di tangan-Mu. Hukuman-Mu padaku pasti berlaku, ketetapan-Mu padaku adalah adil. Aku memohon kepada-Mu dengan setiap nama milik-Mu yang Engkau namakan diri-Mu dengannya, atau yang Engkau turunkan dalam Kitab-Mu, atau yang Engkau ajarkan kepada salah seorang dari makhluk-Mu, atau yang Engkau khususkan dalam ilmu ghaib di sisi-Mu, agar Engkau menjadikan Al-Quran sebagai penyejuk hatiku, cahaya dadaku, penghilang kesedihanku, dan pelenyap kegelisahanku."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi ni mtumishi wako, mwana wa mtumishi wako, mwana wa mjakazi wako, kisogo changu kiko mikononi mwako. Hukumu yako juu yangu ni yenye kutekelezwa, na hukumu yako juu yangu ni ya haki. Nakuomba kwa kila jina lililo lako ambalo umejipa, au umeliteremsha katika Kitabu chako, au umemfundisha yeyote kati ya viumbe vyako, au umelihifadhi katika elimu ya ghaibu Kwako, ufanye Qur'ani kuwa chemchemi ya moyo wangu, na nuru ya kifua changu, na kuondolea huzuni yangu, na kuondoa wasiwasi wangu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার বান্দা, আপনার বান্দার পুত্র, আপনার দাসীর পুত্র। আমার কপাল আপনার হাতে। আমার উপর আপনার হুকুম কার্যকর, আমার উপর আপনার বিচার ন্যায়। আমি আপনার কাছে আপনার প্রতিটি নামের উসিলায় প্রার্থনা করি যা দিয়ে আপনি নিজেকে নাম রেখেছেন, অথবা আপনার কিতাবে নাযিল করেছেন, অথবা আপনার সৃষ্টির কাউকে শিখিয়েছেন, অথবা আপনার কাছে গায়েবের জ্ঞানে গোপন রেখেছেন, যে আপনি কুরআনকে আমার হৃদয়ের বসন্ত, আমার বক্ষের আলো, আমার দুঃখের অপসারণকারী এবং আমার দুশ্চিন্তা দূরকারী বানিয়ে দিন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_15",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ وَالْهَرَمِ وَسُوءِ الْكِبَرِ، وَفِتْنَةِ الدُّنْيَا وَعَذَابِ الْقَبْرِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-kasali wal-haram wa sūʾil-kibar, wa fitnatid-dunyā wa ʿadhābil-qabr",
+    "source": "Bukhari 6374",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from laziness, old age, and evil of old age, and the trial of the world and the punishment of the grave."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الكسل والهرم وسوء الكبر، وفتنة الدنيا وعذاب القبر"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan, ketuaan dan keburukan masa tua, serta fitnah dunia dan azab kubur."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں سستی، بڑھاپے اور بڑھاپے کی برائی سے، اور دنیا کے فتنے اور قبر کے عذاب سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, tembellikten, ihtiyarlıktan ve ihtiyarlığın kötülüğünden, dünyanın fitnesinden ve kabir azabından Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la paresse, la vieillesse et la mauvaise vieillesse, et l'épreuve de ce bas monde et le châtiment de la tombe."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от лени, дряхлости и плохого старения, и от искушения мира этого и мучений могилы."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از کسالت و پیری و بدی پیری، و فتنه دنیا و عذاب قبر."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ आलस्य, बुढ़ापे और बुढ़ापे की बुराई से, और दुनिया के फ़ितने और क़ब्र के अज़ाब से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan, ketuaan dan keburukan usia tua, serta fitnah dunia dan azab kubur."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na uvivu, uzee na ubaya wa uzee, na fitina ya dunia na adhabu ya kaburi."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই অলসতা, বার্ধক্য এবং বার্ধক্যের মন্দ থেকে, এবং দুনিয়ার ফিতনা ও কবরের আযাব থেকে।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_16",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
+    "transliteration": "Bismillāh, tawakkaltu ʿalallāh, wa lā ḥawla wa lā quwwata illā billāh",
+    "source": "Tirmidhi 3426",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In the name of Allah, I put my trust in Allah, and there is no might and no power except with Allah."
+      },
+      "ar": {
+        "meaning": "بسم الله، توكلت على الله، ولا حول ولا قوة إلا بالله"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya serta kekuatan kecuali dengan pertolongan Allah."
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے، میں نے اللہ پر توکل کیا، اور اللہ کے سوا کوئی طاقت و قوت نہیں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla. Allah'a tevekkül ettim. Allah'tan başka güç ve kuvvet yoktur."
+      },
+      "fr": {
+        "meaning": "Au nom d'Allah, je m'en remets à Allah, et il n'y a de force ni de puissance qu'en Allah."
+      },
+      "ru": {
+        "meaning": "С именем Аллаха, я полагаюсь на Аллаха, и нет мощи и нет силы, кроме как с Аллахом."
+      },
+      "fa": {
+        "meaning": "به نام خدا، توکل کردم بر خدا، و هیچ نیرو و قدرتی جز به یاری خدا نیست."
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से, मैंने अल्लाह पर भरोसा किया, और अल्लाह के सिवा कोई शक्ति और शक्ति नहीं है।"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya dan tiada kekuatan melainkan dengan Allah."
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah, nimemtegemea Allah, na hakuna nguvu wala uwezo isipokuwa kwa Allah."
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে, আমি আল্লাহর উপর ভরসা করলাম, এবং আল্লাহ ব্যতীত কোন শক্তি ও ক্ষমতা নেই।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_17",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+    "transliteration": "Allāhumma ʿĀlimal-ghaybi wash-shahādah, Fāṭiras-samāwāti wal-arḍ, Rabba kulli shayʾin wa malīkah, ashhadu an lā ilāha illā Anta, aʿūdhu bika min sharri nafsī wa min sharrish-shayṭāni wa shirkihi, wa an aqtarifa ʿalā nafsī sūʾan aw ajurrahū ilā muslim",
+    "source": "Tirmidhi 3529",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Knower of the unseen and the seen, Creator of the heavens and the earth, Lord and Sovereign of everything, I bear witness that there is none worthy of worship except You. I seek refuge in You from the evil of my soul and from the evil of Shaytan and his polytheism, and from committing evil against myself or bringing it upon a Muslim."
+      },
+      "ar": {
+        "meaning": "اللهم عالم الغيب والشهادة، فاطر السماوات والأرض، رب كل شيء ومليكه، أشهد أن لا إله إلا أنت، أعوذ بك من شر نفسي ومن شر الشيطان وشركه، وأن أقترف على نفسي سوءا أو أجره إلى مسلم"
+      },
+      "id": {
+        "meaning": "Ya Allah, Yang Mengetahui yang gaib dan yang tampak, Pencipta langit dan bumi, Tuhan dan Penguasa segala sesuatu, aku bersaksi bahwa tiada ilah yang berhak disembah selain Engkau. Aku berlindung kepada-Mu dari kejahatan diriku dan dari kejahatan setan dan kesyirikannya, dan dari melakukan keburukan terhadap diriku atau menyeretnya kepada seorang Muslim."
+      },
+      "ur": {
+        "meaning": "اے اللہ! غیب و شہادت کے جاننے والے، آسمانوں اور زمین کے پیدا کرنے والے، ہر چیز کے رب اور بادشاہ! میں گواہی دیتا ہوں کہ تیرے سوا کوئی معبود نہیں۔ میں تیری پناہ چاہتا ہوں اپنے نفس کے شر سے اور شیطان کے شر اور اس کے شرک سے، اور اس سے کہ میں اپنے اوپر کوئی برائی کروں یا اسے کسی مسلمان کی طرف لے جاؤں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, gaybı ve görüneni bilen, gökleri ve yeri yaratan, her şeyin Rabbi ve sahibi! Şahitlik ederim ki, Senden başka ilah yoktur. Nefsimin şerrinden, şeytanın şerrinden ve şirkinden Sana sığınırım. Kendi kendime bir kötülük yapmaktan veya onu bir Müslümana bulaştırmaktan Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Connaisseur de l'invisible et du visible, Créateur des cieux et de la terre, Seigneur et Souverain de toute chose, j'atteste qu'il n'y a de divinité digne d'adoration que Toi. Je cherche refuge auprès de Toi contre le mal de mon âme et contre le mal de Shaytan et de son association, et de commettre un mal envers moi-même ou de l'entraîner vers un Musulman."
+      },
+      "ru": {
+        "meaning": "О Аллах, Знающий сокровенное и явное, Создатель небес и земли, Господь и Владыка всего, я свидетельствую, что нет божества, кроме Тебя. Я прибегаю к Тебе от зла моей души и от зла шайтана и его многобожия, и от того, чтобы я совершил зло против себя или причинил его мусульманину."
+      },
+      "fa": {
+        "meaning": "ای الله، دانای پنهان و آشکار، آفریننده آسمان‌ها و زمین، پروردگار هر چیز و مالک آن، شهادت می‌دهم که معبودی جز تو نیست. به تو پناه می‌برم از شر نفس خود و از شر شیطان و شرکش، و از اینکه بر خود بدی کنم یا آن را به مسلمانی وارد کنم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! ग़ैब और हाज़िर को जानने वाले, आसमानों और ज़मीन के पैदा करने वाले, हर चीज़ के रब और मालिक! मैं गवाही देता हूँ कि तेरे सिवा कोई माबूद नहीं। मैं तेरी पनाह चाहता हूँ अपने नफ़्स के शर से और शैतान के शर और उसके शिर्क से, और इससे कि मैं अपने ऊपर कोई बुराई करूँ या उसे किसी मुसलमान पर लादूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Yang Maha Mengetahui yang ghaib dan yang nyata, Pencipta langit dan bumi, Tuhan dan Raja segala sesuatu, aku bersaksi bahawa tiada ilah yang berhak disembah melainkan Engkau. Aku berlindung kepada-Mu dari kejahatan diriku dan dari kejahatan syaitan dan syiriknya, dan dari melakukan keburukan terhadap diriku atau menyeretnya kepada seorang Muslim."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mjuzi wa ghaibu na yanayoonekana, Muumbaji wa mbingu na ardhi, Mola na Mfalme wa kila kitu, ninashuhudia kwamba hapana mungu anayestahiki kuabudiwa isipokuwa Wewe. Najikinga Kwako kutokana na shari ya nafsi yangu na kutokana na shari ya shetani na shirki yake, na kutokana na kujifanyia ubaya mwenyewe au kumletea Muislamu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, অদৃশ্য ও দৃশ্যের জ্ঞাতা, আসমান ও জমিনের স্রষ্টা, প্রতিটি জিনিসের প্রতিপালক ও মালিক, আমি সাক্ষ্য দিচ্ছি যে আপনি ব্যতীত কোন ইলাহ নেই। আমি আপনার কাছে আশ্রয় চাই আমার আত্মার অনিষ্ট থেকে এবং শয়তানের অনিষ্ট ও তার শিরক থেকে, এবং নিজের উপর কোন মন্দ কাজ করা থেকে অথবা কোন মুসলমানের উপর তা টেনে আনা থেকে।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_18",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَاسَ، اشْفِ أَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا",
+    "transliteration": "Allāhumma Rabban-nās, adzhibil-baʾs, ishfi Antash-Shāfī, lā shifāʾa illā shifāʾuka, shifāʾan lā yughādiru saqamā",
+    "source": "Bukhari 5742",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Lord of mankind, remove the affliction and cure him. You are the Curer, there is no cure except Your cure, a cure that leaves no illness behind."
+      },
+      "ar": {
+        "meaning": "اللهم رب الناس، أذهب الباس، اشف أنت الشافي، لا شفاء إلا شفاؤك، شفاء لا يغادر سقما"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan manusia, hilangkanlah penyakit ini dan sembuhkanlah dia. Engkaulah Yang Maha Menyembuhkan, tiada kesembuhan melainkan kesembuhan dari-Mu, kesembuhan yang tidak meninggalkan penyakit."
+      },
+      "ur": {
+        "meaning": "اے اللہ! لوگوں کے رب! تکلیف کو دور کر دے، شفا دے، تو ہی شفا دینے والا ہے، تیری شفا کے سوا کوئی شفا نہیں، ایسی شفا جو کوئی بیماری نہ چھوڑے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, ey insanların Rabbi! Sıkıntıyı gider, şifa ver, çünkü Sen Şifa Verensin. Senin şifandan başka şifa yoktur; hiçbir hastalık bırakmayan bir şifa ver."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur des hommes, éloigne le mal et guéris-le. Tu es le Guérisseur, il n'y a de guérison que Ta guérison, une guérison qui ne laisse aucune maladie."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь людей, удали болезнь и исцели его. Ты — Исцеляющий, нет исцеления, кроме Твоего исцеления, исцеления, которое не оставляет болезни."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار مردم، بیماری را برطرف کن و شفا بده، تو شفا دهنده هستی، هیچ شفایی جز شفای تو نیست، شفایی که هیچ بیماری را باقی نمی‌گذارد."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! लोगों के रब! बीमारी दूर कर दे और उसे शिफ़ा दे। तू ही शिफ़ा देने वाला है, तेरी शिफ़ा के सिवा कोई शिफ़ा नहीं, ऐसी शिफ़ा जो कोई बीमारी न छोड़े।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan manusia, hilangkanlah penyakit ini dan sembuhkanlah dia. Engkaulah Yang Maha Menyembuhkan, tiada kesembuhan melainkan kesembuhan dari-Mu, kesembuhan yang tidak meninggalkan penyakit."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wa watu, ondoa shida na umponye. Wewe ndiye Mponyaji, hakuna ponyo isipokuwa ponyo lako, ponyo lisiloacha ugonjwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, মানুষের প্রতিপালক, কষ্ট দূর করুন এবং আরোগ্য দান করুন। আপনিই আরোগ্যদানকারী, আপনার আরোগ্য ব্যতীত কোন আরোগ্য নেই, এমন আরোগ্য যা কোন অসুস্থতাকে বাকি রাখে না।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_19",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ رَبَّ جِبْرَائِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ وَمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، أَعُوذُ بِكَ مِنَ النَّارِ",
+    "transliteration": "Allāhumma Rabba Jibrāʾīla wa Mīkāʾīla wa Isrāfīla wa Muḥammadin ṣallallāhu ʿalayhi wa sallam, aʿūdhu bika minan-nār",
+    "source": "Hisnul Muslim #73",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Lord of Jibrāʾīl, Mīkāʾīl, Isrāfīl, and Muhammad (peace and blessings of Allah be upon him), I seek refuge in You from the Fire."
+      },
+      "ar": {
+        "meaning": "اللهم رب جبرائيل وميكائيل وإسرافيل ومحمد صلى الله عليه وسلم، أعوذ بك من النار"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan Jibril, Mikail, Israfil, dan Muhammad (semoga shalawat dan salam Allah tercurah padanya), aku berlindung kepada-Mu dari api neraka."
+      },
+      "ur": {
+        "meaning": "اے اللہ! جبرائیل، میکائیل، اسرافیل اور محمد صلی اللہ علیہ وسلم کے رب! میں تیری پناہ چاہتا ہوں آگ سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Cibril'in, Mikail'in, İsrafil'in ve Muhammed'in (Allah'ın salat ve selamı üzerine olsun) Rabbi! Cehennem ateşinden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur de Jibrāʾīl, Mīkāʾīl, Isrāfīl, et Muhammad (que la paix et les bénédictions d'Allah soient sur lui), je cherche refuge auprès de Toi contre le Feu."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь Джибраиля, Микаиля, Исрафиля и Мухаммада (да благословит его Аллах и приветствует), я прибегаю к Тебе от Огня."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار جبرئیل و میکائیل و اسرافیل و محمد (صلی الله علیه و سلم)، به تو پناه می‌برم از آتش."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! जिब्राईल, मीकाईल, इस्राफील, और मुहम्मद (सल्लल्लाहु अलैहि वसल्लम) के रब! मैं तेरी पनाह चाहता हूँ आग से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan Jibril, Mikail, Israfil, dan Muhammad (selawat dan salam Allah ke atasnya), aku berlindung kepada-Mu daripada api neraka."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wa Jibril, Mikail, Israfil, na Muhammad (Swalla Allaahu 'alayhi wa sallam), najikinga Kwako kutokana na Moto."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, জিব্রাঈল, মিকাঈল, ইসরাফিল এবং মুহাম্মাদের (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) প্রতিপালক, আমি আপনার কাছে জাহান্নামের আগুন থেকে আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_20",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+    "transliteration": "Allāhumma innaka ʿafuwwun tuḥibbul-ʿafwa faʿfu ʿannī",
+    "source": "Tirmidhi 3513",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, You are the Forgiver, You love forgiveness, so forgive me."
+      },
+      "ar": {
+        "meaning": "اللهم إنك عفو تحب العفو فاعف عني"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau mencintai pemaafan, maka maafkanlah aku."
+      },
+      "ur": {
+        "meaning": "اے اللہ! تو یقیناً بہت معاف کرنے والا ہے، معافی کو پسند کرتا ہے، پس مجھے معاف فرما دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, şüphesiz Sen affedicisin, affetmeyi seversin, öyleyse beni affet."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Tu es le Pardonneur, Tu aimes le pardon, alors pardonne-moi."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, Ты Прощающий, Ты любишь прощение, так прости же меня."
+      },
+      "fa": {
+        "meaning": "ای الله، تو بخشنده‌ای و بخشش را دوست داری، پس مرا ببخش."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! तू यक़ीनन बहुत माफ़ करने वाला है, माफ़ी को पसन्द करता है, पस मुझे माफ़ फ़रमा दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau mencintai kemaafan, maka maafkanlah aku."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika Wewe ni Mwingi wa kusamehe, unapenda msamaha, basi nisamehe mimi."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি ক্ষমাশীল, আপনি ক্ষমা করতে ভালোবাসেন, সুতরাং আমাকে ক্ষমা করুন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_21",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "transliteration": "Allāhumma Rabbanā ātinā min ladunka raḥmatan wa hayyiʾ lanā min amrinā rashadā",
+    "source": "Quran 18:10",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance."
+      },
+      "ar": {
+        "meaning": "اللهم ربنا آتنا من لدنك رحمة وهيئ لنا من أمرنا رشدا"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan kami, berikanlah kepada kami rahmat dari sisi-Mu dan sempurnakanlah bagi kami petunjuk yang lurus dalam urusan kami."
+      },
+      "ur": {
+        "meaning": "اے اللہ! ہمارے رب! ہمیں اپنی طرف سے رحمت عطا فرما اور ہمارے معاملے میں ہمارے لیے ہدایت مہیا فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Rabbimiz! Katından bize bir rahmet ver ve işimizde bize doğru bir yol göster."
+      },
+      "fr": {
+        "meaning": "Ô Allah, notre Seigneur, accorde-nous de Ta part une miséricorde et prépare-nous pour notre affaire une bonne direction."
+      },
+      "ru": {
+        "meaning": "О Аллах, наш Господь, даруй нам от Себя милость и подготовь для нас в нашем деле прямой путь."
+      },
+      "fa": {
+        "meaning": "ای الله، پروردگار ما، از جانب خود رحمتی به ما عطا کن و برای ما در کارمان هدایت و راهنمایی آماده ساز."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! हमारे रब! हमें अपनी तरफ़ से रहमत अता फरमा और हमारे मामले में हमारे लिए सही राह तैयार कर।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan kami, kurniakanlah kepada kami rahmat dari sisi-Mu dan sediakanlah bagi kami petunjuk yang lurus dalam urusan kami."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, Mola wetu, tupe kutoka kwako rehema na ututayarishie katika jambo letu uongofu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের প্রতিপালক, আপনার পক্ষ থেকে আমাদের প্রতি রহমত দান করুন এবং আমাদের কাজের জন্য সঠিক পথ প্রস্তুত করুন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_22",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي بَصَرِي نُورًا، وَفِي سَمْعِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ يَسَارِي نُورًا، وَفَوْقِي نُورًا، وَتَحْتِي نُورًا، وَأَمَامِي نُورًا، وَخَلْفِي نُورًا، وَاجْعَلْ لِي نُورًا",
+    "transliteration": "Allāhumma ijʿal fī qalbī nūran, wa fī baṣarī nūran, wa fī samʿī nūran, wa ʿan yamīnī nūran, wa ʿan yasārī nūran, wa fawqī nūran, wa taḥtī nūran, wa amāmī nūran, wa khalfī nūran, wajʿal lī nūran",
+    "source": "Bukhari 6316",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, place light in my heart, and light in my sight, and light in my hearing, and light on my right, and light on my left, and light above me, and light below me, and light in front of me, and light behind me, and make for me light."
+      },
+      "ar": {
+        "meaning": "اللهم اجعل في قلبي نورا، وفي بصري نورا، وفي سمعي نورا، وعن يميني نورا، وعن يساري نورا، وفوقي نورا، وتحتي نورا، وأمامي نورا، وخلفي نورا، واجعل لي نورا"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah cahaya di hatiku, dan cahaya di penglihatanku, dan cahaya di pendengaranku, dan cahaya di kananku, dan cahaya di kiriku, dan cahaya di atasku, dan cahaya di bawahku, dan cahaya di depanku, dan cahaya di belakangku, dan jadikanlah bagiku cahaya."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میرے دل میں نور ڈال دے، اور میری نظر میں نور ڈال دے، اور میرے کان میں نور ڈال دے، اور میرے دائیں طرف نور ڈال دے، اور میرے بائیں طرف نور ڈال دے، اور میرے اوپر نور ڈال دے، اور میرے نیچے نور ڈال دے، اور میرے سامنے نور ڈال دے، اور میرے پیچھے نور ڈال دے، اور مجھے نور بنا دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kalbime nur ver, gözüme nur ver, kulağıma nur ver, sağıma nur ver, soluma nur ver, üstüme nur ver, altıma nur ver, önüme nur ver, arkama nur ver ve bana nur kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, place de la lumière dans mon cœur, et de la lumière dans ma vue, et de la lumière dans mon ouïe, et de la lumière à ma droite, et de la lumière à ma gauche, et de la lumière au-dessus de moi, et de la lumière en dessous de moi, et de la lumière devant moi, et de la lumière derrière moi, et fais-moi lumière."
+      },
+      "ru": {
+        "meaning": "О Аллах, помести свет в мое сердце, и свет в мое зрение, и свет в мой слух, и свет справа от меня, и свет слева от меня, и свет надо мной, и свет подо мной, и свет передо мной, и свет позади меня, и сделай для меня свет."
+      },
+      "fa": {
+        "meaning": "ای الله، در قلبم نور قرار ده، و در بینایی‌ام نور، و در شنوایی‌ام نور، و در سمت راستم نور، و در سمت چپم نور، و بالای سرم نور، و پایین پایم نور، و پیش رویم نور، و پشت سرم نور، و برایم نور قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मेरे दिल में नूर डाल दे, और मेरी नज़र में नूर डाल दे, और मेरे कान में नूर डाल दे, और मेरे दाहिने तरफ़ नूर डाल दे, और मेरे बाएँ तरफ़ नूर डाल दे, और मेरे ऊपर नूर डाल दे, और मेरे नीचे नूर डाल दे, और मेरे सामने नूर डाल दे, और मेरे पीछे नूर डाल दे, और मुझे नूर बना दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah cahaya di hatiku, dan cahaya di penglihatanku, dan cahaya di pendengaranku, dan cahaya di kananku, dan cahaya di kiriku, dan cahaya di atasku, dan cahaya di bawahku, dan cahaya di depanku, dan cahaya di belakangku, dan jadikanlah bagiku cahaya."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, jaalia nuru moyoni mwangu, na nuru machoni mwangu, na nuru masikioni mwangu, na nuru upande wangu wa kulia, na nuru upande wangu wa kushoto, na nuru juu yangu, na nuru chini yangu, na nuru mbele yangu, na nuru nyuma yangu, na unifanyie nuru."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার হৃদয়ে আলো দিন, এবং আমার দৃষ্টিতে আলো দিন, এবং আমার শ্রবণে আলো দিন, এবং আমার ডানদিকে আলো দিন, এবং আমার বামদিকে আলো দিন, এবং আমার উপরে আলো দিন, এবং আমার নিচে আলো দিন, এবং আমার সামনে আলো দিন, এবং আমার পিছনে আলো দিন, এবং আমার জন্য আলো তৈরি করুন।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_23",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفَقْرِ وَالْقِلَّةِ وَالذِّلَّةِ، وَأَعُوذُ بِكَ مِنْ أَنْ أَظْلِمَ أَوْ أُظْلَمَ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-faqri wal-qillah wadh-dhillah, wa aʿūdhu bika min an aẓlima aw uẓlama",
+    "source": "Abu Dawud 1543",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from poverty, scarcity, and humiliation, and I seek refuge in You from doing injustice or being subjected to injustice."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الفقر والقلة والذلة، وأعوذ بك من أن أظلم أو أظلم"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kefakiran, kekurangan, dan kehinaan, dan aku berlindung kepada-Mu dari berbuat zalim atau dizalimi."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں تیری پناہ چاہتا ہوں فقر، کمی اور ذلت سے، اور میں تیری پناہ چاہتا ہوں اس سے کہ میں ظلم کروں یا مجھ پر ظلم کیا جائے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, fakirlikten, azlıktan ve zilletten Sana sığınırım. Zulmetmekten veya zulme uğramaktan Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la pauvreté, le manque et l'humiliation, et je cherche refuge auprès de Toi contre le fait de commettre une injustice ou d'être victime d'une injustice."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от бедности, скудости и унижения, и я прибегаю к Тебе от того, чтобы творить несправедливость или быть подвергнутым несправедливости."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از فقر و کمی و خواری، و به تو پناه می‌برم از اینکه ظلم کنم یا مورد ظلم واقع شوم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ ग़रीबी, कमी और ज़िल्लत से, और मैं तेरी पनाह चाहता हूँ इससे कि मैं ज़ुल्म करूँ या मुझ पर ज़ुल्म किया जाए।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kefakiran, kekurangan, dan kehinaan, dan aku berlindung kepada-Mu dari berbuat zalim atau dizalimi."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na ufukara, uchache na unyonge, na najikinga Kwako kutokana na kudhulumu au kudhulumiwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই দারিদ্র্য, অভাব এবং লাঞ্ছনা থেকে, এবং আমি আপনার কাছে আশ্রয় চাই অবিচার করা থেকে অথবা অবিচারের শিকার হওয়া থেকে।"
+      }
+    }
+  },
+  {
+    "id": "sleepwake_24",
+    "category_id": "daily_essentials",
+    "subcategory_id": "sleep_wake",
+    "tag": "before_sleep_waking",
+    "arabic": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لاَ شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+    "transliteration": "Allāhumma mā aṣbaḥa bī min niʿmatin aw bi-aḥadin min khalqika faminka waḥdaka lā sharīka laka, falakal-ḥamdu wa lakash-shukr",
+    "source": "Abu Dawud 5074",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, whatever blessing has come to me or to any of Your creation in the morning, it is from You alone, You have no partner. So, for You is all praise and to You is all gratitude."
+      },
+      "ar": {
+        "meaning": "اللهم ما أصبح بي من نعمة أو بأحد من خلقك فمنك وحدك لا شريك لك، فلك الحمد ولك الشكر"
+      },
+      "id": {
+        "meaning": "Ya Allah, nikmat apa pun yang menimpaku di pagi hari atau pada salah seorang dari makhluk-Mu, maka itu adalah dari-Mu semata, tiada sekutu bagi-Mu. Maka bagi-Mu segala puji dan bagi-Mu segala syukur."
+      },
+      "ur": {
+        "meaning": "اے اللہ! جو بھی نعمت مجھے یا تیری مخلوق میں سے کسی کو صبح نصیب ہوئی ہے، وہ صرف تیری طرف سے ہے، تیرا کوئی شریک نہیں۔ پس تمام تعریفیں تیرے لیے ہیں اور تمام شکر بھی تیرے لیے ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Bende veya yaratıklarından herhangi birinde sabaha ulaşan her nimet yalnızca Sendendir. Senin ortağın yoktur. Hamd da Sana mahsustur, şükür de Sana mahsustur."
+      },
+      "fr": {
+        "meaning": "Ô Allah, toute grâce qui m'est parvenue ou à l'une de Tes créatures le matin, vient de Toi seul, Tu n'as pas de partenaire. À Toi donc la louange et à Toi la gratitude."
+      },
+      "ru": {
+        "meaning": "О Аллах, какое бы благо ни постигло меня или кого-либо из Твоих творений утром, оно только от Тебя Одного, и нет у Тебя сотоварища. Так пусть же будет Тебе вся хвала и вся благодарность."
+      },
+      "fa": {
+        "meaning": "ای الله، هر نعمتی که صبحگاهان به من یا به یکی از مخلوقاتت رسیده، فقط از توست و شریکی نداری. پس حمد و شکر از آن توست."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह! जो भी नेमत मुझे या तेरी मख़लूक़ में से किसी को सुबह मिली है, वह सिर्फ़ तेरी तरफ़ से है, तेरा कोई शरीक नहीं। पस, सभी प्रशंसा तेरे लिए है और सभी शुक्रिया तेरे लिए है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, apa jua nikmat yang datang kepadaku pada waktu pagi atau kepada mana-mana makhluk-Mu, maka itu adalah dari-Mu semata, tiada sekutu bagi-Mu. Maka bagi-Mu segala puji dan bagi-Mu segala syukur."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, neema yoyote iliyonipata mimi au mmoja wa viumbe vyako asubuhi, ni kutoka Kwako peke Yako, huna mshirika. Basi, sifa zote njema ni zako na shukrani zote ni zako."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, যে কোন নিয়ামত সকালে আমার কাছে বা আপনার সৃষ্টির কারো কাছে এসেছে, তা শুধু আপনার কাছ থেকে এসেছে, আপনার কোন অংশীদার নেই। সুতরাং, আপনার জন্যই সকল প্রশংসা এবং আপনার জন্যই সকল কৃতজ্ঞতা।"
+      }
+    }
+  }
+]

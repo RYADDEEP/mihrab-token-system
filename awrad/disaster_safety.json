@@ -1,0 +1,482 @@
+[
+  {
+    "id": "disaster_1",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا فِيهَا وَخَيْرَ مَا أُرْسِلَتْ بِهِ وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا فِيهَا وَشَرِّ مَا أُرْسِلَتْ بِهِ",
+    "transliteration": "Allāhumma innī asʾaluka khayrahā wa khayra mā fīhā wa khayra mā ursilat bih, wa aʿūdhu bika min sharrihā wa sharri mā fīhā wa sharri mā ursilat bih",
+    "source": "Muslim 899 (Upon seeing wind/storm)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for its good, the good within it, and the good with which it was sent. And I seek refuge in You from its evil, the evil within it, and the evil with which it was sent."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك خيرها وخير ما فيها وخير ما أرسلت به وأعوذ بك من شرها وشر ما فيها وشر ما أرسلت به"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikan angin ini, kebaikan apa yang ada di dalamnya, dan kebaikan apa yang dibawanya. Dan aku berlindung kepada-Mu dari keburukan angin ini, keburukan apa yang ada di dalamnya, dan keburukan apa yang dibawanya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے اس کی بھلائی، اس میں جو بھلائی ہے اور جس بھلائی کے ساتھ اسے بھیجا گیا ہے، اس کا سوال کرتا ہوں۔ اور میں تیری پناہ چاہتا ہوں اس کے شر سے، اس میں جو شر ہے اور جس شر کے ساتھ اسے بھیجا گیا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden bu rüzgarın hayrını, içinde taşıdığı hayrı ve gönderildiği şeyin hayrını isterim. Bu rüzgarın şerrinden, içinde taşıdığı şerden ve gönderildiği şeyin şerrinden de Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande son bien, le bien qu'elle contient et le bien avec lequel elle a été envoyée. Et je cherche refuge auprès de Toi contre son mal, le mal qu'elle contient et le mal avec lequel elle a été envoyée."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя её блага, блага того, что в ней, и блага того, с чем она была послана. И я прибегаю к Тебе от её зла, зла того, что в ней, и зла того, с чем она была послана."
+      },
+      "fa": {
+        "meaning": "بارالها، من از تو خیر آن، خیر آنچه در آن است و خیر آنچه با آن فرستاده شده است را می‌خواهم. و به تو پناه می‌برم از شر آن، شر آنچه در آن است و شر آنچه با آن فرستاده شده است."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे इसकी भलाई, इसमें जो भलाई है, और जिस भलाई के साथ इसे भेजा गया है, उसका सवाल करता हूँ। और मैं तेरी पनाह चाहता हूँ इसके शर से, इसमें जो शर है, और जिस शर के साथ इसे भेजा गया है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikan angin ini, kebaikan apa yang ada di dalamnya, dan kebaikan apa yang dibawanya. Dan aku berlindung kepada-Mu dari keburukan angin ini, keburukan apa yang ada di dalamnya, dan keburukan apa yang dibawanya."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nakuomba kheri yake, na kheri ya yaliyomo ndani yake, na kheri ya kilichotumwa nacho. Na najikinga Kwako kutokana na shari yake, na shari ya yaliyomo ndani yake, na shari ya kilichotumwa nacho."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে এর কল্যাণ চাই, এর মধ্যে যা কল্যাণ আছে এবং যে কল্যাণ সহকারে এটি প্রেরিত হয়েছে। এবং আমি আপনার কাছে এর অনিষ্ট থেকে আশ্রয় চাই, এর মধ্যে যা অনিষ্ট আছে এবং যে অনিষ্ট সহকারে এটি প্রেরিত হয়েছে।"
+      }
+    }
+  },
+  {
+    "id": "disaster_2",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلاَئِكَةُ مِنْ خِيفَتِهِ",
+    "transliteration": "Subḥānal-ladhī yusabbiḥur-raʿdu biḥamdihī wal-malāʾikatu min khīfatih",
+    "source": "Muwatta Malik 50.1.13 (Upon hearing thunder)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Glory be to Him whom the thunder glorifies with His praise, and the angels out of fear of Him."
+      },
+      "ar": {
+        "meaning": "سبحان الذي يسبح الرعد بحمده والملائكة من خيفته"
+      },
+      "id": {
+        "meaning": "Maha Suci Dzat yang petir bertasbih dengan memuji-Nya, dan para malaikat karena takut kepada-Nya."
+      },
+      "ur": {
+        "meaning": "پاک ہے وہ ذات کہ گرج اس کی حمد کے ساتھ تسبیح کرتی ہے اور فرشتے اس کے خوف سے۔"
+      },
+      "tr": {
+        "meaning": "Kendisine hamd ederek gök gürültüsünün ve meleklerin korkudan tesbih ettiği Allah her türlü noksanlıktan münezzehtir."
+      },
+      "fr": {
+        "meaning": "Gloire à Celui que le tonnerre glorifie par Sa louange, et les anges par crainte de Lui."
+      },
+      "ru": {
+        "meaning": "Пречист Тот, Кого гром прославляет хвалой Ему, и ангелы из страха перед Ним."
+      },
+      "fa": {
+        "meaning": "پاک است آنکه رعد با حمد او تسبیح می‌گوید و فرشتگان از بیم او."
+      },
+      "hi": {
+        "meaning": "पाक है वह ज़ात कि गरज उसकी हम्द के साथ तस्बीह करती है और फरिश्ते उसके खौफ से।"
+      },
+      "ms": {
+        "meaning": "Maha Suci Tuhan yang petir bertasbih memuji-Nya, dan para malaikat juga bertasbih kerana takut kepada-Nya."
+      },
+      "sw": {
+        "meaning": "Utukufu ni wake Yeye ambaye ngurumo humtukuza kwa sifa zake, na malaika kwa hofu yake."
+      },
+      "bn": {
+        "meaning": "মহিমান্বিত সেই সত্তা, যার প্রশংসায় বজ্রধ্বনি তাসবীহ পাঠ করে এবং তাঁর ভয়ে ফেরেশতারাও (তাসবীহ পাঠ করে)।"
+      }
+    }
+  },
+  {
+    "id": "disaster_3",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ وَبُطُونِ الأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+    "transliteration": "Allāhumma ḥawālaynā wa lā ʿalaynā, Allāhumma ʿalal-ākāmi waẓ-ẓirābi wa buṭūnil-awdiyati wa manābitish-shajar",
+    "source": "Bukhari 1014 (When rain is excessive)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, [let it rain] around us and not upon us. O Allah, [let it rain] on the hillocks, mounds, valleys, and places where trees grow."
+      },
+      "ar": {
+        "meaning": "اللهم حوالينا ولا علينا اللهم على الآكام والظراب وبطون الأودية ومنابت الشجر"
+      },
+      "id": {
+        "meaning": "Ya Allah, (turunkanlah hujan) di sekitar kami dan jangan di atas kami. Ya Allah, (turunkanlah hujan) di atas bukit-bukit, gundukan pasir, lembah-lembah, dan tempat-tempat tumbuhnya pepohonan."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمارے ارد گرد برسا، ہم پر نہ برسا۔ اے اللہ، ٹیلوں پر، پہاڑیوں پر، وادیوں کے دامنوں میں اور درختوں کے اگنے کی جگہوں پر برسا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Üzerimize değil, etrafımıza yağdır. Allah'ım! Tepelere, küçük dağlara, vadilerin içlerine ve ağaç biten yerlere yağdır."
+      },
+      "fr": {
+        "meaning": "Ô Allah, (fais-la tomber) autour de nous et non sur nous. Ô Allah, (fais-la tomber) sur les monticules, les collines, les fonds de vallées et les lieux où poussent les arbres."
+      },
+      "ru": {
+        "meaning": "О Аллах, пусть он (дождь) будет вокруг нас, а не на нас. О Аллах, [пусть он будет] на холмах, возвышенностях, в низинах долин и на местах произрастания деревьев."
+      },
+      "fa": {
+        "meaning": "بارالها، اطراف ما ببار و نه بر ما. بارالها، بر پشته‌ها و تپه‌ها و بستر رودخانه‌ها و جاهای روییدن درختان ببار."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, (बारिश) हमारे इर्द-गिर्द बरसा और हम पर न बरसा। ऐ अल्लाह, (बारिश) टीलों पर, छोटी पहाड़ियों पर, वादियों के अंदर और पेड़ों के उगने वाली जगहों पर बरसा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, (turunkanlah hujan) di sekeliling kami dan janganlah ke atas kami. Ya Allah, (turunkanlah hujan) di atas bukit-bukit, tanah tinggi, lembah-lembah, dan tempat-tempat tumbuhnya pepohonan."
+      },
+      "sw": {
+        "meaning": "Ee Allah, [inyeshe] kutuzunguka na si juu yetu. Ee Allah, [inyeshe] juu ya vilima, milima midogo, mabonde, na sehemu zinakoota miti."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের চারপাশে বৃষ্টি দিন, আমাদের উপর নয়। হে আল্লাহ, এটি টিলা, ছোট পাহাড়, উপত্যকার নিম্নভূমি এবং গাছপালা জন্মায় এমন স্থানে বর্ষণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "disaster_4",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+    "transliteration": "Muṭirnā bi faḍlillāhi wa raḥmatih",
+    "source": "Bukhari 1038 (After rain)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "We have been given rain by the grace of Allah and His mercy."
+      },
+      "ar": {
+        "meaning": "مطرنا بفضل الله ورحمته"
+      },
+      "id": {
+        "meaning": "Kita diberi hujan dengan karunia Allah dan rahmat-Nya."
+      },
+      "ur": {
+        "meaning": "ہم پر اللہ کے فضل اور اس کی رحمت سے بارش ہوئی ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ın lütfu ve rahmetiyle yağmura kavuştuk."
+      },
+      "fr": {
+        "meaning": "Nous avons reçu la pluie par la grâce d'Allah et Sa miséricorde."
+      },
+      "ru": {
+        "meaning": "Нас напоил дождь по милости Аллаха и Его милосердию."
+      },
+      "fa": {
+        "meaning": "به فضل خدا و رحمت او باران بر ما بارید."
+      },
+      "hi": {
+        "meaning": "हम पर अल्लाह के फ़ज़ल और उसकी रहमत से बारिश हुई है।"
+      },
+      "ms": {
+        "meaning": "Kami diberi hujan dengan kurnia Allah dan rahmat-Nya."
+      },
+      "sw": {
+        "meaning": "Tumepata mvua kwa fadhila za Allah na rehema zake."
+      },
+      "bn": {
+        "meaning": "আমরা আল্লাহর অনুগ্রহ ও রহমতে বৃষ্টি পেয়েছি।"
+      }
+    }
+  },
+  {
+    "id": "disaster_5",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+    "transliteration": "Allāhumma ṣayyiban nāfiʿan",
+    "source": "Bukhari 1032 (Upon seeing rain)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, [make it] a beneficial downpour."
+      },
+      "ar": {
+        "meaning": "اللهم صيبا نافعا"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah hujan ini hujan yang bermanfaat."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے نفع بخش بارش بنا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Faydalı bir yağmur kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, (fais-en) une pluie bienfaisante."
+      },
+      "ru": {
+        "meaning": "О Аллах, [пусть это будет] благодатный ливень."
+      },
+      "fa": {
+        "meaning": "بارالها، بارانی پرمنفعت."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, (इसे) फायदेमंद बारिश बना।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah ia hujan yang bermanfaat."
+      },
+      "sw": {
+        "meaning": "Ee Allah, [ifanye] mvua yenye manufaa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, (এটি) উপকারী বৃষ্টি করুন।"
+      }
+    }
+  },
+  {
+    "id": "disaster_6",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "اللَّهُمَّ سُقْيَا رَحْمَةٍ وَلاَ سُقْيَا عَذَابٍ وَلاَ هَدْمٍ وَلاَ غَرَقٍ وَلاَ مَحْقٍ",
+    "transliteration": "Allāhumma suqyā raḥmah wa lā suqyā ʿadhāb, wa lā hadm, wa lā gharaq, wa lā maḥq",
+    "source": "Hisnul Muslim #185 (Du'a when rain is feared to be harmful)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, [make it] a rain of mercy and not a rain of punishment, destruction, drowning, or obliteration."
+      },
+      "ar": {
+        "meaning": "اللهم سقيا رحمة ولا سقيا عذاب ولا هدم ولا غرق ولا محق"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah ia hujan rahmat dan bukan hujan azab, bukan penghancuran, bukan penenggelaman, dan bukan pula pemusnahan."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے رحمت کی بارش بنا اور عذاب، تباہی، غرق اور ہلاکت کی بارش نہ بنا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onu rahmet yağmuru kıl, azap, yıkım, boğulma ve helak yağmuru kılma."
+      },
+      "fr": {
+        "meaning": "Ô Allah, (fais-en) une pluie de miséricorde et non une pluie de châtiment, de destruction, de noyade ou d'annihilation."
+      },
+      "ru": {
+        "meaning": "О Аллах, [пусть это будет] дождь милости, а не дождь наказания, разрушения, утопления или уничтожения."
+      },
+      "fa": {
+        "meaning": "بارالها، بارانی از رحمت و نه بارانی از عذاب، نه ویرانی، نه غرق شدن، و نه نابودی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, (इसे) रहमत की बारिश बना और अज़ाब, तबाही, डूबने, या मिटाने वाली बारिश न बना।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah ia hujan rahmat dan bukan hujan azab, bukan penghancuran, bukan penenggelaman, dan bukan pula pemusnahan."
+      },
+      "sw": {
+        "meaning": "Ee Allah, [ifanye] mvua ya rehema na si mvua ya adhabu, uharibifu, kuzama, au kuangamiza."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, (এটি) রহমতের বৃষ্টি দিন এবং আযাব, ধ্বংস, ডুবিয়ে দেওয়া বা বিলীন করার বৃষ্টি নয়।"
+      }
+    }
+  },
+  {
+    "id": "disaster_7",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا أَرْسَلْتَ فِيهِ، وَنَعُوذُ بِكَ مِنْ شَرِّ مَا أَرْسَلْتَ فِيهِ",
+    "transliteration": "Allāhumma innā nasʾaluka min khayri mā arsalta fīh, wa naʿūdhu bika min sharri mā arsalta fīh",
+    "source": "Muslim 899 (General upon seeing any wind/storm)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, we ask You for the good of what You have sent with it, and we seek refuge in You from the evil of what You have sent with it."
+      },
+      "ar": {
+        "meaning": "اللهم إنا نسألك من خير ما أرسلت فيه، ونعوذ بك من شر ما أرسلت فيه"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya kami memohon kepada-Mu kebaikan dari apa yang Engkau kirimkan bersamanya, dan kami berlindung kepada-Mu dari kejahatan apa yang Engkau kirimkan bersamanya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہم تجھ سے اس کی بھلائی کا سوال کرتے ہیں جس کے ساتھ تو نے اسے بھیجا ہے، اور ہم تیری پناہ چاہتے ہیں اس کے شر سے جس کے ساتھ تو نے اسے بھیجا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senin gönderdiğin şeyin hayrını Senden isteriz, ve Senin gönderdiğin şeyin şerrinden Sana sığınırız."
+      },
+      "fr": {
+        "meaning": "Ô Allah, nous Te demandons le bien de ce que Tu as envoyé avec cela, et nous cherchons refuge auprès de Toi contre le mal de ce que Tu as envoyé avec cela."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, мы просим у Тебя блага того, с чем Ты это послал, и прибегаем к Тебе от зла того, с чем Ты это послал."
+      },
+      "fa": {
+        "meaning": "بارالها، ما از تو خیر آنچه را که با آن فرستاده‌ای می‌خواهیم، و به تو پناه می‌بریم از شر آنچه را که با آن فرستاده‌ای."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हम तुझसे उसकी भलाई का सवाल करते हैं जिसके साथ तूने इसे भेजा है, और हम तेरी पनाह चाहते हैं उसके शर से जिसके साथ तूने इसे भेजा है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya kami memohon kepada-Mu kebaikan dari apa yang Engkau kirimkan bersamanya, dan kami berlindung kepada-Mu dari kejahatan apa yang Engkau kirimkan bersamanya."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika tunakuomba kheri ya ulichokituma nacho, na tunajikinga Kwako kutokana na shari ya ulichokituma nacho."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমরা আপনার কাছে এর মাধ্যমে যা প্রেরণ করেছেন তার কল্যাণ চাই, এবং এর মাধ্যমে যা প্রেরণ করেছেন তার অনিষ্ট থেকে আপনার কাছে আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "disaster_8",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+    "transliteration": "Alḥamdu lillāhilladhī biniʿmatihī tatimmuṣ-ṣāliḥāt",
+    "source": "Ibn Majah 3803 (Upon seeing something good/beneficial rain)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "All praise is due to Allah, by whose favor good deeds are completed."
+      },
+      "ar": {
+        "meaning": "الحمد لله الذي بنعمته تتم الصالحات"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah, dengan nikmat-Nya sempurnalah segala kebaikan."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں، جس کے فضل سے نیک اعمال مکمل ہوتے ہیں۔"
+      },
+      "tr": {
+        "meaning": "Hamd, nimetiyle güzel işlerin tamamlandığı Allah'a mahsustur."
+      },
+      "fr": {
+        "meaning": "Toute louange est à Allah, par la grâce duquel les bonnes œuvres s'accomplissent."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, по милости Которого совершаются благие дела."
+      },
+      "fa": {
+        "meaning": "ستایش خدایی را که با نعمت او کارهای شایسته کامل می‌گردد."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं, जिसकी नेमत से नेक आमाल पूरे होते हैं।"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah, dengan nikmat-Nya sempurnalah segala kebaikan."
+      },
+      "sw": {
+        "meaning": "Sifa zote ni za Allah, ambaye kwa neema yake matendo mema hutimia."
+      },
+      "bn": {
+        "meaning": "সমস্ত প্রশংসা আল্লাহর জন্য, যাঁর অনুগ্রহে সমস্ত সৎকর্ম সম্পন্ন হয়।"
+      }
+    }
+  },
+  {
+    "id": "disaster_9",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ وَالْبُخْلِ وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-ʿajzi wal-kasali wal-jubni wal-haram wal-bukhli wa aʿūdhu bika min ʿadhābil-qabri wa min fitnatil-maḥyā wal-mamāt",
+    "source": "Bukhari 6367, Muslim 2706 (General protection from various evils, including old age/frailty related to disasters)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from helplessness, laziness, cowardice, old age, and miserliness, and I seek refuge in You from the punishment of the grave and from the trials of life and death."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من العجز والكسل والجبن والهرم والبخل وأعوذ بك من عذاب القبر ومن فتنة المحيا والممات"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelemahan, kemalasan, sifat pengecut, pikun (usia tua), dan kekikiran. Dan aku berlindung kepada-Mu dari siksa kubur dan dari fitnah kehidupan dan kematian."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں عاجزی، سستی، بزدلی، بڑھاپے اور بخل سے۔ اور میں تیری پناہ چاہتا ہوں قبر کے عذاب سے اور زندگی و موت کے فتنے سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Acizlikten, tembellikten, korkaklıktan, ihtiyarlıktan ve cimrilikten Sana sığınırım. Kabir azabından, hayatın ve ölümün fitnelerinden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre l'incapacité, la paresse, la lâcheté, la vieillesse (extrême) et l'avarice. Et je cherche refuge auprès de Toi contre le châtiment de la tombe et contre l'épreuve de la vie et de la mort."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от бессилия, и лени, и трусости, и дряхлости, и скупости, и я прибегаю к Тебе от мучений в могиле, и от искушения жизни и смерти."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از ناتوانی و تنبلی و بزدلی و پیری و بخل، و به تو پناه می‌برم از عذاب قبر و از فتنه زندگی و مرگ."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ आज़िज़ी (कमज़ोरी), सुस्ती, बुज़दिली, बुढ़ापे और बखल (कंजूसी) से। और मैं तेरी पनाह चाहता हूँ क़ब्र के अज़ाब से और ज़िंदगी व मौत के फ़ितने से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelemahan, kemalasan, sifat pengecut, nyanyuk (usia tua), dan kekikiran. Dan aku berlindung kepada-Mu dari siksa kubur dan dari fitnah kehidupan dan kematian."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na udhaifu, na uvivu, na woga, na uzee, na ubakhili. Na najikinga Kwako kutokana na adhabu ya kaburi, na kutokana na fitina ya uhai na mauti."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে অক্ষমতা, অলসতা, ভীরুতা, বার্ধক্য এবং কৃপণতা থেকে আশ্রয় চাই। এবং আমি আপনার কাছে কবরের আযাব থেকে এবং জীবন ও মৃত্যুর ফেতনা থেকে আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "disaster_10",
+    "category_id": "protection_healing",
+    "subcategory_id": "natural_disasters",
+    "tag": "disaster_safety",
+    "arabic": "اللَّهُمَّ لاَ تَقْتُلْنَا بِغَضَبِكَ وَلاَ تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذَلِكَ",
+    "transliteration": "Allāhumma lā taqtulnā bighaḍabika wa lā tuhliknā biʿadhābika wa ʿāfinā qabla dhālik",
+    "source": "Tirmidhi 3450 (Du'a when facing general calamity/fear of divine wrath)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, do not kill us with Your wrath and do not destroy us with Your punishment, and grant us well-being before that."
+      },
+      "ar": {
+        "meaning": "اللهم لا تقتلنا بغضبك ولا تهلكنا بعذابك وعافنا قبل ذلك"
+      },
+      "id": {
+        "meaning": "Ya Allah, janganlah Engkau mematikan kami dengan kemurkaan-Mu dan janganlah Engkau membinasakan kami dengan azab-Mu, dan berilah kami keselamatan sebelum itu."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمیں اپنے غضب سے نہ مار اور اپنے عذاب سے ہلاک نہ کر، اور اس سے پہلے ہمیں عافیت دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Bizi gazabınla öldürme ve azabınla helak etme, bundan önce bize afiyet ver."
+      },
+      "fr": {
+        "meaning": "Ô Allah, ne nous tue pas par Ta colère et ne nous détruis pas par Ton châtiment, et accorde-nous le bien-être avant cela."
+      },
+      "ru": {
+        "meaning": "О Аллах, не убивай нас Своим гневом и не губи нас Своим наказанием, и даруй нам благополучие до этого."
+      },
+      "fa": {
+        "meaning": "بارالها، ما را با خشمت نکش و با عذابت هلاکت نکن، و پیش از آن به ما عافیت ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमें अपने ग़ज़ब से न मार और अपने अज़ाब से हलाक न कर, और इससे पहले हमें आफ़ियत दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, janganlah Engkau mematikan kami dengan kemurkaan-Mu dan janganlah Engkau membinasakan kami dengan azab-Mu, dan berilah kami keselamatan sebelum itu."
+      },
+      "sw": {
+        "meaning": "Ee Allah, usituleteze kifo kwa ghadhabu yako na usituharibu kwa adhabu yako, na utupe afya kabla ya hapo."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনার ক্রোধে আমাদেরকে হত্যা করবেন না এবং আপনার আযাবে আমাদেরকে ধ্বংস করবেন না, এবং তার আগে আমাদেরকে সুস্থতা দান করুন।"
+      }
+    }
+  }
+]

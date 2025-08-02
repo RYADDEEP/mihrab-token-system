@@ -1,0 +1,722 @@
+[
+  {
+    "id": "home_1",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى رَبِّنَا تَوَكَّلْنَا",
+    "transliteration": "Bismillāhi walajnā, wa bismillāhi kharajnā, wa ʿalā Rabbinā tawakkalnā",
+    "source": "Abu Dawud 5096",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In the Name of Allah we enter, and in the Name of Allah we exit, and upon our Lord we rely."
+      },
+      "ar": {
+        "meaning": "بسم الله ولجنا، وبسم الله خرجنا، وعلى ربنا توكلنا"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah kami masuk, dan dengan nama Allah kami keluar, dan kepada Tuhan kami kami bertawakal."
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے ہم داخل ہوئے، اور اللہ کے نام سے ہم نکلے، اور اپنے رب پر ہم نے بھروسہ کیا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla girdik, Allah'ın adıyla çıktık ve Rabbimize tevekkül ettik."
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah nous entrons, et au Nom d'Allah nous sortons, et en notre Seigneur nous nous fions."
+      },
+      "ru": {
+        "meaning": "С именем Аллаха мы входим, и с именем Аллаха мы выходим, и на нашего Господа мы уповаем."
+      },
+      "fa": {
+        "meaning": "به نام خدا وارد شدیم، و به نام خدا خارج شدیم، و بر پروردگارمان توکل کردیم."
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से हम दाख़िल हुए, और अल्लाह के नाम से हम निकले, और अपने रब पर हमने भरोसा किया।"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah kami masuk, dan dengan nama Allah kami keluar, dan kepada Tuhan kami kami bertawakal."
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah tumeingia, na kwa jina la Allah tumetoka, na kwa Mola wetu tumemtegemea."
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে আমরা প্রবেশ করলাম, আল্লাহর নামে আমরা বের হলাম, এবং আমাদের প্রতিপালকের উপর আমরা ভরসা করলাম।"
+      }
+    }
+  },
+  {
+    "id": "home_2",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلَجِ وَخَيْرَ الْمَخْرَجِ، بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+    "transliteration": "Allāhumma innī asʾaluka khayral-mawlaji wa khayral-makhraji, Bismillāhi walajnā, wa bismillāhi kharajnā, wa ʿalallāhi Rabbinā tawakkalnā",
+    "source": "Hisnul Muslim #75",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for the best entrance and the best exit. In the Name of Allah we enter, and in the Name of Allah we exit, and upon Allah our Lord we rely."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك خير المولج وخير المخرج، بسم الله ولجنا، وبسم الله خرجنا، وعلى الله ربنا توكلنا"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebaik-baik tempat masuk dan sebaik-baik tempat keluar. Dengan nama Allah kami masuk, dan dengan nama Allah kami keluar, dan kepada Allah Tuhan kami kami bertawakal."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے بہترین داخلہ اور بہترین خروج کا سوال کرتا ہوں۔ اللہ کے نام سے ہم داخل ہوئے، اور اللہ کے نام سے ہم نکلے، اور اللہ پر جو ہمارا رب ہے، ہم نے بھروسہ کیا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senden en hayırlı girişi ve en hayırlı çıkışı dilerim. Allah'ın adıyla girdik, Allah'ın adıyla çıktık ve Rabbimiz olan Allah'a tevekkül ettik."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le meilleur accès et la meilleure sortie. Au Nom d'Allah nous entrons, et au Nom d'Allah nous sortons, et en Allah notre Seigneur nous nous fions."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя о лучшем входе и лучшем выходе. С именем Аллаха мы входим, и с именем Аллаха мы выходим, и на Аллаха, нашего Господа, мы уповаем."
+      },
+      "fa": {
+        "meaning": "ای الله، از تو بهترین جای ورود و بهترین جای خروج را می‌خواهم. به نام خدا وارد شدیم، و به نام خدا خارج شدیم، و بر الله پروردگارمان توکل کردیم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे बेहतरीन दाख़िला और बेहतरीन ख़ुरूज का सवाल करता हूँ। अल्लाह के नाम से हम दाख़िल हुए, और अल्लाह के नाम से हम निकले, और अल्लाह पर जो हमारा रब है, हमने भरोसा किया।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebaik-baik tempat masuk dan sebaik-baik tempat keluar. Dengan nama Allah kami masuk, dan dengan nama Allah kami keluar, dan kepada Allah Tuhan kami kami bertawakal."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba uzuri wa kuingia na uzuri wa kutoka. Kwa jina la Allah tumeingia, na kwa jina la Allah tumetoka, na kwa Allah Mola wetu tumetegemea."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে উত্তম প্রবেশ ও উত্তম প্রস্থান কামনা করি। আল্লাহর নামে আমরা প্রবেশ করলাম, আল্লাহর নামে আমরা বের হলাম, এবং আমাদের প্রতিপালক আল্লাহর উপর আমরা ভরসা করলাম।"
+      }
+    }
+  },
+  {
+    "id": "home_3",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "إِذَا دَخَلَ الرَّجُلُ بَيْتَهُ فَذَكَرَ اللَّهَ عِنْدَ دُخُولِهِ وَعِنْدَ طَعَامِهِ، قَالَ الشَّيْطَانُ: لاَ مَبِيتَ لَكُمْ وَلاَ عَشَاءَ. وَإِذَا دَخَلَ فَلَمْ يَذْكُرِ اللَّهَ عِنْدَ دُخُولِهِ، قَالَ الشَّيْطَانُ: أَدْرَكْتُمْ الْمَبِيتَ. وَإِذَا لَمْ يَذْكُرِ اللَّهَ عِنْدَ طَعَامِهِ، قَالَ: أَدْرَكْتُمْ الْعَشَاءَ.",
+    "transliteration": "Idhā dakhala-r-rajulu baytahu fa dhakarallāha ʿinda dukhūlihī wa ʿinda ṭaʿāmihī, qālash-shayṭānu: Lā mabīta lakum wa lā ʿashāʾa. Wa idhā dakhala falam yadhkurillāha ʿinda dukhūlihī, qālash-shayṭānu: Adraktumul-mabīt. Wa idhā lam yadhkurillāha ʿinda ṭaʿāmihī, qāla: Adraktumul-ʿashāʾa.",
+    "source": "Muslim 2018",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "When a man enters his house and mentions Allah upon entering and upon his food, Shaytan says: 'You have no place to spend the night nor any dinner.' And when he enters and does not mention Allah upon entering, Shaytan says: 'You have found a place to spend the night.' And when he does not mention Allah upon his food, he says: 'You have found dinner.'"
+      },
+      "ar": {
+        "meaning": "إذا دخل الرجل بيته فذكر الله عند دخوله وعند طعامه، قال الشيطان: لا مبيت لكم ولا عشاء. وإذا دخل فلم يذكر الله عند دخوله، قال الشيطان: أدركتم المبيت. وإذا لم يذكر الله عند طعامه، قال: أدركتم العشاء."
+      },
+      "id": {
+        "meaning": "Apabila seseorang masuk ke rumahnya dan menyebut nama Allah saat masuk dan saat makan, maka setan berkata: 'Kalian tidak punya tempat menginap dan tidak ada makan malam.' Dan apabila ia masuk dan tidak menyebut nama Allah saat masuk, maka setan berkata: 'Kalian telah mendapatkan tempat menginap.' Dan apabila ia tidak menyebut nama Allah saat makan, ia berkata: 'Kalian telah mendapatkan makan malam.'"
+      },
+      "ur": {
+        "meaning": "جب کوئی شخص اپنے گھر میں داخل ہو اور داخل ہوتے وقت اور کھانے کے وقت اللہ کا ذکر کرے، تو شیطان کہتا ہے: 'تمہارے لیے نہ کوئی رات گزارنے کی جگہ ہے اور نہ کوئی شام کا کھانا۔' اور جب وہ داخل ہو اور داخل ہوتے وقت اللہ کا ذکر نہ کرے، تو شیطان کہتا ہے: 'تم نے رات گزارنے کی جگہ پا لی۔' اور جب وہ کھانے کے وقت اللہ کا ذکر نہ کرے، تو کہتا ہے: 'تم نے شام کا کھانا پا لیا۔'"
+      },
+      "tr": {
+        "meaning": "Bir kimse evine girerken ve yemeğini yerken Allah'ın adını anarsa, şeytan der ki: 'Sizin için ne geceleme yeri ne de akşam yemeği vardır.' Evine girerken Allah'ın adını anmazsa, şeytan der ki: 'Geceleme yerini buldunuz.' Yemeğini yerken Allah'ın adını anmazsa, şeytan der ki: 'Akşam yemeğini buldunuz.'"
+      },
+      "fr": {
+        "meaning": "Lorsque l'homme entre dans sa maison et mentionne Allah à son entrée et à son repas, Shaytan dit : 'Vous n'avez ni gîte ni dîner.' Et lorsqu'il entre et ne mentionne pas Allah à son entrée, Shaytan dit : 'Vous avez trouvé un gîte.' Et lorsqu'il ne mentionne pas Allah à son repas, il dit : 'Vous avez trouvé le dîner.'"
+      },
+      "ru": {
+        "meaning": "Когда человек входит в свой дом и поминает Аллаха при входе и во время еды, шайтан говорит: 'Вам негде провести ночь и нет ужина.' А когда он входит и не поминает Аллаха при входе, шайтан говорит: 'Вы нашли место для ночевки.' А когда он не поминает Аллаха во время еды, он говорит: 'Вы нашли ужин.'"
+      },
+      "fa": {
+        "meaning": "هرگاه مردی به خانه خود وارد شود و هنگام ورود و هنگام غذا خوردن، الله را یاد کند، شیطان می‌گوید: 'نه جایی برای ماندن و نه شامی برای شماست.' و هرگاه وارد شود و هنگام ورود، الله را یاد نکند، شیطان می‌گوید: 'جای ماندن را یافتید.' و هرگاه هنگام غذا خوردن، الله را یاد نکند، می‌گوید: 'شام را یافتید.'"
+      },
+      "hi": {
+        "meaning": "जब कोई शख़्स अपने घर में दाख़िल हो और दाख़िल होते वक़्त और खाने के वक़्त अल्लाह का ज़िक्र करे, तो शैतान कहता है: 'तुम्हारे लिए न कोई रात गुज़ारने की जगह है और न कोई शाम का खाना।' और जब वह दाख़िल हो और दाख़िल होते वक़्त अल्लाह का ज़िक्र न करे, तो शैतान कहता है: 'तुमने रात गुज़ारने की जगह पा ली।' और जब वह खाने के वक़्त अल्लाह का ज़िक्र न करे, तो कहता है: 'तुमने शाम का खाना पा लिया।'"
+      },
+      "ms": {
+        "meaning": "Apabila seseorang masuk ke rumahnya dan menyebut nama Allah semasa masuk dan semasa makan, maka syaitan berkata: 'Kamu tidak punya tempat bermalam dan tidak ada makan malam.' Dan apabila ia masuk dan tidak menyebut nama Allah semasa masuk, maka syaitan berkata: 'Kamu telah mendapatkan tempat bermalam.' Dan apabila ia tidak menyebut nama Allah semasa makan, ia berkata: 'Kamu telah mendapatkan makan malam.'"
+      },
+      "sw": {
+        "meaning": "Anapoingia mtu nyumbani kwake na akamtaja Allah anapoingia na anapokula, Shaytan husema: 'Hamna mahali pa kulala wala chakula cha jioni.' Na anapoingia na wala asimtaje Allah anapoingia, Shaytan husema: 'Mmeipata mahali pa kulala.' Na asipomtaja Allah anapokula, husema: 'Mmeipata chakula cha jioni.'"
+      },
+      "bn": {
+        "meaning": "যখন কোনো ব্যক্তি তার ঘরে প্রবেশ করে এবং প্রবেশকালে ও খাবার গ্রহণকালে আল্লাহর নাম স্মরণ করে, তখন শয়তান বলে: 'তোমাদের জন্য এখানে রাত যাপনের কোনো স্থান নেই এবং কোনো রাতের খাবারও নেই।' আর যখন সে প্রবেশ করে এবং প্রবেশকালে আল্লাহর নাম স্মরণ না করে, তখন শয়তান বলে: 'তোমরা রাত যাপনের স্থান পেয়ে গেছ।' আর যখন সে খাবার গ্রহণকালে আল্লাহর নাম স্মরণ না করে, তখন বলে: 'তোমরা রাতের খাবার পেয়ে গেছ।'"
+      }
+    }
+  },
+  {
+    "id": "home_4",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ",
+    "transliteration": "Bismillāh, tawakkaltu ʿalallāh, wa lā ḥawla wa lā quwwata illā billāh",
+    "source": "Abu Dawud 5095",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In the Name of Allah, I rely upon Allah, and there is no might nor power except with Allah."
+      },
+      "ar": {
+        "meaning": "بسم الله توكلت على الله ولا حول ولا قوة إلا بالله"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya serta upaya kecuali dengan (pertolongan) Allah."
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا، اور کوئی طاقت و قوت نہیں مگر اللہ کی مدد سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla. Allah'a tevekkül ettim. Güç ve kuvvet ancak Allah iledir."
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah, je me fie à Allah, et il n'y a de force ni de puissance qu'en Allah."
+      },
+      "ru": {
+        "meaning": "С именем Аллаха, я уповаю на Аллаха, и нет мощи и силы, кроме как с Аллахом."
+      },
+      "fa": {
+        "meaning": "به نام خدا، توکل کردم بر خدا، و هیچ نیرو و قدرتی جز به یاری خدا نیست."
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से, मैंने अल्लाह पर भरोसा किया, और कोई ताक़त व क़ुव्वत नहीं मगर अल्लाह की मदद से।"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya serta upaya kecuali dengan (pertolongan) Allah."
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah, nimemtegemea Allah, na hapana nguvu wala uwezo ila kwa Allah."
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে, আমি আল্লাহর উপর ভরসা করলাম, আর আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও সামর্থ্য নেই।"
+      }
+    }
+  },
+  {
+    "id": "home_5",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ، أَوْ أَزِلَّ أَوْ أُزَلَّ، أَوْ أَظْلِمَ أَوْ أُظْلَمَ، أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَيَّ",
+    "transliteration": "Allāhumma innī aʿūdhu bika an aḍilla aw uḍalla, aw azilla aw uzalla, aw aẓlima aw uẓlama, aw ajhala aw yujhala ʿalayya",
+    "source": "Abu Dawud 5094",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from going astray or being led astray, from slipping or being made to slip, from oppressing or being oppressed, and from acting foolishly or being treated foolishly."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك أن أضل أو أضل، أو أزل أو أزل، أو أظلم أو أظلم، أو أجهل أو يجهل علي"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari tersesat atau disesatkan, dari tergelincir atau digelincirkan, dari menzalimi atau dizalimi, dan dari berbuat bodoh atau diperlakukan dengan kebodohan."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں کہ میں خود گمراہ ہوں یا مجھے گمراہ کیا جائے، یا میں پھسل جاؤں یا مجھے پھسلایا جائے، یا میں ظلم کروں یا مجھ پر ظلم کیا جائے، یا میں جہالت سے کام لوں یا مجھ سے جہالت کا سلوک کیا جائے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, dalalete düşmekten veya düşürülmekten, sürçmekten veya sürçtürülmekten, zulmetmekten veya zulmedilmekten, cahillik etmekten veya cahillik edilmekten Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre le fait de m'égarer ou d'être égaré, de glisser ou d'être fait glisser, d'opprimer ou d'être opprimé, et d'agir follement ou d'être traité follement."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от того, чтобы заблудиться или быть введенным в заблуждение, от того, чтобы споткнуться или быть споткнутым, от того, чтобы угнетать или быть угнетенным, и от того, чтобы быть невежественным или чтобы со мной обращались невежественно."
+      },
+      "fa": {
+        "meaning": "ای الله، به تو پناه می‌برم از اینکه گمراه شوم یا گمراه کرده شوم، یا بلغزم یا لغزانده شوم، یا ستم کنم یا به من ستم شود، یا جهل ورزم یا بر من جهل ورزیده شود."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ कि मैं ख़ुद गुमराह हूँ या मुझे गुमराह किया जाए, या मैं फिसल जाऊँ या मुझे फिसलाया जाए, या मैं ज़ुल्म करूँ या मुझ पर ज़ुल्म किया जाए, या मैं जहालत से काम लूँ या मुझसे जहालत का सुलूक किया जाए।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari tersesat atau disesatkan, dari tergelincir atau digelincirkan, dari menzalimi atau dizalimi, dan dari berbuat bodoh atau diperlakukan dengan kebodohan."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako nisipotee au kupotezwa, au nisiteleze au kutelezeshwa, au nisidhulumu au kudhulumiwa, au nisifanye ujinga au nifanyiwe ujinga."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই যেন আমি নিজে পথভ্রষ্ট না হই বা আমাকে পথভ্রষ্ট করা না হয়, যেন আমি পদস্খলিত না হই বা আমাকে পদস্খলিত করা না হয়, যেন আমি যুলম না করি বা আমার উপর যুলম করা না হয়, এবং যেন আমি মূর্খতাপূর্ণ আচরণ না করি বা আমার সাথে মূর্খতাপূর্ণ আচরণ করা না হয়।"
+      }
+    }
+  },
+  {
+    "id": "home_6",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "إِذَا خَرَجْتَ مِنْ بَيْتِكَ فَقُلْ: بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ",
+    "transliteration": "Idhā kharajta min baytika faqul: Bismillāh, tawakkaltu ʿalallāh",
+    "source": "Tirmidhi 3426",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "When you leave your house, say: In the Name of Allah, I rely upon Allah."
+      },
+      "ar": {
+        "meaning": "إذا خرجت من بيتك فقل: بسم الله توكلت على الله"
+      },
+      "id": {
+        "meaning": "Apabila engkau keluar dari rumahmu, maka ucapkanlah: Dengan nama Allah, aku bertawakal kepada Allah."
+      },
+      "ur": {
+        "meaning": "جب تم اپنے گھر سے نکلو تو کہو: اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا۔"
+      },
+      "tr": {
+        "meaning": "Evinden çıktığında de ki: Allah'ın adıyla, Allah'a tevekkül ettim."
+      },
+      "fr": {
+        "meaning": "Quand tu sors de ta maison, dis : Au Nom d'Allah, je me fie à Allah."
+      },
+      "ru": {
+        "meaning": "Когда выходишь из дома, скажи: С именем Аллаха, я уповаю на Аллаха."
+      },
+      "fa": {
+        "meaning": "هنگامی که از خانه‌ات خارج شدی، بگو: به نام خدا، بر خدا توکل کردم."
+      },
+      "hi": {
+        "meaning": "जब तुम अपने घर से निकलो तो कहो: अल्लाह के नाम से, मैंने अल्लाह पर भरोसा किया।"
+      },
+      "ms": {
+        "meaning": "Apabila engkau keluar dari rumahmu, maka ucapkanlah: Dengan nama Allah, aku bertawakal kepada Allah."
+      },
+      "sw": {
+        "meaning": "Unapotoka nyumbani kwako sema: Kwa jina la Allah, nimemtegemea Allah."
+      },
+      "bn": {
+        "meaning": "যখন তুমি তোমার ঘর থেকে বের হবে, তখন বলো: আল্লাহর নামে, আমি আল্লাহর উপর ভরসা করলাম।"
+      }
+    }
+  },
+  {
+    "id": "home_7",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَخْرَجِ وَخَيْرَ الْمَوْلَجِ",
+    "transliteration": "Allāhumma innī asʾaluka khayral-makhraji wa khayral-mawlaji",
+    "source": "Hisnul Muslim #75",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for the best exit and the best entrance."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك خير المخرج وخير المولج"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebaik-baik tempat keluar dan sebaik-baik tempat masuk."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے بہترین خروج اور بہترین داخلہ کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senden en hayırlı çıkışı ve en hayırlı girişi dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande la meilleure sortie et le meilleur accès."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу Тебя о лучшем выходе и лучшем входе."
+      },
+      "fa": {
+        "meaning": "ای الله، از تو بهترین جای خروج و بهترین جای ورود را می‌خواهم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे बेहतरीन ख़ुरूज और बेहतरीन दाख़िला का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebaik-baik tempat keluar dan sebaik-baik tempat masuk."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba uzuri wa kutoka na uzuri wa kuingia."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে উত্তম প্রস্থান ও উত্তম প্রবেশ কামনা করি।"
+      }
+    }
+  },
+  {
+    "id": "home_8",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَدْمِ وَأَعُوذُ بِكَ مِنَ التَّرَدِّي وَأَعُوذُ بِكَ مِنَ الْغَرَقِ وَالْحَرَقِ وَالْهَرَمِ وَأَعُوذُ بِكَ أَنْ يَتَخَبَّطَنِيَ الشَّيْطَانُ عِنْدَ الْمَوْتِ وَأَعُوذُ بِكَ أَنْ أَمُوتَ فِي سَبِيلِكَ مُدْبِرًا وَأَعُوذُ بِكَ أَنْ أَمُوتَ لَدِيغًا",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-hadmi wa aʿūdhu bika minattaraddī wa aʿūdhu bika minal-gharaqi wal-ḥaraqi wal-haram, wa aʿūdhu bika an yatakhabbataniya-sh-shayṭānu ʿindal-mawt, wa aʿūdhu bika an amūta fī sabīlika mudbiran, wa aʿūdhu bika an amūta ladīghan",
+    "source": "Nasai 5530",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from being crushed beneath a falling object, and I seek refuge in You from falling (from a height), and I seek refuge in You from drowning, and burning, and old age, and I seek refuge in You from Shaytan confusing me at the time of death, and I seek refuge in You from dying in Your path while fleeing, and I seek refuge in You from dying by a venomous sting."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الهدم وأعوذ بك من التردي وأعوذ بك من الغرق والحرق والهرم وأعوذ بك أن يتخبطني الشيطان عند الموت وأعوذ بك أن أموت في سبيلك مدبرا وأعوذ بك أن أموت لديغا"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari tertimpa reruntuhan, dan aku berlindung kepada-Mu dari terjatuh (dari ketinggian), dan aku berlindung kepada-Mu dari tenggelam, terbakar, dan pikun, dan aku berlindung kepada-Mu dari syaitan menggangguku saat kematian, dan aku berlindung kepada-Mu dari mati di jalan-Mu dalam keadaan melarikan diri, dan aku berlindung kepada-Mu dari mati karena sengatan (binatang berbisa)."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں کہ میں (کسی چیز کے) گرنے سے مر جاؤں، اور میں تیری پناہ چاہتا ہوں کہ میں (اونچائی سے) گر جاؤں، اور میں تیری پناہ چاہتا ہوں ڈوبنے سے، اور جلنے سے، اور بڑھاپے سے، اور میں تیری پناہ چاہتا ہوں کہ موت کے وقت شیطان مجھے بہکا دے، اور میں تیری پناہ چاہتا ہوں کہ میں تیری راہ میں بھاگتے ہوئے مروں، اور میں تیری پناہ چاہتا ہوں کہ میں زہریلے ڈنک سے مروں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, göçük altında kalmaktan Sana sığınırım. Yüksek bir yerden düşmekten Sana sığınırım. Boğulmaktan, yanmaktan ve kocarlıktan Sana sığınırım. Şeytanın ölüm anında beni çelmesinden Sana sığınırım. Senin yolunda arkamı dönerek ölmekten Sana sığınırım. Zehirli bir hayvan tarafından sokularak ölmekten Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre l'effondrement (d'un bâtiment), et je cherche refuge auprès de Toi contre la chute (d'une hauteur), et je cherche refuge auprès de Toi contre la noyade, et l'incendie, et la vieillesse, et je cherche refuge auprès de Toi contre le fait que Shaytan me trouble au moment de la mort, et je cherche refuge auprès de Toi contre le fait de mourir en fuite dans Ton chemin, et je cherche refuge auprès de Toi contre le fait de mourir piqué (par un venimeux)."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от того, чтобы быть раздавленным падающим предметом, и я прибегаю к Тебе от падения (с высоты), и я прибегаю к Тебе от утопления, и горения, и старости, и я прибегаю к Тебе от того, чтобы шайтан сбил меня с толку во время смерти, и я прибегаю к Тебе от того, чтобы умереть на Твоем пути, убегая, и я прибегаю к Тебе от того, чтобы умереть от ядовитого укуса."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از اینکه زیر آوار بمانم، و به تو پناه می‌برم از افتادن (از بلندی)، و به تو پناه می‌برم از غرق شدن و سوختن و پیری، و به تو پناه می‌برم از اینکه شیطان هنگام مرگ مرا به هم ریزد، و به تو پناه می‌برم از اینکه در راه تو در حال فرار بمیرم، و به تو پناه می‌برم از اینکه با نیش (حشره‌ای) بمیرم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ कि मैं (किसी चीज़ के) गिरने से मर जाऊँ, और मैं तेरी पनाह चाहता हूँ कि मैं (ऊंचाई से) गिर जाऊँ, और मैं तेरी पनाह चाहता हूँ डूबने से, और जलने से, और बुढ़ापे से, और मैं तेरी पनाह चाहता हूँ कि मौत के वक़्त शैतान मुझे बहका दे, और मैं तेरी पनाह चाहता हूँ कि मैं तेरी राह में भागते हुए मरूँ, और मैं तेरी पनाह चाहता हूँ कि मैं ज़हरीले डंक से मरूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari tertimpa reruntuhan, dan aku berlindung kepada-Mu dari terjatuh (dari ketinggian), dan aku berlindung kepada-Mu dari tenggelam, terbakar, dan nyanyuk, dan aku berlindung kepada-Mu dari syaitan menggangguku saat kematian, dan aku berlindung kepada-Mu dari mati di jalan-Mu dalam keadaan melarikan diri, dan aku berlindung kepada-Mu dari mati kerana sengatan (binatang berbisa)."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na kuangukiwa na kitu, na najikinga Kwako kutokana na kuanguka (kutoka juu), na najikinga Kwako kutokana na kuzama, na kuungua, na uzee, na najikinga Kwako Shaytan asinitie machafuko wakati wa kufa, na najikinga Kwako nisife njiani Kwako nikikimbia, na najikinga Kwako nisife kwa kuumwa na sumu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই ধ্বংস্তূপের নিচে চাপা পড়ে মারা যাওয়া থেকে, এবং আমি আপনার কাছে আশ্রয় চাই উঁচু জায়গা থেকে পড়ে যাওয়া থেকে, এবং আমি আপনার কাছে আশ্রয় চাই ডুবে যাওয়া, আগুনে পুড়ে যাওয়া ও বার্ধক্য থেকে, এবং আমি আপনার কাছে আশ্রয় চাই মৃত্যুকালে শয়তানের আমাকে বিভ্রান্ত করা থেকে, এবং আমি আপনার কাছে আশ্রয় চাই আপনার পথে পলায়নরত অবস্থায় মৃত্যুবরণ করা থেকে, এবং আমি আপনার কাছে আশ্রয় চাই বিষাক্ত কিছু দ্বারা দংশিত হয়ে মারা যাওয়া থেকে।"
+      }
+    }
+  },
+  {
+    "id": "home_9",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي بَصَرِي نُورًا، وَفِي سَمْعِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ يَسَارِي نُورًا، وَفَوْقِي نُورًا، وَتَحْتِي نُورًا، وَأَمَامِي نُورًا، وَخَلْفِي نُورًا، وَاجْعَلْ لِي نُورًا",
+    "transliteration": "Allāhummajʿal fī qalbī nūran, wa fī baṣarī nūran, wa fī samʿī nūran, wa ʿan yamīnī nūran, wa ʿan yasārī nūran, wa fawqī nūran, wa taḥtī nūran, wa amāmī nūran, wa khalfī nūran, wajʿal lī nūran",
+    "source": "Bukhari 6316",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, place light in my heart, and light in my sight, and light in my hearing, and light on my right, and light on my left, and light above me, and light below me, and light in front of me, and light behind me, and make for me light."
+      },
+      "ar": {
+        "meaning": "اللهم اجعل في قلبي نورا، وفي بصري نورا، وفي سمعي نورا، وعن يميني نورا، وعن يساري نورا، وفوقي نورا، وتحتي نورا، وأمامي نورا، وخلفي نورا، واجعل لي نورا"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah di hatiku cahaya, dan di penglihatanku cahaya, dan di pendengaranku cahaya, dan di kananku cahaya, dan di kiriku cahaya, dan di atasku cahaya, dan di bawahku cahaya, dan di depanku cahaya, dan di belakangku cahaya, dan jadikanlah untukku cahaya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میرے دل میں نور ڈال دے، اور میری آنکھ میں نور، اور میرے کان میں نور، اور میرے دائیں نور، اور میرے بائیں نور، اور میرے اوپر نور، اور میرے نیچے نور، اور میرے آگے نور، اور میرے پیچھے نور، اور میرے لیے نور بنا دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kalbime nur ver, gözüme nur ver, kulağıma nur ver, sağıma nur ver, soluma nur ver, üstüme nur ver, altıma nur ver, önüme nur ver, arkama nur ver ve bana nur kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, place de la lumière dans mon cœur, et de la lumière dans ma vue, et de la lumière dans mon ouïe, et de la lumière à ma droite, et de la lumière à ma gauche, et de la lumière au-dessus de moi, et de la lumière en dessous de moi, et de la lumière devant moi, et de la lumière derrière moi, et fais pour moi de la lumière."
+      },
+      "ru": {
+        "meaning": "О Аллах, помести свет в мое сердце, и свет в мое зрение, и свет в мой слух, и свет справа от меня, и свет слева от меня, и свет надо мной, и свет подо мной, и свет передо мной, и свет позади меня, и сделай для меня свет."
+      },
+      "fa": {
+        "meaning": "ای الله، در دلم نوری قرار ده، و در چشمانم نوری، و در گوشم نوری، و در سمت راستم نوری، و در سمت چپم نوری، و بالایم نوری، و زیرم نوری، و پیش رویم نوری، و پشت سرم نوری، و برایم نوری قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मेरे दिल में नूर डाल दे, और मेरी आँख में नूर, और मेरे कान में नूर, और मेरे दाएं नूर, और मेरे बाएं नूर, और मेरे ऊपर नूर, और मेरे नीचे नूर, और मेरे आगे नूर, और मेरे पीछे नूर, और मेरे लिए नूर बना दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah di hatiku cahaya, dan di penglihatanku cahaya, dan di pendengaranku cahaya, dan di kananku cahaya, dan di kiriku cahaya, dan di atasku cahaya, dan di bawahku cahaya, dan di depanku cahaya, dan di belakangku cahaya, dan jadikanlah untukku cahaya."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, jaalia nuru moyoni mwangu, na nuru machoni mwangu, na nuru masikioni mwangu, na nuru upande wangu wa kulia, na nuru upande wangu wa kushoto, na nuru juu yangu, na nuru chini yangu, na nuru mbele yangu, na nuru nyuma yangu, na unijaalie nuru."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার অন্তরে নূর দাও, আমার চোখে নূর দাও, আমার কানে নূর দাও, আমার ডানে নূর দাও, আমার বামে নূর দাও, আমার উপরে নূর দাও, আমার নিচে নূর দাও, আমার সামনে নূর দাও, আমার পিছনে নূর দাও, এবং আমাকে নূর দাও।"
+      }
+    }
+  },
+  {
+    "id": "home_10",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-hammi wal-ḥazan, wal-ʿajzi wal-kasal, wal-jubni wal-bukhl, wa ḍalaʿid-dayni wa ghalabatir-rijāl",
+    "source": "Bukhari 6369",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from anxiety and sorrow, from weakness and laziness, from cowardice and miserliness, from the burden of debt and from being overcome by men."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الهم والحزن والعجز والكسل والجبن والبخل وضلع الدين وغلبة الرجال"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegelisahan dan kesedihan, dari kelemahan dan kemalasan, dari sifat pengecut dan kikir, dari beban hutang dan dari dikalahkan oleh orang lain."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں غم اور حزن سے، اور عاجزی و سستی سے، اور بزدلی و بخل سے، اور قرض کے بوجھ سے اور لوگوں کے غلبے سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kederden ve hüzünden, acizlikten ve tembellikten, korkaklıktan ve cimrilikten, borcun sıkıntısından ve insanların galebe çalmasından Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et le chagrin, contre l'incapacité et la paresse, contre la lâcheté et l'avarice, contre le fardeau de la dette et contre le fait d'être maîtrisé par les hommes."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от беспокойства и печали, от слабости и лени, от трусости и скупости, от бремени долга и от того, чтобы быть одоленным людьми."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از غم و اندوه، و ناتوانی و کسالت، و بزدلی و بخل، و سنگینی قرض و غلبه مردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ ग़म और दुख से, और आजिज़ी और सुस्ती से, और बुज़दिली और कंजूसी से, और क़र्ज़ के बोझ से और लोगों के ग़लबा से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kegelisahan dan kesedihan, dari kelemahan dan kemalasan, dari sifat pengecut dan kikir, dari beban hutang dan dari dikalahkan oleh orang lain."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na huzuni na majonzi, kutokana na udhaifu na uvivu, kutokana na woga na ubakhili, kutokana na mzigo wa deni na kutokana na kushindwa na watu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই দুশ্চিন্তা ও বিষণ্নতা থেকে, অক্ষমতা ও অলসতা থেকে, ভীরুতা ও কৃপণতা থেকে, ঋণের বোঝা থেকে এবং মানুষের উপর্যুপরি আক্রমণ থেকে।"
+      }
+    }
+  },
+  {
+    "id": "home_11",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهِ",
+    "transliteration": "Allāhumma bārik lanā fīh",
+    "source": "Hisnul Muslim #75",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless it for us. (When entering a new home or place)"
+      },
+      "ar": {
+        "meaning": "اللهم بارك لنا فيه"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah kami di dalamnya. (Saat memasuki rumah atau tempat baru)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمیں اس میں برکت دے۔ (نئے گھر یا جگہ میں داخل ہوتے وقت)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, bize onu mübarek kıl. (Yeni bir eve veya yere girerken)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-le pour nous. (En entrant dans une nouvelle maison ou un nouveau lieu)"
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови нам это. (При входе в новый дом или место)"
+      },
+      "fa": {
+        "meaning": "ای الله، آن را برای ما مبارک گردان. (هنگام ورود به خانه یا مکان جدید)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमें इसमें बरकत दे। (नए घर या जगह में दाख़िल होते वक़्त)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah kami di dalamnya. (Ketika memasuki rumah atau tempat baru)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, tubarikie humo. (Unapoingia nyumba mpya au mahali)"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের জন্য এতে বরকত দিন। (নতুন বাড়িতে বা স্থানে প্রবেশ করার সময়)"
+      }
+    }
+  },
+  {
+    "id": "home_12",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "إِذَا خَرَجْتَ مِنْ بَيْتِكَ فَقُلْ: بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ. يُقَالُ لَهُ حِينَئِذٍ: كُفِيتَ وَوُقِيتَ وَهُدِيتَ، وَتَنَحَّى عَنْهُ الشَّيْطَانُ.",
+    "transliteration": "Idhā kharajta min baytika faqul: Bismillāh, tawakkaltu ʿalallāh, lā ḥawla wa lā quwwata illā billāh. Yuqālu lahu ḥīnaʾidhin: Kufīta wa wuQīta wa hudīta, wa tanaḥḥā ʿanhu-sh-shayṭān.",
+    "source": "Abu Dawud 5095, Tirmidhi 3426",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "When you leave your house, say: In the Name of Allah, I rely upon Allah, and there is no might nor power except with Allah. At that time it is said to him: 'You have been sufficed, protected, and guided,' and Shaytan moves away from him."
+      },
+      "ar": {
+        "meaning": "إذا خرجت من بيتك فقل: بسم الله، توكلت على الله، لا حول ولا قوة إلا بالله. يقال له حينئذ: كفيت ووقيت وهديت، وتنحى عنه الشيطان."
+      },
+      "id": {
+        "meaning": "Apabila engkau keluar dari rumahmu, maka ucapkanlah: Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya serta upaya kecuali dengan (pertolongan) Allah. Pada saat itu dikatakan kepadanya: 'Engkau telah dicukupi, dilindungi, dan diberi petunjuk,' dan syaitan menjauh darinya."
+      },
+      "ur": {
+        "meaning": "جب تم اپنے گھر سے نکلو تو کہو: اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا۔ اور کوئی طاقت و قوت نہیں مگر اللہ کی مدد سے۔ اس وقت اس سے کہا جاتا ہے: 'تجھے کفایت کی گئی، تیری حفاظت کی گئی اور تجھے ہدایت دی گئی،' اور شیطان اس سے دور ہو جاتا ہے۔"
+      },
+      "tr": {
+        "meaning": "Evinden çıktığında şöyle de: Allah'ın adıyla. Allah'a tevekkül ettim. Güç ve kuvvet ancak Allah iledir. O zaman kendisine şöyle denilir: 'Korundun, muhafaza edildin ve doğru yola iletildin.' Şeytan da ondan uzaklaşır."
+      },
+      "fr": {
+        "meaning": "Quand tu sors de ta maison, dis : Au Nom d'Allah, je me fie à Allah, et il n'y a de force ni de puissance qu'en Allah. À ce moment-là, il lui est dit : 'Tu as été suffi, protégé et guidé,' et Shaytan s'éloigne de lui."
+      },
+      "ru": {
+        "meaning": "Когда выходишь из дома, скажи: С именем Аллаха, я уповаю на Аллаха, и нет мощи и силы, кроме как с Аллахом. В это время ему говорится: 'Тебе достаточно, ты защищен и наставлен,' и шайтан отстраняется от него."
+      },
+      "fa": {
+        "meaning": "هنگامی که از خانه‌ات خارج شدی، بگو: به نام خدا، بر خدا توکل کردم، و هیچ نیرو و قدرتی جز به یاری خدا نیست. در آن هنگام به او گفته می‌شود: 'کفایت شدی، حفظ شدی و هدایت شدی،' و شیطان از او دور می‌شود."
+      },
+      "hi": {
+        "meaning": "जब तुम अपने घर से निकलो तो कहो: अल्लाह के नाम से, मैंने अल्लाह पर भरोसा किया। और कोई ताक़त व क़ुव्वत नहीं मगर अल्लाह की मदद से। उस वक़्त उससे कहा जाता है: 'तुझे किफ़ायत की गई, तेरी हिफ़ाज़त की गई और तुझे हिदायत दी गई,' और शैतान उससे दूर हो जाता है।"
+      },
+      "ms": {
+        "meaning": "Apabila engkau keluar dari rumahmu, maka ucapkanlah: Dengan nama Allah, aku bertawakal kepada Allah, dan tiada daya serta upaya kecuali dengan (pertolongan) Allah. Pada saat itu dikatakan kepadanya: 'Engkau telah dicukupi, dilindungi, dan diberi petunjuk,' dan syaitan menjauh darinya."
+      },
+      "sw": {
+        "meaning": "Unapotoka nyumbani kwako sema: Kwa jina la Allah, nimemtegemea Allah, na hapana nguvu wala uwezo ila kwa Allah. Wakati huo huambiwa: 'Umetoshelezwa, umelindwa, na umeongozwa,' na Shaytan huondoka kwake."
+      },
+      "bn": {
+        "meaning": "যখন তুমি তোমার ঘর থেকে বের হবে, তখন বলো: আল্লাহর নামে, আমি আল্লাহর উপর ভরসা করলাম, আর আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও সামর্থ্য নেই। তখন তাকে বলা হয়: 'তোমাকে যথেষ্ট করা হয়েছে, রক্ষা করা হয়েছে এবং পথ দেখানো হয়েছে,' এবং শয়তান তার থেকে দূরে সরে যায়।"
+      }
+    }
+  },
+  {
+    "id": "home_13",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفَقْرِ وَالْقِلَّةِ وَالذِّلَّةِ وَأَعُوذُ بِكَ أَنْ أَظْلِمَ أَوْ أُظْلَمَ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minal-faqri wal-qillah wadh-dhillah, wa aʿūdhu bika an aẓlima aw uẓlama",
+    "source": "Nasai 5475",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from poverty, scarcity, and humiliation, and I seek refuge in You from oppressing or being oppressed."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الفقر والقلة والذلة وأعوذ بك أن أظلم أو أظلم"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kefakiran, kekurangan, dan kehinaan, dan aku berlindung kepada-Mu dari menzalimi atau dizalimi."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں فقر، کمی اور ذلت سے، اور میں تیری پناہ چاہتا ہوں ظلم کرنے سے یا مجھ پر ظلم ہونے سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, fakirlikten, azlıktan ve zelillikten Sana sığınırım. Zulmetmekten veya zulmedilmekten Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre la pauvreté, le manque et l'humiliation, et je cherche refuge auprès de Toi contre le fait d'opprimer ou d'être opprimé."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от бедности, малочисленности и унижения, и я прибегаю к Тебе от того, чтобы угнетать или быть угнетенным."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از فقر و کمی و خواری، و به تو پناه می‌برم از اینکه ستم کنم یا به من ستم شود."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ फ़क्र, कमी और ज़िल्लत से, और मैं तेरी पनाह चाहता हूँ ज़ुल्म करने से या मुझ पर ज़ुल्म होने से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kefakiran, kekurangan, dan kehinaan, dan aku berlindung kepada-Mu dari menzalimi atau dizalimi."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na ufukara, uchache, na udhalili, na najikinga Kwako nisidhulumu au kudhulumiwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই দারিদ্র্য, অভাব এবং লাঞ্ছনা থেকে, এবং আমি আপনার কাছে আশ্রয় চাই যেন আমি যুলম না করি বা আমার উপর যুলম করা না হয়।"
+      }
+    }
+  },
+  {
+    "id": "home_14",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي كَفَانِي وَآوَانِي",
+    "transliteration": "Alḥamdu lillāhilladhī kafānī wa āwānī",
+    "source": "Muslim 2715",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "All praise is due to Allah Who has sufficed me and given me refuge."
+      },
+      "ar": {
+        "meaning": "الحمد لله الذي كفاني وآواني"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah mencukupiku dan memberiku tempat berlindung."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے کافی ہوا اور پناہ دی۔"
+      },
+      "tr": {
+        "meaning": "Bana yeten ve bana barınak veren Allah'a hamdolsun."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui m'a suffi et m'a donné refuge."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который мне достаточен и дал мне убежище."
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که مرا کفایت کرد و پناه داد."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने मुझे काफ़ी हुआ और पनाह दी।"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah mencukupiku dan memberiku tempat berlindung."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyenitosheleza na kunipa hifadhi."
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাকে যথেষ্ট করেছেন এবং আমাকে আশ্রয় দিয়েছেন।"
+      }
+    }
+  },
+  {
+    "id": "home_15",
+    "category_id": "daily_activities",
+    "subcategory_id": "home_entry_exit",
+    "tag": "home_transitions",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika minash-shayṭānir-rajīm",
+    "source": "Hisnul Muslim #78 (implicitly from broader concept of seeking refuge)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from the accursed Shaytan."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من الشيطان الرجيم"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari syaitan yang terkutuk."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں شیطان مردود سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kovulmuş şeytandan Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre le Shaytan maudit."
+      },
+      "ru": {
+        "meaning": "О Аллах, я прибегаю к Тебе от проклятого шайтана."
+      },
+      "fa": {
+        "meaning": "ای الله، من به تو پناه می‌برم از شیطان رانده شده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ शैतान मरदूद से।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari syaitan yang terkutuk."
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi najikinga Kwako kutokana na Shaytan aliyelaaniwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে বিতাড়িত শয়তান থেকে আশ্রয় চাই।"
+      }
+    }
+  }
+]

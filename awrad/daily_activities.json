@@ -1,0 +1,482 @@
+[
+  {
+    "id": "dress_1",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلاَ قُوَّةٍ",
+    "transliteration": "Alḥamdu lillāhilladhī kasānī hādhā (ath-thawb) wa razaqanīhi min ghayri ḥawlin minnī walā quwwah",
+    "source": "Abu Dawud 4023, Tirmidhi 3458",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "All praise is due to Allah Who clothed me with this (garment) and provided it for me, without any power or strength from me."
+      },
+      "ar": {
+        "meaning": "الحمد لله الذي كساني هذا (الثوب) ورزقنيه من غير حول مني ولا قوة"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah memakaikanku pakaian ini dan menganugerahkannya kepadaku, tanpa daya dan kekuatan dariku."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ (لباس) پہنایا اور مجھے عطا کیا، بغیر میری کسی طاقت و قوت کے۔"
+      },
+      "tr": {
+        "meaning": "Bana bu (elbiseyi) giydiren ve tarafımdan hiçbir güç ve kuvvet olmaksızın bunu bana rızık olarak veren Allah'a hamdolsun."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui m'a vêtu de ce (vêtement) et me l'a pourvu, sans aucune force ni pouvoir de ma part."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который одел меня в эту (одежду) и даровал ее мне, без какой-либо силы или мощи с моей стороны."
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که این (جامه) را بر من پوشاند و آن را بدون هیچ حول و قوه‌ای از جانب من روزیم کرد."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने मुझे यह (लिबास) पहनाया और मुझे अता किया, बग़ैर मेरी किसी ताक़त व क़ुव्वत के।"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah memakaikanku pakaian ini dan menganugerahkannya kepadaku, tanpa daya dan kekuatan dariku."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyenivika (nguo) hii na kuniruzuku bila nguvu wala uwezo kutoka kwangu."
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাকে এই (পোশাক) পরিয়েছেন এবং আমাকে এটি দান করেছেন, আমার পক্ষ থেকে কোন শক্তি বা সামর্থ্য ছাড়াই।"
+      }
+    }
+  },
+  {
+    "id": "dress_2",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillāh",
+    "source": "Tirmidhi 3426 (general for starting actions)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In the Name of Allah. (Upon putting on clothes)"
+      },
+      "ar": {
+        "meaning": "بسم الله"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah. (Saat memakai pakaian)"
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے۔ (لباس پہنتے وقت)"
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla. (Elbise giyerken)"
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah. (En mettant des vêtements)"
+      },
+      "ru": {
+        "meaning": "Во имя Аллаха. (При надевании одежды)"
+      },
+      "fa": {
+        "meaning": "به نام خدا. (هنگام پوشیدن لباس)"
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से। (कपड़े पहनते वक़्त)"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah. (Semasa memakai pakaian)"
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah. (Unapovaa nguo)"
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে। (পোশাক পরার সময়)"
+      }
+    }
+  },
+  {
+    "id": "dress_3",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
+    "transliteration": "Allāhumma lakal-ḥamdu Anta kasawtanīhi, asʾaluka min khayrihī wa khayri mā ṣuniʿa lahū, wa aʿūdhu bika min sharrihī wa sharri mā ṣuniʿa lahū",
+    "source": "Abu Dawud 4020, Tirmidhi 1767",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, to You belongs all praise. You clothed me with it. I ask You for its goodness and the goodness for which it was made, and I seek refuge in You from its evil and the evil for which it was made. (Upon wearing a new garment)"
+      },
+      "ar": {
+        "meaning": "اللهم لك الحمد أنت كسوتنيه، أسألك من خيره وخير ما صنع له، وأعوذ بك من شره وشر ما صنع له"
+      },
+      "id": {
+        "meaning": "Ya Allah, bagi-Mu segala puji. Engkau telah memakaikanku pakaian ini. Aku memohon kepada-Mu kebaikan pakaian ini dan kebaikan tujuan ia dibuat, dan aku berlindung kepada-Mu dari kejahatannya dan kejahatan tujuan ia dibuat. (Saat memakai pakaian baru)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، تمام تعریفیں تیرے لیے ہیں۔ تو نے مجھے یہ پہنایا ہے۔ میں تجھ سے اس کی بھلائی اور جس مقصد کے لیے یہ بنا ہے اس کی بھلائی مانگتا ہوں، اور میں تیری پناہ چاہتا ہوں اس کے شر سے اور جس مقصد کے لیے یہ بنا ہے اس کے شر سے۔ (نیا لباس پہنتے وقت)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, hamd Sanadır. Sen bunu bana giydirdin. Bunun hayrını ve yapıldığı şeyin hayrını Senden isterim. Bunun şerrinden ve yapıldığı şeyin şerrinden Sana sığınırım. (Yeni elbise giyerken)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, à Toi appartient toute louange. Tu m'as vêtu de cela. Je Te demande son bien et le bien pour lequel il a été fait, et je cherche refuge auprès de Toi contre son mal et le mal pour lequel il a été fait. (En portant un nouveau vêtement)"
+      },
+      "ru": {
+        "meaning": "О Аллах, Тебе вся хвала. Ты одел меня в это. Я прошу у Тебя его блага и блага того, для чего оно было сделано, и я прибегаю к Тебе от его зла и зла того, для чего оно было сделано. (При надевании новой одежды)"
+      },
+      "fa": {
+        "meaning": "ای الله، حمد و سپاس از آن توست. تو این را بر من پوشاندی. از تو خیر آن و خیر آنچه برای آن ساخته شده را می‌خواهم، و به تو پناه می‌برم از شر آن و شر آنچه برای آن ساخته شده است. (هنگام پوشیدن لباس جدید)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, तमाम तारीफ़ें तेरे लिए हैं। तूने मुझे यह पहनाया है। मैं तुझसे इसकी भलाई और जिस मक़सद के लिए यह बना है उसकी भलाई मांगता हूँ, और मैं तेरी पनाह चाहता हूँ इसके शर से और जिस मक़सद के लिए यह बना है उसके शर से। (नया लिबास पहनते वक़्त)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, bagi-Mu segala puji. Engkau telah memakaikanku pakaian ini. Aku memohon kepada-Mu kebaikan pakaian ini dan kebaikan tujuan ia dibuat, dan aku berlindung kepada-Mu dari kejahatannya dan kejahatan tujuan ia dibuat. (Semasa memakai pakaian baru)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, sifa zote njema ni zako. Wewe umenivika hii. Nakuomba kheri yake na kheri ya kile ilichofanyiwa, na najikinga Kwako kutokana na shari yake na shari ya kile ilichofanyiwa. (Unapovaa nguo mpya)"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, সকল প্রশংসা আপনারই। আপনি আমাকে এটি পরিয়েছেন। আমি আপনার কাছে এর কল্যাণ এবং যে কল্যাণের জন্য এটি তৈরি করা হয়েছে তা চাই, এবং আমি আপনার কাছে এর অকল্যাণ এবং যে অকল্যাণের জন্য এটি তৈরি করা হয়েছে তা থেকে আশ্রয় চাই। (নতুন পোশাক পরার সময়)"
+      }
+    }
+  },
+  {
+    "id": "dress_4",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ",
+    "transliteration": "Bismillāhilladhī lā ilāha illā Huwa",
+    "source": "Hisnul Muslim (general for taking off clothes/protection)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In the Name of Allah, Whom there is no god but He. (Upon taking off clothes, for protection from jinn)"
+      },
+      "ar": {
+        "meaning": "بسم الله الذي لا إله إلا هو"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah, yang tiada tuhan selain Dia. (Saat melepas pakaian, untuk perlindungan dari jin)"
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے، جس کے سوا کوئی معبود نہیں۔ (لباس اتارتے وقت، جنوں سے حفاظت کے لیے)"
+      },
+      "tr": {
+        "meaning": "Kendinden başka ilah olmayan Allah'ın adıyla. (Elbise çıkarırken, cinlerden korunmak için)"
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah, Il n'y a de dieu que Lui. (En enlevant les vêtements, pour la protection contre les djinns)"
+      },
+      "ru": {
+        "meaning": "Во имя Аллаха, кроме Которого нет бога. (При снятии одежды, для защиты от джиннов)"
+      },
+      "fa": {
+        "meaning": "به نام خدا، که هیچ معبودی جز او نیست. (هنگام درآوردن لباس، برای محافظت از جن)"
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से, जिसके सिवा कोई माबूद नहीं। (कपड़े उतारते वक़्त, जिन्नात से हिफ़ाज़त के लिए)"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah, yang tiada tuhan selain Dia. (Semasa menanggalkan pakaian, untuk perlindungan dari jin)"
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah, ambaye hapana mungu ila Yeye. (Unapoondoa nguo, kwa ajili ya kinga dhidi ya majini)"
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে, যিনি ব্যতীত কোন উপাস্য নেই। (পোশাক খোলার সময়, জিনদের থেকে সুরক্ষার জন্য)"
+      }
+    }
+  },
+  {
+    "id": "dress_5",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "اللَّهُمَّ سَتَرْتَ عَوْرَتِي وَآمَنْتَ رَوْعَاتِي",
+    "transliteration": "Allāhumma satarta ʿawratī wa āmanta rawʿātī",
+    "source": "Hisnul Muslim (similar to covering oneself, general supplication)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, You have covered my modesty and calmed my fears. (Gratitude for covering and protection)"
+      },
+      "ar": {
+        "meaning": "اللهم سترت عورتي وآمنت روعاتي"
+      },
+      "id": {
+        "meaning": "Ya Allah, Engkau telah menutupi auratku dan menenangkan ketakutanku. (Syukur atas penutupan dan perlindungan)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، تو نے میری شرمگاہ کو ڈھانکا اور میرے خوف کو امن دیا۔ (پوشیدگی اور حفاظت کے لیے شکر گزاری)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, avretimi örttün ve korkularımı emniyete çevirdin. (Örtünme ve korunma için şükür)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, Tu as couvert ma nudité et apaisé mes peurs. (Gratitude pour la couverture et la protection)"
+      },
+      "ru": {
+        "meaning": "О Аллах, Ты сокрыл мою наготу и обезопасил мои страхи. (Благодарность за сокрытие и защиту)"
+      },
+      "fa": {
+        "meaning": "ای الله، عورت مرا پوشاندی و ترس‌هایم را امان دادی. (سپاسگزاری برای پوشش و محافظت)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, तूने मेरी शर्मगाह को ढका और मेरे ख़ौफ़ को अमन दिया। (पोशीदगी और हिफ़ाज़त के लिए शुक्रगुज़ारी)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Engkau telah menutupi auratku dan menenangkan ketakutanku. (Syukur atas penutupan dan perlindungan)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, umestiri sehemu zangu za siri na umenipa amani kutokana na khofu zangu. (Shukrani kwa kufunikwa na kinga)"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি আমার লজ্জাস্থান ঢেকেছেন এবং আমার ভয় দূর করেছেন। (আবরন ও সুরক্ষার জন্য কৃতজ্ঞতা)"
+      }
+    }
+  },
+  {
+    "id": "dress_6",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "لِتَسْتُرَ بِهَا عَوْرَتِي وَتُجَمِّلَنِي فِي حَيَاتِي",
+    "transliteration": "Litastura bihā ʿawratī wa tujammilanī fī ḥayātī",
+    "source": "Abu Dawud 4023 (part of longer Hadith)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "So that it may cover my modesty and beautify me in my life. (Implied purpose of clothing)"
+      },
+      "ar": {
+        "meaning": "لتستر بها عورتي وتجملني في حياتي"
+      },
+      "id": {
+        "meaning": "Agar dengan itu Engkau menutupi auratku dan memperindah diriku dalam hidupku. (Tujuan tersirat dari pakaian)"
+      },
+      "ur": {
+        "meaning": "تاکہ اس سے میری شرمگاہ چھپے اور میری زندگی میں مجھے خوبصورت بنائے۔ (لباس کا مضمر مقصد)"
+      },
+      "tr": {
+        "meaning": "Bununla avretimi örtesin ve hayatımda beni güzelleştiresin. (Elbisenin ima edilen amacı)"
+      },
+      "fr": {
+        "meaning": "Afin qu'il couvre ma nudité et m'embellisse dans ma vie. (But implicite du vêtement)"
+      },
+      "ru": {
+        "meaning": "Чтобы оно могло прикрыть мою наготу и украсить меня в моей жизни. (Подразумеваемая цель одежды)"
+      },
+      "fa": {
+        "meaning": "تا با آن عورت مرا بپوشانی و مرا در زندگی‌ام زیبا کنی. (هدف ضمنی لباس)"
+      },
+      "hi": {
+        "meaning": "ताकि इससे मेरी शर्मगाह छिपे और मेरी ज़िंदगी में मुझे ख़ूबसूरत बनाए। (लिबास का मज़मर मक़सद)"
+      },
+      "ms": {
+        "meaning": "Agar dengannya Engkau menutupi auratku dan memperindah diriku dalam hidupku. (Tujuan tersirat dari pakaian)"
+      },
+      "sw": {
+        "meaning": "Ili iweze kufunika aibu yangu na kunipamba katika maisha yangu. (Kusudi lililokusudiwa la nguo)"
+      },
+      "bn": {
+        "meaning": "যাতে এটি আমার লজ্জাস্থান আবৃত করে এবং আমার জীবনে আমাকে সুন্দর করে। (পোশাকের অন্তর্নিহিত উদ্দেশ্য)"
+      }
+    }
+  },
+  {
+    "id": "dress_7",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي مَا أُوَارِي بِهِ عَوْرَتِي وَأَتَجَمَّلُ بِهِ فِي حَيَاتِي",
+    "transliteration": "Alḥamdu lillāhilladhī kasānī mā uwārī bihī ʿawratī wa atajammalu bihī fī ḥayātī",
+    "source": "Hisnul Muslim #28 (similar to Abu Dawud 4023)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "All praise is due to Allah Who clothed me with that by which I cover my modesty and beautify myself in my life."
+      },
+      "ar": {
+        "meaning": "الحمد لله الذي كساني ما أواري به عورتي وأتجمل به في حياتي"
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang telah memakaikanku sesuatu yang dengannya aku menutupi auratku dan memperindah diriku dalam hidupku."
+      },
+      "ur": {
+        "meaning": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے وہ لباس پہنایا جس سے میں اپنی شرمگاہ چھپاتا ہوں اور اپنی زندگی میں خود کو خوبصورت بناتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Avretimi örttüğüm ve hayatımda kendimi güzelleştirdiğim şeyi bana giydiren Allah'a hamdolsun."
+      },
+      "fr": {
+        "meaning": "Louange à Allah qui m'a vêtu de ce par quoi je couvre ma nudité et me pare dans ma vie."
+      },
+      "ru": {
+        "meaning": "Вся хвала Аллаху, Который одел меня в то, чем я прикрываю свою наготу и украшаю себя в своей жизни."
+      },
+      "fa": {
+        "meaning": "سپاس و ستایش برای الله است که به من لباسی پوشاند که با آن عورت خود را می‌پوشانم و در زندگی‌ام با آن خود را زیبا می‌کنم."
+      },
+      "hi": {
+        "meaning": "तमाम तारीफ़ें अल्लाह के लिए हैं जिसने मुझे वह लिबास पहनाया जिससे मैं अपनी शर्मगाह छुपाता हूँ और अपनी ज़िंदगी में ख़ुद को ख़ूबसूरत बनाता हूँ।"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang telah memakaikanku sesuatu yang dengannya aku menutupi auratku dan memperindah diriku dalam hidupku."
+      },
+      "sw": {
+        "meaning": "Sifa zote njema ni za Allah aliyenivika kitu ambacho nafunika nacho aibu yangu na kujipamba nacho katika maisha yangu."
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাকে এমন পোশাক পরিয়েছেন যার দ্বারা আমি আমার লজ্জাস্থান আবৃত করি এবং আমার জীবনে নিজেকে সুন্দর করি।"
+      }
+    }
+  },
+  {
+    "id": "dress_8",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "transliteration": "Allāhumma innī asʾaluka min faḍlik",
+    "source": "Muslim 713 (general supplication for blessings)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You from Your Bounty. (General supplication, suitable for seeking blessings from clothing)"
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك من فضلك"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebagian dari karunia-Mu. (Doa umum, cocok untuk memohon berkah dari pakaian)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے تیرے فضل کا سوال کرتا ہوں۔ (عام دعا، لباس سے برکت طلب کرنے کے لیے مناسب)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Senin fazlından isterim. (Genel bir dua, giyimden bereket dilemek için uygun)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande de Ta Générosité. (Supplication générale, adaptée pour chercher les bénédictions des vêtements)"
+      },
+      "ru": {
+        "meaning": "О Аллах, я прошу у Тебя из Твоей милости. (Общая мольба, подходящая для испрашивания благословений от одежды)"
+      },
+      "fa": {
+        "meaning": "ای الله، من از فضل تو درخواست می‌کنم. (دعای عمومی، مناسب برای طلب برکت از لباس)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे तेरे फ़ज़ल का सवाल करता हूँ। (आम दुआ, लिबास से बरकत तलब करने के लिए मुनासिब)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu sebagian dari kurnia-Mu. (Doa umum, sesuai untuk memohon keberkatan dari pakaian)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, hakika mimi nakuomba kutokana na fadhila Zako. (Dua ya jumla, inayofaa kwa kuomba baraka za nguo)"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার অনুগ্রহ কামনা করি। (সাধারণ দোয়া, পোশাকের বরকত চাওয়ার জন্য উপযুক্ত)"
+      }
+    }
+  },
+  {
+    "id": "dress_9",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي",
+    "transliteration": "Allāhummas-tur ʿawrāteī wa āmin rawʿāteī",
+    "source": "Abu Dawud 5074, Ibn Majah 3871",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, conceal my nakedness and calm my fears. (General supplication for covering and security)"
+      },
+      "ar": {
+        "meaning": "اللهم استر عوراتي وآمن روعاتي"
+      },
+      "id": {
+        "meaning": "Ya Allah, tutuplah auratku dan amankanlah ketakutanku. (Doa umum untuk penutupan dan keamanan)"
+      },
+      "ur": {
+        "meaning": "اے اللہ، میری پردہ پوشی فرما اور میرے خوف کو امن دے۔ (پوشیدگی اور سلامتی کے لیے عام دعا)"
+      },
+      "tr": {
+        "meaning": "Allah'ım, ayıp yerlerimi ört ve korkularımı gider. (Örtünme ve güvenlik için genel dua)"
+      },
+      "fr": {
+        "meaning": "Ô Allah, cache mes parties intimes et apaise mes peurs. (Supplication générale pour la couverture et la sécurité)"
+      },
+      "ru": {
+        "meaning": "О Аллах, скрой мои недостатки и обезопась мои страхи. (Общая мольба о прикрытии и безопасности)"
+      },
+      "fa": {
+        "meaning": "ای الله، عورات مرا بپوشان و ترس‌هایم را امان ده. (دعای عمومی برای پوشش و امنیت)"
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मेरी शर्मगाहों को ढाँक दे और मेरे ख़ौफ़ को अमन दे। (पोशीदगी और सलामती के लिए आम दुआ)"
+      },
+      "ms": {
+        "meaning": "Ya Allah, tutuplah auratku dan amankanlah ketakutanku. (Doa umum untuk penutupan dan keamanan)"
+      },
+      "sw": {
+        "meaning": "Ewe Allah, nifichie aibu zangu na nizipe amani khofu zangu. (Dua ya jumla kwa ajili ya kufunika na usalama)"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার গোপনীয়তা রক্ষা করুন এবং আমার ভয় দূর করুন। (আবরন ও নিরাপত্তার জন্য সাধারণ দোয়া)"
+      }
+    }
+  },
+  {
+    "id": "dress_10",
+    "category_id": "daily_activities",
+    "subcategory_id": "dressing",
+    "tag": "clothing_dua",
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillāh",
+    "source": "Hisnul Muslim #78 (general for protection from Jinn)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In the Name of Allah. (Upon taking off clothes, general for protection)"
+      },
+      "ar": {
+        "meaning": "بسم الله"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah. (Saat melepas pakaian, umum untuk perlindungan)"
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے۔ (لباس اتارتے وقت، حفاظت کے لیے عام)"
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla. (Elbise çıkarırken, korunma için genel)"
+      },
+      "fr": {
+        "meaning": "Au Nom d'Allah. (En enlevant les vêtements, général pour la protection)"
+      },
+      "ru": {
+        "meaning": "Во имя Аллаха. (При снятии одежды, общее для защиты)"
+      },
+      "fa": {
+        "meaning": "به نام خدا. (هنگام درآوردن لباس، عمومی برای محافظت)"
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से। (कपड़े उतारते वक़्त, हिफ़ाज़त के लिए आम)"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah. (Semasa menanggalkan pakaian, umum untuk perlindungan)"
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah. (Unapoondoa nguo, kwa ajili ya kinga ya jumla)"
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে। (পোশাক খোলার সময়, সুরক্ষার জন্য সাধারণ)"
+      }
+    }
+  }
+]

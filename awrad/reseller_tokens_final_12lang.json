@@ -1,0 +1,76 @@
+{
+  "reseller_tokens": {
+    "package_types": {
+      "silver": {
+        "label": {
+          "en": "Silver Package",
+          "ar": "الباقة الفضية",
+          "ur": "سلور پیکج",
+          "tr": "Gümüş Paket",
+          "fr": "Forfait Argent",
+          "ru": "Серебряный пакет",
+          "fa": "بسته نقره‌ای",
+          "hi": "सिल्वर पैकेज",
+          "id": "Paket Perak",
+          "ms": "Pakej Perak",
+          "sw": "Kifurushi cha Fedha",
+          "bn": "সিলভার প্যাকেজ"
+        },
+        "description": {
+          "en": "Basic access with one device",
+          "ar": "وصول أساسي مع جهاز واحد",
+          "ur": "ایک ڈیوائس کے ساتھ بنیادی رسائی",
+          "tr": "Bir cihazla temel erişim",
+          "fr": "Accès de base avec un appareil",
+          "ru": "Базовый доступ с одним устройством",
+          "fa": "دسترسی پایه با یک دستگاه",
+          "hi": "एक डिवाइस के साथ बेसिक एक्सेस",
+          "id": "Akses dasar dengan satu perangkat",
+          "ms": "Akses asas dengan satu peranti",
+          "sw": "Ufikiaji wa msingi kwa kifaa kimoja",
+          "bn": "একটি ডিভাইস সহ মৌলিক অ্যাক্সেস"
+        },
+        "price": 19.99,
+        "currency": "USD",
+        "max_devices": 1,
+        "created_at": "2025-06-23T00:00:00Z",
+        "updated_at": "2025-06-23T00:00:00Z",
+        "is_active": true
+      }
+    },
+    "reseller_tiers": {
+      "basic": {
+        "label": {
+          "en": "Basic Reseller",
+          "ar": "موزع أساسي",
+          "ur": "بنیادی ری سیلر",
+          "tr": "Temel Bayi",
+          "fr": "Revendeur de base",
+          "ru": "Базовый реселлер",
+          "fa": "نماینده فروش پایه",
+          "hi": "बेसिक रिसेलर",
+          "id": "Reseller Dasar",
+          "ms": "Penjual Asas",
+          "sw": "Muuzaji wa Kawaida",
+          "bn": "বেসিক রিসেলার"
+        },
+        "description": {
+          "en": "Entry-level reseller with limited commission",
+          "ar": "موزع مبتدئ مع عمولة محدودة",
+          "ur": "ابتدائی ری سیلر محدود کمیشن کے ساتھ",
+          "tr": "Giriş seviyesi bayi, sınırlı komisyon ile",
+          "fr": "Revendeur débutant avec commission limitée",
+          "ru": "Начальный реселлер с ограниченной комиссией",
+          "fa": "نماینده فروش سطح ابتدایی با کمیسیون محدود",
+          "hi": "सीमित कमीशन वाला प्रारंभिक रिसेलर",
+          "id": "Reseller tingkat awal dengan komisi terbatas",
+          "ms": "Penjual peringkat permulaan dengan komisen terhad",
+          "sw": "Muuzaji wa kiwango cha kuingia na tume ndogo",
+          "bn": "সীমিত কমিশনের সাথে প্রাথমিক রিসেলার"
+        },
+        "commission_rate": 0.1,
+        "is_active": true
+      }
+    }
+  }
+}

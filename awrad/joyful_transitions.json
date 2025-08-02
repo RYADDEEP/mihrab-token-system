@@ -1,0 +1,722 @@
+[
+  {
+    "id": "joy_1",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+    "transliteration": "Bārakallāhu laka wa bāraka ʿalayka wa jamaʿa baynakumā fī khayr",
+    "source": "Tirmidhi 1091, Abu Dawud 2130 (Marriage blessing)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah bless you and shower His blessings upon you and join you together in good."
+      },
+      "ar": {
+        "meaning": "بارك الله لك وبارك عليك وجمع بينكما في خير"
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahimu dan memberkati atasmu, serta mengumpulkan kalian berdua dalam kebaikan."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں برکت دے اور تم پر برکت نازل فرمائے اور تم دونوں کو بھلائی میں جمع کرے۔"
+      },
+      "tr": {
+        "meaning": "Allah sana mübarek kılsın, üzerine bereket versin ve ikinizi hayırda birleştirsin."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te bénisse, qu'Il fasse descendre Ses bénédictions sur toi et qu'Il vous unisse dans le bien."
+      },
+      "ru": {
+        "meaning": "Да благословит тебя Аллах, и да ниспошлет на тебя Свои благословения, и да соединит вас обоих во благе."
+      },
+      "fa": {
+        "meaning": "خداوند برایت مبارک گرداند و بر تو برکت دهد و شما را در خیر گرد آورد."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें बरकत दे और तुम पर बरकत नाज़िल फ़रमाए और तुम दोनों को भलाई में जमा करे।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkatimu dan memberkati atasmu, serta mengumpulkan kalian berdua dalam kebaikan."
+      },
+      "sw": {
+        "meaning": "Allah akubariki na akuteremshie baraka zake, na akuunganishieni katika kheri."
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাকে বরকত দিন, আপনার উপর বরকত বর্ষণ করুন এবং আপনাদের উভয়কে কল্যাণের সাথে একত্রিত করুন।"
+      }
+    }
+  },
+  {
+    "id": "joy_2",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ وَأَعُوذُ بِكَ مِنْ شَرِّ مَا جَبَلْتَهُ عَلَيْهِ",
+    "transliteration": "Allāhumma innī aʿūdhu bika min sharrihā wa sharri mā jabaltahā ʿalayhi wa aʿūdhu bika min sharri mā jabaltahu ʿalayhi",
+    "source": "Abu Dawud 2160, Ibn Majah 1918 (Upon marriage night, also for animals)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from her evil, and the evil of what You have made her upon, and I seek refuge in You from the evil of what You have made him upon (when buying an animal)."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من شرها وشر ما جبلتها عليه وأعوذ بك من شر ما جبلته عليه"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kejahatannya, dan kejahatan apa yang Engkau tetapkan padanya, dan aku berlindung kepada-Mu dari kejahatan apa yang Engkau tetapkan padanya (ketika membeli hewan)."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں اس کی شرارت سے، اور اس شرارت سے جس پر تو نے اسے پیدا کیا ہے، اور میں تیری پناہ چاہتا ہوں اس شرارت سے جس پر تو نے اسے (جانور خریدتے وقت) پیدا کیا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onun şerrinden ve yaratılışındaki şerrinden Sana sığınırım. Ve Senin onda kıldığın şeyin şerrinden Sana sığınırım (hayvan satın alırken)."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Toi contre son mal et contre le mal de ce sur quoi Tu l'as créée, et je cherche refuge auprès de Toi contre le mal de ce sur quoi Tu l'as créée (en achetant un animal)."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от ее зла и от зла того, на чем Ты ее создал, и я прибегаю к Тебе от зла того, на чем Ты его создал (при покупке животного)."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از شر او و شر آنچه او را بر آن آفریده‌ای، و به تو پناه می‌برم از شر آنچه او را بر آن آفریده‌ای (هنگام خرید حیوان)."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ उसकी शरारत से, और उस शरारत से जिस पर तूने उसे पैदा किया है, और मैं तेरी पनाह चाहता हूँ उस शरारत से जिस पर तूने उसे (जानवर खरीदते वक़्त) पैदा किया है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kejahatannya, dan kejahatan apa yang Engkau tetapkan padanya, dan aku berlindung kepada-Mu dari kejahatan apa yang Engkau tetapkan padanya (ketika membeli haiwan)."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na shari yake, na shari ya alivyomuelekeza, na najikinga Kwako kutokana na shari ya alivyomuelekeza (wakati wa kununua mnyama)."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে তার অনিষ্ট থেকে আশ্রয় চাই এবং যা কিছুর উপর আপনি তাকে সৃষ্টি করেছেন তার অনিষ্ট থেকে আশ্রয় চাই। এবং যা কিছুর উপর আপনি তাকে সৃষ্টি করেছেন তার অনিষ্ট থেকে আশ্রয় চাই (যখন কোন পশু ক্রয় করা হয়)।"
+      }
+    }
+  },
+  {
+    "id": "joy_3",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "أُعِيذُكَ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
+    "transliteration": "Uʿīdhuka bikalimātillāhit-tāmmati min kulli shayṭānin wa hāmmah, wa min kulli ʿaynin lāammah",
+    "source": "Bukhari 3371, Abu Dawud 4737 (For protecting children)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "I seek refuge for you in the perfect words of Allah, from every devil and every poisonous pest, and from every evil eye."
+      },
+      "ar": {
+        "meaning": "أعيذك بكلمات الله التامة من كل شيطان وهامة ومن كل عين لامة"
+      },
+      "id": {
+        "meaning": "Aku memohon perlindungan untukmu dengan kalimat-kalimat Allah yang sempurna, dari setiap setan dan binatang berbisa, dan dari setiap mata yang dengki."
+      },
+      "ur": {
+        "meaning": "میں تمہیں اللہ کے کامل کلمات کی پناہ میں دیتا ہوں ہر شیطان، ہر زہریلے کیڑے اور ہر نظر بد سے۔"
+      },
+      "tr": {
+        "meaning": "Seni, her şeytan ve haşerattan ve her nazardan Allah'ın eksiksiz kelimelerine sığınarak koruyorum."
+      },
+      "fr": {
+        "meaning": "Je te mets sous la protection des paroles parfaites d'Allah contre tout démon et toute bête venimeuse, et contre tout mauvais œil."
+      },
+      "ru": {
+        "meaning": "Я прибегаю к совершенным словам Аллаха, чтобы Он защитил тебя от любого шайтана, и вредителя, и от любого дурного глаза."
+      },
+      "fa": {
+        "meaning": "تو را به کلمات کامل خداوند پناه می‌دهم از هر شیطان و جانور موذی و از هر چشم زخم."
+      },
+      "hi": {
+        "meaning": "मैं तुम्हें अल्लाह के कामिल कलमात की पनाह में देता हूँ हर शैतान, हर ज़हरीले कीड़े और हर नज़र-ए-बद से।"
+      },
+      "ms": {
+        "meaning": "Aku memohon perlindungan untukmu dengan kalimah-kalimah Allah yang sempurna, dari setiap syaitan dan binatang berbisa, dan dari setiap mata yang dengki."
+      },
+      "sw": {
+        "meaning": "Nakuombea kinga kwa maneno kamili ya Allah, kutokana na kila shetani na kila dudu lenye sumu, na kutokana na kila jicho baya."
+      },
+      "bn": {
+        "meaning": "আমি আপনাকে আল্লাহর পরিপূর্ণ বাক্যসমূহের আশ্রয়ে দিচ্ছি, প্রতিটি শয়তান, প্রতিটি বিষাক্ত প্রাণী এবং প্রতিটি মন্দ দৃষ্টি থেকে।"
+      }
+    }
+  },
+  {
+    "id": "joy_4",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "بِسْمِ اللَّهِ اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبْ الشَّيْطَانَ مَا رَزَقْتَنَا",
+    "transliteration": "Bismillāh, Allāhumma jannibnāsh-shayṭāna wa jannibish-shayṭāna mā razaqtanā",
+    "source": "Bukhari 6388, Muslim 1434 (Before intimacy, for righteous offspring)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "In the name of Allah. O Allah, keep us away from Satan, and keep Satan away from what You have provided for us (e.g., offspring)."
+      },
+      "ar": {
+        "meaning": "بسم الله، اللهم جنبنا الشيطان وجنب الشيطان ما رزقتنا"
+      },
+      "id": {
+        "meaning": "Dengan nama Allah. Ya Allah, jauhkanlah kami dari setan, dan jauhkanlah setan dari apa yang Engkau rezekikan kepada kami (misalnya, keturunan)."
+      },
+      "ur": {
+        "meaning": "اللہ کے نام سے۔ اے اللہ، ہمیں شیطان سے دور رکھ اور شیطان کو اس سے دور رکھ جو تو ہمیں رزق عطا فرمائے (مثلاً اولاد)۔"
+      },
+      "tr": {
+        "meaning": "Allah'ın adıyla. Allah'ım! Bizi şeytandan uzaklaştır ve bize rızık olarak verdiğin (çocuk gibi) şeyden şeytanı uzaklaştır."
+      },
+      "fr": {
+        "meaning": "Au nom d'Allah. Ô Allah, éloigne de nous le diable, et éloigne le diable de ce que Tu nous as accordé (par exemple, la progéniture)."
+      },
+      "ru": {
+        "meaning": "С именем Аллаха. О Аллах, удали от нас шайтана и удали шайтана от того, что Ты нам даровал (например, потомство)."
+      },
+      "fa": {
+        "meaning": "به نام خدا. بارالها، شیطان را از ما دور گردان و شیطان را از آنچه روزیمان کرده‌ای (مثل فرزند) دور بگردان."
+      },
+      "hi": {
+        "meaning": "अल्लाह के नाम से। ऐ अल्लाह, हमें शैतान से दूर रख, और शैतान को उससे दूर रख जो तू हमें रिज़्क़ अता फ़रमाए (मिसाल के तौर पर औलाद)।"
+      },
+      "ms": {
+        "meaning": "Dengan nama Allah. Ya Allah, jauhkanlah kami dari syaitan, dan jauhkanlah syaitan dari apa yang Engkau rezekikan kepada kami (misalnya, zuriat)."
+      },
+      "sw": {
+        "meaning": "Kwa jina la Allah. Ee Allah, tuepushe na shetani, na muepushe shetani na ulichoturuzuku (mfano, kizazi)."
+      },
+      "bn": {
+        "meaning": "আল্লাহর নামে। হে আল্লাহ, আমাদেরকে শয়তান থেকে দূরে রাখুন এবং শয়তানকে আপনার প্রদত্ত রিযিক (যেমন, সন্তান) থেকে দূরে রাখুন।"
+      }
+    }
+  },
+  {
+    "id": "joy_5",
+    "category_id": "family_social",
+    "subcategory_id": "joyful_transitions",
+    "tag": "newborn_quran",
+    "arabic": "رَبِّ هَبْ لِي مِن لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+    "transliteration": "Rabbi hab lī min ladunka dhurriyyatan ṭayyibah, innaka samīʿu d-duʿāʾ.",
+    "source": "Qur’ān 3:38",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, grant me from Yourself good offspring; indeed, You are the Hearer of supplication."
+      },
+      "ar": {
+        "meaning": "رَبِّ هَبْ لِي مِن لَدُنْكَ ذُرِّيَّةً طَيِّبَةً ..."
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, anugerahkanlah kepadaku keturunan yang baik dari sisi-Mu; Engkau Maha Mendengar doa."
+      },
+      "ur": {
+        "meaning": "اے میرے رب! مجھے اپنے پاس سے نیک اولاد عطا فرما؛ بے شک تو دعا کا سننے والا ہے۔"
+      },
+      "tr": {
+        "meaning": "Rabbim! Katından bana tertemiz bir nesil bağışla. Şüphesiz Sen duayı işitensin."
+      },
+      "fr": {
+        "meaning": "Seigneur, accorde-moi, venant de Toi, une descendance pure ; Tu es, en vérité, l’Audient de la prière."
+      },
+      "ru": {
+        "meaning": "Господь мой, даруй мне от Себя хорошее потомство. Воистину, Ты — Слышащий мольбу."
+      },
+      "fa": {
+        "meaning": "پروردگارا! از سوی خود فرزندی پاکیزه به من عطا کن؛ بی‌گمان تو شنونده دعا هستی."
+      },
+      "hi": {
+        "meaning": "मेरे रब! मुझे अपनी ओर से नेक संतान प्रदान कर; निस्संदेह तू प्रार्थना सुनने वाला है।"
+      },
+      "ms": {
+        "meaning": "Tuhanku, kurniakanlah kepadaku daripada sisi-Mu zuriat yang baik; sesungguhnya Engkau Maha Mendengar doa."
+      },
+      "sw": {
+        "meaning": "Mola wangu, nijaalie kutoka Kwako kizazi chema; Hakika Wewe ni Msikivu wa maombi."
+      },
+      "bn": {
+        "meaning": "হে আমার রব! তোমার পক্ষ থেকে আমাকে একটি পবিত্র সন্তান দান কর; নিশ্চয়ই তুমি প্রার্থনা শ্রবণকারী।"
+      }
+    }
+  },
+  {
+    "id": "joy_6",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Allāhumma bārik lanā fīmā razaqtanā wa qinā ʿadhāban-nār",
+    "source": "Muslim 2032 (General for provision, suitable for blessings upon milestones)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless for us what You have provided us and protect us from the punishment of the Fire."
+      },
+      "ar": {
+        "meaning": "اللهم بارك لنا فيما رزقتنا وقنا عذاب النار"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah bagi kami apa yang telah Engkau rezekikan kepada kami dan lindungilah kami dari azab neraka."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمارے لیے اس میں برکت دے جو تو نے ہمیں رزق عطا فرمایا ہے اور ہمیں دوزخ کے عذاب سے بچا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Bize rızık olarak verdiğin şeyleri bize mübarek kıl ve bizi cehennem azabından koru."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-nous dans ce que Tu nous as accordé comme subsistance et protège-nous du châtiment du Feu."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови нас в том, чем Ты нас наделил, и защити нас от наказания Ада."
+      },
+      "fa": {
+        "meaning": "بارالها، در آنچه روزیمان کرده‌ای برکت ده و ما را از عذاب آتش نگاه دار."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमारे लिए उसमें बरकत दे जो तूने हमें रिज़्क़ अता फ़रमाया है और हमें दोज़ख़ के अज़ाब से बचा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah bagi kami apa yang telah Engkau rezekikan kepada kami dan peliharalah kami dari azab neraka."
+      },
+      "sw": {
+        "meaning": "Ee Allah, tubariki katika ulichoturuzuku na utulinde na adhabu ya Moto."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি আমাদেরকে যে রিযিক দিয়েছেন তাতে বরকত দিন এবং জাহান্নামের শাস্তি থেকে আমাদেরকে রক্ষা করুন।"
+      }
+    }
+  },
+  {
+    "id": "joy_7",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+    "transliteration": "Rabbi hab lī minaṣ-ṣāliḥīn",
+    "source": "Quran 37:100 (Dua of Prophet Ibrahim A.S. for righteous offspring)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, grant me [a child] from the righteous."
+      },
+      "ar": {
+        "meaning": "رب هب لي من الصالحين"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, anugerahilah aku (seorang anak) dari orang-orang yang saleh."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، مجھے صالحین میں سے (اولاد) عطا فرما۔"
+      },
+      "tr": {
+        "meaning": "Rabbim! Bana salihlerden (bir evlat) bağışla."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, fais-moi don d'un (enfant) vertueux."
+      },
+      "ru": {
+        "meaning": "Господь мой! Даруй мне (потомство) из числа праведников."
+      },
+      "fa": {
+        "meaning": "پروردگارا، از صالحین به من فرزندی عطا کن."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मुझे सालिहीन में से (औलाद) अता फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, anugerahilah aku (seorang anak) dari kalangan orang-orang yang soleh."
+      },
+      "sw": {
+        "meaning": "Mola wangu, nijaalie (mtoto) kutoka kwa watu wema."
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আমাকে সৎকর্মশীলদের মধ্য থেকে (সন্তান) দান করুন।"
+      }
+    }
+  },
+  {
+    "id": "joy_8",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "transliteration": "Rabbanā hab lanā min azwājinā wa dhurriyyātinā qurrata aʿyunin wajʿalnā lil-muttaqīna imāmā",
+    "source": "Quran 25:74 (Dua for righteous spouses and offspring)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us leaders for the righteous."
+      },
+      "ar": {
+        "meaning": "ربنا هب لنا من أزواجنا وذرياتنا قرة أعين واجعلنا للمتقين إماما"
+      },
+      "id": {
+        "meaning": "Ya Tuhan kami, anugerahilah kami dari pasangan dan keturunan kami penyejuk mata, dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa."
+      },
+      "ur": {
+        "meaning": "اے ہمارے رب، ہمیں ہماری بیویوں اور ہماری اولاد سے آنکھوں کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا امام بنا۔"
+      },
+      "tr": {
+        "meaning": "Rabbimiz! Bize eşlerimizden ve nesillerimizden göz aydınlığı olacak kimseler ihsan et ve bizi takva sahiplerine önder kıl."
+      },
+      "fr": {
+        "meaning": "Notre Seigneur, donne-nous de nos épouses et de nos descendants la prunelle de nos yeux, et fais de nous un guide pour les pieux."
+      },
+      "ru": {
+        "meaning": "Господь наш! Даруй нам от наших жен и потомков прохладу глаз и сделай нас предводителями для богобоязненных."
+      },
+      "fa": {
+        "meaning": "پروردگارا، از همسران و فرزندانمان روشنی چشم به ما عطا کن و ما را پیشوای پرهیزگاران قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ हमारे रब, हमें हमारी बीवियों और हमारी औलाद से आँखों की ठंडक अता फ़रमा और हमें परहेज़गारों का इमाम बना।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhan kami, anugerahilah kami dari pasangan dan keturunan kami penyejuk mata, dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa."
+      },
+      "sw": {
+        "meaning": "Mola wetu, tupe kutoka kwa wake zetu na vizazi vyetu kiburudisho cha macho, na utufanye viongozi kwa wachamungu."
+      },
+      "bn": {
+        "meaning": "হে আমাদের প্রতিপালক, আমাদের স্ত্রী ও সন্তান-সন্ততিদের মধ্য থেকে আমাদের জন্য চোখের শীতলতা দান করুন এবং আমাদেরকে মুত্তাকীদের নেতা করুন।"
+      }
+    }
+  },
+  {
+    "id": "joy_9",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "اللَّهُمَّ فَقِّهْهُ فِي الدِّينِ وَعَلِّمْهُ التَّأْوِيلَ",
+    "transliteration": "Allāhumma faqqih-hu fid-dīni wa ʿallimhut-taʾwīl",
+    "source": "Bukhari 74, Muslim 2477 (Dua for Ibn Abbas, suitable for seeking knowledge)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, grant him understanding in the religion and teach him interpretation."
+      },
+      "ar": {
+        "meaning": "اللهم فقهه في الدين وعلمه التأويل"
+      },
+      "id": {
+        "meaning": "Ya Allah, berikanlah kepadanya pemahaman dalam agama dan ajarkanlah kepadanya tafsir (Al-Quran)."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے دین میں سمجھ عطا فرما اور اسے تاویل سکھا۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onu dinde fakih kıl ve ona te'vili öğret."
+      },
+      "fr": {
+        "meaning": "Ô Allah, donne-lui la compréhension de la religion et enseigne-lui l'interprétation."
+      },
+      "ru": {
+        "meaning": "О Аллах, даруй ему понимание в религии и научи его толкованию."
+      },
+      "fa": {
+        "meaning": "بارالها، او را در دین آگاه گردان و تفسیر را به او بیاموز."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, उसे दीन में समझ अता फ़रमा और उसे तावील सिखा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berikanlah kepadanya pemahaman dalam agama dan ajarkanlah kepadanya tafsir (Al-Quran)."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mfanye afahamu dini na umfundishe tafsiri."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, তাকে দ্বীনের জ্ঞান দান করুন এবং তাকে ব্যাখ্যা শিক্ষা দিন।"
+      }
+    }
+  },
+  {
+    "id": "joy_10",
+    "category_id": "family_social",
+    "subcategory_id": "joyful_transitions",
+    "tag": "response_thanks",
+    "arabic": "جَزَاكَ اللَّهُ خَيْرًا وَبَارَكَ فِيكَ",
+    "transliteration": "Jazāk-Allāhu khayran wa bāraka fīk.",
+    "source": "See at-Tabarānī (ḥasan isnād) + combines authentic “Jazāk-Allāhu khayran”",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah reward you with goodness and bless you."
+      },
+      "ar": {
+        "meaning": "جَزَاكَ اللَّهُ خَيْرًا وَبَارَكَ فِيكَ"
+      },
+      "id": {
+        "meaning": "Semoga Allah membalasmu dengan kebaikan dan memberkahimu."
+      },
+      "ur": {
+        "meaning": "اللہ آپ کو خیر عطا کرے اور آپ میں برکت دے۔"
+      },
+      "tr": {
+        "meaning": "Allah sana hayırla karşılık versin ve seni mübarek kılsın."
+      },
+      "fr": {
+        "meaning": "Qu’Allah te rétribue par le bien et te bénisse."
+      },
+      "ru": {
+        "meaning": "Пусть Аллах наградит тебя благом и благословит тебя."
+      },
+      "fa": {
+        "meaning": "خداوند به تو پاداش نیک دهد و تو را مبارک گرداند."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें भलाई से बदला दे और तुम्हें बरकत दे।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah membalasmu dengan kebaikan dan memberkatimu."
+      },
+      "sw": {
+        "meaning": "Mwenyezi Mungu akulipe kheri na akubariki."
+      },
+      "bn": {
+        "meaning": "আল্লাহ তোমাকে কল্যাণের প্রতিদান দিন এবং তোমাকে বরকত দান করুন।"
+      }
+    }
+  },
+  {
+    "id": "joy_11",
+    "category_id": "family_social",
+    "subcategory_id": "joyful_transitions",
+    "tag": "gratitude",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+    "transliteration": "Al-ḥamdu li-llāh-illadhī bi-niʿmatihi tatimmu ṣ-ṣāliḥāt.",
+    "source": "Musnad Aḥmad 23120 (ḥasan)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "All praise is for Allah by whose grace good deeds are completed."
+      },
+      "ar": {
+        "meaning": "الْحَمْدُ لِلَّهِ الَّذِي بِ..."
+      },
+      "id": {
+        "meaning": "Segala puji bagi Allah yang dengan nikmat-Nya kebaikan disempurnakan."
+      },
+      "ur": {
+        "meaning": "تمام تعریف اللہ کے لیے ہے جس کی نعمت سے نیکیاں مکمل ہوتی ہیں۔"
+      },
+      "tr": {
+        "meaning": "Hamd Allah’adır ki, O’nun nimetiyle salih ameller tamamlanır."
+      },
+      "fr": {
+        "meaning": "Louange à Allah par Sa grâce les bonnes œuvres s’achèvent."
+      },
+      "ru": {
+        "meaning": "Хвала Аллаху, по милости Которого завершаются благие дела."
+      },
+      "fa": {
+        "meaning": "سپاس خدایی را که با نعمت او نیکی‌ها کامل می‌شود."
+      },
+      "hi": {
+        "meaning": "सारी प्रशंसा उस अल्लाह के लिए है जिसकी नेमत से अच्छे काम पूरे होते हैं।"
+      },
+      "ms": {
+        "meaning": "Segala puji bagi Allah yang dengan nikmat-Nya amal baik disempurnakan."
+      },
+      "sw": {
+        "meaning": "Sifa zote ni za Allah ambaye kwa neema Yake mema hukamilika."
+      },
+      "bn": {
+        "meaning": "সকল প্রশংসা সেই আল্লাহর যাঁর অনুগ্রহে কল্যাণকর কাজ সমাপ্ত হয়।"
+      }
+    }
+  },
+  {
+    "id": "joy_12",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جُبِلَتْ عَلَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا جُبِلَتْ عَلَيْهِ",
+    "transliteration": "Allāhumma innī asʾaluka khayrahā wa khayra mā jubilat ʿalayhi, wa aʿūdhu bika min sharrihā wa sharri mā jubilat ʿalayhi",
+    "source": "Abu Dawud 2160, Ibn Majah 1918 (Upon marriage, seeking good of spouse)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for her goodness and the goodness of what You have created her upon, and I seek refuge in You from her evil and the evil of what You have created her upon."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك خيرها وخير ما جبلت عليه، وأعوذ بك من شرها وشر ما جبلت عليه"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikannya dan kebaikan apa yang Engkau tetapkan padanya, dan aku berlindung kepada-Mu dari kejahatannya dan kejahatan apa yang Engkau tetapkan padanya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے اس کی بھلائی اور اس بھلائی کا سوال کرتا ہوں جس پر تو نے اسے پیدا کیا ہے، اور میں تیری پناہ چاہتا ہوں اس کی شرارت اور اس شرارت سے جس پر تو نے اسے پیدا کیا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden onun hayrını ve yaratılışındaki hayrı dilerim. Onun şerrinden ve yaratılışındaki şerrinden de Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande son bien et le bien de ce sur quoi Tu l'as créée, et je cherche refuge auprès de Toi contre son mal et le mal de ce sur quoi Tu l'as créée."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя ее блага и блага того, на чем Ты ее создал, и прибегаю к Тебе от ее зла и зла того, на чем Ты ее создал."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو خیر او و خیر آنچه او را بر آن آفریده‌ای می‌طلبم، و از شر او و شر آنچه او را بر آن آفریده‌ای به تو پناه می‌برم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे उसकी भलाई और उस भलाई का सवाल करता हूँ जिस पर तूने उसे पैदा किया है, और मैं तेरी पनाह चाहता हूँ उसकी शरारत और उस शरारत से जिस पर तूने उसे पैदा किया है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikannya dan kebaikan apa yang Engkau tetapkan padanya, dan aku berlindung kepada-Mu dari kejahatannya dan kejahatan apa yang Engkau tetapkan padanya."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika nakuomba kheri yake na kheri ya alivyomuelekeza, na najikinga Kwako kutokana na shari yake na shari ya alivyomuelekeza."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে তার মঙ্গল এবং যে স্বভাবের উপর তাকে সৃষ্টি করেছেন তার মঙ্গল প্রার্থনা করি, এবং তার অনিষ্ট ও যে স্বভাবের উপর তাকে সৃষ্টি করেছেন তার অনিষ্ট থেকে আপনার কাছে আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "joy_13",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "اللَّهُمَّ بَارِكْ لِي فِي أَهْلِي وَبَارِكْ لَهُمْ فِيَّ",
+    "transliteration": "Allāhumma bārik lī fī ahlī wa bārik lahum fiyya",
+    "source": "Hisnul Muslim #106 (Similar context for family blessings)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless me in my family and bless them in me."
+      },
+      "ar": {
+        "meaning": "اللهم بارك لي في أهلي وبارك لهم فيّ"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah bagiku dalam keluargaku dan berkahilah mereka dalam diriku."
+      },
+      "ur": {
+        "meaning": "اے اللہ، مجھے میرے اہل و عیال میں برکت دے اور انہیں مجھ میں برکت دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Ailemde bana bereket ver ve onlara bende bereket ver."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-moi dans ma famille et bénis-les en moi."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови меня в моей семье и благослови их во мне."
+      },
+      "fa": {
+        "meaning": "بارالها، در خانواده‌ام به من برکت ده و برایشان در من برکت قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुझे मेरे अहल-ओ-इयाल में बरकत दे और उन्हें मुझमें बरकत दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah bagiku dalam keluargaku dan berkatilah mereka dalam diriku."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nibariki mimi katika familia yangu na uwabariki wao ndani yangu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার পরিবারে আমার জন্য বরকত দিন এবং আমার মধ্যে তাদের জন্য বরকত দিন।"
+      }
+    }
+  },
+  {
+    "id": "joy_14",
+    "category_id": "family_social",
+    "subcategory_id": "joyful_transitions",
+    "tag": "admire_good",
+    "arabic": "مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Mā shāʾa-llāh, lā quwwata illā bi-llāh.",
+    "source": "Qur’ān 18:39 / Tafsīr Ibn Kathīr",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Whatever Allah wills; there is no power except with Allah."
+      },
+      "ar": {
+        "meaning": "مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ"
+      },
+      "id": {
+        "meaning": "Apa yang Allah kehendaki; tiada kekuatan kecuali dengan Allah."
+      },
+      "ur": {
+        "meaning": "جو اللہ چاہے؛ اللہ کے سوا کوئی قدرت نہیں۔"
+      },
+      "tr": {
+        "meaning": "Allah ne dilerse o olur; Allah’tan başka güç yoktur."
+      },
+      "fr": {
+        "meaning": "Ce qu’Allah veut [arrive]; il n’y a de puissance qu’auprès d’Allah."
+      },
+      "ru": {
+        "meaning": "То, что пожелал Аллах; нет мощи кроме как у Аллаха."
+      },
+      "fa": {
+        "meaning": "آنچه خدا بخواهد؛ هیچ نیرو جز به خدا نیست."
+      },
+      "hi": {
+        "meaning": "जो अल्लाह चाहे; अल्लाह के सिवा कोई शक्ति नहीं।"
+      },
+      "ms": {
+        "meaning": "Apa yang dikehendaki Allah; tiada daya melainkan dengan Allah."
+      },
+      "sw": {
+        "meaning": "Yaliyotakiwa na Allah; hakuna nguvu isipokuwa kwa Allah."
+      },
+      "bn": {
+        "meaning": "আল্লাহ যা ইচ্ছে করেন; আল্লাহ ব্যতীত কোনো শক্তি নেই।"
+      }
+    }
+  },
+  {
+    "id": "joy_15",
+    "category_id": "life_events",
+    "subcategory_id": "joyful_transitions",
+    "tag": "marriage_childbirth_graduation",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "transliteration": "Rabbi zidnī ʿilmā",
+    "source": "Quran 20:114 (General for increasing knowledge, suitable for graduation/milestones)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, increase me in knowledge."
+      },
+      "ar": {
+        "meaning": "رب زدني علما"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، مجھے علم میں اضافہ فرما۔"
+      },
+      "tr": {
+        "meaning": "Rabbim, ilmimi artır."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, augmente-moi en connaissance."
+      },
+      "ru": {
+        "meaning": "Господь мой! Умножь мои знания."
+      },
+      "fa": {
+        "meaning": "پروردگارا، بر دانشم بیفزا."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मुझे इल्म में इज़ाफ़ा अता फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan."
+      },
+      "sw": {
+        "meaning": "Mola wangu, niongezee elimu."
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আমাকে জ্ঞানে বৃদ্ধি করুন।"
+      }
+    }
+  }
+]

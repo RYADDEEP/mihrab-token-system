@@ -1,0 +1,722 @@
+[
+  {
+    "id": "salawat_1",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ. اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammadin wa ʿalā āli Muḥammad, kamā ṣallayta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīm, innaka Ḥamīdun Majīd. Allāhumma bārik ʿalā Muḥammadin wa ʿalā āli Muḥammad, kamā bārakta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīm, innaka Ḥamīdun Majīd",
+    "source": "Bukhari 3370, Muslim 406 (Salatul-Ibrahimiyyah, used in prayer)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad and upon the family of Muhammad, as You sent prayers upon Ibrahim and upon the family of Ibrahim. Indeed, You are Praiseworthy and Glorious. O Allah, send blessings upon Muhammad and upon the family of Muhammad, as You sent blessings upon Ibrahim and upon the family of Ibrahim. Indeed, You are Praiseworthy and Glorious."
+      },
+      "ar": {
+        "meaning": "اللهم صل على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد. اللهم بارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah melimpahkan rahmat kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, limpahkanlah keberkahan kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah melimpahkan keberkahan kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia."
+      },
+      "ur": {
+        "meaning": "اے اللہ، محمد پر اور آلِ محمد پر رحمت بھیج، جیسا کہ تو نے ابراہیم پر اور آلِ ابراہیم پر رحمت بھیجی، بے شک تو قابلِ تعریف، بڑی شان والا ہے۔ اے اللہ، محمد پر اور آلِ محمد پر برکت نازل فرما، جیسا کہ تو نے ابراہیم پر اور آلِ ابراہیم پر برکت نازل فرمائی، بے شک تو قابلِ تعریف، بڑی شان والا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, İbrahim'e ve İbrahim ailesine salât ettiğin gibi Muhammed'e ve Muhammed ailesine de salât et. Şüphesiz Sen Hamîd (övülmeye layık) ve Mecîd (şerefli ve yüce) olansın. Allah'ım, İbrahim'e ve İbrahim ailesine bereket verdiğin gibi Muhammed'e ve Muhammed ailesine de bereket ver. Şüphesiz Sen Hamîd ve Mecîd olansın."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad, comme Tu as prié sur Ibrahim et sur la famille d'Ibrahim. Certes, Tu es Digne de louange, Glorieux. Ô Allah, bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrahim et la famille d'Ibrahim. Certes, Tu es Digne de louange, Glorieux."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир Мухаммаду и роду Мухаммада, как Ты ниспослал мир Ибрахиму и роду Ибрахима. Поистине, Ты — Достохвальный, Славный. О Аллах, ниспошли благословение Мухаммаду и роду Мухаммада, как Ты ниспослал благословение Ибрахиму и роду Ибрахима. Поистине, Ты — Достохвальный, Славный."
+      },
+      "fa": {
+        "meaning": "بارالها، بر محمد و آل محمد درود فرست، همچنانکه بر ابراهیم و آل ابراهیم درود فرستادی، همانا تو ستوده و بزرگوار هستی. بارالها، بر محمد و آل محمد برکت نازل کن، همچنانکه بر ابراهیم و آل ابراهیم برکت نازل فرمودی، همانا تو ستوده و بزرگوار هستی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुहम्मद पर और आले मुहम्मद पर रहमत भेज, जैसा कि तूने इब्राहीम पर और आले इब्राहीम पर रहमत भेजी, बेशक तू क़ाबिल-ए-तारीफ़, बड़ी शान वाला है। ऐ अल्लाह, मुहम्मद पर और आले मुहम्मद पर बरकत नाज़िल फ़रमा, जैसा कि तूने इब्राहीम पर और आले इब्राहीम पर बरकत नाज़िल फ़रमाई, बेशक तू क़ाबिल-ए-तारीफ़, बड़ी शान वाला है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah ke atas Muhammad dan ke atas keluarga Muhammad, sebagaimana Engkau telah berselawat ke atas Ibrahim dan ke atas keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berkatilah ke atas Muhammad dan ke atas keluarga Muhammad, sebagaimana Engkau telah memberkati Ibrahim dan ke atas keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu Muhammad na familia ya Muhammad, kama ulivyomrehemu Ibrahim na familia ya Ibrahim. Hakika Wewe ni Mwenye kusifiwa, Mtukufu. Ee Allah, mbariki Muhammad na familia ya Muhammad, kama ulivyombariki Ibrahim na familia ya Ibrahim. Hakika Wewe ni Mwenye kusifiwa, Mtukufu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, মুহাম্মদ ও তাঁর পরিবারের উপর সালাত (রহমত) বর্ষণ করুন, যেমন আপনি ইব্রাহিম ও ইব্রাহিমের পরিবারের উপর সালাত বর্ষণ করেছেন। নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত। হে আল্লাহ, মুহাম্মদ ও তাঁর পরিবারের উপর বরকত বর্ষণ করুন, যেমন আপনি ইব্রাহিম ও ইব্রাহিমের পরিবারের উপর বরকত বর্ষণ করেছেন। নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত।"
+      }
+    }
+  },
+  {
+    "id": "salawat_2",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى نَبِيِّنَا مُحَمَّدٍ",
+    "transliteration": "Allāhumma ṣalli wa sallim wa bārik ʿalā Nabiyyinā Muḥammad",
+    "source": "Hisnul Muslim #71 (general Salawat)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers, peace, and blessings upon our Prophet Muhammad."
+      },
+      "ar": {
+        "meaning": "اللهم صل وسلم وبارك على نبينا محمد"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat, kesejahteraan, dan keberkahan kepada Nabi kami Muhammad."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمارے نبی محمد پر رحمت، سلامتی اور برکت نازل فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Nebimiz Muhammed'e salât, selâm ve bereket ihsan et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie, salue et bénis notre Prophète Muhammad."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир, благословение и благодать нашему Пророку Мухаммаду."
+      },
+      "fa": {
+        "meaning": "بارالها، بر پیامبر ما محمد درود، سلام و برکت فرست."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमारे नबी मुहम्मद पर रहमत, सलामती और बरकत नाज़िल फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah, sejahterakanlah dan berkatilah ke atas Nabi kami Muhammad."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu, umpe amani na umbariki Mtume wetu Muhammad."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের নবী মুহাম্মদ-এর উপর সালাত (রহমত), সালাম ও বরকত বর্ষণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_3",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammadin ʿabdika wa Rasūlik",
+    "source": "Bukhari 6358",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad, Your slave and Your Messenger."
+      },
+      "ar": {
+        "meaning": "اللهم صل على محمد عبدك ورسولك"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat kepada Muhammad, hamba-Mu dan Rasul-Mu."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اپنے بندے اور رسول محمد پر رحمت نازل فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, kulun ve Rasûlün Muhammed'e salât et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad, Ton serviteur et Ton Messager."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир Мухаммаду, Твоему рабу и Твоему Посланнику."
+      },
+      "fa": {
+        "meaning": "بارالها، بر محمد بنده و رسولت درود فرست."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, अपने बंदे और रसूल मुहम्मद पर रहमत नाज़िल फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah ke atas Muhammad, hamba-Mu dan Rasul-Mu."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu Muhammad, mtumishi wako na Mtume wako."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনার বান্দা ও রাসূল মুহাম্মদ-এর উপর সালাত বর্ষণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_4",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اَللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+    "transliteration": "Allāhumma Rabba hādhihid-daʿwatit-tāmmah, waṣ-ṣalātil-qāʾimah, āti Muḥammadanil-Wasīlata wal-Faḍīlah, wabʿath-hu Maqāmam Maḥmūdanil-ladhī waʿadtah",
+    "source": "Bukhari 614, Tirmidhi 211 (after Adhan)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Lord of this perfect call and the established prayer, grant Muhammad the Wasilah (a high station in Paradise) and the superiority, and raise him to the praised station which You have promised him."
+      },
+      "ar": {
+        "meaning": "اللهم رب هذه الدعوة التامة، والصلاة القائمة، آت محمدا الوسيلة والفضيلة، وابعثه مقاما محمودا الذي وعدته"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan pemilik panggilan yang sempurna ini dan shalat yang didirikan, berikanlah kepada Muhammad al-Wasilah (tempat tertinggi di surga) dan keutamaan, serta bangkitkanlah ia ke tempat yang terpuji yang telah Engkau janjikan kepadanya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اس کامل دعوت اور قائم نماز کے رب، محمد کو وسیلہ اور فضیلت عطا فرما، اور انہیں اس مقامِ محمود پر فائز فرما جس کا تو نے ان سے وعدہ کیا ہے۔"
+      },
+      "tr": {
+        "meaning": "Ey bu tam davetin ve kılınacak namazın Rabbi olan Allah! Muhammed'e (cennette) Vesîle'yi ve fazileti ver. Onu, kendisine vaat ettiğin Makam-ı Mahmud'a ulaştır."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur de cet appel parfait et de la prière établie, accorde à Muhammad la Wasilah (une station élevée au Paradis) et la supériorité, et ressuscite-le à la station louable que Tu lui as promise."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь этого совершенного призыва и предстоящей молитвы, даруй Мухаммаду аль-Василю (высокое положение в Раю) и превосходство, и возвысь его до похвального положения, которое Ты ему обещал."
+      },
+      "fa": {
+        "meaning": "بارالها، پروردگار این دعوت کامل و نماز برپا شده، به محمد وسیله و فضیلت عطا فرما، و او را به مقام ستوده‌ای که به او وعده داده‌ای، برسان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, इस कामिल दावत और क़ायम नमाज़ के रब, मुहम्मद को वसीला और फ़ज़ीलत अता फ़रमा, और उन्हें उस मक़ाम-ए-महमुद पर फ़ाइज़ फ़रमा जिसका तूने उनसे वादा किया है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan pemilik panggilan yang sempurna ini dan solat yang didirikan, berikanlah kepada Muhammad al-Wasilah (tempat tertinggi di syurga) dan keutamaan, serta bangkitkanlah ia ke tempat yang terpuji yang telah Engkau janjikan kepadanya."
+      },
+      "sw": {
+        "meaning": "Ee Allah, Mola wa wito huu mkamilifu na sala inayotekelezwa, mpe Muhammad Wasilah (cheo cha juu Peponi) na fadhila, na mwinue kwenye cheo kinachosifiwa ulichomwahidi."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, এই পরিপূর্ণ আহ্বান এবং প্রতিষ্ঠিত সালাতের মালিক, মুহাম্মদকে ওয়াসিলা (জান্নাতে উচ্চ স্থান) ও শ্রেষ্ঠত্ব দান করুন এবং তাঁকে সেই প্রশংসিত স্থানে উন্নীত করুন যার প্রতিশ্রুতি আপনি তাঁকে দিয়েছেন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_5",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ وَعَلَى آلِهِ وَسَلِّمْ تَسْلِيمًا",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammadin an-Nabīyil-Ummīyi wa ʿalā ālihī wa sallim taslīmā",
+    "source": "Abu Dawud 1530",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad, the unlettered Prophet, and upon his family, and grant them abundant peace."
+      },
+      "ar": {
+        "meaning": "اللهم صل على محمد النبي الأمي وعلى آله وسلم تسليما"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat kepada Muhammad, Nabi yang ummi (tidak bisa membaca dan menulis), dan kepada keluarganya, serta limpahkanlah kesejahteraan kepadanya dengan kesejahteraan yang sempurna."
+      },
+      "ur": {
+        "meaning": "اے اللہ، محمد پر، جو نبی امی ہیں، اور ان کی آل پر رحمت نازل فرما اور خوب سلامتی بھیج۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Ümmî Nebi Muhammed'e, âline salât ve bolca selâm eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad, le Prophète illettré, et sur sa famille, et accorde-leur une paix abondante."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир Мухаммаду, Пророку-неученому, и его семье, и даруй им обильный мир."
+      },
+      "fa": {
+        "meaning": "بارالها، بر محمد پیامبر امی و بر خاندانش درود فرست و سلامی کامل و تمام بر او و خاندانش بفرست."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुहम्मद पर, जो नबी उम्मी हैं, और उनकी आल पर रहमत नाज़िल फ़रमा और खूब सलामती भेज।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah ke atas Muhammad, Nabi yang ummi (tidak dapat membaca dan menulis), dan ke atas keluarganya, serta limpahkanlah kesejahteraan kepadanya dengan kesejahteraan yang sempurna."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu Muhammad, Nabii asiyejua kusoma na kuandika, na juu ya familia yake, na uwape amani kamili."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, মুহাম্মদ, উম্মী নবীর উপর এবং তাঁর পরিবারের উপর সালাত বর্ষণ করুন এবং পরিপূর্ণ শান্তি দান করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_6",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى رُوحِ مُحَمَّدٍ فِي الْأَرْوَاحِ وَعَلَى جَسَدِهِ فِي الْأَجْسَادِ وَعَلَى قَبْرِهِ فِي الْقُبُورِ",
+    "transliteration": "Allāhumma ṣalli ʿalā rūḥi Muḥammadin fil-arwāḥi wa ʿalā jasadihī fil-ajsādi wa ʿalā qabrihī fil-qubūr",
+    "source": "Hisnul Muslim #73 (Narrated by Ibn Abbas, general Salawat)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon the soul of Muhammad among the souls, and upon his body among the bodies, and upon his grave among the graves."
+      },
+      "ar": {
+        "meaning": "اللهم صل على روح محمد في الأرواح وعلى جسده في الأجساد وعلى قبره في القبور"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat atas ruh Muhammad di antara ruh-ruh, dan atas jasadnya di antara jasad-jasad, dan atas kuburannya di antara kuburan-kuburan."
+      },
+      "ur": {
+        "meaning": "اے اللہ، محمد کی روح پر تمام روحوں میں، اور ان کے جسم پر تمام جسموں میں، اور ان کی قبر پر تمام قبروں میں رحمت نازل فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, ruhlar içinde Muhammed'in ruhuna, cesetler içinde cesedine, kabirler içinde kabrine salât et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur l'âme de Muhammad parmi les âmes, et sur son corps parmi les corps, et sur sa tombe parmi les tombes."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир душе Мухаммада среди душ, и его телу среди тел, и его могиле среди могил."
+      },
+      "fa": {
+        "meaning": "بارالها، بر روح محمد در میان ارواح، و بر جسد او در میان اجساد، و بر قبر او در میان قبرها درود فرست."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुहम्मद की रूह पर तमाम रूहों में, और उनके जिस्म पर तमाम जिस्मों में, और उनकी क़ब्र पर तमाम क़ब्रों में रहमत नाज़िल फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah ke atas ruh Muhammad di antara ruh-ruh, dan ke atas jasadnya di antara jasad-jasad, dan ke atas kuburnya di antara kubur-kubur."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu roho ya Muhammad miongoni mwa roho, na juu ya mwili wake miongoni mwa miili, na juu ya kaburi lake miongoni mwa makaburi."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, রুহসমূহের মধ্যে মুহাম্মদের রুহের উপর সালাত বর্ষণ করুন, দেহের মধ্যে তাঁর দেহের উপর এবং কবরসমূহের মধ্যে তাঁর কবরের উপর সালাত বর্ষণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_7",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ فِي الْعَالَمِينَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammadin wa azwājihī wa dhurrīyatih, kamā ṣallayta ʿalā āli Ibrāhīm, wa bārik ʿalā Muḥammadin wa azwājihī wa dhurrīyatih, kamā bārakta ʿalā āli Ibrāhīma fil-ʿālamīn, innaka Ḥamīdun Majīd",
+    "source": "Muslim 407 (Variant of Salatul-Ibrahimiyyah)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad and his wives and his descendants, as You sent prayers upon the family of Ibrahim. And send blessings upon Muhammad and his wives and his descendants, as You sent blessings upon the family of Ibrahim in the worlds. Indeed, You are Praiseworthy and Glorious."
+      },
+      "ar": {
+        "meaning": "اللهم صل على محمد وأزواجه وذريته، كما صليت على آل إبراهيم، وبارك على محمد وأزواجه وذريته، كما باركت على آل إبراهيم في العالمين، إنك حميد مجيد"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat kepada Muhammad, istri-istrinya dan keturunannya, sebagaimana Engkau telah melimpahkan rahmat kepada keluarga Ibrahim. Dan limpahkanlah keberkahan kepada Muhammad, istri-istrinya dan keturunannya, sebagaimana Engkau telah melimpahkan keberkahan kepada keluarga Ibrahim di seluruh alam. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia."
+      },
+      "ur": {
+        "meaning": "اے اللہ، محمد پر، ان کی ازواج پر اور ان کی اولاد پر رحمت نازل فرما، جیسا کہ تو نے آلِ ابراہیم پر رحمت نازل فرمائی۔ اور محمد پر، ان کی ازواج پر اور ان کی اولاد پر برکت نازل فرما، جیسا کہ تو نے جہانوں میں آلِ ابراہیم پر برکت نازل فرمائی، بے شک تو قابلِ تعریف، بڑی شان والا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Muhammed'e, eşlerine ve zürriyetine, İbrahim ailesine salât ettiğin gibi salât et. Ve Muhammed'e, eşlerine ve zürriyetine, âlemlerde İbrahim ailesine bereket verdiğin gibi bereket ver. Şüphesiz Sen Hamîd (övülmeye layık) ve Mecîd (şerefli ve yüce) olansın."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad, ses épouses et sa descendance, comme Tu as prié sur la famille d'Ibrahim. Et bénis Muhammad, ses épouses et sa descendance, comme Tu as béni la famille d'Ibrahim dans les mondes. Certes, Tu es Digne de louange, Glorieux."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир Мухаммаду, его жёнам и его потомству, как Ты ниспослал мир роду Ибрахима. И ниспошли благословение Мухаммаду, его жёнам и его потомству, как Ты ниспослал благословение роду Ибрахима во всех мирах. Поистине, Ты — Достохвальный, Славный."
+      },
+      "fa": {
+        "meaning": "بارالها، بر محمد و همسران و فرزندانش درود فرست، همچنانکه بر خاندان ابراهیم درود فرستادی. و بر محمد و همسران و فرزندانش برکت نازل کن، همچنانکه بر خاندان ابراهیم در جهانیان برکت نازل فرمودی. همانا تو ستوده و بزرگوار هستی."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुहम्मद पर और उनकी अज़्वाज और उनकी औलाद पर रहमत नाज़िल फ़रमा, जैसा कि तूने आले इब्राहीम पर रहमत नाज़िल फ़रमाई। और मुहम्मद पर और उनकी अज़्वाज और उनकी औलाद पर बरकत नाज़िल फ़रमा, जैसा कि तूने जहानों में आले इब्राहीम पर बरकत नाज़िल फ़रमाई, बेशक तू क़ाबिल-ए-तारीफ़, बड़ी शान वाला है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah ke atas Muhammad dan isteri-isterinya serta zuriatnya, sebagaimana Engkau telah berselawat ke atas keluarga Ibrahim. Dan berkatilah ke atas Muhammad dan isteri-isterinya serta zuriatnya, sebagaimana Engkau telah memberkati keluarga Ibrahim di seluruh alam. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu Muhammad na wake zake na kizazi chake, kama ulivyomrehemu familia ya Ibrahim. Na mbariki Muhammad na wake zake na kizazi chake, kama ulivyobariki familia ya Ibrahim katika walimwengu. Hakika Wewe ni Mwenye kusifiwa, Mtukufu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, মুহাম্মদ, তাঁর স্ত্রীগণ ও তাঁর বংশধরদের উপর সালাত বর্ষণ করুন, যেমন আপনি ইব্রাহিমের পরিবারের উপর সালাত বর্ষণ করেছেন। এবং মুহাম্মদ, তাঁর স্ত্রীগণ ও তাঁর বংশধরদের উপর বরকত বর্ষণ করুন, যেমন আপনি বিশ্বজগতের মধ্যে ইব্রাহিমের পরিবারের উপর বরকত বর্ষণ করেছেন। নিশ্চয়ই আপনি প্রশংসিত, মহিমান্বিত।"
+      }
+    }
+  },
+  {
+    "id": "salawat_8",
+    "category_id": "spiritual_growth",
+    "subcategory_id": "salawat",
+    "tag": "blessings_on_prophet",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْفَاتِحِ لِمَا أُغْلِقَ وَالْخَاتِمِ لِمَا سَبَقَ وَالنَّاصِرِ الْحَقِّ بِالْحَقِّ وَالْهَادِي إِلَى صِرَاطِكَ الْمُسْتَقِيمِ وَعَلَى آلِهِ حَقَّ قَدْرِهِ وَمِقْدَارِهِ الْعَظِيمِ",
+    "transliteration": "Allāhumma ṣalli ʿalā Sayyidinā Muḥammadinil-Fātiḥi limā ughliqa wal-Khātimi limā sabaqa wan-Nāṣiril-ḥaqqi bil-ḥaqqi wal-Hādī ilā ṣirāṭikal-mustaqīm, wa ʿalā ālihī ḥaqqa qadrihī wa miqdārihil-ʿaẓīm",
+    "source": "Hisnul Muslim #72 (A well-known Salawat, though specific source for this wording in major hadith collections is less common)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon our master Muhammad, the opener of what was closed, the seal of what preceded, the helper of truth with truth, and the guide to Your straight path, and upon his family, according to his true status and immense greatness."
+      },
+      "ar": {
+        "meaning": "اللهم صل على سيدنا محمد الفاتح لما أغلق والخاتم لما سبق والناصر الحق بالحق والهادي إلى صراطك المستقيم وعلى آله حق قدره ومقداره العظيم"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkanlah rahmat kepada junjungan kami Muhammad, pembuka apa yang terkunci, penutup apa yang telah lalu, penolong kebenaran dengan kebenaran, dan penunjuk ke jalan-Mu yang lurus, serta kepada keluarganya, sesuai dengan قدرnya yang sebenarnya dan keagungannya yang besar."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمارے سردار محمد پر رحمت نازل فرما جو بند چیزوں کو کھولنے والے ہیں، جو گزر چکے ہیں ان کو ختم کرنے والے ہیں، حق کے ساتھ حق کی مدد کرنے والے ہیں، اور تیرے سیدھے راستے کی طرف ہدایت دینے والے ہیں، اور ان کی آل پر ان کے حقیقی قدر اور عظیم مرتبہ کے مطابق۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım, Efendimiz Muhammed'e salât et; kapatılanların açıcısı, geçmiştekilerin sonuncusu, hakkı hak ile destekleyen ve Senin doğru yoluna ileten olarak. Ailesine de kadrinin ve yüce makamının hakkıyla salât et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur notre maître Muhammad, l'ouvreur de ce qui était clos, le sceau de ce qui a précédé, le défenseur de la vérité par la vérité, et le guide vers Ton chemin droit, et sur sa famille, selon sa vraie valeur et son immense grandeur."
+      },
+      "ru": {
+        "meaning": "О Аллах, ниспошли мир нашему господину Мухаммаду, открывающему то, что было закрыто, завершающему то, что предшествовало, поддерживающему истину истиной, и ведущему к Твоему прямому пути, и его семье, по истинной его степени и великому достоинству."
+      },
+      "fa": {
+        "meaning": "بارالها، بر سرور ما محمد درود فرست؛ گشاینده آنچه بسته شد، و پایان‌بخش آنچه گذشت، و یاری‌دهنده حق با حق، و هدایت‌گر به سوی راه راست تو؛ و بر خاندانش به حق قدر و مقام عظیمش."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमारे सरदार मुहम्मद पर रहमत नाज़िल फ़रमा जो बंद चीज़ों को खोलने वाले हैं, जो गुज़र चुके हैं उनको ख़त्म करने वाले हैं, हक़ के साथ हक़ की मदद करने वाले हैं, और तेरे सीधे रास्ते की तरफ़ हिदायत देने वाले हैं, और उनकी आल पर उनके हक़ीक़ी क़द्र और अज़ीम मर्तबे के मुताबिक़।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawatkanlah ke atas junjungan kami Muhammad, pembuka apa yang terkunci, penutup apa yang telah lalu, penolong kebenaran dengan kebenaran, dan penunjuk ke jalan-Mu yang lurus, serta ke atas keluarganya, sesuai dengan قدرnya yang sebenarnya dan keagungannya yang besar."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mrehemu bwana wetu Muhammad, mfunguaji wa yaliyofungwa, muhuri wa yaliyopita, msaidizi wa haki kwa haki, na muongozaji kwenye njia yako iliyonyooka, na juu ya familia yake, kwa kadiri ya hadhi yake halisi na ukuu wake mkubwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের নেতা মুহাম্মদ-এর উপর সালাত বর্ষণ করুন, যিনি বন্ধ জিনিসের উন্মোচনকারী, যা অতীত হয়ে গেছে তার সমাপ্তিকারী, সত্যকে সত্য দ্বারা সাহায্যকারী এবং আপনার সরল পথের দিকে পথপ্রদর্শক, এবং তাঁর পরিবারের উপর তাঁর প্রকৃত মর্যাদা ও বিশাল শ্রেষ্ঠত্ব অনুযায়ী সালাত বর্ষণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_9",
+    "category_id": "prayer_connected",
+    "subcategory_id": "salawat",
+    "tag": "salat_ibr",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ ...",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammad-in wa ʿalā āli Muḥammad, kamā ṣallayta ʿalā Ibrāhīm...",
+    "source": "Ṣaḥīḥ al-Bukhārī 3370",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad and the family of Muhammad as You sent prayers upon Abraham…"
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ ..."
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkan shalawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau limpahkan kepada Ibrahim…"
+      },
+      "ur": {
+        "meaning": "اے اللہ! محمد اور آل محمد پر رحمت نازل فرما جیسے تو نے ابراہیم پر نازل فرمائی…"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Muhammed’e ve onun ailesine salât eyle, tıpkı İbrahim’e salât ettiğin gibi…"
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad comme Tu as prié sur Abraham…"
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови Мухаммада и семью Мухаммада, как Ты благословил Ибрахима…"
+      },
+      "fa": {
+        "meaning": "خدایا! بر محمد و آل محمد درود فرست، همان‌گونه که بر ابراهیم درود فرستادی…"
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मुहम्मद और उनकी آل पर वैसी ही दुरूद भेज जैसा तूने इब्राहीम पर भेजा…"
+      },
+      "ms": {
+        "meaning": "Ya Allah, limpahkan selawat ke atas Muhammad dan keluarga Muhammad sebagaimana Engkau limpahkan ke atas Ibrahim…"
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, msalie Muhammad na familia yake kama ulivomsalia Ibrahim…"
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! আপনি মুহাম্মদ ও মুহাম্মদের পরিবার-পরিজনের উপর দুরুদ বর্ষণ করুন, যেমন আপনি ইব্রাহীমের উপর দুরুদ বর্ষণ করেছেন…"
+      }
+    }
+  },
+  {
+    "id": "salawat_10",
+    "category_id": "prayer_connected",
+    "subcategory_id": "salawat",
+    "tag": "salat_short",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammad-in wa azwājihī wa dhurriyyatih.",
+    "source": "Ṣaḥīḥ al-Bukhārī 3369",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad, his wives and his descendants."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ ..."
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkan shalawat kepada Muhammad, istri-istrinya dan keturunannya."
+      },
+      "ur": {
+        "meaning": "اے اللہ! محمد، ان کی ازواج اور ان کی اولاد پر رحمت نازل فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Muhammed’e, eşlerine ve soyuna salât eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad, ses épouses et sa descendance."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови Мухаммада, его жён и его потомков."
+      },
+      "fa": {
+        "meaning": "خدایا! بر محمد، همسرانش و فرزندانش درود فرست."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मुहम्मद, उनकी पत्नियों और उनकी संतानों पर दुरूद भेज।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, limpahkan selawat ke atas Muhammad, isteri-isterinya dan keturunannya."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, msalie Muhammad, wake zake na kizazi chake."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! মুহাম্মদ, তাঁর স্ত্রীগণ ও সন্তান-সন্ততির উপর দুরুদ প্রেরণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_11",
+    "category_id": "prayer_connected",
+    "subcategory_id": "salawat",
+    "tag": "salat_minimal",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammad.",
+    "source": "Ṣaḥīḥ al-Bukhārī 6351",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkan shalawat kepada Muhammad."
+      },
+      "ur": {
+        "meaning": "اے اللہ! محمد پر رحمت نازل فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Muhammed’e salât eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови Мухаммада."
+      },
+      "fa": {
+        "meaning": "خدایا! بر محمد درود فرست."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मुहम्मद पर दुरूद भेज।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawat ke atas Muhammad."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, msalie Muhammad."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! মুহাম্মদের উপর দুরুদ প্রেরণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_12",
+    "category_id": "prayer_connected",
+    "subcategory_id": "salawat",
+    "tag": "salat_with_salam",
+    "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ",
+    "transliteration": "Allāhumma ṣalli wa sallim ʿalā nabiyyinā Muḥammad.",
+    "source": "Ṣaḥīḥ Muslim 408",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers and peace upon our Prophet Muhammad."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkan shalawat dan salam kepada Nabi kami Muhammad."
+      },
+      "ur": {
+        "meaning": "اے اللہ! ہمارے نبی محمد پر درود و سلام بھیج۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Peygamberimiz Muhammed’e salât ve selâm eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie et salue notre Prophète Muhammad."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови и приветствуй нашего Пророка Мухаммада."
+      },
+      "fa": {
+        "meaning": "خدایا! بر پیامبرمان محمد درود و سلام فرست."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! हमारे नबी मुहम्मद पर दुरूद और सलाम भेज।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, limpahkan selawat dan salam ke atas Nabi kami Muhammad."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, msalie na kumbariki Mtume wetu Muhammad."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! আমাদের নবী মুহাম্মদের উপর দুরুদ ও সালাম বর্ষণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_13",
+    "category_id": "prayer_connected",
+    "subcategory_id": "salawat",
+    "tag": "salat_servant",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammad ʿabdika wa rasūlik.",
+    "source": "Ṣaḥīḥ al-Bukhārī 3383",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad, Your servant and Messenger."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkan shalawat kepada Muhammad, hamba dan utusan-Mu."
+      },
+      "ur": {
+        "meaning": "اے اللہ! اپنے بندے اور رسول محمد پر رحمت نازل فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Kulun ve Rasûlün Muhammed’e salât eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad, Ton serviteur et Messager."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови Мухаммада, Твоего раба и посланника."
+      },
+      "fa": {
+        "meaning": "خدایا! بر محمد، بنده و پیامبرت درود فرست."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! अपने बंदे और रसूल मुहम्मद पर दुरूद भेज।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawat ke atas Muhammad, hamba dan Rasul-Mu."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, msalie Muhammad mja Wako na Mtume Wako."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! আপনার বান্দা ও রাসূল মুহাম্মদের উপর দুরুদ প্রেরণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_14",
+    "category_id": "prayer_connected",
+    "subcategory_id": "salawat",
+    "tag": "salat_family",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammad-in wa ʿalā āli Muḥammad.",
+    "source": "Ṣaḥīḥ al-Bukhārī 6357",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad and upon the family of Muhammad."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkan shalawat kepada Muhammad dan keluarga Muhammad."
+      },
+      "ur": {
+        "meaning": "اے اللہ! محمد اور آل محمد پر رحمت نازل فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Muhammed’e ve Âl-i Muhammed’e salât eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови Мухаммада и семью Мухаммада."
+      },
+      "fa": {
+        "meaning": "خدایا! بر محمد و خاندان محمد درود فرست."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मुहम्मद और उनकी आल पर दुरूद भेज।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawat ke atas Muhammad dan keluarga Muhammad."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, msalie Muhammad na familia yake."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! মুহাম্মদ ও মুহাম্মদের পরিবার-পরিজনের উপর দুরুদ প্রেরণ করুন।"
+      }
+    }
+  },
+  {
+    "id": "salawat_15",
+    "category_id": "prayer_connected",
+    "subcategory_id": "salawat",
+    "tag": "salat_and_salam",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَسَلِّمْ تَسْلِيمًا",
+    "transliteration": "Allāhumma ṣalli ʿalā Muḥammad wa sallim taslīmā.",
+    "source": "Ṣaḥīḥ Muslim 408",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, send prayers upon Muhammad and grant abundant peace."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَسَلِّمْ تَسْلِيمًا"
+      },
+      "id": {
+        "meaning": "Ya Allah, limpahkan shalawat kepada Muhammad dan limpahkan salam yang sempurna."
+      },
+      "ur": {
+        "meaning": "اے اللہ! محمد پر درود اور کامل سلامتی بھیج۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Muhammed’e salât ve tam bir selâm eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, prie sur Muhammad et accorde-lui une entière paix."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови Мухаммада и даруй ему полное приветствие."
+      },
+      "fa": {
+        "meaning": "خدایا! بر محمد درود فرست و سلام کامل عطا فرما."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मुहम्मद पर दुरूद और पूर्ण सलाम भेज।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, selawat ke atas Muhammad dan kurniakan salam sejahtera sepenuhnya."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, msalie Muhammad na umpe salamu tele."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! মুহাম্মদের উপর দুরুদ ও পরিপূর্ণ সালাম প্রেরণ করুন।"
+      }
+    }
+  }
+]

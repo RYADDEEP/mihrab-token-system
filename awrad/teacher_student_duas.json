@@ -1,0 +1,482 @@
+[
+  {
+    "id": "teacher_1",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "transliteration": "Rabbi zidnī ʿilmā",
+    "source": "Taha 20:114 (Asking for increase in knowledge)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, increase me in knowledge."
+      },
+      "ar": {
+        "meaning": "رب زدني علما"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, tambahkanlah aku ilmu."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، میرے علم میں اضافہ فرما۔"
+      },
+      "tr": {
+        "meaning": "Rabbim, ilmimi artır."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, augmente-moi en science."
+      },
+      "ru": {
+        "meaning": "Господи, приумножь мои знания."
+      },
+      "fa": {
+        "meaning": "پروردگارا، بر علم من بیفزا."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मेरे इल्म में इज़ाफ़ा फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, tambahkanlah aku ilmu."
+      },
+      "sw": {
+        "meaning": "Mola wangu, niongezee elimu."
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আমার জ্ঞান বৃদ্ধি করুন।"
+      }
+    }
+  },
+  {
+    "id": "teacher_2",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي وَزِدْنِي عِلْمًا",
+    "transliteration": "Allāhummanfaʿnī bimā ʿallamtanī wa ʿallimnī mā yanfaʿunī wa zidnī ʿilmā",
+    "source": "Tirmidhi 3599 (Seeking beneficial knowledge and increase in knowledge)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, benefit me with what You have taught me, and teach me what will benefit me, and increase me in knowledge."
+      },
+      "ar": {
+        "meaning": "اللهم انفعني بما علمتني وعلمني ما ينفعني وزدني علما"
+      },
+      "id": {
+        "meaning": "Ya Allah, berilah manfaat kepadaku dengan apa yang telah Engkau ajarkan kepadaku, dan ajarkanlah kepadaku apa yang bermanfaat bagiku, dan tambahkanlah ilmuku."
+      },
+      "ur": {
+        "meaning": "اے اللہ، جو تو نے مجھے سکھایا ہے اس سے مجھے فائدہ دے، اور مجھے وہ سکھا جو مجھے نفع دے، اور میرے علم میں اضافہ فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Bana öğrettiğinle beni faydalandır, bana fayda verecek şeyi öğret ve ilmimi artır."
+      },
+      "fr": {
+        "meaning": "Ô Allah, rends-moi utile ce que Tu m'as enseigné, et enseigne-moi ce qui me sera utile, et augmente-moi en science."
+      },
+      "ru": {
+        "meaning": "О Аллах, дай мне пользу от того, чему Ты меня научил, и научи меня тому, что принесет мне пользу, и приумножь мои знания."
+      },
+      "fa": {
+        "meaning": "بارالها، آنچه به من آموختی برایم سودمند قرار ده، و آنچه برایم سودمند است به من بیاموز، و علم مرا افزایش ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, तूने जो मुझे सिखाया है उससे मुझे फ़ायदा दे, और मुझे वह सिखा जो मुझे नफ़ा दे, और मेरे इल्म में इज़ाफ़ा फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berilah manfaat kepadaku dengan apa yang telah Engkau ajarkan kepadaku, dan ajarkanlah kepadaku apa yang bermanfaat bagiku, dan tambahkanlah ilmuku."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nifaidishe kwa ulichonifundisha, na unifundishe kitakachonifaa, na uniongezee elimu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি আমাকে যা শিখিয়েছেন তার দ্বারা আমাকে উপকৃত করুন, এবং আমাকে এমন কিছু শেখান যা আমাকে উপকৃত করবে, এবং আমার জ্ঞান বৃদ্ধি করুন।"
+      }
+    }
+  },
+  {
+    "id": "teacher_3",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا",
+    "transliteration": "Allāhumma innī asʾaluka ʿilman nāfiʿan, wa rizqan ṭayyiban, wa ʿamalan mutaqabbalā",
+    "source": "Ibn Majah 925 (Asking for beneficial knowledge)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك علما نافعا ورزقا طيبا وعملا متقبلا"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے نفع بخش علم، پاکیزہ رزق، اور مقبول عمل کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden faydalı ilim, helal ve hoş rızık ve kabul edilmiş amel dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande une science utile, une bonne subsistance et une œuvre acceptée."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя полезного знания, благого удела и принятых деяний."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو دانش سودمند، روزی پاک، و عمل مورد قبول را می‌خواهم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे नफा देने वाला इल्म, पाकीज़ा रिज़्क़, और मक़बूल अमल का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nakuomba elimu yenye manufaa, na riziki nzuri, na amali iliyokubaliwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুল হওয়া আমল চাই।"
+      }
+    }
+  },
+  {
+    "id": "teacher_4",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+    "transliteration": "Allāhumma innī asʾalukal-hudā wat-tuqā wal-ʿafāfa wal-ghinā",
+    "source": "Muslim 2721 (Asking for guidance and piety, crucial for students and teachers)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for guidance, piety, abstinence (from unlawful things), and self-sufficiency."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك الهدى والتقى والعفاف والغنى"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, sifat iffah (menjaga diri dari yang haram), dan kekayaan jiwa (kecukupan)."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے ہدایت، تقویٰ، عفت اور غنا (خود کفالت) کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden hidayet, takva, iffet ve gönül zenginliği (ihtiyaçsızlık) dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande la guidée, la piété, la chasteté et la suffisance."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя руководства, богобоязненности, целомудрия и достаточности."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو هدایت و پرهیزگاری و عفت و بی‌نیازی مسئلت دارم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे हिदायत, तक़वा, इफ्फ़त (नाजायज़ चीज़ों से बचना) और गु़ना (आत्म-निर्भरता) का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, sifat iffah (menjaga diri dari yang haram), dan kekayaan jiwa (kecukupan)."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nakuomba uongofu, na uchamungu, na kujizuia (kutoka haramu), na utoshelevu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে হেদায়েত, তাকওয়া, পবিত্রতা এবং সচ্ছলতা চাই।"
+      }
+    }
+  },
+  {
+    "id": "teacher_5",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "اللَّهُمَّ أَلْهِمْنِي رُشْدِي وَأَعِذْنِي مِنْ شَرِّ نَفْسِي",
+    "transliteration": "Allāhumma alhimnī rushdī wa aʿidhnī min sharri nafsī",
+    "source": "Tirmidhi 3483 (Seeking guidance and protection from self-evil, vital for learning/teaching)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, inspire me with my guidance and protect me from the evil of my own self."
+      },
+      "ar": {
+        "meaning": "اللهم ألهمني رشدي وأعذني من شر نفسي"
+      },
+      "id": {
+        "meaning": "Ya Allah, ilhamkanlah kepadaku petunjukku dan lindungilah aku dari kejahatan diriku sendiri."
+      },
+      "ur": {
+        "meaning": "اے اللہ، مجھے میری رہنمائی کی الہام فرما اور مجھے میرے نفس کے شر سے پناہ دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Bana doğruluğumu ilham et ve nefsimin şerrinden beni koru."
+      },
+      "fr": {
+        "meaning": "Ô Allah, inspire-moi ma droiture et protège-moi du mal de mon âme."
+      },
+      "ru": {
+        "meaning": "О Аллах, внуши мне мое праведное руководство и защити меня от зла моей души."
+      },
+      "fa": {
+        "meaning": "بارالها، هدایتم را به من الهام کن و از شر نفسم به من پناه ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुझे मेरी रहनुमाई की इलहाम फ़रमा और मुझे मेरे नफ़्स के शर्र से पनाह दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, ilhamkanlah kepadaku petunjukku dan lindungilah aku dari kejahatan diriku sendiri."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nipa ilhamu ya uongofu wangu na unikinge na shari ya nafsi yangu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাকে আমার সঠিক পথনির্দেশনা দিন এবং আমার নফসের মন্দ থেকে আমাকে রক্ষা করুন।"
+      }
+    }
+  },
+  {
+    "id": "teacher_6",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+    "transliteration": "Allāhumma innī asʾalukal-ʿafwa wal-ʿāfiyah fid-dunyā wal-ākhirah",
+    "source": "Tirmidhi 3514 (General well-being, applicable to teachers and students)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for forgiveness and well-being in this world and the Hereafter."
+      },
+      "ar": {
+        "meaning": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu ampunan dan keselamatan di dunia dan akhirat."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تجھ سے دنیا اور آخرت میں معافی اور عافیت کا سوال کرتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Senden dünyada ve ahirette af ve afiyet dilerim."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande le pardon et le bien-être dans ce monde et dans l'au-delà."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу у Тебя прощения и благополучия в этом мире и в Последней жизни."
+      },
+      "fa": {
+        "meaning": "بارالها، از تو عفو و عافیت در دنیا و آخرت را مسئلت دارم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तुझसे दुनिया और आखिरत में माफ़ी और आफ़ियत का सवाल करता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon kepada-Mu keampunan dan keselamatan di dunia dan akhirat."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nakuomba msamaha na afya njema katika dunia na Akhera."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে দুনিয়া ও আখিরাতে ক্ষমা ও নিরাপত্তা চাই।"
+      }
+    }
+  },
+  {
+    "id": "teacher_7",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ دُعَاءٍ لاَ يُسْمَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ عِلْمٍ لاَ يَنْفَعُ",
+    "transliteration": "Allāhumma innī aʿūdhu bika min qalbin lā yakhshaʿ, wa min duʿāʾin lā yusmaʿ, wa min nafsin lā tashbaʿ, wa min ʿilmin lā yanfaʿ",
+    "source": "Tirmidhi 3482 (Seeking refuge from unbeneficial things for knowledge seekers)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge in You from a heart that does not humble itself, from a supplication that is not heard, from a soul that is never satisfied, and from knowledge that does not benefit."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعوذ بك من قلب لا يخشع ومن دعاء لا يسمع ومن نفس لا تشبع ومن علم لا ينفع"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari hati yang tidak khusyuk, dari doa yang tidak didengar, dari nafsu yang tidak pernah kenyang, dan dari ilmu yang tidak bermanfaat."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں تیری پناہ چاہتا ہوں ایسے دل سے جو خشوع نہ کرے، اور ایسی دعا سے جو سنی نہ جائے، اور ایسے نفس سے جو سیر نہ ہو، اور ایسے علم سے جو نفع نہ دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Huşu duymayan kalpten, işitilmeyen duadan, doymayan nefisten ve fayda vermeyen ilimden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je cherche refuge auprès de Te contre un cœur qui ne s'humilie pas, contre une invocation qui n'est pas exaucée, contre une âme insatiable, et contre une science inutile."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прибегаю к Тебе от не смиренного сердца, и от мольбы, которая не слышится, и от ненасытной души, и от бесполезного знания."
+      },
+      "fa": {
+        "meaning": "بارالها، من به تو پناه می‌برم از قلبی که خشوع نمی‌کند، و از دعایی که شنیده نمی‌شود، و از نفسی که سیر نمی‌شود، و از دانشی که سود نمی‌دهد."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ ऐसे दिल से जो ख़शूअ न करे, और ऐसी दुआ से जो सुनी न जाए, और ऐसे नफ्स से जो सेर न हो, और ऐसे इल्म से जो नफ़ा न दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari hati yang tidak khusyuk, dari doa yang tidak didengar, dari nafsu yang tidak pernah kenyang, dan dari ilmu yang tidak bermanfaat."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika najikinga Kwako kutokana na moyo usionyenyea, na kutokana na dua isiyosikika, na kutokana na nafsi isiyoshiba, na kutokana na elimu isiyonufaisha."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি আপনার কাছে আশ্রয় চাই এমন অন্তর থেকে যা বিনয়ী হয় না, এমন দোয়া থেকে যা শোনা যায় না, এমন মন থেকে যা তৃপ্ত হয় না এবং এমন জ্ঞান থেকে যা উপকার দেয় না।"
+      }
+    }
+  },
+  {
+    "id": "teacher_8",
+    "category_id": "knowledge_dev",
+    "subcategory_id": "teacher_student_duas",
+    "tag": "benefit_knowledge",
+    "arabic": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي وَزِدْنِي عِلْمًا",
+    "transliteration": "Allāhumma nfaʿnī bimā ʿallamtanī wa ʿallimnī mā yanfaʿunī wazidnī ʿilman.",
+    "source": "Sunan Ibn Mājah 925 (ḥasan)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, benefit me with what You have taught me, teach me what will benefit me, and increase me in knowledge."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي ..."
+      },
+      "id": {
+        "meaning": "Ya Allah, berilah manfaat atas ilmu yang Engkau ajarkan kepadaku, ajarkanlah yang bermanfaat bagiku, dan tambahkanlah ilmuku."
+      },
+      "ur": {
+        "meaning": "اے اللہ! جو تُو نے مجھے سکھایا ہے اُس سے مجھے نفع دے، اور مجھے وہ سکھا جو مجھے فائدہ دے، اور میرے علم میں اضافہ فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Bana öğrettiklerinle fayda ver, fayda sağlayacak şeyleri öğret ve ilmimi artır."
+      },
+      "fr": {
+        "meaning": "Ô Allah, fais-moi profiter de ce que Tu m’as enseigné, enseigne-moi ce qui me sera utile et augmente mes connaissances."
+      },
+      "ru": {
+        "meaning": "О Аллах, принеси пользу тем, чему Ты меня научил, научи тому, что принесёт пользу, и увеличь мои знания."
+      },
+      "fa": {
+        "meaning": "خدایا مرا از آنچه به من آموختی بهره‌مند ساز، آنچه سودمند است به من بیاموز و دانشم را بیفزا."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मुझे उस ज्ञान से लाभ दे जो तूने मुझे सिखाया, मुझे वह सिखा जो मुझे लाभ पहुँचे, और मेरे ज्ञान में वृद्धि कर।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berilah manfaat kepadaku ilmu yang Engkau ajarkan, ajarkan ilmu yang bermanfaat, dan tambahkan ilmuku."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, nifaidishe kwa yale uliyoni fundisha, nifundishe yale yatakayonifaa na niongezee elimu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! তুমি যা শিখিয়েছ, তা দ্বারা আমাকে উপকৃত কর, যা উপকারী তা আমাকে শিক্ষা দাও এবং আমার জ্ঞান বাড়িয়ে দাও।"
+      }
+    }
+  },
+  {
+    "id": "teacher_9",
+    "category_id": "knowledge_dev",
+    "subcategory_id": "teacher_student_duas",
+    "tag": "increase_knowledge",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "transliteration": "Rabbi zidnī ʿilman",
+    "source": "Qur’ān 20:114",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, increase me in knowledge."
+      },
+      "ar": {
+        "meaning": "رَبِّ زِدْنِي عِلْمًا"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, tambahkanlah ilmuku."
+      },
+      "ur": {
+        "meaning": "اے میرے رب! میرے علم میں اضافہ فرما۔"
+      },
+      "tr": {
+        "meaning": "Rabbim, ilmimi artır."
+      },
+      "fr": {
+        "meaning": "Seigneur, accrois mes connaissances."
+      },
+      "ru": {
+        "meaning": "Господь мой, увеличь мои знания."
+      },
+      "fa": {
+        "meaning": "پروردگارا، دانش مرا بیفزا."
+      },
+      "hi": {
+        "meaning": "मेरे रब, मेरे ज्ञान में वृद्धि कर।"
+      },
+      "ms": {
+        "meaning": "Tuhanku, tambahkanlah ilmuku."
+      },
+      "sw": {
+        "meaning": "Mola wangu, niongezee elimu."
+      },
+      "bn": {
+        "meaning": "হে আমার রব! আমার জ্ঞান বৃদ্ধি কর।"
+      }
+    }
+  },
+  {
+    "id": "teacher_10",
+    "category_id": "special_pathways",
+    "subcategory_id": "teachers_wisdom",
+    "tag": "teacher_student_duas",
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "transliteration": "Allāhumma aʿinnī ʿalā dhikrika wa shukrika wa ḥusni ʿibādatik",
+    "source": "Abu Dawud 1522, An-Nasa'i 1303 (Seeking help for remembrance, gratitude, and good worship, crucial for both teachers and students)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, help me to remember You, and to thank You, and to worship You in the best manner."
+      },
+      "ar": {
+        "meaning": "اللهم أعني على ذكرك وشكرك وحسن عبادتك"
+      },
+      "id": {
+        "meaning": "Ya Allah, bantulah aku untuk senantiasa mengingat-Mu, mensyukuri nikmat-Mu, dan beribadah kepada-Mu dengan sebaik-baiknya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، مجھے اپنے ذکر پر، اپنے شکر پر، اور اپنی بہترین عبادت پر مدد فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Seni zikretme, sana şükretme ve sana güzelce ibadet etme konusunda bana yardım et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, aide-moi à Te rappeler, à Te remercier et à T'adorer de la meilleure manière."
+      },
+      "ru": {
+        "meaning": "О Аллах, помоги мне поминать Тебя, и благодарить Тебя, и наилучшим образом поклоняться Тебе."
+      },
+      "fa": {
+        "meaning": "بارالها، مرا بر ذکرت، و شکرت، و نیکو عبادت کردنت یاری ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मुझे अपने ज़िक्र पर, अपने शुक्र पर, और अपनी बेहतरीन इबादत पर मदद फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, bantulah aku untuk senantiasa mengingat-Mu, mensyukuri nikmat-Mu, dan beribadah kepada-Mu dengan sebaik-baiknya."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nisaidie kukukumbuka, na kukushukuru, na kukuabudu kwa njia bora."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনার স্মরণে, আপনার কৃতজ্ঞতায় এবং আপনার সুন্দর ইবাদতে আমাকে সাহায্য করুন।"
+      }
+    }
+  }
+]

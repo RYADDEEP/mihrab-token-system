@@ -1,0 +1,722 @@
+[
+  {
+    "id": "family_1",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "transliteration": "Rabbir-ḥamhumā kamā rabbayānī ṣaghīrā",
+    "source": "Al-Isra 17:24 (Du'a for parents)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, have mercy upon them as they brought me up [when I was] small."
+      },
+      "ar": {
+        "meaning": "رب ارحمهما كما ربياني صغيرا"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, rahmatilah keduanya sebagaimana mereka telah mendidikku waktu kecil."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، ان دونوں پر رحم فرما جیسا کہ انہوں نے بچپن میں مجھے پالا۔"
+      },
+      "tr": {
+        "meaning": "Rabbim! Onlar beni küçükken terbiye ettikleri gibi sen de onlara merhamet et."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, fais-leur miséricorde comme ils m'ont élevé [quand j'étais] petit."
+      },
+      "ru": {
+        "meaning": "Господи, помилуй их, как они воспитывали меня маленьким."
+      },
+      "fa": {
+        "meaning": "پروردگارا، به آن دو رحم کن همان گونه که مرا در کوچکی تربیت کردند."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, उन दोनों पर रहम कर जैसा कि उन्होंने बचपन में मुझे पाला।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, rahmatilah keduanya sebagaimana mereka telah mendidikku waktu kecil."
+      },
+      "sw": {
+        "meaning": "Mola wangu, warehemu kama walivyonilea nilipokuwa mdogo."
+      },
+      "bn": {
+        "meaning": "হে আমার রব, তাদের প্রতি রহম করুন, যেমন তারা আমাকে শৈশবে লালন-পালন করেছেন।"
+      }
+    }
+  },
+  {
+    "id": "family_2",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "transliteration": "Rabbanā hablānā min azwājinā wa dhurrīyātinā qurrata aʿyunin wajʿalnā lil-muttaqīna imāmā",
+    "source": "Al-Furqan 25:74 (Du'a for righteous spouse and children)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Our Lord, grant us from our spouses and our offspring comfort to our eyes and make us leaders for the righteous."
+      },
+      "ar": {
+        "meaning": "ربنا هب لنا من أزواجنا وذرياتنا قرة أعين واجعلنا للمتقين إماما"
+      },
+      "id": {
+        "meaning": "Ya Tuhan kami, anugerahkanlah kepada kami pasangan kami dan keturunan kami sebagai penyejuk hati (kami), dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa."
+      },
+      "ur": {
+        "meaning": "اے ہمارے رب، ہمیں ہماری بیویوں اور ہماری اولاد سے آنکھوں کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا پیشوا بنا۔"
+      },
+      "tr": {
+        "meaning": "Ey Rabbimiz! Bize eşlerimizden ve nesillerimizden göz aydınlığı olacak (çocuklar) bağışla ve bizi takva sahiplerine önder kıl."
+      },
+      "fr": {
+        "meaning": "Ô notre Seigneur, donne-nous de nos épouses et de nos descendants la joie des yeux, et fais de nous des guides pour les pieux."
+      },
+      "ru": {
+        "meaning": "Господь наш! Даруй нам от наших жен и нашего потомства усладу для глаз и сделай нас образцом для богобоязненных."
+      },
+      "fa": {
+        "meaning": "پروردگارا، از همسران و فرزندانمان روشنی چشم به ما عطا کن و ما را پیشوای پرهیزکاران قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ हमारे रब, हमें हमारी बीवियों और हमारी औलाद से आँखों की ठंडक अता फ़रमा और हमें परहेज़गारों का पेशवा बना।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhan kami, anugerahkanlah kepada kami isteri-isteri kami dan zuriat keturunan kami sebagai penyejuk mata (kami), dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa."
+      },
+      "sw": {
+        "meaning": "Mola wetu, tupe kutoka kwa wake zetu na watoto wetu (wenye kutufurahisha) macho, na utufanye viongozi kwa wacha-Mungu."
+      },
+      "bn": {
+        "meaning": "হে আমাদের রব, আমাদের স্ত্রী ও সন্তানদের মধ্য থেকে আমাদেরকে এমন কিছু দিন যা আমাদের চক্ষু শীতলকারী হবে এবং আমাদেরকে মুত্তাকীদের জন্য আদর্শ বানিয়ে দিন।"
+      }
+    }
+  },
+  {
+    "id": "family_3",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "اللَّهُمَّ بَارِكْ لِي فِي أَهْلِي وَبَارِكْ لَهُمْ فِيَّ",
+    "transliteration": "Allāhumma bārik lī fī ahlī wa bārik lahum fiyya",
+    "source": "Hisnul Muslim #186 (When entering upon family or new spouse)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless my family for me, and bless me for them."
+      },
+      "ar": {
+        "meaning": "اللهم بارك لي في أهلي وبارك لهم في"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah bagiku dalam keluargaku, dan berkahilah mereka dalam diriku."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میرے لیے میرے اہل میں برکت دے اور ان کے لیے مجھ میں برکت دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Ailemi bana mübarek kıl, beni de onlara mübarek kıl."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis pour moi ma famille, et bénis-moi pour eux."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови меня в моей семье, и благослови их во мне."
+      },
+      "fa": {
+        "meaning": "بارالها، خانواده‌ام را برای من مبارک گردان و مرا برای آنها مبارک گردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मेरे लिए मेरे अह्ल (परिवार) में बरकत दे, और उनके लिए मुझमें बरकत दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah bagiku dalam keluargaku, dan berkatilah mereka dalam diriku."
+      },
+      "sw": {
+        "meaning": "Ee Allah, nibariki mimi katika familia yangu, na uwabariki wao ndani yangu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমার পরিবারের জন্য আমাকে বরকত দিন এবং তাদের জন্য আমার মধ্যে বরকত দিন।"
+      }
+    }
+  },
+  {
+    "id": "family_4",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "اللَّهُمَّ بَارِكْ فِيهَا وَبَارِكْ عَلَيْهَا وَاجْمَعْ بَيْنَهُمَا فِي خَيْرٍ",
+    "transliteration": "Allāhumma bārik fīhā wa bārik ʿalayhā wajmaʿ baynahumā fī khayr",
+    "source": "Abu Dawud 2130 (Du'a for newly married couple)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless her for him, and bless him for her, and unite them in goodness."
+      },
+      "ar": {
+        "meaning": "اللهم بارك فيها وبارك عليها واجمع بينهما في خير"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah dia (isteri) untuknya (suami), dan berkahilah dia (suami) untuknya (isteri), dan satukanlah keduanya dalam kebaikan."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اس (عورت) کے لیے اس (مرد) میں برکت دے، اور اس (مرد) کے لیے اس (عورت) میں برکت دے، اور ان دونوں کو بھلائی میں جمع کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onda ve üzerine bereket kıl, ikisini hayır üzere birleştir."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-la pour lui, et bénis-le pour elle, et unis-les dans le bien."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови её для него, и благослови его для неё, и объедини их в благе."
+      },
+      "fa": {
+        "meaning": "بارالها، در او (همسر) برکت ده و بر او (همسر) برکت ده و بین آن دو را در خیر جمع گردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, उसमें बरकत दे और उस पर बरकत दे, और उन दोनों को भलाई में जमा कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah dia (isteri) untuknya (suami), dan berkatilah dia (suami) untuknya (isteri), dan satukanlah keduanya dalam kebaikan."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mbariki yeye kwa ajili yake, na mbariki yeye kwa ajili yake, na uwaunganishe katika wema."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, তার মধ্যে বরকত দিন এবং তার উপর বরকত দিন, এবং তাদের উভয়কে কল্যাণের মধ্যে একত্রিত করুন।"
+      }
+    }
+  },
+  {
+    "id": "family_5",
+    "category_id": "family_social",
+    "subcategory_id": "parents_children_spouse",
+    "tag": "wedding_congrats",
+    "arabic": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+    "transliteration": "Bārak-Allāhu laka wa-bāraka ʿalayka wa-jamaʿa baynakumā fī khayr.",
+    "source": "Sunan Ibn Mājah 1905",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah bless you, shower blessings upon you, and unite you both in goodness."
+      },
+      "ar": {
+        "meaning": "بَارَكَ اللَّهُ لَكَ..."
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahimu, melimpahkan keberkahan dan mempersatukan kalian dalam kebaikan."
+      },
+      "ur": {
+        "meaning": "اللہ تم پر برکت نازل کرے اور تم دونوں کو خیر میں جمع فرمائے۔"
+      },
+      "tr": {
+        "meaning": "Allah seni mübarek, bereketli kılsın; sizi hayırda birleştirsin."
+      },
+      "fr": {
+        "meaning": "Qu’Allah te bénisse, te couvre de bénédictions et vous unisse dans le bien."
+      },
+      "ru": {
+        "meaning": "Да благословит тебя Аллах, ниспошлёт Свою милость и объединит вас в добре."
+      },
+      "fa": {
+        "meaning": "خداوند تو را مبارک گرداند و شما را در خیر متحد سازد."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें बरकत दे और तुम दोनों को भलाई में एक करे।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkahimu, melimpahkan keberkatan dan menyatukan kalian dalam kebaikan."
+      },
+      "sw": {
+        "meaning": "Mwenyezi Mungu akubariki na awaunganishe katika kheri."
+      },
+      "bn": {
+        "meaning": "আল্লাহ তোমাকে বরকত দিন ও তোমাদের দুজনকে কল্যাণে একত্রিত করুন।"
+      }
+    }
+  },
+  {
+    "id": "family_6",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "اللَّهُمَّ إِنِّي أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "Allāhumma innī uʿīdhuhā bika wa dhurrīyatahā minash-shayṭānir-rajīm",
+    "source": "Bukhari 3271 (Du'a for protection of children during intercourse, generalizable for offspring)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I seek refuge for her with You and her offspring from the accursed devil."
+      },
+      "ar": {
+        "meaning": "اللهم إني أعيذها بك وذريتها من الشيطان الرجيم"
+      },
+      "id": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon perlindungan untuknya dan keturunannya dengan-Mu dari setan yang terkutuk."
+      },
+      "ur": {
+        "meaning": "اے اللہ، میں اس (عورت) اور اس کی اولاد کو تیری پناہ میں دیتا ہوں شیطان مردود سے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onu ve neslini kovulmuş şeytanın şerrinden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je la place ainsi que sa descendance sous Ta protection contre le diable maudit."
+      },
+      "ru": {
+        "meaning": "О Аллах, поистине, я прошу для неё и её потомства защиты у Тебя от проклятого шайтана."
+      },
+      "fa": {
+        "meaning": "بارالها، من او و فرزندانش را از شیطان رانده شده به تو پناه می‌دهم."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, मैं उसे और उसकी औलाद को शैतान मरदूद से तेरी पनाह में देता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, sesungguhnya aku memohon perlindungan untuknya dan keturunannya dengan-Mu dari syaitan yang direjam."
+      },
+      "sw": {
+        "meaning": "Ee Allah, hakika namkinga yeye na kizazi chake Kwako kutokana na shetani aliyelaaniwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমি তার জন্য এবং তার সন্তানদের জন্য আপনার কাছে বিতাড়িত শয়তান থেকে আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "family_7",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "اللَّهُمَّ اجْعَلْهُ بَرًّا وَرَشِيدًا وَاجْعَلْهُ مِنَ الصَّالِحِينَ",
+    "transliteration": "Allāhummajʿalhu barraw wa rashīdā wa ajʿalhu minaṣ-ṣāliḥīn",
+    "source": "General Du'a for children, based on Quranic principles",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, make him righteous and guided, and make him among the righteous."
+      },
+      "ar": {
+        "meaning": "اللهم اجعله برا ورشيدا واجعله من الصالحين"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah dia anak yang berbakti dan terbimbing, serta jadikanlah dia termasuk orang-orang yang saleh."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے نیک اور ہدایت یافتہ بنا دے اور اسے صالحین میں سے کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onu hayırlı ve doğru yolda kıl ve salihlerden eyle."
+      },
+      "fr": {
+        "meaning": "Ô Allah, fais de lui un enfant pieux et bien guidé, et fais-le parmi les vertueux."
+      },
+      "ru": {
+        "meaning": "О Аллах, сделай его праведным и ведомым по прямому пути, и сделай его из числа праведников."
+      },
+      "fa": {
+        "meaning": "بارالها، او را نیکوکار و راه یافته قرار ده و او را از صالحین قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, उसे नेक और हिदायत वाला बना दे और उसे नेक लोगों में से कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah dia anak yang berbakti dan terbimbing, serta jadikanlah dia termasuk orang-orang yang soleh."
+      },
+      "sw": {
+        "meaning": "Ee Allah, mfanye kuwa mwema na mwenye kuongoka, na umfanye miongoni mwa watu wema."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, তাকে নেক ও হেদায়েতপ্রাপ্ত করুন, এবং তাকে সৎকর্মশীলদের অন্তর্ভুক্ত করুন।"
+      }
+    }
+  },
+  {
+    "id": "family_8",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+    "transliteration": "Rabbi awziʿnī an ashkura niʿmatakal-latī anʿamta ʿalayya wa ʿalā wālidayya wa an aʿmala ṣāliḥan tarḍāhu wa adkhilnī biraḥmatika fī ʿibādikaṣ-ṣāliḥīn",
+    "source": "An-Naml 27:19 (Du'a for gratitude, parents, and righteous deeds)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants."
+      },
+      "ar": {
+        "meaning": "رب أوزعني أن أشكر نعمتك التي أنعمت علي وعلى والدي وأن أعمل صالحا ترضاه وأدخلني برحمتك في عبادك الصالحين"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, berilah aku ilham untuk tetap mensyukuri nikmat-Mu yang telah Engkau anugerahkan kepadaku dan kepada kedua orang tuaku dan untuk mengerjakan amal saleh yang Engkau ridhai; dan masukkanlah aku dengan rahmat-Mu ke dalam golongan hamba-hamba-Mu yang saleh."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، مجھے توفیق دے کہ میں تیری اس نعمت کا شکر ادا کروں جو تو نے مجھ پر اور میرے والدین پر کی ہے، اور یہ کہ میں ایسا نیک عمل کروں جسے تو پسند کرے، اور مجھے اپنی رحمت سے اپنے نیک بندوں میں داخل کر دے۔"
+      },
+      "tr": {
+        "meaning": "Rabbim! Bana ve ana babama verdiğin nimete şükretmeye, razı olacağın salih amel işlemeye beni muvaffak kıl ve beni rahmetinle salih kullarının arasına kat."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, inspire-moi d'être reconnaissant pour Tes bienfaits dont Tu m'as comblé ainsi que mes parents, et de faire le bien que Tu agrées. Et admets-moi, par Ta miséricorde, parmi Tes serviteurs vertueux."
+      },
+      "ru": {
+        "meaning": "Господи, вдохнови меня быть благодарным за Твою милость, которую Ты оказал мне и моим родителям, и совершать праведные деяния, которыми Ты доволен. И введи меня по Твоей милости в число Твоих праведных рабов."
+      },
+      "fa": {
+        "meaning": "پروردگارا، به من الهام کن که شکر نعمت تو را که بر من و بر پدر و مادرم ارزانی داشته‌ای به جا آورم و کار شایسته‌ای انجام دهم که تو آن را بپسندی، و مرا به رحمت خود در میان بندگان صالحت وارد گردان."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मुझे तौफ़ीक़ दे कि मैं तेरी उस नेमत का शुक्र अदा करूँ जो तूने मुझ पर और मेरे वालिदैन पर की है, और यह कि मैं ऐसा नेक अमल करूँ जिसे तू पसंद करे, और मुझे अपनी रहमत से अपने नेक बंदों में दाख़िल कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, ilhamkanlah kepadaku untuk tetap mensyukuri nikmat-Mu yang telah Engkau anugerahkan kepadaku dan kepada kedua ibu bapaku dan untuk mengerjakan amal soleh yang Engkau redhai; dan masukkanlah aku dengan rahmat-Mu ke dalam golongan hamba-hamba-Mu yang soleh."
+      },
+      "sw": {
+        "meaning": "Mola wangu, nijaalie niishukuru neema yako uliyonineemesha mimi na wazazi wangu, na nifanye vitendo vyema unavyovipenda. Na uniingize kwa rehema yako miongoni mwa waja wako wema."
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আমাকে তাওফীক দিন যেন আমি আপনার সেই নিয়ামতের শুকরিয়া আদায় করতে পারি যা আপনি আমার উপর ও আমার পিতামাতার উপর দান করেছেন এবং আমি যেন এমন নেক আমল করি যা আপনি পছন্দ করেন। আর আমাকে আপনার রহমতে আপনার সৎকর্মশীল বান্দাদের মধ্যে প্রবেশ করান।"
+      }
+    }
+  },
+  {
+    "id": "family_9",
+    "category_id": "family_social",
+    "subcategory_id": "parents_children_spouse",
+    "tag": "parents",
+    "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "transliteration": "Rabbi irḥamhumā kamā rabbayānī ṣaghīrā",
+    "source": "Qur’ān 17:24",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, have mercy on them as they raised me when I was small."
+      },
+      "ar": {
+        "meaning": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, sayangilah mereka sebagaimana mereka mendidikku waktu kecil."
+      },
+      "ur": {
+        "meaning": "اے میرے رب! ان پر رحم فرما جیسے انہوں نے بچپن میں میری پرورش کی۔"
+      },
+      "tr": {
+        "meaning": "Rabbim, onlar beni küçükken yetiştirdikleri gibi Sen de onlara merhamet et."
+      },
+      "fr": {
+        "meaning": "Seigneur, fais-leur miséricorde comme ils m’ont élevé tout petit."
+      },
+      "ru": {
+        "meaning": "Господь мой, помилуй их так, как они воспитывали меня маленьким."
+      },
+      "fa": {
+        "meaning": "پروردگارا، همان گونه که آنان مرا در کودکی پروردند بر ایشان رحم کن."
+      },
+      "hi": {
+        "meaning": "मेरे रब, उन पर दया कर जैसा उन्होंने मुझे बचपन में पाला।"
+      },
+      "ms": {
+        "meaning": "Tuhanku, kasihanilah mereka sebagaimana mereka memelihara aku semasa kecil."
+      },
+      "sw": {
+        "meaning": "Mola wangu, warehemu kama walivyonilea nikiwa mdogo."
+      },
+      "bn": {
+        "meaning": "হে আমার রব! তাদের প্রতি দয়া কর, যেভাবে তারা আমাকে শৈশবে লালন পালন করেছেন।"
+      }
+    }
+  },
+  {
+    "id": "family_10",
+    "category_id": "family_social",
+    "subcategory_id": "parents_children_spouse",
+    "tag": "child_protection",
+    "arabic": "أُعِيذُكَ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+    "transliteration": "Uʿīdhuka bi-kalimāti llāhi t-tāmmati min kulli shayṭānin wa hāmmatin wa min kulli ʿaynin lāmmah.",
+    "source": "Ṣaḥīḥ al-Bukhārī 3371",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "I seek refuge for you in Allah’s perfect words from every devil, poisonous creature and harmful eye."
+      },
+      "ar": {
+        "meaning": "أُعِيذُكَ بِكَلِمَاتِ اللَّهِ التَّامَّةِ ..."
+      },
+      "id": {
+        "meaning": "Aku memohon perlindungan untukmu dengan kalimat-kalimat Allah yang sempurna dari setan, binatang berbahaya dan mata hasad."
+      },
+      "ur": {
+        "meaning": "میں تمہیں اللہ کے کامل کلمات کے ذریعے ہر شیطان، موذی جانور اور ضرر رساں نظر سے پناہ میں دیتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Seni; her şeytandan, zehirli haşereden ve kem gözden Allah’ın eksiksiz kelimeleriyle koruyorum."
+      },
+      "fr": {
+        "meaning": "Je cherche pour toi protection auprès des paroles parfaites d’Allah contre tout démon, toute bête nuisible et tout mauvais regard."
+      },
+      "ru": {
+        "meaning": "Я прибегаю для тебя к совершенным словам Аллаха от всякого шайтана, ядовитого существа и завистливого глаза."
+      },
+      "fa": {
+        "meaning": "تو را به کلمات کامل خدا، از هر شیطان، جانور موذی و چشم بد پناه می‌دهم."
+      },
+      "hi": {
+        "meaning": "मैं तुम्हें अल्लाह के परिपूर्ण शब्दों से हर शैतान, हानिकारक जीव और नज़र बद से पनah देता हूँ।"
+      },
+      "ms": {
+        "meaning": "Aku memohon perlindungan untukmu dengan kalimat Allah yang sempurna daripada setiap syaitan, haiwan berbisa dan mata hasad."
+      },
+      "sw": {
+        "meaning": "Nakutakia hifadhi kwa maneno kamili ya Mwenyezi Mungu dhidi ya kila shetani, mnyama mwenye sumu na jicho la husuda."
+      },
+      "bn": {
+        "meaning": "আমি তোমার জন্য আল্লাহর পরিপূর্ণ বাক্যসমূহের দ্বারা আশ্রয় চাই শয়তান, বিষাক্ত প্রাণী ও কুদৃষ্টির ক্ষতি থেকে।"
+      }
+    }
+  },
+  {
+    "id": "family_11",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "اللَّهُمَّ اجْعَلْ بَيْنَنَا مَوَدَّةً وَرَحْمَةً",
+    "transliteration": "Allāhummajʿal baynanā mawaddatan wa raḥmah",
+    "source": "Adapted from Ar-Rum 30:21 (General Du'a for love and mercy in marriage)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, place between us affection and mercy."
+      },
+      "ar": {
+        "meaning": "اللهم اجعل بيننا مودة ورحمة"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah di antara kami mawaddah (cinta) dan rahmah (kasih sayang)."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمارے درمیان محبت اور رحمت پیدا کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Aramıza sevgi ve merhamet koy."
+      },
+      "fr": {
+        "meaning": "Ô Allah, mets entre nous l'affection et la miséricorde."
+      },
+      "ru": {
+        "meaning": "О Аллах, помести между нами любовь и милосердие."
+      },
+      "fa": {
+        "meaning": "بارالها، میان ما محبت و رحمت قرار ده."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमारे दरमियान मोहब्बत और रहमत पैदा कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah di antara kami mawaddah (cinta) dan rahmah (kasih sayang)."
+      },
+      "sw": {
+        "meaning": "Ee Allah, weka kati yetu mapenzi na rehema."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের মধ্যে ভালোবাসা ও রহমত দান করুন।"
+      }
+    }
+  },
+  {
+    "id": "family_12",
+    "category_id": "family_social",
+    "subcategory_id": "parents_children_spouse",
+    "tag": "spouse_dua",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+    "transliteration": "Allāhumma innī asʾaluka khayrahā wa khayra mā jabalta-hā ʿalayh, wa aʿūdhu bika min sharrihā wa sharri mā jabalta-hā ʿalayh.",
+    "source": "Sunan Abī Dāwūd 2155 (ḥasan)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, I ask You for her goodness and the goodness You created in her, and seek refuge with You from her evil and the evil You created in her."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا ..."
+      },
+      "id": {
+        "meaning": "Ya Allah, aku memohon kebaikannya dan kebaikan yang Engkau letakkan padanya, dan aku berlindung dari keburukannya dan keburukan yang Engkau letakkan padanya."
+      },
+      "ur": {
+        "meaning": "اے اللہ! میں اس کی بھلائی اور جو بھلائی تو نے اس میں رکھی ہے اس کا سوال کرتا ہوں اور اس کی برائی اور جو برائی تو نے اس میں رکھی ہے اس سے تیری پناہ چاہتا ہوں۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Ondaki hayrı ve Senin onda yarattığın hayrı Senden isterim; ondaki şerden ve Senin onda yarattığın şerden Sana sığınırım."
+      },
+      "fr": {
+        "meaning": "Ô Allah, je Te demande son bien et le bien que Tu as placé en elle, et je cherche refuge auprès de Toi contre son mal et le mal que Tu as placé en elle."
+      },
+      "ru": {
+        "meaning": "О Аллах, прошу Тебя о её благе и о благе, которое Ты в неё вложил, и ищу у Тебя прибежища от её зла и зла, которое Ты в неё вложил."
+      },
+      "fa": {
+        "meaning": "خدایا! خیر او و خیری که در او نهاده‌ای از تو می‌خواهم و از شرّ او و شرّ آنچه در او نهاده‌ای به تو پناه می‌برم."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मैं उसके लिए और उसमें रखी भलाई के लिए तुझसे प्रश्न करता हूँ और उससे तथा उसमें रखी बुराई से तेरी शरण चाहता हूँ।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, aku memohon kebaikannya dan kebaikan yang Engkau jadikan padanya, dan aku berlindung daripada keburukannya dan keburukan yang Engkau jadikan padanya."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, nakuomba kheri yake na kheri uliyoweka ndani yake; na najilinda kwako dhidi ya shari yake na shari uliyoweka ndani yake."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! আমি তোমার নিকট তার কল্যাণ এবং তুমি তার মধ্যে যে কল্যাণ রেখেছো তা চাই, এবং তার অনিষ্ট ও তুমি তার মধ্যে যে অনিষ্ট রেখেছো তা থেকে তোমার নিকট আশ্রয় চাই।"
+      }
+    }
+  },
+  {
+    "id": "family_13",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي سَمْعِنَا وَبَصَرِنَا وَقُلُوبِنَا وَأَزْوَاجِنَا وَذُرِّيَّاتِنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+    "transliteration": "Allāhumma bārik lanā fī samʿinā wa baṣarinā wa qulūbinā wa azwājinā wa dhurrīyātinā wa tub ʿalaynā innaka Antat-Tawwābur-Raḥīm",
+    "source": "Tirmidhi 3409 (Comprehensive family blessing)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless us in our hearing, and our sight, and our hearts, and our spouses, and our offspring, and accept our repentance. Indeed, You are the Acceptor of Repentance, the Most Merciful."
+      },
+      "ar": {
+        "meaning": "اللهم بارك لنا في سمعنا وبصرنا وقلوبنا وأزواجنا وذرياتنا وتب علينا إنك أنت التواب الرحيم"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah kami dalam pendengaran kami, penglihatan kami, hati kami, pasangan kami, dan keturunan kami, dan terimalah taubat kami. Sesungguhnya Engkau Maha Penerima Taubat lagi Maha Penyayang."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمیں ہمارے کانوں میں، ہماری آنکھوں میں، ہمارے دلوں میں، ہماری بیویوں میں اور ہماری اولاد میں برکت دے، اور ہماری توبہ قبول فرما۔ بے شک تو ہی توبہ قبول کرنے والا، نہایت رحم والا ہے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Kulaklarımızda, gözlerimizde, kalplerimizde, eşlerimizde ve nesillerimizde bize bereket ver ve tevbemizi kabul et. Şüphesiz Sen, tevbeleri çokça kabul eden, çok merhametli olansın."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis-nous dans notre ouïe, et notre vue, et nos cœurs, et nos épouses, et nos descendants, et accepte notre repentir. En vérité, Tu es le Grand Accepteur du repentir, le Très Miséricordieux."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови нас в нашем слухе, и нашем зрении, и наших сердцах, и наших супругах, и нашем потомстве, и прими наше покаяние. Поистине, Ты — Принимающий покаяние, Милосердный."
+      },
+      "fa": {
+        "meaning": "بارالها، در شنوایی ما، و بینایی ما، و قلب‌های ما، و همسران ما، و فرزندان ما برکت ده، و توبه ما را بپذیر، همانا تویی توبه‌پذیر مهربان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमें हमारे कानों में, हमारी आँखों में, हमारे दिलों में, हमारी बीवियों में और हमारी औलाद में बरकत दे, और हमारी तौबा क़बूल फ़रमा। बेशक तू ही तौबा क़बूल करने वाला, निहायत रहम वाला है।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah kami dalam pendengaran kami, penglihatan kami, hati kami, pasangan kami, dan keturunan kami, dan terimalah taubat kami. Sesungguhnya Engkau Maha Penerima Taubat lagi Maha Penyayang."
+      },
+      "sw": {
+        "meaning": "Ee Allah, tubariki sisi katika kusikia kwetu, na kuona kwetu, na nyoyo zetu, na wake zetu, na vizazi vyetu, na utupokee toba zetu. Hakika Wewe ndiye Mpokeaji wa Toba, Mwenye Kurehemu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের কান, আমাদের চোখ, আমাদের হৃদয়, আমাদের স্ত্রী এবং আমাদের সন্তানদের মধ্যে বরকত দিন, এবং আমাদের তওবা কবুল করুন। নিশ্চয়ই আপনি তওবা কবুলকারী, পরম দয়ালু।"
+      }
+    }
+  },
+  {
+    "id": "family_14",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "اللَّهُمَّ اجْعَلْ بَيْنَ قُلُوبِنَا تَآلُفًا وَأَصْلِحْ ذَاتَ بَيْنِنَا",
+    "transliteration": "Allāhummajʿal bayna qulūbinā taʾālufan wa aṣliḥ dhāta bayninā",
+    "source": "Adapted from Al-Anfal 8:63 (Du'a for harmony and reconciliation)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bring harmony between our hearts and rectify our affairs."
+      },
+      "ar": {
+        "meaning": "اللهم اجعل بين قلوبنا تآلفا وأصلح ذات بيننا"
+      },
+      "id": {
+        "meaning": "Ya Allah, jadikanlah di antara hati kami keharmonisan dan perbaikilah hubungan di antara kami."
+      },
+      "ur": {
+        "meaning": "اے اللہ، ہمارے دلوں میں الفت پیدا کر دے اور ہمارے باہمی معاملات کو درست کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Kalplerimizin arasını uzlaştır ve aramızı düzelt."
+      },
+      "fr": {
+        "meaning": "Ô Allah, mets l'harmonie entre nos cœurs et arrange nos affaires."
+      },
+      "ru": {
+        "meaning": "О Аллах, помести между нашими сердцами согласие и исправь наши отношения."
+      },
+      "fa": {
+        "meaning": "بارالها، میان دل‌های ما الفت ایجاد کن و میان ما را اصلاح کن."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, हमारे दिलों में उल्फ़त पैदा कर दे और हमारे आपसी मामलात को दुरुस्त कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, jadikanlah di antara hati kami keharmonian dan perbaikilah hubungan di antara kami."
+      },
+      "sw": {
+        "meaning": "Ee Allah, jaalia uwepo upatanishi kati ya nyoyo zetu na utengeneze mambo yetu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আমাদের হৃদয়ের মধ্যে ঐক্য স্থাপন করুন এবং আমাদের পারস্পরিক বিষয়াদি সংশোধন করে দিন।"
+      }
+    }
+  },
+  {
+    "id": "family_15",
+    "category_id": "family_social",
+    "subcategory_id": "family_roles",
+    "tag": "parents_children_spouse",
+    "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِن ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+    "transliteration": "Rabbijʿalnī muqīmaṣ-ṣalāti wa min dhurrīyatī rabbanā wa taqabbal duʿāʾ",
+    "source": "Ibrahim 14:40 (Du'a for establishment of prayer for self and offspring)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "My Lord, make me an establisher of prayer, and [many] from my offspring. Our Lord, and accept my supplication."
+      },
+      "ar": {
+        "meaning": "رب اجعلني مقيم الصلاة ومن ذريتي ربنا وتقبل دعاء"
+      },
+      "id": {
+        "meaning": "Ya Tuhanku, jadikanlah aku dan anak cucuku orang-orang yang tetap mendirikan salat, ya Tuhan kami, perkenankanlah doaku."
+      },
+      "ur": {
+        "meaning": "اے میرے رب، مجھے نماز قائم کرنے والا بنا دے اور میری اولاد میں سے بھی، اے ہمارے رب، اور میری دعا قبول فرما۔"
+      },
+      "tr": {
+        "meaning": "Rabbim! Beni ve neslimden gelenleri namazı dosdoğru kılanlardan eyle. Rabbimiz! Duamı kabul buyur."
+      },
+      "fr": {
+        "meaning": "Ô mon Seigneur, fais de moi un mainteneur de la prière, et de ma descendance aussi. Ô notre Seigneur, et accepte mon invocation."
+      },
+      "ru": {
+        "meaning": "Господи, сделай меня совершающим намаз, и из моего потомства. Господь наш, и прими мою мольбу."
+      },
+      "fa": {
+        "meaning": "پروردگارا، مرا برپا دارنده نماز قرار ده و از فرزندانم نیز. پروردگارا، و دعای مرا بپذیر."
+      },
+      "hi": {
+        "meaning": "ऐ मेरे रब, मुझे नमाज़ क़ायम करने वाला बना दे और मेरी औलाद में से भी। ऐ हमारे रब, और मेरी दुआ क़बूल फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Tuhanku, jadikanlah aku dan anak cucuku orang-orang yang tetap mendirikan solat, ya Tuhan kami, perkenankanlah doaku."
+      },
+      "sw": {
+        "meaning": "Mola wangu, nifanye mimi niwe mwenye kusimamisha swalah, na kutoka katika kizazi changu pia. Mola wetu, na ukubali dua yangu."
+      },
+      "bn": {
+        "meaning": "হে আমার রব, আমাকে সালাত কায়েমকারী করুন এবং আমার বংশধরদের মধ্য থেকেও। হে আমাদের রব, এবং আমার দুআ কবুল করুন।"
+      }
+    }
+  }
+]

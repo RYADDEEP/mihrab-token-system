@@ -1,0 +1,722 @@
+[
+  {
+    "id": "support_1",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
+    "transliteration": "Lā baʾsa, ṭahūrun in shāʾallāh",
+    "source": "Bukhari 3616 (Visiting the sick, offering encouragement)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "No harm (on you), it is a purification, if Allah wills."
+      },
+      "ar": {
+        "meaning": "لا بأس طهور إن شاء الله"
+      },
+      "id": {
+        "meaning": "Tidak mengapa, semoga (penyakit ini) menjadi pembersih (dosa), insya Allah."
+      },
+      "ur": {
+        "meaning": "کوئی حرج نہیں، یہ پاک کرنے والا ہے، اگر اللہ چاہے۔"
+      },
+      "tr": {
+        "meaning": "Zarar yok, inşaallah günahlara kefarettir."
+      },
+      "fr": {
+        "meaning": "Pas de mal, c'est une purification, si Allah le veut."
+      },
+      "ru": {
+        "meaning": "Ничего страшного, это очищение, если пожелает Аллах."
+      },
+      "fa": {
+        "meaning": "عیبی نیست، ان شاء الله که پاک کننده (گناهان) است."
+      },
+      "hi": {
+        "meaning": "कोई बात नहीं, यह पाक करने वाला है, अगर अल्लाह ने चाहा।"
+      },
+      "ms": {
+        "meaning": "Tidak mengapa, semoga (penyakit ini) menjadi pembersih (dosa), insya Allah."
+      },
+      "sw": {
+        "meaning": "Hapana neno, ni utakaso, Inshaallah."
+      },
+      "bn": {
+        "meaning": "কোনো ক্ষতি নেই, ইনশাআল্লাহ এটা পবিত্রতা অর্জনকারী।"
+      }
+    }
+  },
+  {
+    "id": "support_2",
+    "category_id": "family_social",
+    "subcategory_id": "support_encouragement_celebration",
+    "tag": "condolence",
+    "arabic": "إِنَّ لِلَّهِ مَا أَخَذَ وَلَهُ مَا أَعْطَى، وَكُلٌّ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَلْتَصْبِرْ وَلْتَحْتَسِبْ",
+    "transliteration": "Inna li-llāhi mā akhadha wa-lahu mā aʿṭā, wa-kullun ʿindahu bi-ajal-in musammā, fal-taṣbir wal-taḥtasib.",
+    "source": "Ṣaḥīḥ al-Bukhārī 1284",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Indeed, to Allah belongs what He takes and to Him belongs what He gives… so be patient and seek reward."
+      },
+      "ar": {
+        "meaning": "إِنَّ لِلَّهِ مَا أَخَذَ... فَاصْبِرْ وَاحْتَسِبْ"
+      },
+      "id": {
+        "meaning": "Sesungguhnya milik Allah apa yang Dia ambil dan milik-Nya apa yang Dia beri… maka bersabarlah dan harapkan pahala."
+      },
+      "ur": {
+        "meaning": "بے شک اللہ کا ہے جو وہ لے اور اسی کا ہے جو وہ عطا کرے… صبر کرو اور اجر کی امید رکھو۔"
+      },
+      "tr": {
+        "meaning": "Şüphesiz Allah’ın aldığı da verdiği de O’na aittir… Sabret ve sevabını um."
+      },
+      "fr": {
+        "meaning": "Certes, à Allah appartient ce qu’Il prend et ce qu’Il donne… Sois donc patient et espère la récompense."
+      },
+      "ru": {
+        "meaning": "Поистине, Аллаху принадлежит то, что Он берёт и то, что Он дарует… Прояви терпение и надейся на награду."
+      },
+      "fa": {
+        "meaning": "آنچه خدا می‌گیرد و می‌بخشد از آن اوست… شکیبا باش و پاداش بجوی."
+      },
+      "hi": {
+        "meaning": "निश्चय ही अल्लाह का है जो वह लेता है और वही देता है… धैर्य करो और सवाब की अपेक्षा रखो।"
+      },
+      "ms": {
+        "meaning": "Sesungguhnya milik Allah apa yang Dia ambil dan apa yang Dia berikan… maka bersabarlah dan harapkan ganjaran."
+      },
+      "sw": {
+        "meaning": "Hakika ni ya Allah alichokichukua na alichokitoa… Vumilia na tarajia thawabu."
+      },
+      "bn": {
+        "meaning": "নিশ্চয়ই আল্লাহরই যা তিনি নেন এবং যা তিনি দান করেন… ধৈর্য ধরো ও প্রতিদানের আশা কর।"
+      }
+    }
+  },
+  {
+    "id": "support_3",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "بَارَكَ اللَّهُ لَكَ وَعَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+    "transliteration": "Bārakallāhu laka wa ʿalayka wa jamaʿa baynakumā fī khayr",
+    "source": "Abu Dawud 2130 (Congratulating newly married couple)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah bless you, and may He bless upon you, and may He unite you both in goodness."
+      },
+      "ar": {
+        "meaning": "بارك الله لك وعليك وجمع بينكما في خير"
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahimu, dan semoga Dia memberkahi atasmu, dan semoga Dia menyatukan kalian berdua dalam kebaikan."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں برکت دے، اور تم پر برکت نازل فرمائے، اور تم دونوں کو بھلائی میں جمع کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah sana mübarek kılsın, üzerine de mübarek kılsın ve ikinizi hayır üzere birleştirsin."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te bénisse, et qu'Il te bénisse (sur toi), et qu'Il vous unisse tous les deux dans le bien."
+      },
+      "ru": {
+        "meaning": "Да благословит тебя Аллах, и да ниспошлет Он благословение на тебя, и да объединит Он вас обоих в добре."
+      },
+      "fa": {
+        "meaning": "خداوند برای تو و بر تو برکت دهد و شما دو نفر را در خیر جمع گرداند."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें बरकत दे, और तुम पर बरकत नाज़िल फ़रमाए, और तुम दोनों को भलाई में जमा कर दे।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkatimu, dan semoga Dia memberkati atasmu, dan semoga Dia menyatukan kalian berdua dalam kebaikan."
+      },
+      "sw": {
+        "meaning": "Allah akubariki, na akubariki juu yako, na awaunganishe nyote katika wema."
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনাকে বরকত দিন, এবং আপনার উপর বরকত নাযিল করুন, এবং আপনাদের উভয়কে কল্যাণের সাথে একত্রিত করুন।"
+      }
+    }
+  },
+  {
+    "id": "support_4",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "بَارَكَ اللَّهُ لَكَ فِي الْمَوْهُوبِ لَكَ وَشَكَرْتَ الْوَاهِبَ وَبَلَغَ أَشُدَّهُ وَرُزِقْتَ بِرَّهُ",
+    "transliteration": "Bārakallāhu laka fil-mawḥūbi laka, wa shakartal-wāhiba, wa balagha ashuddahu, wa ruziqta birrah",
+    "source": "Hisnul Muslim #187 (Congratulating for new child)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah bless you in what has been granted to you, and may you be grateful to the Giver, and may he reach maturity, and may you be granted his righteousness."
+      },
+      "ar": {
+        "meaning": "بارك الله لك في الموهوب لك وشكرت الواهب وبلغ أشده ورزقت بره"
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahimu atas karunia yang diberikan kepadamu, dan semoga engkau bersyukur kepada Pemberi, dan semoga ia mencapai kedewasaan, dan semoga engkau diberikan kebaktiannya."
+      },
+      "ur": {
+        "meaning": "اللہ تمہیں جو عطا کیا گیا ہے اس میں برکت دے، اور تم عطا کرنے والے کا شکر ادا کرو، اور وہ اپنی جوانی کو پہنچے، اور تمہیں اس کی نیکی نصیب ہو۔"
+      },
+      "tr": {
+        "meaning": "Allah sana bağışladığı evlatta bereket versin, sen de verene şükret, o da olgun çağına erişsin ve onun iyiliğinden faydalanasın."
+      },
+      "fr": {
+        "meaning": "Qu'Allah te bénisse dans ce qui t'a été donné, et que tu sois reconnaissant envers le Donateur, et qu'il atteigne sa maturité, et que tu bénéficies de sa piété filiale."
+      },
+      "ru": {
+        "meaning": "Да благословит тебя Аллах в том, что тебе даровано, и да будешь ты благодарным Дарующему, и да достигнет он зрелости, и да будет тебе дарована его праведность."
+      },
+      "fa": {
+        "meaning": "خداوند برای تو در آنچه به تو بخشیده شده برکت دهد، و شکرگزار بخشنده باشی، و به رشد کامل برسد، و نیکوکاری او روزی‌ات شود."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें जो अता किया गया है उसमें बरकत दे, और तुम देने वाले का शुक्र अदा करो, और वह अपनी जवानी को पहुँचे, और तुम्हें उसकी नेकी नसीब हो।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkatimu atas karunia yang diberikan kepadamu, dan semoga engkau bersyukur kepada Pemberi, dan semoga ia mencapai kedewasaan, dan semoga engkau diberikan kebaktiannya."
+      },
+      "sw": {
+        "meaning": "Allah akubariki katika alichokupa, na umshukuru Mtoaji, na afikie utu uzima, na uruzuku wema wake."
+      },
+      "bn": {
+        "meaning": "আল্লাহ আপনার প্রতি যা দান করেছেন তাতে বরকত দিন, এবং আপনি দানকারীর প্রতি কৃতজ্ঞ হন, এবং সে পূর্ণতা লাভ করুক, আর আপনি তার সৎকর্মশীলতা প্রাপ্ত হন।"
+      }
+    }
+  },
+  {
+    "id": "support_5",
+    "category_id": "family_social",
+    "subcategory_id": "support_encouragement_celebration",
+    "tag": "thanks",
+    "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+    "transliteration": "Jazāk-Allāhu khayran",
+    "source": "Jāmiʿ at-Tirmidhī 2035 (ḥasan-ṣaḥīḥ)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah reward you with goodness."
+      },
+      "ar": {
+        "meaning": "جَزَاكَ اللَّهُ خَيْرًا"
+      },
+      "id": {
+        "meaning": "Semoga Allah membalasmu dengan kebaikan."
+      },
+      "ur": {
+        "meaning": "اللہ آپ کو خیر عطا کرے۔"
+      },
+      "tr": {
+        "meaning": "Allah sana hayırla karşılık versin."
+      },
+      "fr": {
+        "meaning": "Qu’Allah te rétribue par le bien."
+      },
+      "ru": {
+        "meaning": "Пусть Аллах вознаградит тебя благом."
+      },
+      "fa": {
+        "meaning": "خداوند به تو پاداش نیک دهد."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें भलाई से बदला दे।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah membalasmu dengan kebaikan."
+      },
+      "sw": {
+        "meaning": "Mwenyezi Mungu akupe malipo mema."
+      },
+      "bn": {
+        "meaning": "আল্লাহ তোমাকে কল্যাণের প্রতিদান দিন।"
+      }
+    }
+  },
+  {
+    "id": "support_6",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ اشْفِ أَنْتَ الشَّافِي لَا شِفَاءَ إِلَّا شِفَاؤُكَ شِفَاءً لَا يُغَادِرُ سَقَمًا",
+    "transliteration": "Allāhumma Rabban-nāsi, adhhibil-baʾsa. Ishfī Antash-Shāfī. Lā shifāʾa illā shifāʾuka, shifāʾan lā yughādiru saqamā",
+    "source": "Bukhari 5742, Muslim 2191 (Du'a for healing, offering support to sick)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, Lord of mankind, remove the affliction. Cure, for You are the Healer. There is no cure except Your cure, a cure that leaves no disease behind."
+      },
+      "ar": {
+        "meaning": "اللهم رب الناس أذهب الباس اشف أنت الشافي لا شفاء إلا شفاؤك شفاء لا يغادر سقما"
+      },
+      "id": {
+        "meaning": "Ya Allah, Tuhan manusia, hilangkanlah penyakit ini. Sembuhkanlah, Engkaulah Maha Penyembuh. Tiada kesembuhan melainkan kesembuhan-Mu, kesembuhan yang tidak meninggalkan penyakit."
+      },
+      "ur": {
+        "meaning": "اے اللہ، لوگوں کے رب، تکلیف دور کر دے۔ شفا دے، تو ہی شفا دینے والا ہے۔ تیری شفا کے سوا کوئی شفا نہیں، ایسی شفا جو کوئی بیماری نہ چھوڑے۔"
+      },
+      "tr": {
+        "meaning": "Ey insanların Rabbi olan Allah! Hastalığı gider. Şifa ver, Sen şifa verensin. Senin şifandan başka şifa yoktur, hiçbir hastalık bırakmayan şifa ver."
+      },
+      "fr": {
+        "meaning": "Ô Allah, Seigneur des hommes, éloigne le mal. Guéris, car Tu es le Guérisseur. Il n'y a de guérison que la Tienne, une guérison qui ne laisse aucune maladie."
+      },
+      "ru": {
+        "meaning": "О Аллах, Господь людей, удали беду. Исцели, ибо Ты — Исцеляющий. Нет исцеления, кроме Твоего исцеления, исцеления, не оставляющего болезни."
+      },
+      "fa": {
+        "meaning": "بارالها، ای پروردگار مردم، سختی را برطرف کن. شفا بده، تو شفا دهنده‌ای. هیچ شفایی جز شفای تو نیست، شفایی که هیچ بیماری‌ای را باقی نمی‌گذارد."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, लोगों के रब, तकलीफ़ दूर कर दे। शिफा दे, तू ही शिफा देने वाला है। तेरी शिफा के सिवा कोई शिफा नहीं, ऐसी शिफा जो कोई बीमारी न छोड़े।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, Tuhan manusia, hilangkanlah penyakit. Sembuhkanlah, Engkaulah Maha Penyembuh. Tiada kesembuhan melainkan kesembuhan-Mu, kesembuhan yang tidak meninggalkan penyakit."
+      },
+      "sw": {
+        "meaning": "Ee Allah, Mola wa watu, ondoa maradhi. Ponyesha, kwani Wewe ndiye Mponyaji. Hapana ponyesho isipokuwa ponyesho lako, ponyesho lisiloacha ugonjwa."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, হে মানুষের রব, কষ্ট দূর করে দিন। আরোগ্য দান করুন, আপনিই আরোগ্য দানকারী। আপনার আরোগ্য ব্যতীত কোন আরোগ্য নেই, এমন আরোগ্য যা কোন রোগ অবশিষ্ট রাখে না।"
+      }
+    }
+  },
+  {
+    "id": "support_7",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+    "transliteration": "Innā lillāhi wa innā ilayhi rājiʿūn",
+    "source": "Al-Baqarah 2:156 (Said upon hearing bad news or death)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Indeed we belong to Allah, and indeed to Him we will return."
+      },
+      "ar": {
+        "meaning": "إنا لله وإنا إليه راجعون"
+      },
+      "id": {
+        "meaning": "Sesungguhnya kami milik Allah dan kepada-Nyalah kami kembali."
+      },
+      "ur": {
+        "meaning": "بے شک ہم اللہ ہی کے ہیں اور بے شک ہمیں اسی کی طرف لوٹنا ہے۔"
+      },
+      "tr": {
+        "meaning": "Şüphesiz biz Allah'tan geldik ve şüphesiz O'na döneceğiz."
+      },
+      "fr": {
+        "meaning": "Certes nous sommes à Allah, et c'est à Lui que nous retournerons."
+      },
+      "ru": {
+        "meaning": "Поистине, мы принадлежим Аллаху, и поистине, к Нему мы вернемся."
+      },
+      "fa": {
+        "meaning": "ما از خداییم و به سوی او بازمی‌گردیم."
+      },
+      "hi": {
+        "meaning": "बेशक हम अल्लाह ही के हैं और बेशक हमें उसी की तरफ लौटना है।"
+      },
+      "ms": {
+        "meaning": "Sesungguhnya kami milik Allah dan kepada-Nya jualah kami kembali."
+      },
+      "sw": {
+        "meaning": "Hakika sisi ni wa Allah, na hakika Kwake tutarejea."
+      },
+      "bn": {
+        "meaning": "নিশ্চয়ই আমরা আল্লাহর জন্য এবং নিশ্চয়ই আমরা তাঁর দিকেই প্রত্যাবর্তনকারী।"
+      }
+    }
+  },
+  {
+    "id": "support_8",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+    "transliteration": "Asʾalullāhal-ʿaẓīm Rabbal-ʿarshil-ʿaẓīmi an yashfiyak",
+    "source": "Abu Dawud 3106, Tirmidhi 2083 (Du'a for sick person)",
+    "repeat": 7,
+    "translations": {
+      "en": {
+        "meaning": "I ask Allah, the Magnificent, Lord of the Magnificent Throne, to cure you."
+      },
+      "ar": {
+        "meaning": "أسأل الله العظيم رب العرش العظيم أن يشفيك"
+      },
+      "id": {
+        "meaning": "Aku memohon kepada Allah Yang Maha Agung, Tuhan Arsy yang Agung, agar Dia menyembuhkanmu."
+      },
+      "ur": {
+        "meaning": "میں عظمت والے اللہ، عظمت والے عرش کے رب سے سوال کرتا ہوں کہ وہ تمہیں شفا دے۔"
+      },
+      "tr": {
+        "meaning": "Ulu Allah'tan, yüce Arşın Rabbinden sana şifa vermesini isterim."
+      },
+      "fr": {
+        "meaning": "Je demande à Allah, le Grand, Seigneur du Trône immense, de te guérir."
+      },
+      "ru": {
+        "meaning": "Я прошу Аллаха Великого, Господа Великого Трона, чтобы Он исцелил тебя."
+      },
+      "fa": {
+        "meaning": "از خداوند بزرگ، پروردگار عرش عظیم، می‌خواهم که تو را شفا دهد."
+      },
+      "hi": {
+        "meaning": "मैं अज़ीम अल्लाह, अज़ीम अर्श के रब से सवाल करता हूँ कि वह तुम्हें शिफा दे।"
+      },
+      "ms": {
+        "meaning": "Aku memohon kepada Allah Yang Maha Agung, Tuhan Arasy yang Agung, agar Dia menyembuhkanmu."
+      },
+      "sw": {
+        "meaning": "Namuomba Allah Mtukufu, Mola wa Arshi Tukufu, akupe shifaa."
+      },
+      "bn": {
+        "meaning": "আমি মহান আল্লাহ, মহান আরশের রবের কাছে প্রার্থনা করি যেন তিনি আপনাকে আরোগ্য দান করেন।"
+      }
+    }
+  },
+  {
+    "id": "support_9",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مُدْخَلَهُ",
+    "transliteration": "Allāhummaghfir lahu warḥamhu wa ʿāfihi waʿfu ʿanhu wa akrim nuzulahu wa wassiʿ mudkhalah",
+    "source": "Muslim 963 (Du'a for deceased, offering support to grieving family by praying for their loved one)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, forgive him and have mercy upon him, and give him well-being and pardon him, and make honorable his reception and widen his entrance."
+      },
+      "ar": {
+        "meaning": "اللهم اغفر له وارحمه وعافه واعف عنه وأكرم نزله ووسع مدخله"
+      },
+      "id": {
+        "meaning": "Ya Allah, ampunilah dia dan rahmatilah dia, berilah dia keselamatan dan maafkanlah dia, muliakanlah tempat tinggalnya dan luaskanlah kuburnya."
+      },
+      "ur": {
+        "meaning": "اے اللہ، اسے بخش دے اور اس پر رحم فرما، اور اسے عافیت دے اور اسے معاف کر دے، اور اس کے نزول کو عزت والا بنا اور اس کے داخلے کو وسیع کر دے۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onu bağışla, ona merhamet et, af ve afiyet ver, onu ağırlıklı kıl, giriş yerini genişlet."
+      },
+      "fr": {
+        "meaning": "Ô Allah, pardonne-lui et fais-lui miséricorde, accorde-lui le bien-être et pardonne-le, rends honorable son accueil et élargis son entrée."
+      },
+      "ru": {
+        "meaning": "О Аллах, прости ему и помилуй его, и дай ему благополучие, и прости его, и сделай его прием достойным, и расширь его вход."
+      },
+      "fa": {
+        "meaning": "بارالها، او را ببخش و به او رحم کن، و به او عافیت ده و از او درگذر، و منزلش را گرامی دار و مدخلش را وسیع گردان."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, उसे बख्श दे और उस पर रहम फ़रमा, और उसे आफ़ियत दे और उसे माफ़ कर दे, और उसके नुज़ूल को इज़्ज़त वाला बना और उसके दाख़िले को वसीअ कर दे।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, ampunilah dia dan rahmatilah dia, berilah dia keselamatan dan maafkanlah dia, muliakanlah tempat tinggalnya dan luaskanlah kuburnya."
+      },
+      "sw": {
+        "meaning": "Ee Allah, msamehe na umrehemu, na umpe afya na umpe msamaha, na umfanye mgeni wake kuwa mtukufu, na umpanulie makazi yake."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, তাকে ক্ষমা করুন এবং তার প্রতি রহম করুন, তাকে সুস্থ রাখুন এবং তাকে মাফ করুন, তার বাসস্থানকে সম্মানিত করুন এবং তার প্রবেশস্থল প্রশস্ত করুন।"
+      }
+    }
+  },
+  {
+    "id": "support_10",
+    "category_id": "family_social",
+    "subcategory_id": "support_encouragement_celebration",
+    "tag": "wedding_congrats",
+    "arabic": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+    "transliteration": "Bārak-Allāhu laka wa-bāraka ʿalayka wa-jamaʿa baynakumā fī khayr.",
+    "source": "Sunan Ibn Mājah 1905; Abū Dāwūd 2130 (ṣaḥīḥ)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah bless you, shower blessings upon you, and unite you both in goodness."
+      },
+      "ar": {
+        "meaning": "بَارَكَ اللَّهُ لَكَ..."
+      },
+      "id": {
+        "meaning": "Semoga Allah memberkahimu, melimpahkan keberkahan dan mempersatukan kalian dalam kebaikan."
+      },
+      "ur": {
+        "meaning": "اللہ تم پر برکت نازل کرے اور تم دونوں کو خیر میں جمع فرمائے۔"
+      },
+      "tr": {
+        "meaning": "Allah seni mübarek kılsın, bereketini artırsın ve sizi hayırda birleştirsin."
+      },
+      "fr": {
+        "meaning": "Qu’Allah te bénisse, t’accorde Ses bénédictions et vous unisse dans le bien."
+      },
+      "ru": {
+        "meaning": "Да благословит тебя Аллах, ниспошлёт Свои благословения и объединит вас в добре."
+      },
+      "fa": {
+        "meaning": "خداوند تو را مبارک گرداند و شما را در خیر متحد سازد."
+      },
+      "hi": {
+        "meaning": "अल्लाह तुम्हें बरकत दे और तुम दोनों को भलाई में एक करे।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah memberkahimu, melimpahkan keberkatan dan menyatukan kalian dalam kebaikan."
+      },
+      "sw": {
+        "meaning": "Mwenyezi Mungu akubariki na awaunganishe nyinyi wawili katika kheri."
+      },
+      "bn": {
+        "meaning": "আল্লাহ তোমাকে বরকত দিন ও তোমাদের দুজনকে কল্যাণে একত্রিত করুন।"
+      }
+    }
+  },
+  {
+    "id": "support_11",
+    "category_id": "family_social",
+    "subcategory_id": "support_encouragement_celebration",
+    "tag": "eid_greeting",
+    "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنكُمْ",
+    "transliteration": "Taqabbal-Allāhu minnā wa minkum",
+    "source": "Musannaf Ibn Abī Shaybah 5621 (ṣaḥīḥ isnād)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "May Allah accept (good deeds) from us and from you."
+      },
+      "ar": {
+        "meaning": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنكُمْ"
+      },
+      "id": {
+        "meaning": "Semoga Allah menerima amal dari kami dan darimu."
+      },
+      "ur": {
+        "meaning": "اللہ ہم سے اور آپ سے قبول فرمائے۔"
+      },
+      "tr": {
+        "meaning": "Allah bizden ve sizden kabul etsin."
+      },
+      "fr": {
+        "meaning": "Qu’Allah accepte de nous et de vous."
+      },
+      "ru": {
+        "meaning": "Пусть Аллах примет (дела) от нас и от вас."
+      },
+      "fa": {
+        "meaning": "خداوند از ما و شما بپذیرد."
+      },
+      "hi": {
+        "meaning": "अल्लाह हमसे और आपसे (अमल) स्वीकार करे।"
+      },
+      "ms": {
+        "meaning": "Semoga Allah menerima (amal) daripada kami dan kamu."
+      },
+      "sw": {
+        "meaning": "Mwenyezi Mungu akubali (matendo) kutoka kwetu na kwenu."
+      },
+      "bn": {
+        "meaning": "আল্লাহ আমাদের ও আপনাদের থেকে আমল কবুল করুন।"
+      }
+    }
+  },
+  {
+    "id": "support_12",
+    "category_id": "family_social",
+    "subcategory_id": "support_encouragement_celebration",
+    "tag": "help_dhikr",
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "transliteration": "Allāhumma aʿinnī ʿalā dhikrika wa-shukrika wa-ḥusni ʿibādatik.",
+    "source": "Sunan Abī Dāwūd 1522 (ṣaḥīḥ)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, help me to remember You, thank You and worship You excellently."
+      },
+      "ar": {
+        "meaning": "اللَّهُمَّ أَعِنِّي عَلَىٰ ذِكْرِكَ ..."
+      },
+      "id": {
+        "meaning": "Ya Allah, bantulah aku untuk mengingat-Mu, bersyukur kepada-Mu dan beribadah kepada-Mu dengan baik."
+      },
+      "ur": {
+        "meaning": "اے اللہ! مجھے اپنی یاد، شکر اور بہترین عبادت کی توفیق دے۔"
+      },
+      "tr": {
+        "meaning": "Allah’ım! Seni zikretmek, Sana şükretmek ve Sana güzel ibadet etmekte bana yardım et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, aide-moi à T’invoquer, Te remercier et T’adorer de la meilleure façon."
+      },
+      "ru": {
+        "meaning": "О Аллах, помоги мне помнить Тебя, благодарить Тебя и поклоняться Тебе наилучшим образом."
+      },
+      "fa": {
+        "meaning": "خدایا مرا یاری کن تا تو را یاد کنم، شکر گزاری نمایم و عبادتت را نیکو انجام دهم."
+      },
+      "hi": {
+        "meaning": "हे अल्लाह! मुझे तेरा ज़िक्र करने, तेरा शुक्र अदा करने और तुझे उत्तम रूप से इबादत करने में सहायता कर।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, bantulah aku untuk mengingati-Mu, mensyukuri-Mu dan beribadah kepada-Mu sebaik-baiknya."
+      },
+      "sw": {
+        "meaning": "Ee Mwenyezi Mungu, nisaidie kukukumbuka, kukushukuru na kukuabudu kwa uzuri."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ! আমাকে তোমার স্মরণ, তোমার শুকরিয়া ও উত্তম ইবাদতে সহায়তা কর।"
+      }
+    }
+  },
+  {
+    "id": "support_13",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "لاَ تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+    "transliteration": "Lā taḥzan innallāha maʿanā",
+    "source": "At-Tawbah 9:40 (Encouragement in distress)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "Do not grieve; indeed Allah is with us."
+      },
+      "ar": {
+        "meaning": "لا تحزن إن الله معنا"
+      },
+      "id": {
+        "meaning": "Janganlah engkau bersedih, sesungguhnya Allah bersama kita."
+      },
+      "ur": {
+        "meaning": "غم نہ کرو، بے شک اللہ ہمارے ساتھ ہے۔"
+      },
+      "tr": {
+        "meaning": "Üzülme, şüphesiz Allah bizimledir."
+      },
+      "fr": {
+        "meaning": "Ne t'afflige pas, certes Allah est avec nous."
+      },
+      "ru": {
+        "meaning": "Не печалься; поистине, Аллах с нами."
+      },
+      "fa": {
+        "meaning": "غمگین مباش، همانا خداوند با ماست."
+      },
+      "hi": {
+        "meaning": "ग़म मत करो, बेशक अल्लाह हमारे साथ है।"
+      },
+      "ms": {
+        "meaning": "Janganlah engkau bersedih, sesungguhnya Allah bersama kita."
+      },
+      "sw": {
+        "meaning": "Usihuzunike; hakika Allah yu pamoja nasi."
+      },
+      "bn": {
+        "meaning": "চিন্তা করবেন না; নিশ্চয়ই আল্লাহ আমাদের সাথে আছেন।"
+      }
+    }
+  },
+  {
+    "id": "support_14",
+    "category_id": "family_social",
+    "subcategory_id": "support_encouragement_celebration",
+    "tag": "strength",
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Lā ḥawla wa-lā quwwata illā bi-llāh",
+    "source": "Ṣaḥīḥ al-Bukhārī 6409",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "There is no power nor might except with Allah."
+      },
+      "ar": {
+        "meaning": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ"
+      },
+      "id": {
+        "meaning": "Tiada daya dan kekuatan kecuali dengan Allah."
+      },
+      "ur": {
+        "meaning": "اللہ کے سوا کوئی طاقت و قوت نہیں۔"
+      },
+      "tr": {
+        "meaning": "Allah’ın izni olmadan hiçbir güç yoktur."
+      },
+      "fr": {
+        "meaning": "Il n’y a de puissance ni de force qu’auprès d’Allah."
+      },
+      "ru": {
+        "meaning": "Нет мощи и силы, кроме как у Аллаха."
+      },
+      "fa": {
+        "meaning": "هیچ توان و نیرویی جز به خدا نیست."
+      },
+      "hi": {
+        "meaning": "अल्लाह के सिवा कोई शक्ति व सामर्थ्य नहीं।"
+      },
+      "ms": {
+        "meaning": "Tiada daya dan upaya melainkan dengan Allah."
+      },
+      "sw": {
+        "meaning": "Hakuna uwezo wala nguvu ila kwa Mwenyezi Mungu."
+      },
+      "bn": {
+        "meaning": "আল্লাহ ছাড়া কোনো শক্তি ও সামর্থ্য নেই।"
+      }
+    }
+  },
+  {
+    "id": "support_15",
+    "category_id": "family_social",
+    "subcategory_id": "support_celebration",
+    "tag": "support_encouragement_celebration",
+    "arabic": "اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا أَعْطَيْتَهُمْ وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+    "transliteration": "Allāhumma bārik lahum fīmā aʿṭaytahum waghfir lahum warḥamhum",
+    "source": "Muslim 2042 (Du'a for those who provide food/hospitality, generalizable for blessings)",
+    "repeat": 1,
+    "translations": {
+      "en": {
+        "meaning": "O Allah, bless for them what You have given them, and forgive them, and have mercy upon them."
+      },
+      "ar": {
+        "meaning": "اللهم بارك لهم فيما أعطيتهم واغفر لهم وارحمهم"
+      },
+      "id": {
+        "meaning": "Ya Allah, berkahilah mereka dalam apa yang telah Engkau berikan kepada mereka, dan ampunilah mereka, dan rahmatilah mereka."
+      },
+      "ur": {
+        "meaning": "اے اللہ، انہیں اس میں برکت دے جو تو نے انہیں دیا ہے، اور انہیں بخش دے، اور ان پر رحم فرما۔"
+      },
+      "tr": {
+        "meaning": "Allah'ım! Onlara verdiğin şeylerde bereket ver, onları bağışla ve onlara merhamet et."
+      },
+      "fr": {
+        "meaning": "Ô Allah, bénis pour eux ce que Tu leur as donné, et pardonne-leur, et fais-leur miséricorde."
+      },
+      "ru": {
+        "meaning": "О Аллах, благослови их в том, что Ты им даровал, и прости их, и помилуй их."
+      },
+      "fa": {
+        "meaning": "بارالها، به آنچه به آنها عطا کرده‌ای برکت ده، و آنها را ببخش، و به آنها رحم کن."
+      },
+      "hi": {
+        "meaning": "ऐ अल्लाह, उन्हें उसमें बरकत दे जो तूने उन्हें दिया है, और उन्हें बख्श दे, और उन पर रहम फ़रमा।"
+      },
+      "ms": {
+        "meaning": "Ya Allah, berkatilah mereka dalam apa yang telah Engkau berikan kepada mereka, dan ampunilah mereka, dan rahmatilah mereka."
+      },
+      "sw": {
+        "meaning": "Ee Allah, wabariki katika ulichowapa, na uwasamehe, na uwarehemu."
+      },
+      "bn": {
+        "meaning": "হে আল্লাহ, আপনি তাদেরকে যা দিয়েছেন তাতে বরকত দিন, এবং তাদের ক্ষমা করুন, আর তাদের প্রতি রহম করুন।"
+      }
+    }
+  }
+]
